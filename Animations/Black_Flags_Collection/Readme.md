@@ -1,4 +1,4 @@
-Here is a set of 30 "Jolly rogers" animations. Each animation starts with the same passive frames (a pirate ship looked from a spyglass).
+Here is a set of 30 "Jolly rogers" animations. Each animation starts with the same passive frames (a sailing pirate ship looked from a spyglass).
 
 Pushing BACK BUTTON will make the spyglass zoom on the ship's flag.
 
