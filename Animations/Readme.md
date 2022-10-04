@@ -1,6 +1,8 @@
-Here are the animations I made for Flipper Zero.
+Here are the animations I made for Flipper Zero. Folder-sorted by theme.
 
 Each .zip file contains a folder including the animation frames under .bm files and meta.txt one.
+
+You can preview animation by downloading its corresponding webm video file.
 
 To install on your Flipper Zero :
 
