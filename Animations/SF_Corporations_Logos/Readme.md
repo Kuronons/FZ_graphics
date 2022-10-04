@@ -11,3 +11,5 @@ Logo appears by pressing BACK BUTTON.
     Rekall logo - from TOTAL RECALL movie
 
     Cyberdyne and Skynet logos - from TERMINATOR movies saga
+
+Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
