@@ -24,3 +24,6 @@ Here you can find various animations I made for the Flipper Zero (.webm files ar
    RMCFW
       
       RogueMaster Custom Firmware animation with SD Goku.
+
+
+Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
