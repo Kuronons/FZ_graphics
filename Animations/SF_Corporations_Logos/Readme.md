@@ -13,3 +13,4 @@ Logo appears by pressing BACK BUTTON.
     Cyberdyne and Skynet logos - from TERMINATOR movies saga
 
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+[Kuronons_SFlogo_Tyrell_preview.webm](https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm)
