@@ -3,11 +3,15 @@ Here you can find passport backgrounds designed for RogueMaster firmware (using 
 FLIPPER CLASSIC
   
     As originally designed by FZ team
-    
+
+![Passport_classic](https://user-images.githubusercontent.com/110337784/193915304-e60b9682-474b-4667-9ab0-8d852262734e.jpg)
+
     
 DB
 
     Dragon Ball inspired (RogueMaster theme) with Shenron-like border
+    
+![Passport_DB](https://user-images.githubusercontent.com/110337784/193915884-4c48a45e-7c0e-45fa-9315-208324df10c3.jpg)
     
     
 MULTIPASS
