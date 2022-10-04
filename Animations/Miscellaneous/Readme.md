@@ -8,6 +8,10 @@ Here you can find various animations I made for the Flipper Zero (.webm files ar
    EARTH ARCADIA
       
       Passive frame are rotating Earth. Pushing BACK will make the Arcadia (anime Captain Harlock's ship) appears.
+      
+   JOLLY ROGER
+   
+      A unique frame animation of Rackham's Jolly Roger. Static background image.
    
    LAUGHING MAN
       
