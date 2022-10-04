@@ -4,8 +4,6 @@ Logo appears by pressing BACK BUTTON.
 
     Tyrell logo - From BLADE RUNNER movie
     
-    [Kuronons_SFlogo_Tyrell_preview.webm](https://user-images.githubusercontent.com/110337784/193907609-cbfdfe3b-4773-406c-9e3e-8a1917ddb024.webm)
-
     Weyland-Yutani - from ALIEN movies saga
 
     OCP logo - from ROBOCOP movie
