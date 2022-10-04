@@ -8,4 +8,6 @@ Each animation is set to play 10 mn before randomly switching to the next one. I
 
 Note that this has been realized with a lot of research concerning the flags and their owners. Truth is most of the flags are recent designs inspired by some description from existing books, letters or reports. Reliability of these is, for the main part, very poor as well as the real stories of the known pirates. (most of their doing being in fact the creation of sensationalists)
 
+You can watch a preview video with 2 displayed flags for an insight. (preview.webm)
+
 I also added a manifest.txt file with the 30 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
