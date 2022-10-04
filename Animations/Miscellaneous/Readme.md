@@ -1,4 +1,4 @@
-Here you can find various animations I made for the Flipper Zero (.webm files are preview videos) :
+Here you can find various animations I made for the Flipper Zero :
 
 
    EYE OF THE FLIPPER
