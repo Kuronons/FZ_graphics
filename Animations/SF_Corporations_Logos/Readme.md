@@ -4,9 +4,11 @@ Logo appears by pressing BACK BUTTON.
 
 - ___TYRELL___ logo - From BLADE RUNNER movie
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm">
-</p>
+<center>
+  <video controls>
+    <source src="[video.webm](https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm)" type="video/webm" />
+  </video>
+</center>
 <BR>
     
 - ___WEYLAND-YUTANI___ logo - from ALIEN movies saga
