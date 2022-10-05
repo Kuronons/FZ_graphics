@@ -3,9 +3,10 @@ Each animation has a simple blinking cursor as passive frames.
 Logo appears by pressing BACK BUTTON.
 
 - ___TYRELL___ logo - From BLADE RUNNER movie
-    
-[Kuronons_SFlogo_Tyrell_preview.webm](https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm)
 
+<p align="center">
+  <img src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm)">
+</p>
 <BR>
     
 - ___WEYLAND-YUTANI___ logo - from ALIEN movies saga
@@ -29,6 +30,7 @@ Logo appears by pressing BACK BUTTON.
 - ___CYBERDYNE___ and ___SKYNET___ logos - from TERMINATOR movies saga
     
 [Kuronons_SFlogo_Cyberdyne_Preview.webm](https://user-images.githubusercontent.com/110337784/193909318-c371d601-d8c6-414c-82f3-484e8c9a63fa.webm)
+    
 [Kuronons_SFlogo_Skynet_Preview.webm](https://user-images.githubusercontent.com/110337784/193909341-93e78927-448d-47f9-9338-46be676b91ee.webm)
 
     
