@@ -1,6 +1,8 @@
-Here you can find passport backgrounds designed for RogueMaster firmware (using a single picture instead of 2 and coded lines as in ofw)
+Here you can find passport backgrounds designed for RogueMaster firmware
 
-FLIPPER CLASSIC
+(passport.c file edited so a single background picture is used instead of 2 + coded lines for the passport borders as in ofw)
+
+- ##FLIPPER CLASSIC##
   
     As originally designed by FZ team
 
