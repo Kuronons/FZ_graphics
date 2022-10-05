@@ -5,7 +5,7 @@ Logo appears by pressing BACK BUTTON.
 - ___TYRELL___ logo - From BLADE RUNNER movie
 
 <p align="center">
-  <img src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm)">
+  <img src="https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm">
 </p>
 <BR>
     
