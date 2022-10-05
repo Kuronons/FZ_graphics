@@ -11,16 +11,17 @@ Links of interest :
 ## FIRMWARES
 
 - [Flipper Zero official discord](https://discord.com/channels/937479784148115456/996111578543960194)
+- Flipper Zero official [discord invite link](https://flipperzero.one/discord)
 - [Flipper Zero official firmare github](https://github.com/flipperdevices/flipperzero-firmware)
 
 <BR>
 
 - [Flipper Zero Unofficial discord](https://discord.com/channels/937479784148115456/996111578543960194) - Unleashed firmware
-- Flipper Zero Unofficial discord [invite link](https://discord.gg/flipperzero-unofficial)
+- Flipper Zero Unofficial [discord invite link](https://discord.gg/flipperzero-unofficial)
 - [Unleashed firmware github](https://github.com/Eng1n33r/flipperzero-firmware)
 
 <BR>
 
 - [Flipper Uncensored discord](https://discord.com/channels/213686842745290752/213686842745290752) - RogueMaster firmware
-- Flipper Uncensored discord [invite link](https://discord.gg/gF2bBUzAFe)
+- Flipper Uncensored [discord invite link](https://discord.gg/gF2bBUzAFe)
 - [RogueMaster custom firmware github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
