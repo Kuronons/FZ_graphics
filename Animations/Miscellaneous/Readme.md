@@ -4,6 +4,7 @@ Here you can find various animations I made for the Flipper Zero :
    - __EYE OF THE FLIPPER__
    
       My first FZ anim ! Inspired by the beginning of EYE OF THE BEHOLDER (1991 video game)
+      
       Note : Only for EOB nerds... XD
       
 [Eye of the Flipper - Preview.webm](https://user-images.githubusercontent.com/110337784/193910550-777832f6-f3d7-46a0-8f53-5497fe791289.webm) 
@@ -17,6 +18,7 @@ Here you can find various animations I made for the Flipper Zero :
    - __JOLLY ROGER__
    
       A unique frame animation of Rackham's Jolly Roger. Static background image.
+      
       Note : Test for displaying a simple picture instead of animation
       
 ![Kuronons_Misc_Jolly_Roger_Preview](https://user-images.githubusercontent.com/110337784/193910887-e76aa2ec-4b02-4aba-84bd-b80c9c8f78b0.jpg)
@@ -24,6 +26,7 @@ Here you can find various animations I made for the Flipper Zero :
    - __LAUGHING MAN__
       
       Inspired by the Warai Otoko (Laughing man) logo from the GHOST IN THE SHELL - STAND ALONE COMPLEX anime series.
+      
       Note : Forgot to add the cap pin on logo... mistake hidden by status bar... XD
       
 
@@ -32,6 +35,7 @@ Here you can find various animations I made for the Flipper Zero :
    - __L__
       
       "L" logo from DEATHNOTE anime. Pushing back will make a bunch of apples raining...
+      
       Note : Not really happy with the apples falling... latency... :/
       
 [Kuronons - L - Preview.webm](https://user-images.githubusercontent.com/110337784/193910682-7dafdf00-76f0-438d-b6fb-ff1754b83ebd.webm)
