@@ -1,6 +1,6 @@
 Here you can find various animations I made for the Flipper Zero :
-
 <BR>
+   
    - ___EYE OF THE FLIPPER___
    
       My first FZ anim ! Inspired by the beginning of EYE OF THE BEHOLDER (1991 video game)
