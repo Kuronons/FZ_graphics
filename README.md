@@ -1,4 +1,6 @@
 # FZ_graphics
-Custom animations, profile and passport pictures
+###### Kuronons's custom animations, passport backgrounds & profile pictures for the Flipper Zero device
 
-![TEST NEW FRAMES](https://user-images.githubusercontent.com/110337784/193917179-8048c6eb-4bae-41d3-a63a-7f117e01331d.jpg)
+![FRAMES - RM NEW](https://user-images.githubusercontent.com/110337784/193953126-9f626206-89fc-46a1-8aaf-e3e39b84cd24.jpg)
+
+LINKS
