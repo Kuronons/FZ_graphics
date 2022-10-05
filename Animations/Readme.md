@@ -21,3 +21,5 @@ To install on your Flipper Zero :
           Weight: 5
     
 3. Reboot your Flipper (OS) when done.  
+
+For better understanding on how animations work or how to make / set them, have a look of the [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) summarized by __Talking-Sasquach__.
