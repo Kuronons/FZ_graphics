@@ -1,5 +1,5 @@
 Here you can find various animations I made for the Flipper Zero :
-<BR>
+<BR><BR>
    
    - ___EYE OF THE FLIPPER___
    
