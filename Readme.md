@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1024" height="512" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg">
+<img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg">
 </p>
 
 ### __Custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
