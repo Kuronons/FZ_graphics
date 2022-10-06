@@ -3,7 +3,7 @@
 __Kuronons's custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
 
 <p align="center">
-<img width="1280" height="640" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg">
+<img width="1024" height="512" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg">
 </p>
 
 
