@@ -4,6 +4,18 @@
 
 ### __Custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
 
+## Links of interest : FLIPPER GRAPHICS
+    
+- [Talking-Sasquach github](https://github.com/skizzophrenic/Talking-Sasquach) - Custom animations maker
+
+- [Haseo github](https://github.com/Haseosama/FZ_Animations) - Custom animations maker
+
+## Links of interest : FLIPPER DATABASES
+
+- [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
+- [UberGuidoZ's Playground](https://github.com/UberGuidoZ/Flipper) - Flipper Ali Baba's cave
+- [Awesome Flipper](https://github.com/UberGuidoZ/awesome-flipperzero) - Tons of links to useful resources
+
 ## Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
 
 - [Flipper Zero Unofficial discord](https://discord.com/channels/937479784148115456/996111578543960194) - Unleashed firmware
@@ -16,12 +28,3 @@
 - Flipper Uncensored [discord invite link](https://discord.gg/gF2bBUzAFe)
 - [RogueMaster custom firmware github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
   
-## Links of interest : FLIPPER DATABASES
-
-- [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
-- [UberGuidoZ's Playground](https://github.com/UberGuidoZ/Flipper) - Flipper Ali Baba's cave
-- [Awesome Flipper](https://github.com/UberGuidoZ/awesome-flipperzero) - Tons of links to useful resources
-  
-## Links of interest : FLIPPER GRAPHICS
-    
-- [Talking-Sasquach github](https://github.com/skizzophrenic/Talking-Sasquach) - Custom animations maker
