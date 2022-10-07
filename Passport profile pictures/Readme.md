@@ -40,6 +40,11 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 ![Moreleeloo](https://user-images.githubusercontent.com/110337784/193949023-e1d41b96-5916-4def-bd65-d8da461d6be2.png)
 
 
+- ___SHINKAI___ - from TRAVA FIST PLANET anime mini-series by Ishii Katsuhito
+
+![Shinkai](https://user-images.githubusercontent.com/110337784/194636842-44145565-79d9-42f5-8661-6f2feb135660.png)
+
+
 - ___SPIDER JERUSALEM___ - from TRANSMETROPOLITAN comic by Warren Ellis & Darick Robertson
 
 ![Spider_Jerusalem](https://user-images.githubusercontent.com/110337784/193949041-9fb2f0dc-2b26-439e-a212-016ab05ae9af.png)
