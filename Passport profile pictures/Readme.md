@@ -10,6 +10,11 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 ![Cobra](https://user-images.githubusercontent.com/110337784/193948953-63f9dbfb-b9b5-4ca0-b315-3d80cc6c0c2d.png)
 
 
+- ___LAIN___ - From SERIAL EXPERIMENTS LAIN anime series
+
+![Lain](https://user-images.githubusercontent.com/110337784/194618873-8e429a68-7cc8-45a5-8d5a-69b55f06a8b3.png)
+
+
 - ___DALI MASK___ - from LA CASA DE PAPEL series
 
 ![Dali_Mask](https://user-images.githubusercontent.com/110337784/193948976-ff2cb480-9fb5-4217-8753-5c684401e4a3.png)
