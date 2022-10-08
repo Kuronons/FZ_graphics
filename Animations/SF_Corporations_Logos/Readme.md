@@ -3,8 +3,11 @@
 </p>
 
 Here you can find animations inspired by movies futuristic mega-corporations.
+
 Each animation has a simple blinking cursor as passive frames.
+
 Logo appears by pressing BACK BUTTON.
+
 
 - ___TYRELL___ logo - From BLADE RUNNER movie
 
