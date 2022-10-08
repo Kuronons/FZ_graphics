@@ -1,3 +1,7 @@
+<p align="center">
+<img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194729566-0020debb-ad0e-4311-a3d5-3386953862ee.jpg">
+</p>
+
 Here you can find animations inspired by movies futuristic mega-corporations.
 Each animation has a simple blinking cursor as passive frames.
 Logo appears by pressing BACK BUTTON.
