@@ -20,6 +20,12 @@ Logo appears by pressing BACK BUTTON.
 
 <BR>
     
+- ___OCP___ logo - from ROBOCOP 2 movie (1990)
+    
+[Kuronons_SFlogo_OCP2_Preview.webm](https://user-images.githubusercontent.com/110337784/194722975-73c2122f-ca72-401f-8d88-04009a45a076.webm)
+
+<BR>
+    
 - ___OCP___ logo - from ROBOCOP 3 movie (1993)
     
 [Kuronons_SFlogo_OCP3_Preview.webm](https://user-images.githubusercontent.com/110337784/194718158-b1d37d91-9e27-4f01-852d-957636e23028.webm)
