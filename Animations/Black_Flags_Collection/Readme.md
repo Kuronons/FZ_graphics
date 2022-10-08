@@ -1,5 +1,5 @@
 <p align="center">
-<img width="830" height="83" src="https://user-images.githubusercontent.com/110337784/194729784-5777e39f-93e4-4fd1-8bee-312ff49a4825.jpg">
+<img width="1000" height="100" src="https://user-images.githubusercontent.com/110337784/194729784-5777e39f-93e4-4fd1-8bee-312ff49a4825.jpg">
 </p>
 
 Here is a set of 30 "Jolly rogers" animations. Each animation starts with the same passive frames (a sailing pirate ship seen through a spyglass).
