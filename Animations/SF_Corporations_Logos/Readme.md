@@ -7,7 +7,13 @@ Logo appears by pressing BACK BUTTON.
 [Kuronons_SFlogo_Tyrell_Preview.webm](https://user-images.githubusercontent.com/110337784/193908556-dcc1acca-9f79-496f-8b9c-1ad938223e5d.webm) 
 
 <BR>
+
+- ___WEYLAND CORP___ logo - from ALIEN - PROMETHEUS movie
     
+[Kuronons_SFlogo_Weyland_preview.webm](https://user-images.githubusercontent.com/110337784/194727796-0679e240-1673-48a0-9c9d-4e94542aac79.webm)
+    
+<BR>
+
 - ___WEYLAND-YUTANI___ logo - from ALIEN movies saga
     
 [Kuronons_SFlogo_WeylandYutani_preview.webm](https://user-images.githubusercontent.com/110337784/193909211-3d87da37-6dda-4674-816d-be50425dc7b1.webm)
