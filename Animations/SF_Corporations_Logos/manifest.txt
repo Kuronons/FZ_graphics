@@ -15,6 +15,20 @@ Min level: 1
 Max level: 30
 Weight: 5
 
+Name: Kuronons_SFlogo_OCP2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: Kuronons_SFlogo_OCP3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
 Name: Kuronons_SFlogo_Rekall_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -30,6 +44,13 @@ Max level: 30
 Weight: 5
 
 Name: Kuronons_SFlogo_Tyrell_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: Kuronons_SFlogo_Weyland_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
