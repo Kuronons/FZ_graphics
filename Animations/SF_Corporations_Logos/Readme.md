@@ -8,15 +8,11 @@ Logo appears by pressing BACK BUTTON.
 
 <BR>
 
-- ___WEYLAND CORP___ logo - from ALIEN - PROMETHEUS movie
+- ___WEYLAND CORP___ & ___WEYLAND YUTANI___ logo - from ALIEN movies saga
     
 [Kuronons_SFlogo_Weyland_preview.webm](https://user-images.githubusercontent.com/110337784/194727796-0679e240-1673-48a0-9c9d-4e94542aac79.webm)
     
-<BR>
-
-- ___WEYLAND-YUTANI___ logo - from ALIEN movies saga
-    
-[Kuronons_SFlogo_WeylandYutani_128x64.zip](https://github.com/Kuronons/FZ_graphics/files/9740299/Kuronons_SFlogo_WeylandYutani_128x64.zip)
+[Kuronons_SFlogo_WeylandYutani_preview.webm](https://user-images.githubusercontent.com/110337784/194728680-bc6469af-57c3-4cf0-a131-b1997db4bd2a.webm)
     
 <BR>
     
@@ -36,7 +32,7 @@ Logo appears by pressing BACK BUTTON.
     
 <BR>
     
-- ___CYBERDYNE & SKYNET logos - from TERMINATOR movies saga
+- ___CYBERDYNE___ & ___SKYNET___ logos - from TERMINATOR movies saga
     
 [Kuronons_SFlogo_Cyberdyne_Preview.webm](https://user-images.githubusercontent.com/110337784/194728643-be08702e-00e2-447e-a39e-b86b64744e3a.webm)
 
