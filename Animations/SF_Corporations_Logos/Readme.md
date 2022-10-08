@@ -16,24 +16,16 @@ Logo appears by pressing BACK BUTTON.
 
 - ___WEYLAND-YUTANI___ logo - from ALIEN movies saga
     
-[Kuronons_SFlogo_WeylandYutani_preview.webm](https://user-images.githubusercontent.com/110337784/193909211-3d87da37-6dda-4674-816d-be50425dc7b1.webm)
+[Kuronons_SFlogo_WeylandYutani_128x64.zip](https://github.com/Kuronons/FZ_graphics/files/9740299/Kuronons_SFlogo_WeylandYutani_128x64.zip)
     
 <BR>
     
-- ___OCP___ logo - from ROBOCOP movie (1987)
+- ___OCP___ logo - from ROBOCOP movies saga (1987, 1990 & 1993 variants)
     
-[Kuronons_SFlogo_OCP_Preview.webm](https://user-images.githubusercontent.com/110337784/193909244-431c53a0-2822-462d-a87e-b3a9e88cc92f.webm)
+[Kuronons_SFlogo_OCP_Preview.webm](https://user-images.githubusercontent.com/110337784/194728540-e4a4c997-72b2-455a-8de1-4d4a6ef6daa9.webm)
 
-<BR>
-    
-- ___OCP___ logo - from ROBOCOP 2 movie (1990)
-    
 [Kuronons_SFlogo_OCP2_Preview.webm](https://user-images.githubusercontent.com/110337784/194722975-73c2122f-ca72-401f-8d88-04009a45a076.webm)
 
-<BR>
-    
-- ___OCP___ logo - from ROBOCOP 3 movie (1993)
-    
 [Kuronons_SFlogo_OCP3_Preview.webm](https://user-images.githubusercontent.com/110337784/194718158-b1d37d91-9e27-4f01-852d-957636e23028.webm)
     
 <BR>
@@ -44,11 +36,10 @@ Logo appears by pressing BACK BUTTON.
     
 <BR>
     
-- ___CYBERDYNE___ and ___SKYNET___ logos - from TERMINATOR movies saga
+- ___CYBERDYNE & SKYNET logos - from TERMINATOR movies saga
     
-[Kuronons_SFlogo_Cyberdyne_Preview.webm](https://user-images.githubusercontent.com/110337784/193909318-c371d601-d8c6-414c-82f3-484e8c9a63fa.webm)
-    
-[Kuronons_SFlogo_Skynet_Preview.webm](https://user-images.githubusercontent.com/110337784/193909341-93e78927-448d-47f9-9338-46be676b91ee.webm)
+[Kuronons_SFlogo_Cyberdyne_Preview.webm](https://user-images.githubusercontent.com/110337784/194728643-be08702e-00e2-447e-a39e-b86b64744e3a.webm)
 
-    
+[Kuronons_SFlogo_Skynet_Preview.webm](https://user-images.githubusercontent.com/110337784/194728653-9ec40fc7-1dfd-4bed-82d2-339fc3ab5ed5.webm)
+
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
