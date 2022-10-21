@@ -10,6 +10,8 @@
 
 - [Haseo github](https://github.com/Haseosama/FZ_Animations) - Custom animations maker
 
+- [stop oxy github](https://github.com/stopoxy/FZAnimations) - Custom animations maker
+
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
