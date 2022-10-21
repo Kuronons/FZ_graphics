@@ -13,7 +13,7 @@
 - [stop oxy github](https://github.com/stopoxy/FZAnimations) - Custom animations maker
 
 - [DoobTheGoober github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) - Custom animations maker
-- [DoobTheGoober's Zip2Animation](hhttps://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations
+- [DoobTheGoober's Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations
 
 ## Links of interest : FLIPPER DATABASES
 
