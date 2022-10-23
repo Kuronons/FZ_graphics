@@ -15,6 +15,8 @@
 - [DoobTheGoober github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) - Custom animations maker
 - [DoobTheGoober's Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations
 
+- [Aromak github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Custom animations maker (CyberPunk Edgerunner project)
+
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
