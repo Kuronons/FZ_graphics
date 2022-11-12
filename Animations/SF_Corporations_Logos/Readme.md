@@ -34,6 +34,12 @@ Logo appears by pressing BACK BUTTON.<BR>
     
 [Kuronons_SFlogo_Rekall_Preview.webm](https://user-images.githubusercontent.com/110337784/193909274-5036edbe-14bc-4383-9634-4623872b2161.webm)
     
+<BR>    
+
+- ___DHARMA___ logo - from LOST series
+
+[Kuronons_SFlogo_Dharma_Preview.webm](https://user-images.githubusercontent.com/110337784/201496415-58ff82d1-7f98-4319-918c-bc03915f30ac.webm)
+    
 <BR>
     
 - ___CYBERDYNE___ & ___SKYNET___ logos - from TERMINATOR movies saga
