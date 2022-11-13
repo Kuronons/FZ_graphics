@@ -17,6 +17,8 @@
 
 - [Aromak github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Custom animations maker (CyberPunk Edgerunner project)
 
+- [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video by Talking-Sasquash
+
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
