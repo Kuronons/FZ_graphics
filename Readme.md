@@ -17,7 +17,7 @@
 
 - [Aromak github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Custom animations maker (CyberPunk Edgerunner project)
 
-- [R3ggie github](https://github.com/wrenchathome/flip0anims) - Custom animations maker
+- [R3ggie / Wr3nch github](https://github.com/wrenchathome/flip0anims) - Custom animations maker
 
 - [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video by Talking-Sasquash
 
