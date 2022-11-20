@@ -55,7 +55,7 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 ![Tank_Girl](https://user-images.githubusercontent.com/110337784/193949056-b7383915-2ef1-479f-b849-a6ec2bbb6a9f.png)
 
 
-- ___NEUROMANCER___ - from Neuromancer novel by William Gibson - Original art by Josan Gonzales
+- ___NEUROMANCER___ - from NEUROMANCER novel by William Gibson - Original art by Josan Gonzales
 
 ![Neuromancer](https://user-images.githubusercontent.com/110337784/202911344-fe824a6e-5bec-44f5-9274-e595d701eb18.png)
 
