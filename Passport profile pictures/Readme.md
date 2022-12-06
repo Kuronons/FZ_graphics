@@ -57,7 +57,7 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 
 - ___NEUROMANCER___ - from NEUROMANCER novel by William Gibson - Original art by Josan Gonzales
 
-![Neuromancer](https://user-images.githubusercontent.com/110337784/202911344-fe824a6e-5bec-44f5-9274-e595d701eb18.png)
+![Neuromancer2](https://user-images.githubusercontent.com/110337784/205995156-b8813956-7d85-48e5-92d3-bd869bcc2f95.png)
 
 
 - ___GOKU___ - Tiny Sangoku from DRAGON BALL manga by Toriyama Akira
