@@ -33,3 +33,11 @@ Here you can find passport backgrounds designed for RogueMaster firmware
     Old parchment scroll passport
     
 ![Passport_Scroll Preview](https://user-images.githubusercontent.com/110337784/193912129-68c148ec-77bb-403d-a77c-e249e7f19fab.jpg)
+<BR>
+<BR>
+    
+- ___FURIPASS___
+
+    Futuristic passport
+    
+![Furipass2 Preview](https://user-images.githubusercontent.com/110337784/206036886-eac2ac6d-3682-4062-8617-693689bab0a9.jpg)
