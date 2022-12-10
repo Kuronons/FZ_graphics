@@ -8,7 +8,7 @@ Here you can find passport backgrounds designed for RogueMaster firmware
   
     As originally designed by FZ team
 
-![Passport_classic](https://user-images.githubusercontent.com/110337784/193915304-e60b9682-474b-4667-9ab0-8d852262734e.jpg)
+![PASSPORT_CLASSIC-Preview](https://user-images.githubusercontent.com/110337784/206856907-2d3c398c-aa4d-4259-b27c-c28027fc9606.jpg)
 <BR>
 <BR>
     
@@ -16,7 +16,7 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 
     Dragon Ball inspired (RogueMaster theme) with Shenron-like border
     
-![Passport_DB](https://user-images.githubusercontent.com/110337784/193915884-4c48a45e-7c0e-45fa-9315-208324df10c3.jpg)
+![PASSPORT_DB-Preview](https://user-images.githubusercontent.com/110337784/206856922-4d8a8c0e-d2d7-4088-b8c1-d0014975f7db.jpg)
 <BR>
 <BR>
     
@@ -24,7 +24,7 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 
     Inspired by the 5TH ELEMENT movie's multipass
     
-![Passport Multipass](https://user-images.githubusercontent.com/110337784/193912069-df02dbbb-1c00-477f-8093-adaeda9f14ac.png)
+![PASSPORT_MULTIPASS-Preview](https://user-images.githubusercontent.com/110337784/206856932-d32bafd1-bf56-4035-8ddd-e9e171e8274c.jpg)
 <BR>
 <BR>
     
@@ -32,7 +32,7 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 
     Old parchment scroll passport
     
-![Passport_Scroll Preview](https://user-images.githubusercontent.com/110337784/193912129-68c148ec-77bb-403d-a77c-e249e7f19fab.jpg)
+![PASSPORT_PARCHMENT-Preview](https://user-images.githubusercontent.com/110337784/206856947-1804f73f-4e3d-4a91-a829-9d442af13579.jpg)
 <BR>
 <BR>
     
@@ -40,4 +40,4 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 
     Futuristic passport
     
-![Furipass2 Preview](https://user-images.githubusercontent.com/110337784/206036886-eac2ac6d-3682-4062-8617-693689bab0a9.jpg)
+![PASSPORT_FURIPASS-Preview](https://user-images.githubusercontent.com/110337784/206856956-51e7bfbb-9c45-42c9-8b1b-feb36c3549f9.jpg)
