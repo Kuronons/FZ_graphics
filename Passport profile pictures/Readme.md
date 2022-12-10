@@ -37,7 +37,7 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 
 - ___MORELEELOO___ - My best try -ergh- to pixel-render Leeloo from 5TH ELEMENT movie
 
-![Moreleeloo](https://user-images.githubusercontent.com/110337784/193949023-e1d41b96-5916-4def-bd65-d8da461d6be2.png)
+![Moreleeloo](https://user-images.githubusercontent.com/110337784/206856859-507ebb12-6603-47fb-bcc7-4a29412aba44.png)
 
 
 - ___SHINKAI___ - from TRAVA FIST PLANET anime mini-series by Ishii Katsuhito
