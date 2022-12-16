@@ -57,4 +57,14 @@ Here you can find various animations I made for the Flipper Zero :
 [Kuronons_RMCFW_Preview.webm](https://user-images.githubusercontent.com/110337784/193911054-3994a3ae-801c-4366-b178-06c1047c8589.webm)
 
 <BR>
+   
+   - ___FLIPPAVERSE___
+      
+      Simple animation inspired by the pixel-art point&click cyberpunk game VirtuaVerse.
+      
+      Note : The passive frames are displaying nicely on the Flipper but active ones are a bit jerky due to the screen's refresh rate... :/
+
+[Kuronons_FlippaVerse_Preview.webm](https://user-images.githubusercontent.com/110337784/208100070-3261f3e0-f32f-4524-b549-5768797fcd31.webm)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
