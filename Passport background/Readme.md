@@ -39,5 +39,14 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 - ___FURIPASS___
 
     Futuristic passport
+
+![PASSPORT_FURIPASS-Preview](https://user-images.githubusercontent.com/110337784/208291595-c9f2e441-d6b0-40f6-ab79-c71b368203d8.jpg)
+<BR>
+<BR>
+
+- ___MOUNTAINS___
+
+    Moutains and pine tree (TalkingSasquach theme)
     
-![PASSPORT_FURIPASS-Preview](https://user-images.githubusercontent.com/110337784/206856956-51e7bfbb-9c45-42c9-8b1b-feb36c3549f9.jpg)
+![PASSPORT_MOUNTAINS-Preview](https://user-images.githubusercontent.com/110337784/208291573-06127e13-a61d-4a3f-8ac5-98d52d5e51ab.jpg)
+
