@@ -67,4 +67,14 @@ Here you can find various animations I made for the Flipper Zero :
 [Kuronons_FlippaVerse_Preview.webm](https://user-images.githubusercontent.com/110337784/208100070-3261f3e0-f32f-4524-b549-5768797fcd31.webm)
 
 <BR>
+   
+   - ___AKIRA CAPSULE___
+      
+      Capsule inspired by Kaneda's jacket logo in AKIRA. Pushing back will make the capsule stop moving and will display the scrolling text "Good for Health - Bad for Education".
+      
+      Note : Actual preview is kinda slow but the FPS (3) is set to avoid flickering on Flip's screen.
+
+[Kuronons_Misc_Akira_Capsule-Preview.webm](https://user-images.githubusercontent.com/110337784/208520504-276d81cc-5d66-497c-8a86-7ea5613656d8.webm)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
