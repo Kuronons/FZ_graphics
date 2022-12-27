@@ -21,6 +21,8 @@
 
 - [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video by Talking-Sasquash
 
+- [Ooggle's FZ Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - App to preview animations on PC and manage fav lists [WIP]
+
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
