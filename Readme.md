@@ -23,6 +23,8 @@
 
 - [Ooggle's FZ Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - App to preview animations on PC and manage fav lists [WIP]
 
+- [Pheonixyyz / PYX section on UberGuidoz github](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - Custom animations maker
+
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
