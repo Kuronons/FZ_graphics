@@ -4,26 +4,31 @@
 
 ### __Custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
 
-## Links of interest : FLIPPER GRAPHICS
+## Links of interest : FLIPPER GRAPHICS -> Custom Animation Makers
     
-- [Talking-Sasquach github](https://github.com/skizzophrenic/Talking-Sasquach) - Custom animations maker
+- [Talking-Sasquach github](https://github.com/skizzophrenic/Talking-Sasquach)
 
-- [Haseo github](https://github.com/Haseosama/FZ_Animations) - Custom animations maker
+- [Haseo github](https://github.com/Haseosama/FZ_Animations)
 
-- [stop oxy github](https://github.com/stopoxy/FZAnimations) - Custom animations maker
+- [stop oxy github](https://github.com/stopoxy/FZAnimations)
 
-- [DoobTheGoober github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) - Custom animations maker
-- [DoobTheGoober's Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations
+- [DoobTheGoober github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 
-- [Aromak / HexxedBitHeadz github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Custom animations maker (CyberPunk Edgerunner project)
+- [Aromak / HexxedBitHeadz github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project
 
-- [R3ggie / Wr3nch github](https://github.com/wrenchathome/flip0anims) - Custom animations maker
+- [R3ggie / Wr3nch github](https://github.com/wrenchathome/flip0anims)
+
+- [Pheonixyyz / PYX section on UberGuidoz github](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - Custom animations maker
+
+## Links of interest : FLIPPER GRAPHICS -> Tutorials, Tools & Applications
+
+- [Talking Sasquach's google doc Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)
 
 - [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video by Talking-Sasquash
 
-- [Ooggle's FZ Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - App to preview animations on PC and manage fav lists [WIP]
+- [DoobTheGoober's Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations
 
-- [Pheonixyyz / PYX section on UberGuidoz github](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - Custom animations maker
+- [Ooggle's FZ Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - App to preview animations on PC and manage fav lists [WIP]
 
 ## Links of interest : FLIPPER DATABASES
 
