@@ -4,21 +4,21 @@
 
 ### __Custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
 
-## Links of interest : FLIPPER GRAPHICS -> Custom Animation Makers
+## Links of interest : FLIPPER GRAPHICS - Custom Animation Makers
     
-- [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) - github
+- [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach)
 
-- [Haseo](https://github.com/Haseosama/FZ_Animations) - github
+- [Haseo-sama](https://github.com/Haseosama/FZ_Animations)
 
-- [stop oxy](https://github.com/stopoxy/FZAnimations) - github
+- [stop oxy](https://github.com/stopoxy/FZAnimations)
 
-- [DoobTheGoober](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) - github
+- [DoobTheGoober](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 
-- [Aromak / HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - github : CyberPunk Edgerunner project
+- [Aromak / HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project
 
-- [R3ggie / Wr3nch](https://github.com/wrenchathome/flip0anims) - github
+- [R3ggie / Wr3nch](https://github.com/wrenchathome/flip0anims)
 
-- [Pheonixyyz / PYX](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - hosted on UberGuidoz github
+- [Pheonixyyz / PYX](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - hosted by UberGuidoZ
 
 ## Links of interest : FLIPPER GRAPHICS -> Tutorials, Tools & Applications
 
@@ -26,9 +26,9 @@
 
 - [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video, by Talking-Sasquash
 
-- [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - github : Python tool for FZ animations, by DoobTheGoober
+- [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) : Python tool for FZ animations, by DoobTheGoober
 
-- [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - github : WIP App to preview animations on PC and create manifests / fav lists, by Ooggle
+- [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) : WIP App to preview animations on PC and create manifests / fav lists, by Ooggle
 
 ## Links of interest : FLIPPER DATABASES
 
