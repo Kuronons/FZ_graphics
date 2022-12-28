@@ -6,19 +6,19 @@
 
 ## Links of interest : FLIPPER GRAPHICS -> Custom Animation Makers
     
-- [Talking-Sasquach github](https://github.com/skizzophrenic/Talking-Sasquach)
+- [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) (github)
 
-- [Haseo github](https://github.com/Haseosama/FZ_Animations)
+- [Haseo](https://github.com/Haseosama/FZ_Animations) (github)
 
-- [stop oxy github](https://github.com/stopoxy/FZAnimations)
+- [stop oxy](https://github.com/stopoxy/FZAnimations) (github)
 
-- [DoobTheGoober github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
+- [DoobTheGoober](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) (github)
 
-- [Aromak / HexxedBitHeadz github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project
+- [Aromak / HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project (github)
 
-- [R3ggie / Wr3nch github](https://github.com/wrenchathome/flip0anims)
+- [R3ggie / Wr3nch](https://github.com/wrenchathome/flip0anims) (github)
 
-- [Pheonixyyz / PYX section on UberGuidoz github](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - Custom animations maker
+- [Pheonixyyz / PYX](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) (UberGuidoz github hosted)
 
 ## Links of interest : FLIPPER GRAPHICS -> Tutorials, Tools & Applications
 
