@@ -6,19 +6,21 @@
 
 ## Links of interest : FLIPPER GRAPHICS - Custom Animation Makers
     
-- [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach)
+- [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
 
-- [Haseo-sama](https://github.com/Haseosama/FZ_Animations)
+- [FZ_Animations](https://github.com/Haseosama/FZ_Animations) by [Haseo-sama](https://github.com/Haseosama)
 
-- [stop oxy](https://github.com/stopoxy/FZAnimations)
+- [FZAnimations](https://github.com/stopoxy/FZAnimations) by [stop oxy](https://github.com/stopoxy)
 
-- [DoobTheGoober](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
+- [FlipperZero Custom Animations](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) by [Charles The Great](https://github.com/CharlesTheGreat77) aka DoobTheGoober
 
-- [Aromak / HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project
+- [FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project by [HexxedBitHeadz](https://github.com/HexxedBitHeadz) aka Aromak
 
-- [R3ggie / Wr3nch](https://github.com/wrenchathome/flip0anims)
+- [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
 
-- [Pheonixyyz / PYX](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) - hosted by UberGuidoZ
+- [flipper-zero-animations](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) by Pheonixyyz aka PYX (hosted by UberGuidoZ)
+
+- [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
 
 ## Links of interest : FLIPPER GRAPHICS -> Tutorials, Tools & Applications
 
