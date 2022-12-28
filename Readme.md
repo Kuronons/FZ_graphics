@@ -15,7 +15,7 @@
 - [DoobTheGoober github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) - Custom animations maker
 - [DoobTheGoober's Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations
 
-- [Aromak github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Custom animations maker (CyberPunk Edgerunner project)
+- [Aromak / HexxedBitHeadz github](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Custom animations maker (CyberPunk Edgerunner project)
 
 - [R3ggie / Wr3nch github](https://github.com/wrenchathome/flip0anims) - Custom animations maker
 
