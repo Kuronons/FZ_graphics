@@ -22,7 +22,7 @@
 
 - [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
 
-## Links of interest : FLIPPER GRAPHICS -> Tutorials, Tools & Applications
+## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
 
