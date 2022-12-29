@@ -35,8 +35,11 @@
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
+
 - [UberGuidoZ's Playground](https://github.com/UberGuidoZ/Flipper) - Flipper Ali Baba's cave
+
 - [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero) - Tons of links to useful resources
+
 - [DEXV Music0](https://github.com/DXVVAY/dexv-music0) - Tons of RTTTF (Ring Tone Text Transfer Language) music files
 
 ## Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
