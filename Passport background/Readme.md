@@ -1,6 +1,6 @@
 Here you can find passport backgrounds designed for RogueMaster firmware
 <BR>
-(passport.c file edited so a single background picture is used instead of 2 + coded lines for the passport borders as in ofw)
+(passport.c file edited so a <i><b>single 128x64px picture</b></i> is used instead of <i><b>left + bottom borders picts + coded lines/dots</b></i> as in ofw)
 <BR>
 <BR>
 
