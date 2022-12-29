@@ -13,23 +13,23 @@
 - [FZAnimations](https://github.com/stopoxy/FZAnimations) by [stop oxy](https://github.com/stopoxy)
 
 - [FlipperZero Custom Animations](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) by [Charles The Great](https://github.com/CharlesTheGreat77) aka DoobTheGoober
-
+ 
 - [FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project by [HexxedBitHeadz](https://github.com/HexxedBitHeadz) aka Aromak
-
+ 
 - [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
-
+ 
 - [flipper-zero-animations](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) by Pheonixyyz aka PYX (hosted by [UberGuidoZ](https://github.com/UberGuidoZ))
-
+ 
 - [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
 
 ## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
-
+ 
 - [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video, by Talking-Sasquash
-
+ 
 - [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) : Python tool for FZ animations, by DoobTheGoober
-
+ 
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) : WIP App to preview animations on PC and create manifests / fav lists, by Ooggle
 
 ## Links of interest : FLIPPER DATABASES
