@@ -51,7 +51,7 @@
   
 <BR>
   
-- [Squachtopia Hangout discord]([https://discord.com/channels/213686842745290752/213686842745290752](https://discord.gg/squachtopia) - SquachWare firmware
+- [Squachtopia Hangout discord](https://discord.gg/squachtopia) - SquachWare firmware
 - [SquachWare custom firmware github](https://github.com/skizzophrenic/SquachWare-CFW)
     
 <BR>
