@@ -41,25 +41,12 @@
 
 ## Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
 
-- [Flipper Zero Unofficial discord](https://discord.com/channels/937479784148115456/996111578543960194) - Unleashed firmware
-- [Unleashed firmware github](https://github.com/Eng1n33r/flipperzero-firmware)
-
-<BR>
+- Flipper Zero Unofficial [discord](https://discord.com/channels/937479784148115456/996111578543960194) -> Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware)
   
-- [Flipper Uncensored discord](https://discord.com/channels/213686842745290752/213686842745290752) - RogueMaster firmware
-- [RogueMaster custom firmware github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
+- Flipper Uncensored [discord](https://discord.com/channels/213686842745290752/213686842745290752) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
   
-<BR>
+- Squachtopia Hangout [discord](https://discord.gg/squachtopia) -> SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW)
   
-- [Squachtopia Hangout discord](https://discord.gg/squachtopia) - SquachWare firmware
-- [SquachWare custom firmware github](https://github.com/skizzophrenic/SquachWare-CFW)
-    
-<BR>
+- (XX)Xtreme-Firmware [discord](https://discord.gg/mC2FxbYSMr) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
   
-- [(XX)Xtreme-Firmware](https://discord.gg/mC2FxbYSMr) - Xtreme firmware
-- [Flipper Xtreme custom firmware github](https://github.com/ClaraCrazy/Flipper-Xtreme)
-    
-<BR>
-  
-- [DEXV 0 custom firmware github](https://github.com/DXVVAY/Dexv0)
-- [DEXV Master 0 custom firmware github](https://github.com/DXVVAY/Dexvmaster0)
+- DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
