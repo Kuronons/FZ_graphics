@@ -44,9 +44,9 @@
 
 ## Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
 
-- Flipper Zero Unofficial [discord](https://discord.com/channels/937479784148115456/996111578543960194) -> Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware)
+- Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/) -> Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware)
   
-- Flipper Uncensored [discord](https://discord.com/channels/213686842745290752/213686842745290752) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
+- Flipper Uncensored [discord](https://discord.gg/gF2bBUzAFe) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
   
 - Squachtopia Hangout [discord](https://discord.gg/squachtopia) -> SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW)
   
