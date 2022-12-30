@@ -52,4 +52,4 @@
   
 - (XX)Xtreme-Firmware [discord](https://discord.gg/mC2FxbYSMr) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
   
-- DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
+- D-WARE [discord](https://discord.gg/dexvirus) DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
