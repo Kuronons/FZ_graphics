@@ -49,4 +49,12 @@ Here you can find passport backgrounds designed for RogueMaster firmware
     Moutains and pine tree (TalkingSasquach theme)
     
 ![PASSPORT_MOUNTAINS-Preview](https://user-images.githubusercontent.com/110337784/208291573-06127e13-a61d-4a3f-8ac5-98d52d5e51ab.jpg)
+<BR>
+<BR>
+
+- ___MARIO___
+
+    Inspired by Super Mario Bros game
+    
+![PASSPORT_MARIO-Preview](https://user-images.githubusercontent.com/110337784/210186434-4254d10a-4af8-46a6-b8f8-822f19df0af4.jpg)
 
