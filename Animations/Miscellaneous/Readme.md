@@ -50,14 +50,6 @@ Here you can find various animations I made for the Flipper Zero :
 
 <BR>
    
-   - ___RMCFW___
-      
-      RogueMaster Custom Firmware animation with SD Goku.
-
-[Kuronons_RMCFW_Preview.webm](https://user-images.githubusercontent.com/110337784/193911054-3994a3ae-801c-4366-b178-06c1047c8589.webm)
-
-<BR>
-   
    - ___FLIPPAVERSE___
       
       Simple animation inspired by the pixel-art point&click cyberpunk game VirtuaVerse.
@@ -75,6 +67,16 @@ Here you can find various animations I made for the Flipper Zero :
       Note : Actual preview is kinda slow but the FPS (3) is set to avoid flickering on Flip's screen.
 
 [Kuronons_Misc_Akira_Capsule-Preview.webm](https://user-images.githubusercontent.com/110337784/208520504-276d81cc-5d66-497c-8a86-7ea5613656d8.webm)
+
+<BR>
+   
+   - ___COBRA___
+      
+      Fom Space Adevnture Cobra. Mix of 2 GIF, one used as passive and the second as active.
+      
+      Note : My first try using existing GIF. Not totally pleased with final rendering.
+
+[Kuronons_Misc_Cobra-Preview.webm](https://user-images.githubusercontent.com/110337784/213905937-55e02d09-61eb-487a-a58b-afffddf6300d.webm)
 
 <BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
