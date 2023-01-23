@@ -32,6 +32,8 @@
 
 - [Flipper_animations](https://github.com/guilatoffi/Flipper_animations) by [guilatoffi](https://github.com/guilatoffi)
 
+- [flipper-zero-animations](https://github.com/mnenkov/flipper-zero-animations) by [mnenkov](https://github.com/mnenkov) aka DAIM_SANN
+
 ## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
