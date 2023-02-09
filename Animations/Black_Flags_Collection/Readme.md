@@ -15,6 +15,8 @@ Note that this has been realized with a lot of research concerning the flags and
 This collection contains the following pirates flags :
 Jeahan II Ango, Pierre Belain d'Esnambuc, Renato Beluche, Stede Bonnet, Jean Boze, Eustache Busket, Edward Congdon, Jacquotte Delahaye, Michel de Maristéguy, Pierre Egron, Henry Every, Walter Kennedy, Jean Lafitte, Jean-François Landolphe, Pierre Lelong, Edward Lowe, Christopher Moody, William Moody, Napping, John Quelch, John Rackham, John Roberts, Edward Seegar, Robert Charles Surcouf, Edward Teach, Thomas Tew, richard Worley, Emmanuel Wynne & Frédéric Youx.
 
+![image](https://user-images.githubusercontent.com/110337784/217908488-022139b4-76a7-43ba-8ca5-bd45091ae147.png)
+
 Here is a preview video with 2 displayed flags for an insight.
 
 [Preview.webm](https://user-images.githubusercontent.com/110337784/193911601-fdb9bc3a-c2b1-4d6e-b7a5-bf083d0e4633.webm)
