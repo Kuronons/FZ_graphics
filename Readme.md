@@ -53,6 +53,8 @@
 » Create manifest.txt with desired values<br>
 » Compile .png folder directly to .bm one (instant !!)
 
+- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + a consequent bunch of unlisted ones)
+
 ## Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
@@ -74,3 +76,5 @@
 - (XX)Xtreme-Firmware [discord](https://discord.gg/mC2FxbYSMr) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
   
 - D-WARE [discord](https://discord.gg/dexvirus) -> DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
+
+- Baguette [discord](https://discord.gg/uXm5c9e5) -> WIP - French firmware
