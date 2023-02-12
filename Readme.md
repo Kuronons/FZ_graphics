@@ -44,9 +44,14 @@
  
 - [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video, by Talking-Sasquash
  
-- [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) : Python tool for FZ animations, by DoobTheGoober
+- [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations, by [DoobTheGoober](https://github.com/CharlesTheGreat77) :<br>
+» renames the png files in order from a zip file<br>
+» Creates a basic meta file with a straight forward animation frame order
  
-- [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) : WIP App to preview animations on PC and create manifests / fav lists, by Ooggle
+- [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Awesome app (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
+» Preview animations on PC (from .png or .bm files)<br>
+» Create manifest.txt with desired values<br>
+» Compile .png folder directly to .bm one (instant !!)
 
 ## Links of interest : FLIPPER DATABASES
 
