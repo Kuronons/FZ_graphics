@@ -38,8 +38,6 @@
 
 - [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
-- [Flipper Zero Customization](https://github.com/Gabry154/FZ_Customization) by [Gabry154](https://github.com/Gabry154)
-
 ## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
