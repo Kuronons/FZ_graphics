@@ -4,8 +4,9 @@
 
 ### __Custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
 
-## Links of interest : FLIPPER GRAPHICS - Custom Animation Makers
-    
+## Links of interest : FLIPPER GRAPHICS - Custom Animations
+
+CUSTOM ANIMATION MAKERS : <BR>
 - [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
 
 - [FZ_Animations](https://github.com/Haseosama/FZ_Animations) by [Haseo-sama](https://github.com/Haseosama)
@@ -18,8 +19,6 @@
  
 - [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
 
- - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by Svarich ([@svaarich](https://github.com/Svaarich))
- 
 - [flipper-zero-animations](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) by Pheonixyyz aka PYX (hosted by [UberGuidoZ](https://github.com/UberGuidoZ))
  
 - [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
@@ -38,6 +37,13 @@
 
 - [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
+CUSTOM FIRMWARES ANIMATIONS : <BR>
+ - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by Svarich ([@svaarich](https://github.com/Svaarich))
+
+- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + a consequent bunch of unlisted ones)
+
+- Xtreme's [custom NSFW lvl animations](https://github.com/ClaraCrazy/Flipper-Xtreme/tree/main/assets/dolphin/custom/NSFW/Anims) by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
+
 ## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
@@ -52,8 +58,6 @@
 » Preview animations on PC (from .png or .bm files)<br>
 » Create manifest.txt with desired values<br>
 » Compile .png folder directly to .bm one (instant !!)
-
-- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + a consequent bunch of unlisted ones)
 
 ## Links of interest : FLIPPER DATABASES
 
