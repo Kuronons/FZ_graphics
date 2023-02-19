@@ -2,7 +2,22 @@
 <img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg">
 </p>
 
-### __Custom animations, passport backgrounds & profile pictures for the Flipper Zero device__
+<p align="center"><b>
+Custom animations, passport backgrounds & profile pictures for the Flipper Zero device
+</b></p>
+
+<p align="center">
+You will find in the well-named folders* what I made so far for the Flip.<BR>
+Note that I don't make animation or picture on demand.<BR>
+But I am never against suggestions or ideas !<BR><BR>
+Also, you can find below a non-stop growing bunch of links to other people's makings.<BR>
+I would gladly add your link on request, just ask or PR !<BR>
+Have fun exploring !<BR><BR>
+O_oV
+</p>
+
+*above this readme on PC's browser<BR>*via <i>Browse code</i> on phone GH app<BR><BR>
+
 
 ## Links of interest : FLIPPER GRAPHICS - Custom Animations
 
