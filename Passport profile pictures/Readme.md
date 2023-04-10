@@ -79,3 +79,8 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 
 ![Pixel_Mario](https://user-images.githubusercontent.com/110337784/210186395-e9557be2-212c-4985-989b-2b327ab8b8b8.png)
 
+- ___SKULL___ - Just a skull...
+
+![Skull](https://user-images.githubusercontent.com/110337784/230978303-9e193e3a-4fe0-4ff5-aed2-0341c78fe179.png)
+
+
