@@ -3,15 +3,15 @@
 </p>
 
 <p align="center"><b>
-Custom animations, passport backgrounds & profile pictures for the Flipper Zero device
+FLIPPER ZERO DEVICE : CUSTOM ANIMATIONS, PASSPORT BACKGROUNDS & PROFILE PICTURES
 </b></p>
 
 <p align="center">
 You will find in the well-named folders* what I made so far for the Flip.<BR>
-Note that I don't make animation or picture on demand.<BR>
-But I am never against suggestions or ideas !<BR><BR>
-Also, you can find below a non-stop growing bunch of links to other people's makings.<BR>
-I would gladly add your link on request, just ask or PR !<BR>
+<BR>
+Also, you can find below a non-stop growing list of links to other people's makings.<BR>
+As well, follows a bunch of useful tutorials and tools links related to Flipper's graphic assets.<BR>
+I would gladly add your link on request, just ask or PR !<BR><BR>
 Have fun exploring !<BR><BR>
 O_oV
 </p>
