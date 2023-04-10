@@ -76,7 +76,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » Create manifest.txt with desired values<br>
 » Compile .png folder directly to .bm one (instant !!)
 
-- [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) pdf file, guide to understand how to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
+- [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
 
 ## Links of interest : FLIPPER DATABASES
 
