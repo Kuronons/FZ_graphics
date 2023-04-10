@@ -19,7 +19,7 @@ O_oV
 *above this readme on PC's browser<BR>*via <i>Browse code</i> on phone GH app<BR><BR>
 
 
-## Links of interest : FLIPPER GRAPHICS - Custom Animations
+## Links of interest : FLIPPER GRAPHICS - Custom Animations & Assets
 
 CUSTOM ANIMATION MAKERS : <BR>
 - [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
@@ -71,6 +71,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [Flipper-custom](https://github.com/Soulsender/flipper-custom) by [Soulsender](https://github.com/Soulsender)
 
 - [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
+ 
+ - [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
@@ -91,17 +93,22 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 
 - [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
 
-- [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
+- [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc guide, by Talking-Sasquach
  
-- [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know.](https://www.youtube.com/watch?v=Nq5DXhOMo5s) YouTube video, by Talking-Sasquash
+- [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) - YouTube video by Talking-Sasquash
+  
+- [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) - YouTube video by Talking-Sasquash
  
-- [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations, by [DoobTheGoober](https://github.com/CharlesTheGreat77) :<br>
+- [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations by [DoobTheGoober](https://github.com/CharlesTheGreat77) :<br>
 » renames the png files in order from a zip file<br>
 » Creates a basic meta file with a straight forward animation frame order
 
-- [FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool for FZ animations [WIP], by [pinwheelHerman](https://github.com/pinwheelHerman) :<br>
+- [FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool for FZ animations [WIP] by [pinwheelHerman](https://github.com/pinwheelHerman) :<br>
 » renames the png files in order from a folder<br>
 » Creates a basic meta file with a straight forward animation frame order
+  
+- [Flipper Animation Manifest Helper](https://github.com/ortil-afk/manifest_helper) - Python tool for FZ animations by [ortil-afk](https://github.com/ortil-afk) :<br>
+» Generates manifest.txt from gathered folders<br>
  
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Awesome app (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
 » Preview animations on PC (from .png or .bm files)<br>
@@ -109,10 +116,10 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » Compile .png folder directly to .bm one (instant !!)
 
 - [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti) :<br>
-» Generate new animations from GIF files
-» Import animations on your favorite firmware
-» Preview animations
-» Customize animation parameters
+» Generate new animations from GIF files<br>
+» Import animations on your favorite firmware<br>
+» Preview animations<br>
+» Customize animation parameters<br>
 » And much more...
 
 - [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
