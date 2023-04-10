@@ -34,7 +34,7 @@ CUSTOM ANIMATION MAKERS : <BR>
  
 - [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
 
-- [flipper-zero-animations](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics/Animations/PYX) by Pheonixyyz aka PYX (hosted by [UberGuidoZ](https://github.com/UberGuidoZ))
+- [flipper-zero-animations](https://github.com/phoenixyyz/flipper-zero-animations) by [Pheonixyyz](https://github.com/phoenixyyz) aka PYX
  
 - [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
 
@@ -53,6 +53,18 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
 - [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [iori Kesso](https://github.com/IoriKesso)
+
+- [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by [kainsamara](https://github.com/kainsamara)
+
+- [Flipper Zero Animations](https://github.com/LinusKay/flipperzero-animations) by [Linus Kay](https://github.com/LinusKay)
+
+- [MoreReasonable's Flipper assets](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-) by [MoReReAsOnAbLe](https://github.com/MoReReAsOnAbLe)
+
+- [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) by [thevot](https://github.com/thevot)
+
+- [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
+
+- [Flipper-zero-animations](https://github.com/Rafita88/Flipper-zero-animations) by [Rafita88](https://github.com/Rafita88)
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
  - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by Svarich ([@svaarich](https://github.com/Svaarich))
