@@ -52,19 +52,19 @@ CUSTOM ANIMATION MAKERS : <BR>
 
 - [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
-- [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [iori Kesso](https://github.com/IoriKesso)
+- [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [Iori Kesso](https://github.com/IoriKesso)
 
-- [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by [kainsamara](https://github.com/kainsamara)
+- [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by Sergey Nord aka [kainsamara](https://github.com/kainsamara)
 
 - [Flipper Zero Animations](https://github.com/LinusKay/flipperzero-animations) by [Linus Kay](https://github.com/LinusKay)
 
 - [MoreReasonable's Flipper assets](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-) by [MoReReAsOnAbLe](https://github.com/MoReReAsOnAbLe)
 
-- [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) by [thevot](https://github.com/thevot)
+- [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) by Nicola Selenu aka [thevot](https://github.com/thevot)
 
 - [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
 
-- [Flipper-zero-animations](https://github.com/Rafita88/Flipper-zero-animations) by [Rafita88](https://github.com/Rafita88)
+- [Flipper-zero-animations](https://github.com/Rafita88/Flipper-zero-animations) by Rafael Molina Aguilar aka [Rafita88](https://github.com/Rafita88)
  
 - [Flipper-Animations](https://github.com/flipperzeroindia/flipperzero-animations) by [Flipperzeroindia](https://github.com/flipperzeroindia)
  
@@ -78,7 +78,7 @@ CUSTOM ANIMATION MAKERS : <BR>
 CUSTOM FIRMWARES ANIMATIONS : <BR>
  - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
  
-- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + a consequent bunch of unlisted ones)
+- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + bunch of unlisted ones)
 
 - Xtreme's [custom NSFW lvl animations](https://github.com/ClaraCrazy/Flipper-Xtreme/tree/main/assets/dolphin/custom/NSFW/Anims) by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
 <BR>
