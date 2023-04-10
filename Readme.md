@@ -70,14 +70,26 @@ CUSTOM ANIMATION MAKERS : <BR>
  
 - [Flipper-custom](https://github.com/Soulsender/flipper-custom) by [Soulsender](https://github.com/Soulsender)
 
+- [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
+<BR>
+
 CUSTOM FIRMWARES ANIMATIONS : <BR>
  - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
-
+ 
 - RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + a consequent bunch of unlisted ones)
 
 - Xtreme's [custom NSFW lvl animations](https://github.com/ClaraCrazy/Flipper-Xtreme/tree/main/assets/dolphin/custom/NSFW/Anims) by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
+<BR>
+
+ CUSTOM ANIMATIONS DUMPS : <BR>
+ - [RedFox's Flipper Zero Animation Collections](https://github.com/WPCMSNinja/redfox-fz-animations) - animations dump + custom made one by [Greg the WP CMS Ninja](https://github.com/WPCMSNinja)
+ 
+ - [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
+ <BR>
 
 ## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
+
+- [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc, by Talking-Sasquach
  
@@ -86,13 +98,25 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations, by [DoobTheGoober](https://github.com/CharlesTheGreat77) :<br>
 » renames the png files in order from a zip file<br>
 » Creates a basic meta file with a straight forward animation frame order
+
+- [FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool for FZ animations [WIP], by [pinwheelHerman](https://github.com/pinwheelHerman) :<br>
+» renames the png files in order from a folder<br>
+» Creates a basic meta file with a straight forward animation frame order
  
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Awesome app (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
 » Preview animations on PC (from .png or .bm files)<br>
 » Create manifest.txt with desired values<br>
 » Compile .png folder directly to .bm one (instant !!)
 
-- [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
+- [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti) :<br>
+» Generate new animations from GIF files
+» Import animations on your favorite firmware
+» Preview animations
+» Customize animation parameters
+» And much more...
+
+- [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
+<BR>
 
 ## Links of interest : FLIPPER DATABASES
 
@@ -103,6 +127,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero) - Tons of links to useful resources
 
 - [DEXV Music0](https://github.com/DXVVAY/dexv-music0) - Tons of RTTTF (Ring Tone Text Transfer Language) music files
+<BR>
 
 ## Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
 
