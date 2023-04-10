@@ -65,6 +65,10 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
 
 - [Flipper-zero-animations](https://github.com/Rafita88/Flipper-zero-animations) by [Rafita88](https://github.com/Rafita88)
+ 
+- [Flipper-Animations](https://github.com/flipperzeroindia/flipperzero-animations) by [Flipperzeroindia](https://github.com/flipperzeroindia)
+ 
+- [Flipper-custom](https://github.com/Soulsender/flipper-custom) by [Soulsender](https://github.com/Soulsender)
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
  - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by Svarich ([@svaarich](https://github.com/Svaarich))
