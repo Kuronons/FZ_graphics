@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="100" src="https://user-images.githubusercontent.com/110337784/201496894-a2ef1be0-4552-4ab7-805d-6710092ed0f6.jpg">
+<img width="1000" height="100" src="https://user-images.githubusercontent.com/110337784/231252422-f71b5669-7cbe-4a84-9902-01f2fa7d9dba.jpg">
 </p>
 
 Here you can find animations inspired by movies futuristic mega-corporations.<BR>
@@ -34,11 +34,17 @@ Logo appears by pressing BACK BUTTON.<BR>
     
 [Kuronons_SFlogo_Rekall_Preview.webm](https://user-images.githubusercontent.com/110337784/193909274-5036edbe-14bc-4383-9634-4623872b2161.webm)
     
-<BR>    
+<BR>   
 
 - ___DHARMA___ logo - from LOST series
 
 [Kuronons_SFlogo_Dharma_Preview.webm](https://user-images.githubusercontent.com/110337784/201496415-58ff82d1-7f98-4319-918c-bc03915f30ac.webm)
+    
+<BR>
+
+- ___ENCOM___ logo - from TRON movie
+
+[Kuronons_SFlogo_ENCOM_preview.webm](https://user-images.githubusercontent.com/110337784/231248306-7575234f-2296-45fb-9a37-3a2b8f5a8e43.webm)
     
 <BR>
     
@@ -48,4 +54,5 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 [Kuronons_SFlogo_Skynet_Preview.webm](https://user-images.githubusercontent.com/110337784/194728653-9ec40fc7-1dfd-4bed-82d2-339fc3ab5ed5.webm)
 
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
