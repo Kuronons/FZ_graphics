@@ -17,7 +17,7 @@ Preview<BR>
 ![Screenshot-20230510-183014](https://github.com/Kuronons/FZ_graphics/assets/110337784/cb02537a-4832-41d0-a9a6-a58000b28e82)<BR>
 -> Released Jan.01, 2023.<BR><BR><BR>
 - ___[xMasterX's Flashlight](https://github.com/xMasterX/flipper-flashlight) memo pict___<BR>
-Proposal of adding a visual pict for easy LED connection.<BR><BR>
+Proposal of adding a visual pict for easy GPIO connection.<BR><BR>
 Original FAP display<BR>
 ![Flashlight original](https://github.com/Kuronons/FZ_graphics/assets/110337784/9913e269-1f8d-4a5b-a372-0400aa6cfb9e)<BR><BR>
 Proposed asset<BR>
