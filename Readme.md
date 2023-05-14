@@ -91,6 +91,8 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 
 ## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
 
+- [Valerie Aquamine on Behance](https://www.behance.net/gallery/88949929/Flipper-graphics) - Gallery of works done for Flipper Zero by artist Valerie Aquamine, the Mother of Dolphin.
+  
 - [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
 
 - [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc guide, by Talking-Sasquach
