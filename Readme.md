@@ -74,7 +74,7 @@ CUSTOM ANIMATION MAKERS : <BR>
  
  - [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
  
- - [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone)
+ - [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
