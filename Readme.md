@@ -103,6 +103,8 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
   
 - [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) - YouTube video by Talking-Sasquash
 
+- [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) - YouTube video by Talking-Sasquash
+
 - [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - .md file I wrote based on experience
  
 - [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations by [DoobTheGoober](https://github.com/CharlesTheGreat77) :<br>
