@@ -75,6 +75,8 @@ CUSTOM ANIMATION MAKERS : <BR>
  - [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
  
  - [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
+
+ - [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
@@ -129,6 +131,10 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » Preview animations<br>
 » Customize animation parameters<br>
 » And much more...
+
+- [Flipper Animation Maker](https://github.com/H4XV/flipper-animation-generator) - Tool by [H4XV](https://github.com/H4XV) :<br>
+» Automatic Animation generator<br>
+» Gif to Flipper Animation<br>
 
 - [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
 <BR>
