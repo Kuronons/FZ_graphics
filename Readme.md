@@ -76,7 +76,7 @@ CUSTOM ANIMATION MAKERS : <BR>
  
  - [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
 
- - [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
+ - [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) & [rabbit-labs-flipper-animation](https://github.com/michaeldufault/rabbit-labs-flipper-animation) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
 
  - [fz-gfx](https://github.com/oneamongthetrees/fz-gfx) (Animation and passport profile picts) by [oneamongthetrees](https://github.com/oneamongthetrees)
 
