@@ -140,6 +140,11 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » Automatic Animation generator<br>
 » Gif to Flipper Animation<br>
 
+- [FlipperZeroAnimator](https://github.com/nenomg/FlipperZeroAnimator) - Python script by Eugenio Menacho de Góngora aka [nenomg](https://github.com/nenomg) :<br>
+» Converts GIFs into 2-color frames for Flipper Zero<br>
+» Resizes frames to 128x64 pixels and saves as PNG<br>
+» Generates meta file<br>
+
 - [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
 <BR>
 
