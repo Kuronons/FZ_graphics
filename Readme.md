@@ -99,21 +99,27 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
  - [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
  <BR>
 
-## Links of interest : FLIPPER GRAPHICS - Tutorials, Tools & Applications
+## Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
 
 - [Valerie Aquamine on Behance](https://www.behance.net/gallery/88949929/Flipper-graphics) - Gallery of works done for Flipper Zero by artist Valerie Aquamine, the Mother of Dolphin.
   
 - [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
 
-- [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) - Google doc guide, by Talking-Sasquach
- 
-- [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) - YouTube video by Talking-Sasquash
-  
-- [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) - YouTube video by Talking-Sasquash
-
-- [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) - YouTube video by Talking-Sasquash
+- [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
+» [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
+» [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) (YouTube)<BR>
+» [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
+» [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)
 
 - [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - .md file I wrote based on experience
+<BR>
+ 
+## Links of interest : FLIPPER GRAPHICS - Tools & apps
+
+- [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Awesome app (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
+» Preview animations on PC (from .png or .bm files)<br>
+» Create manifest.txt with desired values<br>
+» Compile .png folder directly to .bm one (instant !!)
  
 - [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool for FZ animations by [DoobTheGoober](https://github.com/CharlesTheGreat77) :<br>
 » renames the png files in order from a zip file<br>
@@ -122,14 +128,14 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - [FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool for FZ animations [WIP] by [pinwheelHerman](https://github.com/pinwheelHerman) :<br>
 » renames the png files in order from a folder<br>
 » Creates a basic meta file with a straight forward animation frame order
+
+- [Flipper_AnimNamer](https://github.com/TimboFimbo/Flipper_AnimNamer) - Ruby tool for FZ animations by [TimboFimbo](https://github.com/TimboFimbo) :<br>
+» Fork of pinwheelHerman's tool<br>
+» renames the png files in order from a folder<br>
+» Creates a basic meta file with a straight forward animation frame order
   
 - [Flipper Animation Manifest Helper](https://github.com/ortil-afk/manifest_helper) - Python tool for FZ animations by [ortil-afk](https://github.com/ortil-afk) :<br>
 » Generates manifest.txt from gathered folders<br>
- 
-- [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Awesome app (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
-» Preview animations on PC (from .png or .bm files)<br>
-» Create manifest.txt with desired values<br>
-» Compile .png folder directly to .bm one (instant !!)
 
 - [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti) :<br>
 » Generate new animations from GIF files<br>
@@ -172,5 +178,3 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - (XX)Xtreme-Firmware [discord](https://discord.gg/mC2FxbYSMr) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
   
 - D-WARE [discord](https://discord.gg/dexvirus) -> DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
-
-- Baguette [discord](https://discord.gg/uXm5c9e5) -> WIP - French firmware
