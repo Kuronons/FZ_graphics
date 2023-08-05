@@ -86,6 +86,9 @@ CUSTOM ANIMATION MAKERS : <BR>
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
+
+ - [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by Valerie Aquamine
+
  - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
  
 - RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + bunch of unlisted ones)
