@@ -81,6 +81,8 @@ CUSTOM ANIMATION MAKERS : <BR>
  - [fz-gfx](https://github.com/oneamongthetrees/fz-gfx) (Animation and passport profile picts) by [oneamongthetrees](https://github.com/oneamongthetrees)
 
  - [Flipper-zero-animations](https://github.com/TechRafita/Flipper-zero-animations) by [Tech_Rafita](https://github.com/TechRafita)
+
+ - [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
