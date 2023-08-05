@@ -90,7 +90,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
  
 - RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + bunch of unlisted ones)
 
-- Xtreme's [custom NSFW lvl animations](https://github.com/ClaraCrazy/Flipper-Xtreme/tree/main/assets/dolphin/custom/NSFW/Anims) by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
+- Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/) including NSFW by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
 <BR>
 
  CUSTOM ANIMATIONS DUMPS : <BR>
