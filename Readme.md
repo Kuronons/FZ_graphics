@@ -158,7 +158,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 
 - [FlipperZero Animation Tool](https://github.com/nfowlie/flipperzero-animation-tool) - App (Linux / Win) by [Noel Echo Fowlie](https://github.com/nfowlie) aka Nelbium :<br>
 » Turn animated GIFs into FlipperZero animation data<br>
-» Requires a cloned repo of FZ firmwware + [GraphicsMagick](http://www.graphicsmagick.org/) suite installed<br>
+» Requires a cloned repo of FZ firmware + [GraphicsMagick](http://www.graphicsmagick.org/) suite installed<br>
 
 - [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
 <BR>
