@@ -140,6 +140,9 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - [Flipper Animation Manifest Helper](https://github.com/ortil-afk/manifest_helper) - Python tool for FZ animations by [ortil-afk](https://github.com/ortil-afk) :<br>
 » Generates manifest.txt from gathered folders<br>
 
+- [FlipperZero EZ Manifest](https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest/tree/main) - Python tool for FZ animations by [Wuhp](https://github.com/Wuhpondiscord) :<br>
+» Generates manifest.txt from subfolders containing animations<br>
+
 - [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti) :<br>
 » Generate new animations from GIF files<br>
 » Import animations on your favorite firmware<br>
