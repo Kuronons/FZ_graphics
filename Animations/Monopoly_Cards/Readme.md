@@ -10,12 +10,12 @@ Each animation starts with a Community Chest or Chance screen. Pushing back will
 
  - <b>"Go to Jail" community chest card</b><BR>
 
-[Kuronons_Monopoly_Gotojail_Preview.webm](https://user-images.githubusercontent.com/110337784/201546489-a041784e-61c5-46bc-a1f4-399ff77b5826.webm)
+[Kuronons_Monopoly_Gotojail_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/1c60837e-bb67-44d1-b46d-578aa23e1cef)
   
 <BR>
 
  - <b>"Doctor's Fee" community chest card</b><BR>
 
-[Kuronons_Monopoly_DoctorFee_Preview.webm](https://user-images.githubusercontent.com/110337784/210106494-384236f9-6417-4d8a-be6a-54573e117dca.webm)
+[Kuronons_Monopoly_DoctorFee_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/b761df8f-a84a-409d-8b37-61a1e7c83128)
 
 <BR>
