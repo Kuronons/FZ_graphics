@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="100" src="https://user-images.githubusercontent.com/110337784/231252422-f71b5669-7cbe-4a84-9902-01f2fa7d9dba.jpg">
+<img width="1000" height="100" src="https://github.com/Kuronons/FZ_graphics/assets/110337784/0b27979c-e325-4946-a4bc-ff11a0ed08ac">
 </p>
 
 Here you can find animations inspired by movies futuristic mega-corporations.<BR>
@@ -46,6 +46,12 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 [Kuronons_SFlogo_ENCOM_preview.webm](https://user-images.githubusercontent.com/110337784/231248306-7575234f-2296-45fb-9a37-3a2b8f5a8e43.webm)
     
+<BR>
+
+- ___INGSOC___ logo - from 1984 movie
+
+[Kuronons_SFlogo_INGSOC_preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8f739ab0-4677-4c4f-a56f-e291332bb1bd)
+
 <BR>
     
 - ___CYBERDYNE___ & ___SKYNET___ logos - from TERMINATOR movies saga
