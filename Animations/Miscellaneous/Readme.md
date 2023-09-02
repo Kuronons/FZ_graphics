@@ -7,7 +7,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : Only for EOB nerds... XD
       
-[Eye of the Flipper - Preview.webm](https://user-images.githubusercontent.com/110337784/193910550-777832f6-f3d7-46a0-8f53-5497fe791289.webm) 
+[Kuronons_Misc_Eye of the Flipper - Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/023dc6c3-a814-460d-b336-dd6e68576f0a)
 
 <BR>
    
