@@ -29,14 +29,15 @@ Here you can find various animations I made for the Flipper Zero :
 
 <BR>
 
-   - ___LAUGHING MAN___
+   - ___LAUGHING MAN___   [v.2]
       
       Inspired by the Warai Otoko (Laughing man) logo from the GHOST IN THE SHELL - STAND ALONE COMPLEX anime series.
       
-      Note : Forgot to add the cap pin on logo... mistake hidden by status bar... XD
+      Note : On first version (no longer shared here), I forgot to add the cap pin on logo... mistake was kinda hidden by status bar... XD<BR>
+             Version 2 is a total remake from scratch :<BR>
+             Logo redesigned as close as possible to the original & addition of active frames displaying the rolling text.
       
-
-[Laughing Man - Preview.webm](https://user-images.githubusercontent.com/110337784/193910655-f5d1182d-51d5-47c5-b4f2-bd90ad10b9e5.webm)
+[Kuronons_Misc_LaughingMan_v2 - Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/41d319b8-4f83-41c3-8aef-e3014a3c4e9b)
 
 <BR>
    
