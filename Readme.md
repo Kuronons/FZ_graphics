@@ -137,7 +137,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » Customize animation parameters<br>
 » And much more...
 
-- <b>FZ animations scripts  :  GIF to frames</b><BR>
+- <b>FZ animations SCRIPTS  :  GIF to frames</b><BR>
 [Flipper Animation Maker](https://github.com/H4XV/flipper-animation-generator) - Python tool by [H4XV](https://github.com/H4XV) :<br>
 » Automatic Animation generator<br>
 » Gif to Flipper Animation<br>
@@ -146,15 +146,15 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » Resizes frames to 128x64 pixels and saves as PNG<br>
 » Generates meta file<br>
  
-- <b>FZ animations scripts  :  png files renaming + meta.txt creation</b><BR>
+- <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
 [Flipper Zero Frame Converter](https://github.com/culturally/flipper0-converter) - Powershell tool by [culturally](https://github.com/culturally) aka detective<br>
-[FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool [WIP] by [pinwheelHerman](https://github.com/pinwheelHerman)<br>
-[Flipper_AnimNamer](https://github.com/TimboFimbo/Flipper_AnimNamer) - Ruby tool [fork of FZ_AnimNamer] by [TimboFimbo](https://github.com/TimboFimbo)<br>
+[FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool by [pinwheelHerman](https://github.com/pinwheelHerman)<br>
+[Flipper_AnimNamer](https://github.com/TimboFimbo/Flipper_AnimNamer) - Ruby tool by [TimboFimbo](https://github.com/TimboFimbo)<br>
 » renames the png files in order from a folder / zip file<br>
 » Creates a basic meta file with a straight forward animation frame order
 
-- <b>FZ animations scripts  :  manifest.txt creation</b><BR>
+- <b>FZ animations SCRIPTS  :  manifest.txt creation</b><BR>
 [Flipper Animation Manifest Helper](https://github.com/ortil-afk/manifest_helper) - Python tool by [ortil-afk](https://github.com/ortil-afk)<br>
 [FlipperZero EZ Manifest](https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest/tree/main) - Python tool by [Wuhp](https://github.com/Wuhpondiscord)<br>
 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
