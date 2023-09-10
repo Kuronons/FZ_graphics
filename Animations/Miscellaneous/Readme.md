@@ -80,4 +80,14 @@ Here you can find various animations I made for the Flipper Zero :
 [Kuronons_Misc_Cobra-Preview.webm](https://user-images.githubusercontent.com/110337784/213905937-55e02d09-61eb-487a-a58b-afffddf6300d.webm)
 
 <BR>
+   
+   - ___CMOSDEAD___
+      
+      Inspired by the 1998's CMOSDead DOS virus. Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Thinking of making a second version that would respect a bit more the original payload display.
+
+[Kuronons_Misc_CMOSDEAD-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/3ae0c7a8-34a3-40b3-b59f-b9ad4ea6c184)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
