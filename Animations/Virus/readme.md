@@ -24,4 +24,14 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Elvira-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/62ecfbc3-aca8-4faa-9c48-e06581dbbef2)
 
 <BR>
+
+   - ___TECHNO___
+      
+      Inspired by the 1993's *<B>TECHNO</b>* DOS virus. Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Modified Elvira's command prompt for the passive frames.
+
+[Kuronons_Virus_Techno-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/ce85304f-0c6b-4a13-8212-11be57fe563d)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
