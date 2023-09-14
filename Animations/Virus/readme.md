@@ -34,4 +34,15 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Techno-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/ce85304f-0c6b-4a13-8212-11be57fe563d)
 
 <BR>
+
+   - ___MADMAN___
+      
+      Inspired by the 90's (?) *<B>MADMAN</b>* DOS virus. Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Modified Elvira's command prompt -with some font enhancement- for the passive frames.<BR>
+      Temporary preview video recorded via Animation Manager. To be updated.
+
+[Kuronons_Virus_MadMan-Beta_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8c6563b6-e60a-4716-ae71-badacfa31670)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
