@@ -83,6 +83,8 @@ CUSTOM ANIMATION MAKERS : <BR>
  - [Flipper-zero-animations](https://github.com/TechRafita/Flipper-zero-animations) by [Tech_Rafita](https://github.com/TechRafita)
 
  - [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
+
+ - [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) by [BOSSK28](https://github.com/BOSSK28) aka Jenkins / Josef
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
