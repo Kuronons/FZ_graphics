@@ -87,7 +87,7 @@ CUSTOM ANIMATION MAKERS : <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
 
- - [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by Valerie Aquamine
+ - [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
 
  - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
  
@@ -103,10 +103,10 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
  <BR>
 
 ## Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
-
-- [Valerie Aquamine on Behance](https://www.behance.net/gallery/88949929/Flipper-graphics) - Gallery of works done for Flipper Zero by artist Valerie Aquamine, the Mother of Dolphin.
   
 - [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
+
+- [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - .md file I wrote based on experience
 
 - [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
 » [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
@@ -114,7 +114,16 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 » [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
 » [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)
 
-- [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - .md file I wrote based on experience
+- [Flipper Zero - Animation Starter Guide](https://www.youtube.com/watch?v=iFEQ7jdb2Mg) - YouTube tutorial by [Pen Ace](https://www.youtube.com/@PenAce)
+
+- [Wihrus](https://wihrus.de/)'s video tutorials [Deutsch/German] :<BR>
+» [Flipper Animationen #customize your Flipper](https://www.youtube.com/watch?v=bQhRPY16b-k) (YouTube)<BR>
+» [Flipper Passport/ID Bild #customize your Flipper](https://www.youtube.com/watch?v=_QL6nFI-6Go) (YouTube)<BR>
+
+- [Derek Jamison](https://github.com/jamisonderek/flipper-zero-tutorials) aka codeallnight's video tutorials :<BR>
+» [Flipper Zero - Customize Main Menu icons!](https://www.youtube.com/watch?v=IzMI5KRSzUM) (YouTube)<BR>
+» [Flipper Zero - Customize Main Menu Look & Feel](https://www.youtube.com/watch?v=F1G4ZAkRKzI) (YouTube)<BR>
+
 <BR>
  
 ## Links of interest : FLIPPER GRAPHICS - Tools & apps
