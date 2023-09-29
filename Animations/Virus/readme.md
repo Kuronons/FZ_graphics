@@ -52,7 +52,8 @@ Here are animations that takes their inspiration from old PC viruses :
 
    - ___PHANTOM 1___
       
-      Inspired by the 1994 *<B>PHANTOM 1</b>* DOS virus by *Dark Prince*. Passive frames are the command line in loop, pushing back will show the payload.
+      Inspired by the 1994 *<B>PHANTOM 1</b>* DOS virus by *Dark Prince*.<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
       
       Note : Modified & enhanced Elvira's command prompt for the passive frames.<BR>
             -> Only a blinking cursor on this one as the payload was meant to display after 20mn of inactivity.<BR>
