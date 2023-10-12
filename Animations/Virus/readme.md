@@ -61,4 +61,17 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Phantom1-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/3fdc512e-1130-455f-9aca-dc9e9b512f23)
 
 <BR>
+
+   - ___CASCADE___
+      
+      Inspired by the 1987 *<B>CASCADE</b>* DOS virus.<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Modified & enhanced DOS prompt with equal spaces between characters to get the wished rendering effect.<BR>
+             Author of Cascade is unknown but probably swiss or german.<BR>
+             *<B>Cascade</b>* is also known as *<B>Herbstlaub</b>*.<BR>
+      
+[Kuronons_Virus_Cascade-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8e74053c-2afe-4fa9-9c17-ea5b75a9e545)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
