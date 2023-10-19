@@ -72,19 +72,21 @@ CUSTOM ANIMATION MAKERS : <BR>
 
 - [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
  
- - [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
+- [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
  
- - [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
+- [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
 
- - [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) & [rabbit-labs-flipper-animation](https://github.com/michaeldufault/rabbit-labs-flipper-animation) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
+- [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) & [rabbit-labs-flipper-animation](https://github.com/michaeldufault/rabbit-labs-flipper-animation) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
 
- - [fz-gfx](https://github.com/oneamongthetrees/fz-gfx) (Animation and passport profile picts) by [oneamongthetrees](https://github.com/oneamongthetrees)
+- [fz-gfx](https://github.com/oneamongthetrees/fz-gfx) (Animation and passport profile picts) by [oneamongthetrees](https://github.com/oneamongthetrees)
 
- - [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
+- [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
 
- - [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) (mostly Star Wars) by [BOSSK28](https://github.com/BOSSK28)
+- [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) (mostly Star Wars) by [BOSSK28](https://github.com/BOSSK28)
 
- - [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
+- [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
+
+- [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by Platon aka [secretlay3r](https://github.com/secretlay3r)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
