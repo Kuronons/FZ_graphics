@@ -57,4 +57,11 @@ Here you can find passport backgrounds designed for RogueMaster firmware
     Inspired by Super Mario Bros game
     
 ![PASSPORT_MARIO-Preview](https://user-images.githubusercontent.com/110337784/210186434-4254d10a-4af8-46a6-b8f8-822f19df0af4.jpg)
+<BR>
+<BR>
 
+- ___ADP___
+
+    Inspired by AD Police Files OAV (1990 prequel of Bubblegum crisis anime)
+    
+![PASSPORT_ADP-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/94b80236-f6c5-4ebe-b5ef-0ab8ceb4f3b3)
