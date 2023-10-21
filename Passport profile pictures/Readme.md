@@ -83,4 +83,7 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 
 ![Skull](https://user-images.githubusercontent.com/110337784/230978303-9e193e3a-4fe0-4ff5-aed2-0341c78fe179.png)
 
+- ___AD POLICE___ - ADP Shield badge inspired by 1990's AD Police Files OAV (Prequel of Bubblegum Crisis)
+
+![AD_Police](https://github.com/Kuronons/FZ_graphics/assets/110337784/d4fd1764-d5c8-4c40-81f5-408274aed110)
 
