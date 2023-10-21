@@ -60,7 +60,7 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 <BR>
 <BR>
 
-- ___ADP___
+- ___AD POLICE___
 
     Inspired by AD Police Files OAV (1990 prequel of Bubblegum crisis anime)
     
