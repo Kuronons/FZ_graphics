@@ -3,7 +3,7 @@ Here you can find animations I made for custom firmwares :
    
    - ___RMCFW___
    
-      <b>RogueMaster</b> Custom Firmware. Displaying RogueMaster in DragonBall font with SD-Goku.
+      [<b>RogueMaster</b>](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) Custom Firmware. Displaying RogueMaster in DragonBall font with SD-Goku.
       
       Note : Talking-Sasquach made a [second version with animated fighting sprites](https://user-images.githubusercontent.com/16942638/195171690-2352126b-791d-4c2b-931c-3592a17b085b.gif). <3
       
@@ -13,7 +13,7 @@ Here you can find animations I made for custom firmwares :
    
    - ___SAS TV___
       
-      <b>SquachWare</b> default animation. Inspired by Official Flipper firmware one, with reversed viewpoint. 3 random dolphin's bubbles.
+      [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) default animation. Inspired by Official Flipper firmware one, with reversed viewpoint. 3 random dolphin's bubbles.
       
 [Kuronons_CFW_SasTV-Preview.webm](https://user-images.githubusercontent.com/110337784/213906156-29d1f4cd-1587-4ff6-ab2f-ebd5cac706a4.webm)
 
@@ -21,7 +21,7 @@ Here you can find animations I made for custom firmwares :
       
    - ___TS3000___
    
-      <b>SquachWare</b> - Inspired by Terminator. Pushing back will make the TS3000 sheet appear.
+      [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) - Inspired by Terminator. Pushing back will make the TS3000 sheet appear.
       
 [Kuronons_CFW_TS3000-Preview.webm](https://user-images.githubusercontent.com/110337784/213906316-c1b332ea-7155-4aaf-9149-2c1a199ac07c.webm)
 
@@ -29,7 +29,7 @@ Here you can find animations I made for custom firmwares :
 
    - ___ESCAPE FROM___
       
-      <b>SquachWare</b> - Inspired by Escape from L.A. movie final scene. Mostly active animation.
+      [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) - Inspired by Escape from L.A. movie final scene. Mostly active animation.
       
       Note : Mainly a work with bubbles (12 different ones). Positioning is a mess... -_-
       
@@ -39,7 +39,18 @@ Here you can find animations I made for custom firmwares :
    
    - ___V___
       
-      <b>SquachWare</b> - Inspired by original "V" TV series. Picture is taken from a propaganda poster of the Visitors. Pushing back will make the Resistance grafitti appear.
+      [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) - Inspired by original "V" TV series. Picture is taken from a propaganda poster of the Visitors. Pushing back will make the Resistance grafitti appear.
 
 [Kuronons_CFW_V-Preview.webm](https://user-images.githubusercontent.com/110337784/213906463-7335587b-9fd3-45e8-8453-24dab99e7fc5.webm)
+
+<BR>
+   
+   - ___MARAUDER___
+      
+      [<b>ESP Marauder</b>](https://github.com/justcallmekoko/ESP32Marauder) - Inspired by [JustCallMeKoko](https://discord.gg/MVs5Gt4A)'s ESP Marauder firmware logos design.<BR>
+      Logo is drawn in loop with a light brush effect as it were a kanji.<BR>
+      Note that the big pixel rendering is done to respect the CLI ascii one.<BR>
+      Pushing back will make the text appear followed by the skull anim.
+
+[Kuronons_CFW_Marauder-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/32d233a2-6061-41de-8e38-0ba6d70e7dee)
 
