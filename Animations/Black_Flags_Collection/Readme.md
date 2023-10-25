@@ -19,6 +19,6 @@ Jeahan II Ango, Pierre Belain d'Esnambuc, Renato Beluche, Stede Bonnet, Jean Boz
 
 Here is a preview video with 2 displayed flags for an insight.
 
-[Preview.webm](https://user-images.githubusercontent.com/110337784/193911601-fdb9bc3a-c2b1-4d6e-b7a5-bf083d0e4633.webm)
+[Kuronons_BlackFlagsCollection-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/697be2d1-149a-4243-a67f-0001cb3d7e04)
 
 I also added a manifest.txt file with the 30 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
