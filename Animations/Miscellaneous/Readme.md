@@ -15,7 +15,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Passive frame are rotating Earth. Pushing BACK will make the Arcadia (anime Captain Harlock's ship) appears.
       
-[Earth_Arcadia - Preview.webm](https://user-images.githubusercontent.com/110337784/193910620-4b04c4af-26f4-4312-b59a-ab0a98f47dcb.webm)
+[Kuronons_Misc_Earth_Arcadia_Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/2f92a0c7-346a-4d28-ac93-f6ea36491303)
 
 <BR>
       
@@ -37,7 +37,7 @@ Here you can find various animations I made for the Flipper Zero :
              Version 2 is a total remake from scratch :<BR>
              Logo redesigned as close as possible to the original & addition of active frames displaying the rolling text.
       
-[Kuronons_Misc_LaughingMan_v2 - Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/41d319b8-4f83-41c3-8aef-e3014a3c4e9b)
+[Kuronons_Misc_LaughingMan_v2 - Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/569e6384-45fa-46e6-b98d-3673c633a185)
 
 <BR>
    
@@ -47,7 +47,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : Not really happy with the apples falling... latency... :/
       
-[Kuronons - L - Preview.webm](https://user-images.githubusercontent.com/110337784/193910682-7dafdf00-76f0-438d-b6fb-ff1754b83ebd.webm)
+[Kuronons_Misc_L - Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8abe253d-fe20-4b55-adf4-1b47a848f1dd)
 
 <BR>
    
@@ -57,7 +57,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : The passive frames are displaying nicely on the Flipper but active ones are a bit jerky due to the screen's refresh rate... :/
 
-[Kuronons_FlippaVerse_Preview.webm](https://user-images.githubusercontent.com/110337784/208100070-3261f3e0-f32f-4524-b549-5768797fcd31.webm)
+[Kuronons_Misc_FlippaVerse_Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/bc4dd116-a98d-4202-aaa0-e7b6cc63a751)
 
 <BR>
    
@@ -67,7 +67,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : Actual preview is kinda slow but the FPS (3) is set to avoid flickering on Flip's screen.
 
-[Kuronons_Misc_Akira_Capsule-Preview.webm](https://user-images.githubusercontent.com/110337784/208520504-276d81cc-5d66-497c-8a86-7ea5613656d8.webm)
+[Kuronons_Misc_Akira_Capsule-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/50b008b0-72b3-46c6-91ef-900f703610c4)
 
 <BR>
    
@@ -77,7 +77,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : My first try using existing GIF. Not totally pleased with final rendering.
 
-[Kuronons_Misc_Cobra-Preview.webm](https://user-images.githubusercontent.com/110337784/213905937-55e02d09-61eb-487a-a58b-afffddf6300d.webm)
+[Kuronons_Misc_Cobra-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6c755073-c827-417a-96da-b9c77c95766f)
 
 <BR>
 
