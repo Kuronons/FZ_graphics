@@ -50,13 +50,13 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 - ___INGSOC___ logo - from 1984 movie
 
-[Kuronons_SFlogo_INGSOC_preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8f739ab0-4677-4c4f-a56f-e291332bb1bd)
+[Kuronons_SFlogo_INGSOC_preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/42890f38-537a-49b2-b63a-4e133aade038)
 
 <BR>
     
 - ___CYBERDYNE___ & ___SKYNET___ logos - from TERMINATOR movies saga
     
-[Kuronons_SFlogo_Cyberdyne_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/0087f635-581f-4014-9e91-4bca0883b1cf)
+[Kuronons_SFlogo_Cyberdyne_Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/44657422-8691-4192-89f8-df4ace0007bc)
 
 [Kuronons_SFlogo_Skynet-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/9793319b-1ada-4232-bce6-113f6eb2f83a)
 
