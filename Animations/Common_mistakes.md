@@ -1,12 +1,13 @@
 THE MOST COMMON MISTAKES DONE WHEN MAKING AN ANIMATION
 
 1. PNG FILES :
-- forgetting the first frame should be named frame_0.png
-- missing a number while saving frames as : frame_0.png, frame_1.png, frame_2.png frame_3.png, [missing frame], frame_5.png...
-- wrong naming first frames by adding a "0" like frame_01.png 
+- forgetting the first frame's number should be 0 -> frame_0.png
+- having custom file name for frames such as image_1.png or pict_1.png -> Frames should always be under frame_X.png format.
+- missing a number while saving frames as : frame_0.png, frame_1.png, frame_2.png frame_3.png, [**missing frame**], frame_5.png...
+- wrong naming first frames by adding a "0" like frame_01.png
 - having your OS not showing file extensions so you end up with files like frame_1.png.png or meta.txt.txt
-- having PNG with a non-valid pixel size
-- having frames saved under another file format than PNG (ie JPG, etc...)
+- having PNG with a non-valid pixel size -> X can't be over 128px and Y 64px
+- having frames saved under another file format than PNG (ie JPG, GIF, etc...)
 
 2. META.TXT :
 - Set incorrect pixel frame size (Width & Height values different from your png ones)
