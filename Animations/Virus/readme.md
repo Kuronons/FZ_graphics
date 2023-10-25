@@ -83,7 +83,7 @@ Here are animations that takes their inspiration from old PC viruses :
       Note : Used modified Cascade DOS prompt for passive frames.<BR>
              Many variants of the virus exist such as *Ambulance Car-B*, *RedX-Any* or *Ambulance.793* among others.
                    
-[Kuronons_Virus_Ambulance-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/28d0ee56-a968-4041-9677-d091bda118ad)
+[Kuronons_Virus_Ambulance-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/e9bed7f2-08d4-42cd-ae6f-38d5cc43a8ad)
 
 <BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
