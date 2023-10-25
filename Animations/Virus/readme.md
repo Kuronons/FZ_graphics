@@ -7,7 +7,7 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Thinking of making a second version that would respect a bit more the original payload display.
 
-[Kuronons_Virus_CMOSDEAD-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/b27a8425-ec47-4b93-a3fe-f0ea348ad1f3)
+[Kuronons_Virus_CMOSDead-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4b4d2492-722b-4934-8853-5e94d6615dc1)
 
 <BR>
 
@@ -24,7 +24,7 @@ Here are animations that takes their inspiration from old PC viruses :
      <b>&emsp;&emsp;&emsp;Puis repars. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;*Then go again.*</b><BR>
      <b>&emsp;&emsp;&emsp;J'aime ton mouvement. &emsp;&nbsp;&nbsp;*I love your movement.*</b><BR>
 
-[Kuronons_Virus_Elvira-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/62ecfbc3-aca8-4faa-9c48-e06581dbbef2)
+[Kuronons_Virus_Elvira-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/be369c42-629e-4d5b-a5a2-0dd02bee2285)
 
 <BR>
 
@@ -35,7 +35,7 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Modified Elvira's command prompt for the passive frames.
 
-[Kuronons_Virus_Techno-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/ce85304f-0c6b-4a13-8212-11be57fe563d)
+[Kuronons_Virus_Techno-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4bbe4c87-7b22-4d00-a8b8-7fffc7b5147a)
 
 <BR>
 
@@ -46,7 +46,7 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Modified Elvira's command prompt (with some font enhancement : Letters D & o) for the passive frames.<BR>
       
-[Kuronons_Virus_MadMan-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/baa4404a-6f25-40f5-b5ae-2375624f4627)
+[Kuronons_Virus_MadMan-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/5475433e-6898-4fd4-ac52-6d55d35272b6)
 
 <BR>
 
@@ -58,7 +58,7 @@ Here are animations that takes their inspiration from old PC viruses :
       Note : Modified & enhanced Elvira's command prompt for the passive frames.<BR>
             -> Only a blinking cursor on this one as the payload was meant to display after 20mn of inactivity.<BR>
       
-[Kuronons_Virus_Phantom1-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/3fdc512e-1130-455f-9aca-dc9e9b512f23)
+[Kuronons_Virus_Phantom1-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/cbbd2587-4108-4ff2-8aa9-36d2bfbcf365)
 
 <BR>
 
@@ -71,7 +71,7 @@ Here are animations that takes their inspiration from old PC viruses :
              Author of Cascade is unknown but probably swiss or german.<BR>
              *<B>Cascade</b>* is also known as *<B>Herbstlaub</b>*.<BR>
       
-[Kuronons_Virus_Cascade-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8e74053c-2afe-4fa9-9c17-ea5b75a9e545)
+[Kuronons_Virus_Cascade-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/d67a94b2-d118-439d-b776-04712ccb04d5)
 
 <BR>
 
