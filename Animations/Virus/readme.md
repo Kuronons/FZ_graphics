@@ -86,4 +86,27 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Ambulance-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/e9bed7f2-08d4-42cd-ae6f-38d5cc43a8ad)
 
 <BR>
+
+   - ___UPSILON___
+      
+      Inspired by the 2015 (?) *<B>UPSILON</b>* DOS virus by *int7bh* / [@OrangeShellGaming](https://www.youtube.com/user/OrangeShellGaming).<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Reworked the DOS prompt with adequate spaces between alphanums and interlines.<BR>
+             The original payload was a submission to [*danooct1*](https://www.youtube.com/@danooct1) by one of his viewer. Creator is most probably finnish.<BR>
+             The expression *<B>Suomi Perkele</b>* is a somehow respectful/chauvinistic idiomatic that can be translated as *Finnish Devil*.<BR>
+             *<B>Upsilon</b>* can send a bunch of different payloads/attacks and contains a bunch of easter eggs.<BR>
+             Due to the restrictive number of frames a Flip anim can handle, only one of the most visual is proposed here.<BR>
+             The latin text, partially hidden by status bar, is the (shortened) lyrics of Final Fantasy VII's Sephiroth battle theme :<BR>
+     <b>&emsp;&emsp;&emsp;Estuans interius ira vehementi  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Burning inside with violent anger*</b><BR>
+     <b>&emsp;&emsp;&emsp;Sephiroth ! Sephiroth !  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*Sephiroth ! Sephiroth !*</b><BR>
+     <b>&emsp;&emsp;&emsp;Sors immanis, et inanis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*A cruel and empty fate*</b><BR>
+     <b>&emsp;&emsp;&emsp;Veni, veni, venias, ne me mori facias &emsp;&emsp;&emsp;&nbsp;*Come, come, oh come ! Don't let me die*</b><BR>
+     <b>&emsp;&emsp;&emsp;GLORIOSA ! GENEROSA ! &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*GLORIOUS ! GENEROUS !*</b><BR>
+     <b>&emsp;&emsp;&emsp;Sephiroth ! Sephiroth !  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*Sephiroth ! Sephiroth !*</b><BR>
+             I added my own easter egg, replacing "Sephiroth" by "Sasquach" because... Voilà quoi ! O_oV
+                   
+[Kuronons_Virus_Upsilon-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/3a19635a-fde9-4483-abae-fc0559af17e2)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
