@@ -106,7 +106,7 @@ Here are animations that takes their inspiration from old PC viruses :
      <b>&emsp;&emsp;&emsp;Sephiroth ! Sephiroth !  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*Sephiroth ! Sephiroth !*</b><BR>
              I added my own easter egg, replacing "Sephiroth" by "Sasquach" because... Voilà quoi ! O_oV
                    
-[Kuronons_Virus_Upsilon-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/3a19635a-fde9-4483-abae-fc0559af17e2)
+[Kuronons_Virus_Upsilon-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/70a106f5-b6f3-4466-90a6-f4b2de3eabf1)
 
 <BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
