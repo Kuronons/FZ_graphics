@@ -36,7 +36,11 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 <BR>   
 
-- ___DHARMA___ logo - from LOST series
+- ___DHARMA___ logo - from LOST series (In both light & dark version)<BR>
+Note : originally in light version, updated in dark one with blinking cursor as passive frames to fit the rest of the anims set.<BR>
+Dark version is otherwise just a negative version of the orginal. (Not willing to rework it all more indepth -> just me being lazy here... XD )
+
+[Kuronons_SFlogo_Dharma_dark_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4814c442-51f7-493b-ae30-8e25d61a1db2)
 
 [Kuronons_SFlogo_Dharma_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6786acbe-31ec-4f37-9937-9db515cea705)
    
