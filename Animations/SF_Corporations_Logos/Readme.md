@@ -10,7 +10,7 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 [Kuronons_SFlogo_Tyrell-preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/fe2f11e5-f8ca-44f6-9190-87e754f2406e)
 
-<BR>
+<BR><BR>
 
 - ___WEYLAND CORP___ & ___WEYLAND YUTANI___ logo - from ALIEN movies saga
     
@@ -18,7 +18,7 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 [Kuronons_SFlogo_WeylandYutani_preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4572157d-94eb-4823-8aa9-392912912d31)
   
-<BR>
+<BR><BR>
     
 - ___OCP___ logo - from ROBOCOP movies saga (1987, 1990 & 1993 variants)
     
@@ -28,13 +28,13 @@ Logo appears by pressing BACK BUTTON.<BR>
 
 [Kuronons_SFlogo_OCP3_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6ba75539-8055-4fd8-9e2a-450434adf5f7)
  
-<BR>
+<BR><BR>
     
 - ___REKALL___ logo - from TOTAL RECALL movie
     
 [Kuronons_SFlogo_Rekall_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/b7974aa9-7126-4b54-aab3-22af8100f44e)
 
-<BR>   
+<BR><BR>
 
 - ___DHARMA___ logo - from LOST series (In both light & dark version)<BR>
 Note : originally in light version, updated in dark one with blinking cursor as passive frames to fit the rest of the anims set.<BR>
@@ -44,19 +44,19 @@ Dark version is otherwise just a negative version of the orginal. (Not willing t
 
 [Kuronons_SFlogo_Dharma_Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6786acbe-31ec-4f37-9937-9db515cea705)
    
-<BR>
+<BR><BR>
 
 - ___ENCOM___ logo - from TRON movie
 
 [Kuronons_SFlogo_ENCOM_preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/ba39867b-d706-4e97-822d-bcb15e73b89c)
    
-<BR>
+<BR><BR>
 
 - ___INGSOC___ logo - from 1984 movie
 
 [Kuronons_SFlogo_INGSOC_preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/42890f38-537a-49b2-b63a-4e133aade038)
 
-<BR>
+<BR><BR>
     
 - ___CYBERDYNE___ & ___SKYNET___ logos - from TERMINATOR movies saga
     
