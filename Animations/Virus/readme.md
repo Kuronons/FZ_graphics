@@ -109,4 +109,18 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Upsilon-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/70a106f5-b6f3-4466-90a6-f4b2de3eabf1)
 
 <BR>
+
+   - ___WALKER___
+      
+      Inspired by the 1992 *<B>WALKER</b>* DOS virus by *UJHPTTLZ*.<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : The old man sprites comes from the 1987 video game *Bad Street Brawler*.<BR>
+             This original virus contains the following internal text string, providing some intel on its origins :<BR>
+             "*WALKER V1.00 This absolutely harmless and self-destructive program is written by UJHPTTLZ in the city of Istanbul, 1992*"<BR>
+             I made this anim on a suggestion from [7h30th3r0n3](https://github.com/7h30th3r0n3) ! Challenge accepted ! O_oV
+                   
+[Kuronons_Virus_Walker-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/e12c50e0-ea39-41f0-a903-a3b7dccb586f)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
