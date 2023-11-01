@@ -123,4 +123,17 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Walker-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/e12c50e0-ea39-41f0-a903-a3b7dccb586f)
 
 <BR>
+
+   - ___CERBERUS___
+      
+      Inspired by the *<B>CERBERUS</b>* DOS virus.<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Author / year / origin : unknown. (would likely update info if anyone has some intel to share...)<BR>
+             Apparently also known as "virus.DOS.austin"...<BR>
+             The Cerberus file shown in prompt should have been a .com instead of an .exe... (-_-;)<BR>
+      
+[Kuronons_Virus_Cerberus-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/fa536757-04ea-43ce-92d7-5c3ff99adb8a)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
