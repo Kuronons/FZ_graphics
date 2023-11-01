@@ -87,6 +87,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
 
 - [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by Platon aka [secretlay3r](https://github.com/secretlay3r)
+
+- [MyFlip](https://github.com/luis-caldas/myflip) by [luis-caldas](https://github.com/luis-caldas)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
