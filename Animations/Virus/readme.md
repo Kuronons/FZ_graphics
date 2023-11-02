@@ -136,4 +136,16 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Cerberus-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/fa536757-04ea-43ce-92d7-5c3ff99adb8a)
 
 <BR>
+
+   - ___PLANE___
+      
+      Inspired by the *<B>PLANE</b>* DOS virus.<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : Author unknown. Probably from Finland, late 1996<BR>
+             Also known as "HLLC.Plane".<BR>
+                   
+[Kuronons_Virus_Plane-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/c8889ad5-22f5-41d5-874d-ffcb14acf828)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
