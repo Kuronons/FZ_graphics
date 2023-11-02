@@ -151,10 +151,11 @@ Here are animations that takes their inspiration from old PC viruses :
 
    - ___COCONUT___
       
-      Inspired by the 1997 *<B>COCONUT</b>* DOS virus by the Belgian virus writer [Kimberley "Gigabyte" Vanvaeck](https://en.wikipedia.org/wiki/Gigabyte_(virus_writer)).<BR>
+      Inspired by the 1997 *<B>COCONUT</b>* DOS virus.<BR>
       Passive frames are the command line in loop, pushing back will show the payload.
       
       Note : 12th and last of the series. O_oV<BR>
+      Author unknown. Wrongly attributed on some sites to Kimberley "Gigabyte" Vanvaeck who wrote an eponymous worm virus in 2003.<BR>
 
 [Kuronons_Virus_Coconut-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/a3fa76a6-454e-42af-8dc4-595b8475d5de)
 
