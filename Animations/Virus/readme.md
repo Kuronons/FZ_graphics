@@ -148,4 +148,15 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Plane-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/c8889ad5-22f5-41d5-874d-ffcb14acf828)
 
 <BR>
+
+   - ___COCONUT___
+      
+      Inspired by the 1997 *<B>COCONUT</b>* DOS virus by the Belgian virus writer [Kimberley "Gigabyte" Vanvaeck](https://en.wikipedia.org/wiki/Gigabyte_(virus_writer)).<BR>
+      Passive frames are the command line in loop, pushing back will show the payload.
+      
+      Note : 12th and last of the series. O_oV<BR>
+
+[Kuronons_Virus_Coconut-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/a3fa76a6-454e-42af-8dc4-595b8475d5de)
+
+<BR>
 Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
