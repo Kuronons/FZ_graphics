@@ -156,6 +156,7 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : 12th and last of the series. O_oV<BR>
       Author unknown. Wrongly attributed on some sites to Kimberley "Gigabyte" Vanvaeck who wrote an eponymous worm virus in 2003.<BR>
+      Variants exist such as [Virus.DOS.Coconut.2030](https://dosv.benjojo.co.uk/sampleid6589.html) by *Black Wizard* or [Virus.DOS.Coconut.2071](https://dosv.benjojo.co.uk/sampleid6563.html) by *King Lizard* (Spain, 1997).<BR>
 
 [Kuronons_Virus_Coconut-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/a3fa76a6-454e-42af-8dc4-595b8475d5de)
 
