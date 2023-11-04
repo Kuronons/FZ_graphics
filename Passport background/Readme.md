@@ -65,4 +65,12 @@ Here you can find passport backgrounds designed for RogueMaster firmware
     Inspired by AD Police Files OAV (1990 prequel of Bubblegum crisis anime)
     
 ![PASSPORT_ADP-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/b48b3ec9-750e-4d69-8478-f0043b7f30b4)
+<BR>
+<BR>
 
+- ___DEDSEC___
+
+    Inspired by WATCH DOGS game
+
+![PASSPORT_WRENCH-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/c3509073-cb42-4de9-b343-51985f26a7cf)
+  
