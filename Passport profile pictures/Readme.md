@@ -87,6 +87,11 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 
 ![AD_Police](https://github.com/Kuronons/FZ_graphics/assets/110337784/d4fd1764-d5c8-4c40-81f5-408274aed110)
 
-- ___DEDSEC MASK___ - From Watch Dogs game
+- ___DEDSEC MASK___ - From Watch Dogs 2 game
 
-![Dedsec_Mask](https://github.com/Kuronons/FZ_graphics/assets/110337784/4802a160-edb4-41b0-81e3-2f4d47f15f1f)
+![Dedsec-Mask](https://github.com/Kuronons/FZ_graphics/assets/110337784/570b7f31-2d7c-47cb-bb2f-3724a95a23d1)
+
+- ___WRENCH___ - From Watch Dogs 2 game - *Happy* / *Okay* / *Bad* variants
+
+![Wrench_set1](https://github.com/Kuronons/FZ_graphics/assets/110337784/e32f707e-0d6b-415f-b38f-e871bb7dd64a)
+
