@@ -80,4 +80,4 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 
     Medieval themed passport
   
-![PASSPORT_MEDIEVAL-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/0ae793d4-b71b-4154-9004-ee65d9ebf971)
+![PASSPORT_MEDIEVAL-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/0ff67a77-8729-4ced-b432-c4e5611593bf)
