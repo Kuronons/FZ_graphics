@@ -97,4 +97,4 @@ Here are profile pictures I made for the Flipper Zero (note that the orange/blac
 
 - ___LEEROY JENKINS___ - From World of Warcraft MMORPG famous player's character
 
-![Leeroy_Jenkins](https://github.com/Kuronons/FZ_graphics/assets/110337784/b34aca57-86cb-4f9c-b4ea-c6bfa24fd358)
+![Leeroy_Jenkins](https://github.com/Kuronons/FZ_graphics/assets/110337784/46066739-2835-4643-b707-5cdcace02be1)
