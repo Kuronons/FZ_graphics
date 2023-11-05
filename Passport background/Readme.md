@@ -70,7 +70,7 @@ Here you can find passport backgrounds designed for RogueMaster firmware
 
 - ___DEDSEC___
 
-    Inspired by WATCH DOGS game
-
-![PASSPORT_WRENCH-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/c3509073-cb42-4de9-b343-51985f26a7cf)
+    Inspired by WATCH DOGS game series
+  
+![PASSPORT_DEDSEC_WRENCH-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/41f7acc1-6f5c-46c5-a865-d2ed807d5701)
   
