@@ -109,72 +109,72 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - .md file I wrote based on experience
 
 - [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
-» [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
-» [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) (YouTube)<BR>
-» [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
-» [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)
+⮚ [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
+⮚ [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) (YouTube)<BR>
+⮚ [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
+⮚ [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)
 
 - [Flipper Zero - Animation Starter Guide](https://www.youtube.com/watch?v=iFEQ7jdb2Mg) - YouTube tutorial by [Pen Ace](https://www.youtube.com/@PenAce)
 
 - [Wihrus](https://wihrus.de/)'s video tutorials [Deutsch/German] :<BR>
-» [Flipper Animationen #customize your Flipper](https://www.youtube.com/watch?v=bQhRPY16b-k) (YouTube)<BR>
-» [Flipper Passport/ID Bild #customize your Flipper](https://www.youtube.com/watch?v=_QL6nFI-6Go) (YouTube)<BR>
+⮚ [Flipper Animationen #customize your Flipper](https://www.youtube.com/watch?v=bQhRPY16b-k) (YouTube)<BR>
+⮚ [Flipper Passport/ID Bild #customize your Flipper](https://www.youtube.com/watch?v=_QL6nFI-6Go) (YouTube)<BR>
 
 - [Derek Jamison](https://github.com/jamisonderek/flipper-zero-tutorials) aka codeallnight's video tutorials :<BR>
-» [Flipper Zero - Customize Main Menu icons!](https://www.youtube.com/watch?v=IzMI5KRSzUM) (YouTube)<BR>
-» [Flipper Zero - Customize Main Menu Look & Feel](https://www.youtube.com/watch?v=F1G4ZAkRKzI) (YouTube)<BR>
+⮚ [Flipper Zero - Customize Main Menu icons!](https://www.youtube.com/watch?v=IzMI5KRSzUM) (YouTube)<BR>
+⮚ [Flipper Zero - Customize Main Menu Look & Feel](https://www.youtube.com/watch?v=F1G4ZAkRKzI) (YouTube)<BR>
 
 <BR>
  
 ## Links of interest : FLIPPER GRAPHICS - Tools & apps
 
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
-» Preview animations on PC (from .png or .bm files)<br>
-» Create manifest.txt with desired values<br>
-» Compile .png folder directly to .bm one (instant !!)
+⮚ Preview animations on PC (from .png or .bm files)<br>
+⮚ Create manifest.txt with desired values<br>
+⮚ Compile .png folder directly to .bm one (instant !!)
 
 - [FlipperZero Animation Tool](https://github.com/nfowlie/flipperzero-animation-tool) - Application (Linux / Win) by [Noel Echo Fowlie](https://github.com/nfowlie) aka Nelbium :<br>
-» Preview animations on PC, including Bubbles !<br>
-» Create manifest.txt with desired values<br>
-» Turn animated GIFs into FlipperZero animation data<br>
-» Requires a cloned repo of FZ firmware + [GraphicsMagick](http://www.graphicsmagick.org/) suite installed<br>
+⮚ Preview animations on PC, including Bubbles !<br>
+⮚ Create manifest.txt with desired values<br>
+⮚ Turn animated GIFs into FlipperZero animation data<br>
+⮚ Requires a cloned repo of FZ firmware + [GraphicsMagick](http://www.graphicsmagick.org/) suite installed<br>
 
 - [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti) :<br>
-» Generate new animations from GIF files<br>
-» Import animations on your favorite firmware<br>
-» Preview animations<br>
-» Customize animation parameters<br>
-» And much more...
+⮚ Generate new animations from GIF files<br>
+⮚ Import animations on your favorite firmware<br>
+⮚ Preview animations<br>
+⮚ Customize animation parameters<br>
+⮚ And much more...
 
 - <b>FZ animations SCRIPTS  :  GIF to frames</b><BR>
 [Flipper Animation Maker](https://github.com/H4XV/flipper-animation-generator) - Python tool by [H4XV](https://github.com/H4XV) :<br>
-» Automatic Animation generator<br>
-» Gif to Flipper Animation<br>
+⮚ Automatic Animation generator<br>
+⮚ Gif to Flipper Animation<br>
 [FlipperZeroAnimator](https://github.com/nenomg/FlipperZeroAnimator) - Python tool by [Eugenio Menacho de Góngora](https://github.com/nenomg) aka nenomg :<br>
-» Converts GIFs into 2-color frames for Flipper Zero<br>
-» Resizes frames to 128x64 pixels and saves as PNG<br>
-» Generates meta file<br>
+⮚ Converts GIFs into 2-color frames for Flipper Zero<br>
+⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
+⮚ Generates meta file<br>
  
 - <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
 [Flipper Zero Frame Converter](https://github.com/culturally/flipper0-converter) - Powershell tool by [culturally](https://github.com/culturally) aka detective<br>
 [FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool by [pinwheelHerman](https://github.com/pinwheelHerman)<br>
 [Flipper_AnimNamer](https://github.com/TimboFimbo/Flipper_AnimNamer) - Ruby tool by [TimboFimbo](https://github.com/TimboFimbo)<br>
-» renames the png files in order from a folder / zip file<br>
-» Creates a basic meta file with a straight forward animation frame order
+⮚ renames the png files in order from a folder / zip file<br>
+⮚ Creates a basic meta file with a straight forward animation frame order
 
 - <b>FZ animations SCRIPTS  :  manifest.txt creation</b><BR>
 [Flipper Animation Manifest Helper](https://github.com/ortil-afk/manifest_helper) - Python tool by [ortil-afk](https://github.com/ortil-afk)<br>
 [FlipperZero EZ Manifest](https://github.com/Wuhpondiscord/FlipperZero-EZ-Manifest/tree/main) - Python tool by [Wuhp](https://github.com/Wuhpondiscord)<br>
 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
-» Generates manifest.txt from subfolders containing animations<br>
+⮚ Generates manifest.txt from subfolders containing animations<br>
 
 - [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
 
 - [BadPS](https://github.com/InfoSecREDD/BadPS) - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
-» Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
-» Lists all scripts present in tool's folder<BR>
-» Choice of cores for *Flipper Zero* or *DuckyScript V1*<BR>
+⮚ Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
+⮚ Lists all scripts present in tool's folder<BR>
+⮚ Choice of cores for *Flipper Zero* or *DuckyScript V1*<BR>
 <BR>
 
 ## Links of interest : FLIPPER DATABASES
