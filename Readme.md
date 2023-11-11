@@ -1,7 +1,7 @@
 <p align="center">
 <img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg"></p>
 
-‎ <p align="center"><b>FLIPPER ZERO DEVICE : CUSTOM ANIMATIONS, PASSPORT BACKGROUNDS & PROFILE PICTURES</b></p><p align="center">You can find in the well-named folders* what I've made so far :<BR><BR>
+‎ <p align="center"><b>FLIPPER ZERO DEVICE : CUSTOM ANIMATIONS, PASSPORT BACKGROUNDS & PROFILE PICTURES</b></p><p align="center">You can find in the well-named folders what I've made so far :<BR><BR>
 CUSTOM [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/tree/main/Animations)<BR>
 PASSPORT [BACKGROUNDS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background) AND [PROFILE PICTS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures)<BR>
 CFW & FAP [GRAPHIC ASSETS](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets)<BR>
