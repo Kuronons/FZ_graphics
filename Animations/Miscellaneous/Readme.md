@@ -40,6 +40,16 @@ Here you can find various animations I made for the Flipper Zero :
 [Kuronons_Misc_LaughingMan_v2 - Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/569e6384-45fa-46e6-b98d-3673c633a185)
 
 <BR>
+
+   - ___INDIVIDUAL ELEVEN___
+      
+      Inspired by the Individual Eleven logo from the GHOST IN THE SHELL - STAND ALONE COMPLEX, 2nd GIG anime series.
+      
+      Note : Passive + active frames. (Active : spinning logo)
+                   
+[Kuronons_Misc_Individual_Eleven-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4394f48e-76e6-4416-8f31-b18184e97780)
+
+<BR>
    
    - ___L___
       
