@@ -1,14 +1,11 @@
-<p align="center">
-<img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg"></p>
+<p align="center"><img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg"></p>
 
-‎ <p align="center"><b>FLIPPER ZERO DEVICE : CUSTOM ANIMATIONS, PASSPORT BACKGROUNDS & PROFILE PICTURES</b></p><p align="center">You can find in the well-named folders what I've made so far :<BR><BR>
+ ‎ <p align="center"><b>FLIPPER ZERO DEVICE : CUSTOM ANIMATIONS, PASSPORT BACKGROUNDS & PROFILE PICTURES</b></p><p align="center">You can find in the well-named folders what I've made so far :<BR><BR>
 CUSTOM [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/tree/main/Animations)<BR>
 PASSPORT [BACKGROUNDS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background) AND [PROFILE PICTS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures)<BR>
 CFW & FAP [GRAPHIC ASSETS](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets)<BR>
-BAD USB [VISUAL PAYLOADS](https://github.com/Kuronons/FZ_graphics/tree/main/BadUSB%20Visual%20Payloads)</p>
-
-<p align="center">Also, you can find below a non-stop growing list of links to other people's makings.<BR>
-As well, follows a bunch of useful tutorials and tools links related to Flipper's graphic assets.<BR>
+BAD USB [VISUAL PAYLOADS](https://github.com/Kuronons/FZ_graphics/tree/main/BadUSB%20Visual%20Payloads)<BR><BR>
+Also, you can find below a non-stop growing list of links to other people's makings.<BR>As well, follows a bunch of useful [tutorials](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics---tutorials--other-hints) and [tools](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics---tools--apps) links related to Flipper's graphic assets.<BR>
 I would gladly add your link on request, just ask or PR !<BR><BR>
 Have fun exploring ! O_oV
 </p><BR>
