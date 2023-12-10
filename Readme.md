@@ -80,6 +80,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by Platon aka [secretlay3r](https://github.com/secretlay3r)
 
 - [MyFlip](https://github.com/luis-caldas/myflip) by [luis-caldas](https://github.com/luis-caldas)
+
+- [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) by [bip3r](https://github.com/bip3r)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
