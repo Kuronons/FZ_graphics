@@ -84,6 +84,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) by [bip3r](https://github.com/bip3r)
 
 - [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
+
+- [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed Animations and graphic assets) by [Artemio](https://github.com/cyberartemio)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
