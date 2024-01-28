@@ -115,7 +115,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 ⮚ [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
 ⮚ [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) (YouTube)<BR>
 ⮚ [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
-⮚ [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)
+⮚ [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)<BR>
 ⮚ [Custom Flipper Zero Fonts Packs on the Latest XFW Release!](https://www.youtube.com/watch?v=xRYI2lHk6vE) (YouTube)
 
 - [Flipper Zero - Animation Starter Guide](https://www.youtube.com/watch?v=iFEQ7jdb2Mg) - YouTube tutorial by [Pen Ace](https://www.youtube.com/@PenAce)
