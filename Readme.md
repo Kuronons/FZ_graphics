@@ -33,6 +33,12 @@ Have fun exploring ! O_oV
 ⮚ [Flipper Zero - Customize Main Menu icons!](https://www.youtube.com/watch?v=IzMI5KRSzUM) (YouTube)<BR>
 ⮚ [Flipper Zero - Customize Main Menu Look & Feel](https://www.youtube.com/watch?v=F1G4ZAkRKzI) (YouTube)<BR>
 
+- [Editing FLIPPER ZERO Background ANIMATIONS?!! || FULL GUIDE](https://www.youtube.com/watch?v=uDU05CI34jU) - YouTube tutorial by [Rithim](https://www.youtube.com/@rithimstuff)
+
+- [How to download animation to flipper zero](https://www.youtube.com/watch?v=J0NWt8bcjTI) - YouTube tutorial by [igi](https://www.youtube.com/@cofrof)
+
+- [Installing Custom Animations on Flipper Zero ― Xtremely Easy!](https://www.youtube.com/watch?v=J8gfCZi2vyc) - YouTube tutorial (Xtreme firmware) by [SHUR1K-N](https://github.com/SHUR1K-N)
+
 <BR>
  
 ## Links of interest : FLIPPER GRAPHICS - Tools & apps
