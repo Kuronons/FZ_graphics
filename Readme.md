@@ -168,6 +168,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
 
 - [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed animations and graphic assets) by [Artemio](https://github.com/cyberartemio)
+
+- [Flipper Zero - LOTR Animation Pack](https://github.com/AbeNaws/FlipperZero-LOTRAnimationPack) (<i>Lord of the Rings</i> themed animations) by [Abenaws](https://github.com/AbeNaws)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
