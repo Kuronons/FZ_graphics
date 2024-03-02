@@ -7,7 +7,7 @@ Also, feel free to reach me if you have some project you would like me to partic
 O_oV</p>
 
   
-- ___[SquachWare](https://github.com/skizzophrenic/SquachWare-CFW) Sub-GHz "READ"___<BR>
+- ___[SquachWare firmware](https://github.com/skizzophrenic/SquachWare-CFW) - Sub-GHz "READ"___<BR>
 Replacement of the ofw stock picture by a Sasquatch themed one.<BR><BR>
 Original asset<BR>
 ![image](https://github.com/Kuronons/FZ_graphics/assets/110337784/ee4b96ff-eaba-45fc-ad2e-964c51070a9a)<BR><BR>
@@ -15,8 +15,8 @@ Remade asset<BR>
 ![Scanning_123x52](https://github.com/Kuronons/FZ_graphics/assets/110337784/982b5ea0-810c-42fe-8db2-ec58b8351c4b)<BR><BR>
 Preview<BR>
 ![Screenshot-20230510-183014](https://github.com/Kuronons/FZ_graphics/assets/110337784/cb02537a-4832-41d0-a9a6-a58000b28e82)<BR>
--> Release : Jan.01, 2023.<BR><BR><BR>
-- ___[xMasterX's Flashlight](https://github.com/xMasterX/flipper-flashlight) memo pict___<BR>
+-> Release : Jan. 01, 2023.<BR><BR><BR>
+- ___[xMasterX's Flashlight](https://github.com/xMasterX/flipper-flashlight) - Memo pict___<BR>
 Proposal for adding a picture as visual memo for easy GPIO connection.<BR><BR>
 Original FAP display<BR>
 ![Flashlight original](https://github.com/Kuronons/FZ_graphics/assets/110337784/9913e269-1f8d-4a5b-a372-0400aa6cfb9e)<BR><BR>
@@ -43,7 +43,7 @@ Schematics with coordinates for easy-coding<BR>
 ![RESISTANCE_APP - XY positions-75%](https://github.com/Kuronons/FZ_graphics/assets/110337784/faffaa04-107d-44d0-a1d8-61589389317c)<BR><BR>
 Preview<BR>
 ![Screenshot-20230510-200113](https://github.com/Kuronons/FZ_graphics/assets/110337784/6ab6bd26-f414-47c9-93c6-990770529cfe)<BR>
--> Release : May.01, 2023.<BR><BR><BR>
+-> Release : May 01, 2023.<BR><BR><BR>
 - ___[instantiator's Game of Tag](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/tag)___<BR>
 Creation of graphic assets for brand new project.<BR>
 Concept : Laser game inspired. Game for 2 players owning each a Flipper. Using IR to "shoot" at opponent's IR receiver.<BR>
@@ -64,4 +64,21 @@ Schematics with coordinates for easy-coding<BR>
 ![LASER-GAME_4 0_positions75%](https://github.com/Kuronons/FZ_graphics/assets/110337784/c1bde68d-9edf-4675-99ae-e7c84683401e)<BR><BR>
 Preview<BR>
 ![Final-preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/bb1aa638-4aa2-481c-bafa-cd53d5bacccf)<BR>
--> Unreleased. (Paused WIP)<BR><BR>
+-> Unreleased. (Paused WIP)<BR><BR><BR>
+- ___[Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware) - 16x16px "M" logo.___<BR>
+Original asset preview (by [WillyJL](https://github.com/Willy-JL))<BR>
+![M original logo](https://github.com/Kuronons/FZ_graphics/assets/110337784/f3efc85b-0df7-40b9-8c47-4d66b14bc8fe)<BR><BR>
+Remade asset that fits logo's italic font designed by <b>nescap</b><BR>
+![M](https://github.com/Kuronons/FZ_graphics/assets/110337784/c17f0ec5-d859-48bc-81ef-e3881a2d5403)<BR><BR>
+Preview<BR>
+![M preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/6b15ce3c-b496-4d6e-a560-0f8e5e3f10ef)<BR>
+-> Release : Mar. 01, 2024.<BR><BR><BR>
+- ___[Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware) - Install splashscreen___<BR>
+Flipper-pixelled adaptation of Momentum logo.<BR><BR>
+Original art and asset preview (by <b>nescap</b>)<BR>
+![Momentum Original logo](https://github.com/Kuronons/FZ_graphics/assets/110337784/9e77ff32-72ed-42a0-b23b-9a0283981df6)
+![Momentum Original logo - pixels](https://github.com/Kuronons/FZ_graphics/assets/110337784/fc4206f4-c606-4dd7-b123-6c5e0a8bed05)<BR><BR>
+Remade asset<BR>
+![MFW screen](https://github.com/Kuronons/FZ_graphics/assets/110337784/28113798-5d6d-407d-84a2-c41c33a18048)<BR><BR>
+Preview<BR>![Momentum splashscreen preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/ec1607c3-0f56-4023-af73-9cd90bed3230)<BR>
+-> Release : Mar. 01, 2024.<BR><BR><BR>
