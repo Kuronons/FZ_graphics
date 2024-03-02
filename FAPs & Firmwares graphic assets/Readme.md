@@ -75,7 +75,7 @@ Preview<BR>
 -> Release : Mar. 01, 2024.<BR><BR><BR>
 - ___[Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware) - Install splashscreen___<BR>
 Flipper-pixelled adaptation of Momentum logo.<BR><BR>
-Original art and asset preview (by <b>nescap</b>)<BR>
+Original art and asset preview (by <b>[nescap](https://github.com/nescapp)</b>)<BR>
 ![Momentum Original logo](https://github.com/Kuronons/FZ_graphics/assets/110337784/9e77ff32-72ed-42a0-b23b-9a0283981df6)
 ![Momentum Original logo - pixels](https://github.com/Kuronons/FZ_graphics/assets/110337784/fc4206f4-c606-4dd7-b123-6c5e0a8bed05)<BR><BR>
 Remade asset<BR>
