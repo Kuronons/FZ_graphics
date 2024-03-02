@@ -199,6 +199,8 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - Flipper Uncensored [discord](https://discord.gg/gF2bBUzAFe) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
   
 - Squachtopia Hangout [discord](https://discord.gg/squachtopia) -> SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW)
+
+- Momentum Firmware [discord](https://discord.gg/yPXFztV2) -> Momentum firmware [github](https://github.com/Next-Flip/Momentum-Firmware)
   
 - (XX)Xtreme-Firmware [discord](https://discord.gg/mC2FxbYSMr) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
   
