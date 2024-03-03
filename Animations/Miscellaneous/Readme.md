@@ -50,6 +50,16 @@ Here you can find various animations I made for the Flipper Zero :
 [Kuronons_Misc_Individual_Eleven-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4394f48e-76e6-4416-8f31-b18184e97780)
 
 <BR>
+
+   - ___SECTION 9 (US version)___
+      
+      Inspired by the logo -US version- of SECTION 9 from the GHOST IN THE SHELL - STAND ALONE COMPLEX 2045 anime series.
+      
+      Note : Passive + active frames. (Active : displays SECTION9 text)
+                   
+[Kuronons_Misc_Section9_US-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6a94e31e-9f3a-4211-924c-b056e5070be6)
+
+<BR>
    
    - ___L___
       
