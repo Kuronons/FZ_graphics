@@ -21,4 +21,8 @@ Here is a preview video with 2 displayed flags for an insight.
 
 [Kuronons_BlackFlagsCollection-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/697be2d1-149a-4243-a67f-0001cb3d7e04)
 
-I also added a manifest.txt file with the 30 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/manifest.txt) file with the 30 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+
+You can download each anim as separate zip files or the [30 all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/Kuronons_BlackFlags_Collection%20(30%20animations).zip).
+
+Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/Kuronons%20-%20BlackFlags.zip) to use with Momentum / Xtreme firmwares. 
