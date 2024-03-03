@@ -1,4 +1,7 @@
-Here are profile pictures I made for the Flipper Zero (note that the orange/black versions in this readme are only for an insight - not scaled for the FZ passport... download the corresponding white/black .png files to use one)
+Here are profile pictures I made for the Flipper Zero.<BR>
+Note that the orange/black versions in this readme are only for an insight - not scaled for the FZ passport...<BR>
+-> Download the corresponding white/black .png files you want to use.<BR>
+(or directly the .bmx ones if under ***Momentum*** or ***Xtreme*** fw so you don't have to compile them via python)<BR><BR>
 
 - ___BRIAREOS HECATONCHIRES___ - SD version of the character from APPLESEED manga by Shirow Masamune
 
