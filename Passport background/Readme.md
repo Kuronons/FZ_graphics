@@ -1,6 +1,9 @@
-Here you can find passport backgrounds designed for RogueMaster firmware
+Here you can find passport backgrounds originally designed for RogueMaster firmware
 <BR>
-(I edited the passport.c file in RM so a <i><b>single 128x64px picture</b></i> is used instead of <i><b>left + bottom borders picts + coded lines/dots</b></i> as in ofw)
+I edited the passport.c file in RM so a <i><b>single 128x64px picture</b></i> is used instead of <i><b>left + bottom borders picts + coded lines/dots</b></i> as in ofw.<BR>
+As well some pixel placement adjustments have been made... Note that depending on which fw I was on when I took screenshot, you'll see minor differences between passports (ie the XP font size and position for instance).
+<BR>
+Note that they should work fine with Momentum fw. They would also correctly display under Xtreme fw but bottom part would be partially covered with their *ToT* button.
 <BR>
 <BR>
 
@@ -81,3 +84,11 @@ Here you can find passport backgrounds designed for RogueMaster firmware
     Medieval themed passport
   
 ![PASSPORT_MEDIEVAL-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/0ff67a77-8729-4ced-b432-c4e5611593bf)
+<BR>
+<BR>
+
+- ___MNTM___
+
+    Momentum firmware themed passport
+
+![PASSPORT_MNTM-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/05112b47-5636-4a65-af82-1fd77b790bca)
