@@ -161,4 +161,9 @@ Here are animations that takes their inspiration from old PC viruses :
 [Kuronons_Virus_Coconut-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/a3fa76a6-454e-42af-8dc4-595b8475d5de)
 
 <BR>
-Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+
+I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/SF_Corporations_Logos/manifest.txt) file with the 12 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+
+You can download each anim as separate zip files or the [12 all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/SF_Corporations_Logos/Kuronons_SFlogo_Collection%20(12%20animations).zip).
+
+Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/SF_Corporations_Logos/Kuronons%20-%20Sci-Fi%20Corps.zip) to use with Momentum / Xtreme firmwares.
