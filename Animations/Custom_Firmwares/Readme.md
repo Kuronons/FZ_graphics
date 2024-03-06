@@ -7,7 +7,7 @@ Here you can find animations I made for custom firmwares :
       
       Note : Talking-Sasquach made a [second version with animated fighting sprites](https://user-images.githubusercontent.com/16942638/195171690-2352126b-791d-4c2b-931c-3592a17b085b.gif). <3
       
-[Kuronons_CFW_RMCFW_Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8baf5f68-551d-417c-96e3-68411acb4415)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/6c8173dc-1c26-4269-85b9-aee5bc9c7958
 
 <BR>
    
@@ -15,7 +15,7 @@ Here you can find animations I made for custom firmwares :
       
       [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) default animation. Inspired by Official Flipper firmware one, with reversed viewpoint. 3 random dolphin's bubbles.
       
-[Kuronons_CFW_SasTV-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/58045eeb-ebd5-4ed6-aff7-db1e1acb340c)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/61fedad1-f1e5-491f-a2f5-06448edb03ce
 
 <BR>
       
@@ -23,7 +23,7 @@ Here you can find animations I made for custom firmwares :
    
       [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) - Inspired by Terminator. Pushing back will make the TS3000 sheet appear.
       
-[Kuronons_CFW_TS3000-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/5d906a8e-814c-446b-9b05-c968931433a8)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/2a989ac3-9456-4a51-ad63-ae29a496abd2
 
 <BR>
 
@@ -32,8 +32,8 @@ Here you can find animations I made for custom firmwares :
       [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) - Inspired by Escape from L.A. movie final scene. Mostly active animation.
       
       Note : Mainly a work with bubbles (12 different ones). Positioning is a mess... -_-
-      
-[Kuronons_CFW_EscapeFrom-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/150e8b85-47dd-44f3-a689-fdf67261ef3d)
+ 
+https://github.com/Kuronons/FZ_graphics/assets/110337784/670affb5-adec-4999-9ff6-bec9487428e6
 
 <BR>
    
@@ -41,7 +41,8 @@ Here you can find animations I made for custom firmwares :
       
       [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) - Inspired by original "V" TV series. Picture is taken from a propaganda poster of the Visitors. Pushing back will make the Resistance grafitti appear.
 
-[Kuronons_CFW_V-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/3b509345-7288-4a2d-b08e-c95c6e4f9d88)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/d66fcb76-a159-4ea1-8671-7c030836efac
+
 
 <BR>
    
@@ -52,7 +53,7 @@ Here you can find animations I made for custom firmwares :
       Note that the big pixel rendering is done to respect the CLI ascii one.<BR>
       Pushing back will make the text appear followed by the skull anim.
 
-[Kuronons_CFW_Marauder-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/9eea51cf-ca49-4a1b-81af-0fcf0f8f500c)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/0c41cada-abce-46ee-b5df-45d9e19531cd
 
 <BR>
    
@@ -63,7 +64,6 @@ Here you can find animations I made for custom firmwares :
       Design is based on rotating / spinning / rolling movements to recall the momentum concept.<BR>
       The "M" of Momentum ends up in negative & reversed at the end of active frames showing a "W", wink to Momentum's creator, [WillyJL](https://github.com/Willy-JL)
 
-[Kuronons_CFW_Momentum1-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8ccbea5e-7078-4554-a9cf-f7e096f4a0aa)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/f4c2b536-d891-4430-ba91-c4a51510ea4f
 
-[Kuronons_CFW_Momentum2-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/db6218e4-80e3-4824-b72f-d85f41043a8f)
-
+https://github.com/Kuronons/FZ_graphics/assets/110337784/ec65ab2a-a10d-4d2a-8fa3-4d17917061d7
