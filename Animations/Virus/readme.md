@@ -7,7 +7,7 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Thinking of making a second version that would respect a bit more the original payload display.
 
-[Kuronons_Virus_CMOSDead-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4b4d2492-722b-4934-8853-5e94d6615dc1)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/2e331c47-dcb6-4674-8513-7436e74ad719
 
 <BR>
 
@@ -24,7 +24,7 @@ Here are animations that takes their inspiration from old PC viruses :
      <b>&emsp;&emsp;&emsp;Puis repars. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;*Then go again.*</b><BR>
      <b>&emsp;&emsp;&emsp;J'aime ton mouvement. &emsp;&nbsp;&nbsp;*I love your movement.*</b><BR>
 
-[Kuronons_Virus_Elvira-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/be369c42-629e-4d5b-a5a2-0dd02bee2285)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/525c5390-d76c-4645-b38b-3d3c6cdba052
 
 <BR>
 
@@ -35,7 +35,7 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Modified Elvira's command prompt for the passive frames.
 
-[Kuronons_Virus_Techno-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4bbe4c87-7b22-4d00-a8b8-7fffc7b5147a)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/46640904-1e00-4b68-9e49-6a2d63311f8e
 
 <BR>
 
@@ -45,8 +45,8 @@ Here are animations that takes their inspiration from old PC viruses :
       Passive frames are the command line in loop, pushing back will show the payload.
       
       Note : Modified Elvira's command prompt (with some font enhancement : Letters D & o) for the passive frames.<BR>
-      
-[Kuronons_Virus_MadMan-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/5475433e-6898-4fd4-ac52-6d55d35272b6)
+ 
+https://github.com/Kuronons/FZ_graphics/assets/110337784/20ec7ff9-c42b-4fc1-b8d8-799d4410a587
 
 <BR>
 
@@ -57,8 +57,8 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Modified & enhanced Elvira's command prompt for the passive frames.<BR>
             -> Only a blinking cursor on this one as the payload was meant to display after 20mn of inactivity.<BR>
-      
-[Kuronons_Virus_Phantom1-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/cbbd2587-4108-4ff2-8aa9-36d2bfbcf365)
+ 
+https://github.com/Kuronons/FZ_graphics/assets/110337784/40442d13-8eba-4425-9020-5404385e258c
 
 <BR>
 
@@ -70,8 +70,8 @@ Here are animations that takes their inspiration from old PC viruses :
       Note : Modified & enhanced DOS prompt with equal spaces between characters to get the wished rendering effect.<BR>
              Author of Cascade is unknown but probably swiss or german.<BR>
              *<B>Cascade</b>* is also known as *<B>Herbstlaub</b>*.<BR>
-      
-[Kuronons_Virus_Cascade-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/d67a94b2-d118-439d-b776-04712ccb04d5)
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/fd6ea44b-15c4-49a8-86ec-b853ae2f3c9a
 
 <BR>
 
@@ -82,8 +82,8 @@ Here are animations that takes their inspiration from old PC viruses :
       
       Note : Used modified Cascade DOS prompt for passive frames.<BR>
              Many variants of the virus exist such as *Ambulance Car-B*, *RedX-Any* or *Ambulance.793* among others.
-                   
-[Kuronons_Virus_Ambulance-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/e9bed7f2-08d4-42cd-ae6f-38d5cc43a8ad)
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/66b42cb2-e2f7-4e12-a149-b8b4afb917ad
 
 <BR>
 
@@ -105,8 +105,8 @@ Here are animations that takes their inspiration from old PC viruses :
      <b>&emsp;&emsp;&emsp;GLORIOSA ! GENEROSA ! &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*GLORIOUS ! GENEROUS !*</b><BR>
      <b>&emsp;&emsp;&emsp;Sephiroth ! Sephiroth !  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*Sephiroth ! Sephiroth !*</b><BR>
              I added my own easter egg, replacing "Sephiroth" by "Sasquach" because... Voilà quoi ! O_oV
-                   
-[Kuronons_Virus_Upsilon-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/70a106f5-b6f3-4466-90a6-f4b2de3eabf1)
+ 
+https://github.com/Kuronons/FZ_graphics/assets/110337784/618004d8-5703-4446-9d39-79d069732d9a
 
 <BR>
 
@@ -119,8 +119,8 @@ Here are animations that takes their inspiration from old PC viruses :
              This original virus contains the following internal text string, providing some intel on its origins :<BR>
              "*WALKER V1.00 This absolutely harmless and self-destructive program is written by UJHPTTLZ in the city of Istanbul, 1992*"<BR>
              I made this anim on a suggestion from [7h30th3r0n3](https://github.com/7h30th3r0n3) ! Challenge accepted ! O_oV
-                   
-[Kuronons_Virus_Walker-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/e12c50e0-ea39-41f0-a903-a3b7dccb586f)
+ 
+https://github.com/Kuronons/FZ_graphics/assets/110337784/d09c9904-1b4e-47c7-bd9a-1d6c620e47cc
 
 <BR>
 
@@ -133,7 +133,7 @@ Here are animations that takes their inspiration from old PC viruses :
              Apparently also known as "virus.DOS.austin"...<BR>
              The Cerberus file shown in prompt should have been a .com instead of an .exe... (-_-;)<BR>
       
-[Kuronons_Virus_Cerberus-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/fa536757-04ea-43ce-92d7-5c3ff99adb8a)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/fbf8f4b3-1e1a-451e-96cb-129e00c05aee
 
 <BR>
 
@@ -145,7 +145,7 @@ Here are animations that takes their inspiration from old PC viruses :
       Note : Author unknown. Probably from Finland, late 1996<BR>
              Also known as "HLLC.Plane".<BR>
                    
-[Kuronons_Virus_Plane-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/c8889ad5-22f5-41d5-874d-ffcb14acf828)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/66c1cfc3-9420-4473-94fc-bc857d84d0aa
 
 <BR>
 
@@ -158,7 +158,7 @@ Here are animations that takes their inspiration from old PC viruses :
       Author unknown. Wrongly attributed on some sites to Kimberley "Gigabyte" Vanvaeck who wrote an eponymous worm virus in 2003.<BR>
       Variants exist such as [Virus.DOS.Coconut.2030](https://dosv.benjojo.co.uk/sampleid6589.html) by *Black Wizard* or [Virus.DOS.Coconut.2071](https://dosv.benjojo.co.uk/sampleid6563.html) by *King Lizard* (Spain, 1997).<BR>
 
-[Kuronons_Virus_Coconut-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/a3fa76a6-454e-42af-8dc4-595b8475d5de)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/3d543d39-50ac-4662-8d66-8ccf70131a4a
 
 <BR>
 
