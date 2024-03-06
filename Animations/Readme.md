@@ -16,11 +16,11 @@ Here are the animations I made for Flipper Zero. Those are folder-sorted by them
 
 2. Unzip and drag&drop / copy&paste the folder<BR>
 -> If your are under official, Unleashed or RogueMaster firmware : into your flipper's ***SD/dolphin/*** folder.<BR>
--> If you are under Momentum or Xtreme firmware : into your flipper's asset pack ***SD/asset_packs/your custompacknamehere/Anims/*** folder.
+-> If you are under Momentum or Xtreme firmware : into your flipper's asset pack folder (***SD/asset_packs/yourcustompacknamehere/Anims/***).
     
 3. Manifest<BR>
 -> Edit your manifest ***SD/dolphin/manifest.txt*** (OFW, UL or RM)<BR>
--> or create one ***SD/asset_packs/your custompacknamehere/Anims/manifest.txt*** (MFW or XFW)<BR><BR>
+-> or create one ***SD/asset_packs/yourcustompacknamehere/Anims/manifest.txt*** (MFW or XFW)<BR><BR>
 and add (or replace) an entry as example below.
 
           Filetype: Flipper Animation Manifest
