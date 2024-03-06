@@ -6,8 +6,8 @@ Here you can find various animations I made for the Flipper Zero :
       My first FZ anim ! Inspired by the beginning of EYE OF THE BEHOLDER (1991 video game)
       
       Note : Only for EOB nerds... XD
-      
-[Kuronons_Misc_Eye of the Flipper - Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/023dc6c3-a814-460d-b336-dd6e68576f0a)
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/034e0dbe-99cf-489d-88ad-3da361147f65
 
 <BR>
    
@@ -15,7 +15,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Passive frame are rotating Earth. Pushing BACK will make the Arcadia (anime Captain Harlock's ship) appears.
       
-[Kuronons_Misc_Earth_Arcadia_Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/2f92a0c7-346a-4d28-ac93-f6ea36491303)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/c004cb2d-4e93-4f7b-952d-ee9d073893cd
 
 <BR>
       
@@ -36,8 +36,8 @@ Here you can find various animations I made for the Flipper Zero :
       Note : On first version (no longer shared here), I forgot to add the cap pin on logo... mistake was kinda hidden by status bar... XD<BR>
              Version 2 is a total remake from scratch :<BR>
              Logo redesigned as close as possible to the original & addition of active frames displaying the rolling text.
-      
-[Kuronons_Misc_LaughingMan_v2 - Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/569e6384-45fa-46e6-b98d-3673c633a185)
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/310feae0-fb73-498f-89e7-a093cd7b4425
 
 <BR>
 
@@ -47,7 +47,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : Passive + active frames. (Active : spinning logo)
                    
-[Kuronons_Misc_Individual_Eleven-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/4394f48e-76e6-4416-8f31-b18184e97780)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/c63e5ada-1bd0-4790-aa36-1f4401b54d1e
 
 <BR>
 
@@ -57,7 +57,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : Passive + active frames. (Active : displays SECTION9 text)
                    
-[Kuronons_Misc_Section9_US-Preview.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6a94e31e-9f3a-4211-924c-b056e5070be6)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/c5bd2b6d-46ea-4d90-a2b4-05ce9f32498d
 
 <BR>
    
@@ -66,8 +66,8 @@ Here you can find various animations I made for the Flipper Zero :
       "L" logo from DEATHNOTE anime. Pushing back will make a bunch of apples raining...
       
       Note : Not really happy with the apples falling... latency... :/
-      
-[Kuronons_Misc_L - Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/8abe253d-fe20-4b55-adf4-1b47a848f1dd)
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/6b3c66dc-8c30-4602-86d8-d77b9e6be4cf
 
 <BR>
    
@@ -77,7 +77,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : The passive frames are displaying nicely on the Flipper but active ones are a bit jerky due to the screen's refresh rate... :/
 
-[Kuronons_Misc_FlippaVerse_Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/bc4dd116-a98d-4202-aaa0-e7b6cc63a751)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/b13986be-0fab-47e2-8fbe-b9a4504a3512
 
 <BR>
    
@@ -87,7 +87,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : Actual preview is kinda slow but the FPS (3) is set to avoid flickering on Flip's screen.
 
-[Kuronons_Misc_Akira_Capsule-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/50b008b0-72b3-46c6-91ef-900f703610c4)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/d8829878-64ec-484a-a6a0-9f1aa1faf836
 
 <BR>
    
@@ -97,7 +97,7 @@ Here you can find various animations I made for the Flipper Zero :
       
       Note : My first try using existing GIF. Not totally pleased with final rendering.
 
-[Kuronons_Misc_Cobra-Preview2.webm](https://github.com/Kuronons/FZ_graphics/assets/110337784/6c755073-c827-417a-96da-b9c77c95766f)
+https://github.com/Kuronons/FZ_graphics/assets/110337784/899d806f-8272-4a9b-a080-69d55292a653
 
 <BR>
 
