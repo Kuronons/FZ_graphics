@@ -43,6 +43,13 @@ Min level: 1
 Max level: 30
 Weight: 9
 
+Name: Kuronons_Misc_Section9_US_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
 Name: Kuronons_Misc_Cobra_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -58,6 +65,13 @@ Max level: 30
 Weight: 9
 
 Name: Kuronons_Misc_Akira_Capsule_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_Misc_HAL9000_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
