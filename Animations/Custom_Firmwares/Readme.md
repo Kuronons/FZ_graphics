@@ -62,8 +62,12 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/0c41cada-abce-46ee-b5df
       [<b>Momentum</b>](https://github.com/Next-Flip/Momentum-Firmware) Custom Firmware animations.<BR>
       Idea was to have a bunch of animations, all starting with the same passive frames but having different active ones.<BR>
       Design is based on rotating / spinning / rolling movements to recall the momentum concept.<BR>
-      The "M" of Momentum ends up in negative & reversed at the end of active frames showing a "W", wink to Momentum's creator, [WillyJL](https://github.com/Willy-JL)
+      In the first 2 anims, the "M" of Momentum ends up in negative & reversed at the end of active frames showing a "W", wink to Momentum's creator, [WillyJL](https://github.com/Willy-JL)<BR>
+      Third one is a wink to ***Yappybara*** !! Still wondering who/what is behing the Yapper.... Did you managed to guess ? ;)
 
 https://github.com/Kuronons/FZ_graphics/assets/110337784/f4c2b536-d891-4430-ba91-c4a51510ea4f
 
 https://github.com/Kuronons/FZ_graphics/assets/110337784/ec65ab2a-a10d-4d2a-8fa3-4d17917061d7
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4-c4e044780577
+
