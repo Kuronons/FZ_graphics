@@ -89,4 +89,5 @@ Note that those can't be used under Official or Unleashed firmwares UNLESS you e
 
     Momentum firmware themed passport
 
-![PASSPORT_MNTM-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/05112b47-5636-4a65-af82-1fd77b790bca)
+![PASSPORT_MNTM-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/1d9ae704-afbc-4b76-a033-3c1c70e869df)
+
