@@ -159,7 +159,7 @@ CUSTOM ANIMATION MAKERS : <BR>
 
 - [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
 
-- [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by Platon aka [secretlay3r](https://github.com/secretlay3r)
+- [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by [secretlay3r](https://github.com/secretlay3r) aka Platon
 
 - [MyFlip](https://github.com/luis-caldas/myflip) by [luis-caldas](https://github.com/luis-caldas)
 
@@ -167,9 +167,11 @@ CUSTOM ANIMATION MAKERS : <BR>
 
 - [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
 
-- [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed animations and graphic assets) by [Artemio](https://github.com/cyberartemio)
+- [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed anims and graphic assets) by [Artemio](https://github.com/cyberartemio)
 
-- [Flipper Zero - LOTR Animation Pack](https://github.com/AbeNaws/FlipperZero-LOTRAnimationPack) (<i>Lord of the Rings</i> themed animations) by [Abenaws](https://github.com/AbeNaws)
+- [Flipper Zero - LOTR Animation Pack](https://github.com/AbeNaws/FlipperZero-LOTRAnimationPack) (<i>Lord of the Rings</i> themed) by [Abenaws](https://github.com/AbeNaws)
+
+- [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
