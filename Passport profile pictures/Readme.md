@@ -101,3 +101,7 @@ Note that the orange/black versions in this readme are only for an insight - not
 - ___LEEROY JENKINS___ - From World of Warcraft MMORPG famous player's character
 
 ![Leeroy_Jenkins](https://github.com/Kuronons/FZ_graphics/assets/110337784/46066739-2835-4643-b707-5cdcace02be1)
+
+- ___YAPPY___ - Momentum fw mascott (capybara) - *Happy* / *Okay* / *Bad* variants
+
+![Yappy_set](https://github.com/Kuronons/FZ_graphics/assets/110337784/feeb0ce8-45f0-4177-bd19-0658201ce7c2)
