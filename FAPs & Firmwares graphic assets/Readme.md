@@ -7,7 +7,7 @@ Also, feel free to reach me if you have some project you would like me to partic
 O_oV</p>
 
   
-- ___[SquachWare firmware](https://github.com/skizzophrenic/SquachWare-CFW) - Sub-GHz "READ"___<BR>
+- ___[SQUACHWARE FIRMWARE](https://github.com/skizzophrenic/SquachWare-CFW)___ - Sub-GHz "READ"___<BR>
 Replacement of the ofw stock picture by a Sasquatch themed one.<BR><BR>
 Original asset<BR>
 ![image](https://github.com/Kuronons/FZ_graphics/assets/110337784/ee4b96ff-eaba-45fc-ad2e-964c51070a9a)<BR><BR>
@@ -65,7 +65,8 @@ Schematics with coordinates for easy-coding<BR>
 Preview<BR>
 ![Final-preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/bb1aa638-4aa2-481c-bafa-cd53d5bacccf)<BR>
 -> Unreleased. (Paused WIP)<BR><BR><BR>
-- ___[Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware) - 16x16px "M" logo.___<BR>
+- ___[MOMENTUM FIRMWARE](https://github.com/Next-Flip/Momentum-Firmware)___<BR><BR>
+  - ___Momentum settings menu : 16x16px "M" logo.___<BR><BR>
 Original asset preview (by [WillyJL](https://github.com/Willy-JL))<BR>
 ![M original logo](https://github.com/Kuronons/FZ_graphics/assets/110337784/f3efc85b-0df7-40b9-8c47-4d66b14bc8fe)<BR><BR>
 Remade asset that fits logo's italic font designed by <b>nescap</b><BR>
@@ -73,7 +74,7 @@ Remade asset that fits logo's italic font designed by <b>nescap</b><BR>
 Preview<BR>
 ![M preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/6b15ce3c-b496-4d6e-a560-0f8e5e3f10ef)<BR>
 -> Release : Mar. 01, 2024.<BR><BR><BR>
-- ___[Momentum firmware](https://github.com/Next-Flip/Momentum-Firmware) - Install splashscreen___<BR>
+  - ___Install splashscreen___<BR>
 Flipper-pixelled adaptation of Momentum logo.<BR><BR>
 Original art and asset preview (by <b>[nescap](https://github.com/nescapp)</b>)<BR>
 ![Momentum Original logo](https://github.com/Kuronons/FZ_graphics/assets/110337784/9e77ff32-72ed-42a0-b23b-9a0283981df6)
@@ -82,3 +83,12 @@ Remade asset<BR>
 ![MFW screen](https://github.com/Kuronons/FZ_graphics/assets/110337784/28113798-5d6d-407d-84a2-c41c33a18048)<BR><BR>
 Preview<BR>![Momentum splashscreen preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/ec1607c3-0f56-4023-af73-9cd90bed3230)<BR>
 -> Release : Mar. 01, 2024.<BR><BR><BR>
+  - ___Lockscreen___<BR>
+  Replacement of the ofw stock picture by a Momentum themed one.<BR><BR>
+  Original asset<BR>
+  ![Lockscreen](https://github.com/Kuronons/FZ_graphics/assets/110337784/09f03699-d82a-4504-97e8-2b8b5e76ebd0)<BR><BR>
+  Remade asset<BR>
+  ![Lockscreen](https://github.com/Kuronons/FZ_graphics/assets/110337784/ce623e52-dd29-4acc-9e81-d1e1861dde84)<BR><BR>
+  Preview<BR>
+  ![Lockscreen-preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/1227238a-3d9b-4413-99e5-429731ce4841)<BR>
+-> Release : Mar. 15, 2024.<BR><BR><BR>
