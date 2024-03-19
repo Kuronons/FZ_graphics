@@ -84,7 +84,8 @@ Remade asset<BR>
 Preview<BR>![Momentum splashscreen preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/ec1607c3-0f56-4023-af73-9cd90bed3230)<BR>
 -> Release : Mar. 01, 2024.<BR><BR><BR>
   - ___Lockscreen___<BR>
-  Replacement of the ofw stock picture by a Momentum themed one.<BR><BR>
+  Replacement of the ofw stock picture by a Momentum themed one.<BR>
+  Original arts : Yappy icon by ***Vale***, Momentum logo by ***nescap***<BR><BR>
   Original asset<BR>
   ![Lockscreen](https://github.com/Kuronons/FZ_graphics/assets/110337784/09f03699-d82a-4504-97e8-2b8b5e76ebd0)<BR><BR>
   Remade asset<BR>
