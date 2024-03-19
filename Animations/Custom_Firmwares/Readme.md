@@ -63,7 +63,8 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/0c41cada-abce-46ee-b5df
       Idea was to have a bunch of animations, all starting with the same passive frames but having different active ones.<BR>
       Design is based on rotating / spinning / rolling movements to recall the momentum concept.<BR>
       In the first 2 anims, the "M" of Momentum ends up in negative & reversed at the end of active frames showing a "W", wink to Momentum's creator, [WillyJL](https://github.com/Willy-JL)<BR>
-      Third one is a wink to ***Yappybara*** !! Still wondering who/what is behing the Yapper.... Did you managed to guess ? ;)
+      Third one is a wink to ***Yappybara*** !! Still wondering who/what is behing the Yapper.... Did you managed to guess ? ;)<BR>
+      (Original Yappy icon art by ***Vale***)
 
 https://github.com/Kuronons/FZ_graphics/assets/110337784/f4c2b536-d891-4430-ba91-c4a51510ea4f
 
