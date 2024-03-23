@@ -4,6 +4,7 @@ Here are the animations I made for Flipper Zero. Those are folder-sorted by them
 - [Black Flags](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Black_Flags_Collection) - 30 animations collection
 - [Sci-Fi corpo logos](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/SF_Corporations_Logos) - 12 animations collection
 - [DOS viruses](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Virus) - 12 animations collection
+- [Ghost in the Shell](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/GITS) - 4 animations collection
 - [Monopoly cards](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Monopoly_Cards) - WIP, 2 animations
 - [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted
 
