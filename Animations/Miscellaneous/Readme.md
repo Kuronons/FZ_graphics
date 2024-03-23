@@ -28,38 +28,6 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/c004cb2d-4e93-4f7b-952d
 ![Kuronons_Misc_Jolly_Roger_Preview](https://user-images.githubusercontent.com/110337784/193910887-e76aa2ec-4b02-4aba-84bd-b80c9c8f78b0.jpg)
 
 <BR>
-
-   - ___LAUGHING MAN___   [v.2]
-      
-      Inspired by the Warai Otoko (Laughing man) logo from the *GHOST IN THE SHELL - STAND ALONE COMPLEX* anime series.
-      
-      Note : On first version (no longer shared here), I forgot to add the cap pin on logo... mistake was kinda hidden by status bar... XD<BR>
-             Version 2 is a total remake from scratch :<BR>
-             Logo redesigned as close as possible to the original & addition of active frames displaying the rolling text.
-
-https://github.com/Kuronons/FZ_graphics/assets/110337784/310feae0-fb73-498f-89e7-a093cd7b4425
-
-<BR>
-
-   - ___INDIVIDUAL ELEVEN___
-      
-      Inspired by the Individual Eleven logo from the *GHOST IN THE SHELL - STAND ALONE COMPLEX, 2nd GIG* anime series.
-      
-      Note : Passive + active frames. (Active : spinning logo)
-                   
-https://github.com/Kuronons/FZ_graphics/assets/110337784/c63e5ada-1bd0-4790-aa36-1f4401b54d1e
-
-<BR>
-
-   - ___SECTION 9 (US version)___
-      
-      Inspired by the logo -US version- of SECTION 9 from the *GHOST IN THE SHELL - STAND ALONE COMPLEX 2045* anime series.
-      
-      Note : Passive + active frames. (Active : displays SECTION9 text)
-                   
-https://github.com/Kuronons/FZ_graphics/assets/110337784/c5bd2b6d-46ea-4d90-a2b4-05ce9f32498d
-
-<BR>
    
    - ___L___
       
