@@ -1,0 +1,31 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Kuronons_Misc_Section9_JP_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_GITS_Section9_US_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_GITS_LaughingMan_v2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_GITS_Individual_Eleven_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
