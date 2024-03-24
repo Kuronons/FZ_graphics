@@ -172,6 +172,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [Flipper Zero - LOTR Animation Pack](https://github.com/AbeNaws/FlipperZero-LOTRAnimationPack) (<i>Lord of the Rings</i> themed) by [Abenaws](https://github.com/AbeNaws)
 
 - [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
+
+- [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
