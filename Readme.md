@@ -174,6 +174,8 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
 
 - [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
+
+- [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) (Animations + picts) by [ATOMNFT](https://github.com/ATOMNFT)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
