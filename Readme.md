@@ -175,7 +175,7 @@ CUSTOM ANIMATION MAKERS : <BR>
 
 - [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
 
-- [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) (Animations + picts) by [ATOMNFT](https://github.com/ATOMNFT)
+- [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
 <BR>
 
 CUSTOM FIRMWARES ANIMATIONS : <BR>
