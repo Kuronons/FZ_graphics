@@ -8,7 +8,7 @@ And be sure to star those you like !
 [instantiator's Resistance Calculator](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#instantiators-resistance-calculator)<BR>
 [instantiator's Game of Tag](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#instantiators-game-of-tag)<BR>
 [Momentum Firmware](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#momentum-firmware)<BR>
-[Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#official-flipper-firmware---l1_mods_128x64-animation-update)<BR><BR></b>
+[OFW - L1_Mods_128x64 animation update](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#official-flipper-firmware---l1_mods_128x64-animation-update)<BR><BR></b>
 Also, feel free to reach me if you have some project you would like me to participate in... who knows, I might get interested ! ;)<BR><BR>
 O_oV</p>
   
