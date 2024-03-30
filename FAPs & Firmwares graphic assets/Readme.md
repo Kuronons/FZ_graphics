@@ -1,11 +1,16 @@
-<p align="center">
-Below are the graphic assets I've had the pleasure of working on for various FZ apps projects.<BR>
+<p align="center">Below are the graphic assets I've had the pleasure of working on for various FZ apps projects.<BR>
 Some ended up being released, some not. Note that this page is more of a showcase than a dump to download from.<BR>
 If you want to have an insight on one particular project, just follow provided link to the repo of its original creator.<BR>
-And be sure to star those you like !<BR><BR>
+And be sure to star those you like !
+
+<b><p align=center>[SquachWare Firmware - Sub-GHz](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#squachware-firmware---sub-ghz-read)<BR>
+[xMasterX's Flashlight - Memo pict](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#xmasterxs-flashlight---memo-pict)<BR>
+[instantiator's Resistance Calculator](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#instantiators-resistance-calculator)<BR>
+[instantiator's Game of Tag](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#instantiators-game-of-tag)<BR>
+[Momentum Firmware](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets#momentum-firmware)<BR>
+[Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs %26 Firmwares graphic assets#official-flipper-firmware---l1_mods_128x64-animation-update)<BR><BR></b>
 Also, feel free to reach me if you have some project you would like me to participate in... who knows, I might get interested ! ;)<BR><BR>
 O_oV</p>
-
   
 ## [SquachWare Firmware](https://github.com/skizzophrenic/SquachWare-CFW) - Sub-GHz "READ"<BR>
 Replacement of the ofw stock picture by a Sasquatch themed one.<BR><BR>
@@ -16,6 +21,7 @@ Remade asset<BR>
 Preview<BR>
 ![Screenshot-20230510-183014](https://github.com/Kuronons/FZ_graphics/assets/110337784/cb02537a-4832-41d0-a9a6-a58000b28e82)<BR>
 -> Release : Jan. 01, 2023.<BR><BR>
+
 ## [xMasterX's Flashlight](https://github.com/xMasterX/flipper-flashlight) - Memo pict<BR>
 Proposal for adding a picture as visual memo for easy GPIO connection.<BR><BR>
 Original FAP display<BR>
@@ -25,6 +31,7 @@ Proposed asset<BR>
 Preview<BR>
 ![Flashlight preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/49289ded-b00d-46c7-b6cc-72e2da61dcc0)<BR>
 -> Unreleased.<BR><BR>
+
 ## [instantiator's Resistance Calculator](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/resistors)<BR>
 Replacement of the original resistors pictures by more readable drawn ones.<BR>
 Replacement of the arrow used for band-selection by colored band.<BR>
@@ -44,6 +51,7 @@ Schematics with coordinates for easy-coding<BR>
 Preview<BR>
 ![Screenshot-20230510-200113](https://github.com/Kuronons/FZ_graphics/assets/110337784/6ab6bd26-f414-47c9-93c6-990770529cfe)<BR>
 -> Release : May 01, 2023.<BR><BR>
+
 ## [instantiator's Game of Tag](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/tag)<BR>
 Creation of graphic assets for brand new project.<BR>
 Concept : Laser game inspired. Game for 2 players owning each a Flipper. Using IR to "shoot" at opponent's IR receiver.<BR>
@@ -65,6 +73,7 @@ Schematics with coordinates for easy-coding<BR>
 Preview<BR>
 ![Final-preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/bb1aa638-4aa2-481c-bafa-cd53d5bacccf)<BR>
 -> Unreleased. (Paused WIP)<BR><BR>
+
 ## [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware)<BR>
 - ___Momentum settings menu : 16x16px "M" logo.___<BR><BR>
 Original asset preview (by [WillyJL](https://github.com/Willy-JL))<BR>
@@ -109,3 +118,16 @@ Preview<BR>
 ![SubGhz Scanning - Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/b8413e82-3b1f-4f21-8439-7f8cb50bf962)
 ![SubGhz Fishing - Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/dcb3b53a-7c6d-412d-a1c3-2ed9ae9af798)<BR>
 -> Release : Mar. 19, 2024.<BR><BR>
+
+## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
+Updating original animation with the addition of VGM module visual.<BR>
+Respect of original art and animation script. Creation of the VGM module design as well as Space Invader-like control screen<BR><BR>
+Original animation by **Valerie Aquamine** (aka ***Mother of Dolphin***), main Flipper's artist.<BR>
+![L1_Mods-screenshot](https://github.com/Kuronons/FZ_graphics/assets/110337784/b934b515-07d9-479e-a3a1-2c6d66ab4418)<BR>
+Proposed additional assets (8 new frames + 4 modded frames + meta.txt edit)<BR>
+![VGMods-Frames review](https://github.com/Kuronons/FZ_graphics/assets/110337784/9e39e832-c6b9-4e41-b72a-fbefd4cfd8b6)<BR>
+Preview<BR>
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/74a1d189-843a-4267-9191-1aad1435f4dd
+
+-> Release : Mar. 29, 2024.<BR><BR>
