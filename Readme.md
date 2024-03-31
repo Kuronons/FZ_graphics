@@ -1,14 +1,13 @@
 <p align="center"><img width="830" height="415" src="https://user-images.githubusercontent.com/110337784/194436239-7cfda198-2808-406c-b1ae-81ab7a7d409a.jpg"></p>
 
  ‎ <p align="center"><b>FLIPPER ZERO DEVICE : CUSTOM ANIMATIONS, PASSPORT BACKGROUNDS & PROFILE PICTURES</b></p><p align="center">You can find in the well-named folders what I've made so far :<BR><BR>
-CUSTOM [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/tree/main/Animations)<BR>
-PASSPORT [BACKGROUNDS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background) AND [PROFILE PICTS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures)<BR>
-CFW & FAP [GRAPHIC ASSETS](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets)<BR>
-BAD USB [VISUAL PAYLOADS](https://github.com/Kuronons/FZ_graphics/tree/main/BadUSB%20Visual%20Payloads)<BR><BR>
+**CUSTOM [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/tree/main/Animations)<BR>**
+**PASSPORT [BACKGROUNDS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background) AND [PROFILE PICTS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures)<BR>**
+**CFW & FAP [GRAPHIC ASSETS](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets)<BR>**
+**BAD USB [VISUAL PAYLOADS](https://github.com/Kuronons/FZ_graphics/tree/main/BadUSB%20Visual%20Payloads)<BR><BR>**
 Also, you can find below a bunch of useful [tutorials](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics---tutorials--other-hints) and [tools](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics---tools--apps) links related to Flipper's graphic assets.<BR>As well, follows a non-stop growing list of [links to other people's makings](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics---custom-animations--assets).<BR>
 I would gladly add your link on request, just ask or PR !<BR><BR>
-Have fun exploring ! O_oV
-</p><BR>
+Have fun exploring ! **O_oV**</p><BR>
 
 ## 📺 Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
   
@@ -206,16 +205,18 @@ Have fun exploring ! O_oV
 - [DEXV Music0](https://github.com/DXVVAY/dexv-music0) - Tons of RTTTF (Ring Tone Text Transfer Language) music files
 <BR>
 
-## 💬 Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
+## 💬 Links of interest : FLIPPER FIRMWARES & THEIR DISCORD
 
+- Flipper Device [discord](https://discord.gg/flipper) -> Official Flipper firmware [github](https://github.com/flipperdevices/flipperzero-firmware)
+  
 - Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/) -> Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware)
   
-- Flipper Uncensored [discord](https://discord.gg/gF2bBUzAFe) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
+- Flipper Uncensored [discord](https://discord.gg/A5Szct5TAu) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
   
 - Squachtopia Hangout [discord](https://discord.gg/squachtopia) -> SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW)
 
-- Momentum Firmware [discord](https://discord.gg/yPXFztV2) -> Momentum firmware [github](https://github.com/Next-Flip/Momentum-Firmware)
+- Momentum Firmware [discord](https://discord.gg/momentum) -> Momentum firmware [github](https://github.com/Next-Flip/Momentum-Firmware)
   
-- (XX)Xtreme-Firmware [discord](https://discord.gg/mC2FxbYSMr) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
+- (XX)Xtreme-Firmware [discord](https://discord.gg/flipper-xtreme) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
   
-- D-WARE [discord](https://discord.gg/dexvirus) -> DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
+- D-WARE [discord](https://discord.gg/bmfvcN79Gg) -> DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
