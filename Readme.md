@@ -10,7 +10,7 @@ I would gladly add your link on request, just ask or PR !<BR><BR>
 Have fun exploring ! O_oV
 </p><BR>
 
-## Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
+## 📺 Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
   
 - [How2Flipper](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) - pdf guide : How to download files from Github and copy them to Flipper by [Wr3nch](https://github.com/wrenchathome)
 
@@ -41,7 +41,7 @@ Have fun exploring ! O_oV
 
 <BR>
  
-## Links of interest : FLIPPER GRAPHICS - Tools & apps
+## ⚙️ Links of interest : FLIPPER GRAPHICS - Tools & apps
 
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
 ⮚ Preview animations on PC (from .png or .bm files)<br>
@@ -92,7 +92,7 @@ Have fun exploring ! O_oV
 ⮚ Choice of cores for *Flipper Zero* or *DuckyScript V1*<BR>
 <BR>
 
-## Links of interest : FLIPPER GRAPHICS - Custom Animations & Assets
+## 🧡 Links of interest : FLIPPER GRAPHICS - Custom Animations & Assets
 
 CUSTOM ANIMATION MAKERS : <BR>
 - [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
@@ -195,7 +195,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
  - [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
  <BR>
 
-## Links of interest : FLIPPER DATABASES
+## 🗃️ Links of interest : FLIPPER DATABASES
 
 - [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - Huge IR recorded signals database
 
@@ -206,7 +206,7 @@ CUSTOM FIRMWARES ANIMATIONS : <BR>
 - [DEXV Music0](https://github.com/DXVVAY/dexv-music0) - Tons of RTTTF (Ring Tone Text Transfer Language) music files
 <BR>
 
-## Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
+## 💬 Links of interest : CUSTOM FIRMWARES & THEIR DISCORD
 
 - Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/) -> Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware)
   
