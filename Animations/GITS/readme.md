@@ -61,8 +61,8 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/42e89ddc-1281-45fc-b5b7
 
 <BR>
 
-I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/manifest.txt) file with the 4 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/manifest.txt) file with all entries for a quick copy&paste. (butthurt & level set for RogueMaster / Momentum FW, edit these if under another firmware or according to your own custom needs)
 
-You can download each anim as separate zip files or the [5 all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/Kuronons_GITS_Collection%20(5%20animations).zip).
+You can download each anim as separate zip files or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/Kuronons_GITS_Collection%20(5%20animations).zip).
 
 Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/Kuronons%20-%20GITS.zip) to use with Momentum / Xtreme firmwares.
