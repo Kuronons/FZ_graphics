@@ -93,7 +93,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 ## 🧡 Links of interest : FLIPPER GRAPHICS - Custom Animations & Assets
 
-🔖 CUSTOM ANIMATION MAKERS : <BR>
+🔖 **CUSTOM ANIMATION MAKERS :** <BR>
 - [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
 
 - [FZ_Animations](https://github.com/Haseosama/FZ_Animations) by [Haseo-sama](https://github.com/Haseosama)
@@ -177,7 +177,7 @@ Have fun exploring ! **O_oV**</p><BR>
 - [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
 <BR>
 
-🔖 CUSTOM FIRMWARES ANIMATIONS : <BR>
+🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
 
 - [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
 
@@ -188,7 +188,7 @@ Have fun exploring ! **O_oV**</p><BR>
 - Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/) including NSFW by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
 <BR>
 
-🔖 CUSTOM ANIMATIONS DUMPS : <BR>
+🔖 **CUSTOM ANIMATIONS DUMPS :** <BR>
 - [RedFox's Flipper Zero Animation Collections](https://github.com/WPCMSNinja/redfox-fz-animations) - animations dump + custom made one by [Greg the WP CMS Ninja](https://github.com/WPCMSNinja)
  
 - [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
