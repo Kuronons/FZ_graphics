@@ -129,7 +129,7 @@ Video Game Module<BR>
 ![VGM](https://github.com/Kuronons/FZ_graphics/assets/110337784/d8360a8e-e542-40c1-8926-8f2b11f658fa)<BR>
 Proposed additional assets (8 new frames + 4 modded frames + meta.txt edit)<BR>
 ![VGMods-Frames review](https://github.com/Kuronons/FZ_graphics/assets/110337784/9e39e832-c6b9-4e41-b72a-fbefd4cfd8b6)<BR>
-Preview<BR>
+Preview
 
 https://github.com/Kuronons/FZ_graphics/assets/110337784/74a1d189-843a-4267-9191-1aad1435f4dd
 
