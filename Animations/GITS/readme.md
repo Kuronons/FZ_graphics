@@ -51,8 +51,18 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/de0413cd-8c54-4707-bfae
 
 <BR>
 
+   - ___TACHIKOMA___
+      
+      Inspired by the Tachikoma AI walker/roller tank from *GHOST IN THE SHELL - STAND ALONE COMPLEX* anime series.
+      
+      Note : Passive + active frames. (Active : eyes are centered and rolling)<BR>
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/42e89ddc-1281-45fc-b5b7-a29e84779c58
+
+<BR>
+
 I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/manifest.txt) file with the 4 entries for a quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
 
-You can download each anim as separate zip files or the [4 all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/Kuronons_GITS_Collection%20(4%20animations).zip).
+You can download each anim as separate zip files or the [5 all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/Kuronons_GITS_Collection%20(5%20animations).zip).
 
 Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/GITS/Kuronons%20-%20GITS.zip) to use with Momentum / Xtreme firmwares.
