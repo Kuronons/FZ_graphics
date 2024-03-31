@@ -41,7 +41,7 @@ Have fun exploring ! O_oV
 
 <BR>
  
-## ⚙️ Links of interest : FLIPPER GRAPHICS - Tools & apps
+## 🧰 Links of interest : FLIPPER GRAPHICS - Tools & apps
 
 - [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
 ⮚ Preview animations on PC (from .png or .bm files)<br>
@@ -94,7 +94,7 @@ Have fun exploring ! O_oV
 
 ## 🧡 Links of interest : FLIPPER GRAPHICS - Custom Animations & Assets
 
-CUSTOM ANIMATION MAKERS : <BR>
+🔖 CUSTOM ANIMATION MAKERS : <BR>
 - [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
 
 - [FZ_Animations](https://github.com/Haseosama/FZ_Animations) by [Haseo-sama](https://github.com/Haseosama)
@@ -178,22 +178,22 @@ CUSTOM ANIMATION MAKERS : <BR>
 - [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
 <BR>
 
-CUSTOM FIRMWARES ANIMATIONS : <BR>
+🔖 CUSTOM FIRMWARES ANIMATIONS : <BR>
 
- - [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
+- [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
 
- - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
+- Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
  
 - RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + bunch of unlisted ones)
 
 - Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/) including NSFW by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
 <BR>
 
- CUSTOM ANIMATIONS DUMPS : <BR>
- - [RedFox's Flipper Zero Animation Collections](https://github.com/WPCMSNinja/redfox-fz-animations) - animations dump + custom made one by [Greg the WP CMS Ninja](https://github.com/WPCMSNinja)
+🔖 CUSTOM ANIMATIONS DUMPS : <BR>
+- [RedFox's Flipper Zero Animation Collections](https://github.com/WPCMSNinja/redfox-fz-animations) - animations dump + custom made one by [Greg the WP CMS Ninja](https://github.com/WPCMSNinja)
  
- - [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
- <BR>
+- [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
+<BR>
 
 ## 🗃️ Links of interest : FLIPPER DATABASES
 
