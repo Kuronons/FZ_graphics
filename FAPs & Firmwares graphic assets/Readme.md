@@ -131,6 +131,6 @@ Proposed additional assets (8 new frames + 4 modded frames + meta.txt edit)<BR>
 ![VGMods-Frames review](https://github.com/Kuronons/FZ_graphics/assets/110337784/9e39e832-c6b9-4e41-b72a-fbefd4cfd8b6)<BR>
 Preview
 
-https://github.com/Kuronons/FZ_graphics/assets/110337784/74a1d189-843a-4267-9191-1aad1435f4dd
+https://github.com/Kuronons/FZ_graphics/assets/110337784/0bb462ec-7fa9-4e26-b142-61adc99fe35e
 
 -> Release : Mar. 29, 2024.<BR><BR>
