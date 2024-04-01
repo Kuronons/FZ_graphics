@@ -118,6 +118,42 @@ Preview<BR>
 ![SubGhz Scanning - Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/b8413e82-3b1f-4f21-8439-7f8cb50bf962)
 ![SubGhz Fishing - Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/dcb3b53a-7c6d-412d-a1c3-2ed9ae9af798)<BR>
 -> Release : Mar. 19, 2024.<BR><BR>
+- ___BLE Pairing screen___<BR>
+Replacement of the ofw stock picture by Momentum themed ones.<BR><BR>
+Original assets<BR>
+![BLE_Pairing_128x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/070111d3-86ca-4430-98ec-4ac658cccb5a)<BR>
+Remade asset<BR>
+![BLE_Pairing_128x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/eac2d4ef-323a-4c5b-9482-9ace97bda070)<BR>
+Preview<BR>
+![BLE_Pairing-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/5643fe67-22b9-4d86-a07e-f3cb5452146b)<BR>
+-> Release : Apr. 1, 2024.<BR><BR>
+- ___U2F graphic assets___<BR>
+Replacement of the ofw stock pictures by Momentum themed ones.<BR>
+U2F screen assets : Connect, Auth, Connected & Error picts that display inside the USB graphic asset (unedited)<BR><BR>
+Original assets<BR>
+![Error_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/3a2330f9-343d-4c9a-ad18-bc9eb63fb3ec)
+![Connected_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/d00527f3-bb05-40cf-9a93-51f1e404c39b)
+![Connect_me_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/6272b323-11f6-467d-ac6e-940d70bb36a0)
+![Auth_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/5b46bfde-bc73-431b-a5f0-4f047d84d3c9)<BR>
+Remade asset<BR>
+![Error_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/e1022302-08f6-4dea-8e64-fa4872ddee97)
+![Connected_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/151d1585-feec-4f6f-b2a9-9aa87d3868c3)
+![Connect_me_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/27a98e35-5b69-4a92-9244-e8becd08b61b)
+![Auth_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/10a40f36-d3fe-4cc9-96ac-9d2e80d99b76)<BR>
+Preview<BR>
+![U2F_Connect-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4b7f61ea-c4a7-44c1-bde1-58606332062a)
+![U2F_Connected-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/c9de1dbc-70e5-4588-a238-e3262148ea61)<BR>
+-> Release : Apr. 1, 2024.<BR><BR>
+- ___Settings (Turning off device) screen___<BR>
+Replacement of the ofw stock picture by Momentum themed ones.<BR><BR>
+Original assets<BR>
+![Cry_dolph_55x52](https://github.com/Kuronons/FZ_graphics/assets/110337784/4e5f37b3-42a2-48bf-b048-5f6428708ad0)<BR>
+Remade asset<BR>
+![Cry_dolph_55x52](https://github.com/Kuronons/FZ_graphics/assets/110337784/326db550-5994-47d6-8c20-c123790fc111)<BR>
+Preview<BR>
+![Settings_screen-preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/8f9a1415-5209-4694-93c4-aaf88a3f2a63)<BR>
+-> Release : Apr. 1, 2024.<BR><BR>
+
 
 ## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
 Updating original animation with the addition of VGM module visual.<BR>
