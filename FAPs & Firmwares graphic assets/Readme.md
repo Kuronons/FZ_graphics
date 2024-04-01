@@ -129,7 +129,7 @@ Preview<BR>
 -> Release : Apr. 1, 2024.<BR><BR>
 - ___U2F graphic assets___<BR>
 Replacement of the ofw stock pictures by Momentum themed ones.<BR>
-U2F screen assets : Connect, Auth, Connected & Error picts that display inside the USB graphic asset (unedited)<BR><BR>
+U2F screen assets : Connect, Auth, Connected & Error picts that display inside the USB key (unedited)<BR><BR>
 Original assets<BR>
 ![Error_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/3a2330f9-343d-4c9a-ad18-bc9eb63fb3ec)
 ![Connected_62x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/d00527f3-bb05-40cf-9a93-51f1e404c39b)
