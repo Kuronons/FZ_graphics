@@ -153,6 +153,29 @@ Remade asset<BR>
 Preview<BR>
 ![Settings_screen-preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/8f9a1415-5209-4694-93c4-aaf88a3f2a63)<BR>
 -> Release : Apr. 1, 2024.<BR><BR>
+- ___Infrared - Learning graphic asset___<BR>
+Replacement of the ofw stock picture by Momentum themed ones.<BR>
+Note : in addition to yappy replacing dolphin, I edited so the Flipper device fully displays on screen.<BR><BR>
+Original assets<BR>
+![InfraredLearnShort_128x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/204197e2-d6c1-4792-9076-15bddf28c139)<BR>
+Remade asset<BR>
+![InfraredLearnShort_128x31](https://github.com/Kuronons/FZ_graphics/assets/110337784/081a1fdb-a6b0-440d-9283-556f430d40b9)<BR>
+Preview<BR>
+![IR-Recording-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/c50d0cf4-9ba2-44df-94f2-8521e424f22e)<BR>
+-> Release : Apr. 2, 2024.<BR><BR>
+- ___NFC - Emulation screen___<BR>
+Replacement of the ofw stock picture by Momentum themed ones.<BR>
+Note : I moved away from original idea concept. Also had to edit the asset to fit within the screen.<BR>
+For some weird reason, the asset is 64px high but is set on y=3 instead of y=0 axis as it should. <BR>
+I chose to only edit it graphically instead of editing the code. That may be updated someday tho...<BR>
+And also : this is NOT a bank card ! :P<BR><BR>
+Original assets<BR>
+![NFC_dolphin_emulation_47x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/fa278ce7-c5c3-44ef-b9d3-8d5384b23567)<BR>
+Remade asset<BR>
+![NFC_dolphin_emulation_51x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/46fb7ae0-f27b-466c-afa8-aa1a0876edc3)<BR>
+Preview<BR>
+![NFC_Emulate-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/8cfa12d0-5279-4b91-b79f-070ad242007a)<BR>
+-> Release : Apr. 2, 2024.<BR><BR>
 
 
 ## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
