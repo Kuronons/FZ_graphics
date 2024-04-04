@@ -188,6 +188,18 @@ Remade asset<BR>
 Preview<BR>
 ![Erase_pin-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4cb04821-58fc-4965-93c1-f6561306a89b)<BR>
 -> Release : Apr. 4, 2024.<BR><BR>
+- ___DFU screen___<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
+Note : Needed to adjust the helmet to barely fit the head's angle as it differs lots from original asset.<BR>
+Also wanted the capybara to look kinda worried instead of peacefully relaxing. Eye part was a mess... I tend to believe it ended kinda ok. XD<BR>
+This has to replace the asset in firmware itself, would not display if simply added to an asset pack.<BR><BR>
+Original assets<BR>
+![DFU_128x50](https://github.com/Kuronons/FZ_graphics/assets/110337784/a65473fa-b283-49d0-9b5b-6cf4a90a5065)<BR>
+Remade asset<BR>
+![DFU_128x50](https://github.com/Kuronons/FZ_graphics/assets/110337784/e9a676ac-c788-4414-95d3-8e787b6f9d7c)<BR>
+Preview<BR>
+![DFU-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f2911d0b-38e9-4119-bdd7-a04775ee2757)<BR>
+-> Release : Apr. 4, 2024.<BR><BR>
 
 
 ## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
