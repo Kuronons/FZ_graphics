@@ -168,7 +168,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed anims and graphic assets) by [Artemio](https://github.com/cyberartemio)
 
-- [Flipper Zero - LOTR Animation Pack](https://github.com/AbeNaws/FlipperZero-LOTRAnimationPack) (<i>Lord of the Rings</i> themed) by [Abenaws](https://github.com/AbeNaws)
+- [Flipper Zero Asset Packs](https://github.com/AbeNaws/FlipperZeroAssetPacks) (<i>Lord of the Rings</i> & <i>Pokemon</i> themed) by [Abenaws](https://github.com/AbeNaws)
 
 - [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
 
