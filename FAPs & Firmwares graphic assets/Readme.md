@@ -176,6 +176,18 @@ Remade asset<BR>
 Preview<BR>
 ![NFC_Emulate-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/8cfa12d0-5279-4b91-b79f-070ad242007a)<BR>
 -> Release : Apr. 2, 2024.<BR><BR>
+- ___Erase Pin screen___<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
+Note : MIB themed as in ofw, just replacing the dolphin by a capybara with some adjustments.<BR>
+Appears after holding UP+BACK for 30sec.<BR>
+This has to replace the asset in firmware itself, would not display if simply added to an asset pack.<BR><BR>
+Original assets<BR>
+![Erase_pin_128x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/eee8ff0b-32ec-4089-96e3-9ef90c67efa4)<BR>
+Remade asset<BR>
+![Erase_pin_128x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/8f37d29d-f342-4612-a730-1f065cc5ce91)<BR>
+Preview<BR>
+![Erase_pin-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4cb04821-58fc-4965-93c1-f6561306a89b)<BR>
+-> Release : Apr. 4, 2024.<BR><BR>
 
 
 ## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
