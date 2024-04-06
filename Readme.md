@@ -116,7 +116,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [Flipperzero Animations](https://github.com/synthetikspace/SynthetikSpace-FZ-Animations) by [SynthetikSpace](https://github.com/synthetikspace) aka Space
 
-- 🎬 [FZ Customization](https://github.com/Gabry154/FZ_Customization) by [Gabry154](https://github.com/Gabry154)
+- 🎬 [FZ Customization](https://github.com/Gabry154/FZ_Customization) (*Jojo*, *Berserk* themed) by [Gabry154](https://github.com/Gabry154)
 
 - 🎨 [animations](https://github.com/topbillin/animations) (*Punch-Out* game + misc) by [topbilin](https://github.com/topbillin) aka Ned_Flanders
 
@@ -128,7 +128,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) (kissing-girls themed) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
-- 🎬 [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [Iori Kesso](https://github.com/IoriKesso)
+- 🎬 [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) (Japanim's girls themed) by [Iori Kesso](https://github.com/IoriKesso)
 
 - 🎨 [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by Sergey Nord aka [kainsamara](https://github.com/kainsamara)
 
@@ -136,7 +136,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨🎬 [MoreReasonable's Flipper assets](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-) by [MoReReAsOnAbLe](https://github.com/MoReReAsOnAbLe)
 
-- 🎨 [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) by Nicola Selenu aka [thevot](https://github.com/thevot)
+- 🎨 [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) (FZ Italia themed) by Nicola Selenu aka [thevot](https://github.com/thevot)
 
 - 🎨 [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
 
