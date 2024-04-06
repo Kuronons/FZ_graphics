@@ -106,7 +106,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [FlipperZero Custom Animations](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) by [Charles The Great](https://github.com/CharlesTheGreat77) aka DoobTheGoober
  
-- 🎬 [FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project by [HexxedBitHeadz](https://github.com/HexxedBitHeadz) aka Aromak
+- 🎬 [FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - *CyberPunk Edgerunner* project by [HexxedBitHeadz](https://github.com/HexxedBitHeadz) aka Aromak
  
 - 🎨 [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
 
@@ -118,7 +118,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [FZ Customization](https://github.com/Gabry154/FZ_Customization) by [Gabry154](https://github.com/Gabry154)
 
-- 🎨 [animations](https://github.com/topbillin/animations) by [topbilin](https://github.com/topbillin) aka Ned_Flanders
+- 🎨 [animations](https://github.com/topbillin/animations) (*Punch-Out* game + misc) by [topbilin](https://github.com/topbillin) aka Ned_Flanders
 
 - 🎨🎬 [Flipper_animations](https://github.com/guilatoffi/Flipper_animations) by [guilatoffi](https://github.com/guilatoffi)
 
@@ -162,7 +162,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨 [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
 
-- 🎬 [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by [secretlay3r](https://github.com/secretlay3r) aka Platon
+- 🎬 [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (*Sonic the Hedgehog* themed) by [secretlay3r](https://github.com/secretlay3r) aka Platon
 
 - 🎬 [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) (dolphin themed) by [bip3r](https://github.com/bip3r)
 
@@ -170,11 +170,11 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed anims and graphic assets) by [Artemio](https://github.com/cyberartemio)
 
-- 🎨🎬 [Flipper Zero Asset Packs](https://github.com/AbeNaws/FlipperZeroAssetPacks) (<i>Lord of the Rings</i> & <i>Pokemon</i> themed) by [Abenaws](https://github.com/AbeNaws)
+- 🎨🎬 [Flipper Zero Asset Packs](https://github.com/AbeNaws/FlipperZeroAssetPacks) (*Lord of the Rings* & *Pokemon* themed) by [Abenaws](https://github.com/AbeNaws)
 
-- 🎬 [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
+- 🎬 [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (*Warhammer 40K* themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
 
-- 🎨 [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
+- 🎨 [AssetPacks](https://github.com/Dankof04/AssetPacks) (*Pikachu* anim) by [Dankof](https://github.com/Dankof04)
 
 - 🎨 [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
 
