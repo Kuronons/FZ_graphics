@@ -138,6 +138,8 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨 [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) (FZ Italia themed) by Nicola Selenu aka [thevot](https://github.com/thevot)
 
+- 🎨 [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) (FZ France themed) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
+
 - 🎨 [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
 
 - 🎬 [Flipper-zero-animations](https://github.com/TechRafita/Flipper-zero-animations) by [Tech_Rafita](https://github.com/TechRafita)
@@ -146,8 +148,6 @@ Have fun exploring ! **O_oV**</p><BR>
  
 - 🎨 [Flipper-custom](https://github.com/Soulsender/flipper-custom) by [Soulsender](https://github.com/Soulsender)
 
-- 🎨 [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
- 
 - 🎨 [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
  
 - 🎨🎬 [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
