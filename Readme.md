@@ -122,7 +122,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨🎬 [Flipper_animations](https://github.com/guilatoffi/Flipper_animations) by [guilatoffi](https://github.com/guilatoffi)
 
-- 🎬 [flipper-zero-animations](https://github.com/mnenkov/flipper-zero-animations) by [mnenkov](https://github.com/mnenkov) aka DAIM_SANN
+- 🎨🎬 [flipper-zero-animations](https://github.com/mnenkov/flipper-zero-animations) (~200 anims, various themes) by [mnenkov](https://github.com/mnenkov) aka DAIM_SANN
 
 - 🎨🎬 [flipper-sl-animations](https://github.com/SkyLoungeZero/flipper-sl-animations/tree/main/WIP) by [SkyLoungeZero](https://github.com/SkyLoungeZero) aka platz
 
