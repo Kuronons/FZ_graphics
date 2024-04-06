@@ -162,7 +162,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - [MyFlip](https://github.com/luis-caldas/myflip) by [luis-caldas](https://github.com/luis-caldas)
 
-- [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) by [bip3r](https://github.com/bip3r)
+- [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) (dolphin themed) by [bip3r](https://github.com/bip3r)
 
 - [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
 
