@@ -94,87 +94,89 @@ Have fun exploring ! **O_oV**</p><BR>
 ## 🧡 Links of interest : FLIPPER GRAPHICS - Custom Animations & Assets
 
 🔖 **CUSTOM ANIMATION MAKERS :** <BR>
-- [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
+> [!TIP]
+> &ensp; **Marked with 🎨 =**  *includes assets made from scratch / sprites (drawn or heavily edited)*<BR>
+> &ensp; **Marked with 🎬 =**  *includes assets made from GIF / movie excerpt (via ezgif.com or such)*<BR>
 
-- [FZ_Animations](https://github.com/Haseosama/FZ_Animations) by [Haseo-sama](https://github.com/Haseosama)
+- 🎨🎬 [Talking-Sasquach](https://github.com/skizzophrenic/Talking-Sasquach) by himself aka [Skizzophrenic](https://github.com/skizzophrenic)
 
-- [FZAnimations](https://github.com/stopoxy/FZAnimations) by [stop oxy](https://github.com/stopoxy)
+- 🎨🎬 [FZ_Animations](https://github.com/Haseosama/FZ_Animations) by [Haseo-sama](https://github.com/Haseosama)
 
-- [FlipperZero Custom Animations](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) by [Charles The Great](https://github.com/CharlesTheGreat77) aka DoobTheGoober
+- 🎬 [FZAnimations](https://github.com/stopoxy/FZAnimations) by [stop oxy](https://github.com/stopoxy)
+
+- 🎬 [FlipperZero Custom Animations](https://github.com/CharlesTheGreat77/FlipperZeroAnimation) by [Charles The Great](https://github.com/CharlesTheGreat77) aka DoobTheGoober
  
-- [FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project by [HexxedBitHeadz](https://github.com/HexxedBitHeadz) aka Aromak
+- 🎬 [FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - CyberPunk Edgerunner project by [HexxedBitHeadz](https://github.com/HexxedBitHeadz) aka Aromak
  
-- [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
+- 🎨 [WR3NCH's Anims](https://github.com/wrenchathome/flip0anims) by [Wr3nch](https://github.com/wrenchathome) aka R3ggie
 
-- [flipper-zero-animations](https://github.com/phoenixyyz/flipper-zero-animations) by [Pheonixyyz](https://github.com/phoenixyyz) aka PYX
+- 🎨🎬 [flipper-zero-animations](https://github.com/phoenixyyz/flipper-zero-animations) by [Pheonixyyz](https://github.com/phoenixyyz) aka PYX
  
-- [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
+- 🎨 [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
 
-- [Flipperzero Animations](https://github.com/synthetikspace/SynthetikSpace-FZ-Animations) by [SynthetikSpace](https://github.com/synthetikspace) aka Space
+- 🎬 [Flipperzero Animations](https://github.com/synthetikspace/SynthetikSpace-FZ-Animations) by [SynthetikSpace](https://github.com/synthetikspace) aka Space
 
-- [FZ Customization](https://github.com/Gabry154/FZ_Customization) by [Gabry154](https://github.com/Gabry154)
+- 🎬 [FZ Customization](https://github.com/Gabry154/FZ_Customization) by [Gabry154](https://github.com/Gabry154)
 
-- [animations](https://github.com/topbillin/animations) by [topbilin](https://github.com/topbillin) aka Ned_Flanders
+- 🎨 [animations](https://github.com/topbillin/animations) by [topbilin](https://github.com/topbillin) aka Ned_Flanders
 
-- [Flipper_animations](https://github.com/guilatoffi/Flipper_animations) by [guilatoffi](https://github.com/guilatoffi)
+- 🎨🎬 [Flipper_animations](https://github.com/guilatoffi/Flipper_animations) by [guilatoffi](https://github.com/guilatoffi)
 
-- [flipper-zero-animations](https://github.com/mnenkov/flipper-zero-animations) by [mnenkov](https://github.com/mnenkov) aka DAIM_SANN
+- 🎬 [flipper-zero-animations](https://github.com/mnenkov/flipper-zero-animations) by [mnenkov](https://github.com/mnenkov) aka DAIM_SANN
 
-- [flipper-sl-animations](https://github.com/SkyLoungeZero/flipper-sl-animations/tree/main/WIP) by [SkyLoungeZero](https://github.com/SkyLoungeZero) aka platz
+- 🎨🎬 [flipper-sl-animations](https://github.com/SkyLoungeZero/flipper-sl-animations/tree/main/WIP) by [SkyLoungeZero](https://github.com/SkyLoungeZero) aka platz
 
-- [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
+- 🎬 [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
-- [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [Iori Kesso](https://github.com/IoriKesso)
+- 🎬 [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [Iori Kesso](https://github.com/IoriKesso)
 
-- [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by Sergey Nord aka [kainsamara](https://github.com/kainsamara)
+- 🎨 [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by Sergey Nord aka [kainsamara](https://github.com/kainsamara)
 
-- [Flipper Zero Animations](https://github.com/LinusKay/flipperzero-animations) by [Linus Kay](https://github.com/LinusKay)
+- 🎨 [Flipper Zero Animations](https://github.com/LinusKay/flipperzero-animations) by [Linus Kay](https://github.com/LinusKay)
 
-- [MoreReasonable's Flipper assets](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-) by [MoReReAsOnAbLe](https://github.com/MoReReAsOnAbLe)
+- 🎨🎬 [MoreReasonable's Flipper assets](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-) by [MoReReAsOnAbLe](https://github.com/MoReReAsOnAbLe)
 
-- [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) by Nicola Selenu aka [thevot](https://github.com/thevot)
+- 🎨 [Flipper-Zero-Animations](https://github.com/thevot/Flipper-Zero-Animations) by Nicola Selenu aka [thevot](https://github.com/thevot)
 
-- [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
+- 🎨 [Flipper_Zeron_iKun_Animation](https://github.com/h0e4a0r1t/Flipper_Zero_iKun_Animation) by [h0e4a0r1t](https://github.com/h0e4a0r1t)
 
-- [Flipper-zero-animations](https://github.com/TechRafita/Flipper-zero-animations) by [Tech_Rafita](https://github.com/TechRafita)
+- 🎬 [Flipper-zero-animations](https://github.com/TechRafita/Flipper-zero-animations) by [Tech_Rafita](https://github.com/TechRafita)
  
-- [Flipper-Animations](https://github.com/flipperzeroindia/flipperzero-animations) by [Flipperzeroindia](https://github.com/flipperzeroindia)
+- 🎨 [Flipper-Animations](https://github.com/flipperzeroindia/flipperzero-animations) by [Flipperzeroindia](https://github.com/flipperzeroindia)
  
-- [Flipper-custom](https://github.com/Soulsender/flipper-custom) by [Soulsender](https://github.com/Soulsender)
+- 🎨 [Flipper-custom](https://github.com/Soulsender/flipper-custom) by [Soulsender](https://github.com/Soulsender)
 
-- [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
+- 🎨 [Animation Flipper French Community](https://github.com/FlipperFrenchCommunity/FlipperFrenchCommunityAnimation) by [Flipper French Community](https://github.com/FlipperFrenchCommunity)
  
-- [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
+- 🎨 [flipperzero-assets](https://github.com/JustDr00py/flipperzero-assets) (Passport backgrounds & profile picts) by [JustDr00py](https://github.com/JustDr00py)
  
-- [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
+- 🎨🎬 [FlipperAnimations](https://github.com/Fiattarone/FlipperAnimations/tree/main) by [David Fiattarone](https://github.com/Fiattarone) (repo) / [TotallyNotADog](https://github.com/TotallyNotADog) (Portal anim design)
 
-- [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) & [rabbit-labs-flipper-animation](https://github.com/michaeldufault/rabbit-labs-flipper-animation) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
+- 🎨 [MicroD-Flipper-Pack](https://github.com/michaeldufault/MicroD-Flipper-Pack) (Animated logo + tune) & [rabbit-labs-flipper-animation](https://github.com/michaeldufault/rabbit-labs-flipper-animation) by [Michael Dufault](https://github.com/michaeldufault) aka MicroD
 
-- [fz-gfx](https://github.com/oneamongthetrees/fz-gfx) (Animation and passport profile picts) by [oneamongthetrees](https://github.com/oneamongthetrees)
+- 🎨🎬 [fz-gfx](https://github.com/oneamongthetrees/fz-gfx) (Animation and passport profile picts) by [oneamongthetrees](https://github.com/oneamongthetrees)
 
-- [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
+- 🎬 [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
 
-- [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) (mostly Star Wars) by [BOSSK28](https://github.com/BOSSK28)
+- **[404 error]** ~~🎬 [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) (mostly Star Wars) by [BOSSK28](https://github.com/BOSSK28)~~ 
 
-- [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
+- 🎨 [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
 
-- [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by [secretlay3r](https://github.com/secretlay3r) aka Platon
+- 🎬 [FZ-Sonic-animations](https://github.com/secretlay3r/FZ-Sonic-animations) (Sonic the Hedgehog themed) by [secretlay3r](https://github.com/secretlay3r) aka Platon
 
-- [MyFlip](https://github.com/luis-caldas/myflip) by [luis-caldas](https://github.com/luis-caldas)
+- 🎬 [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) (dolphin themed) by [bip3r](https://github.com/bip3r)
 
-- [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) (dolphin themed) by [bip3r](https://github.com/bip3r)
+- 🎬 [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
 
-- [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
+- 🎬 [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed anims and graphic assets) by [Artemio](https://github.com/cyberartemio)
 
-- [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed anims and graphic assets) by [Artemio](https://github.com/cyberartemio)
+- 🎨🎬 [Flipper Zero Asset Packs](https://github.com/AbeNaws/FlipperZeroAssetPacks) (<i>Lord of the Rings</i> & <i>Pokemon</i> themed) by [Abenaws](https://github.com/AbeNaws)
 
-- [Flipper Zero Asset Packs](https://github.com/AbeNaws/FlipperZeroAssetPacks) (<i>Lord of the Rings</i> & <i>Pokemon</i> themed) by [Abenaws](https://github.com/AbeNaws)
+- 🎬 [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
 
-- [Flipper-animation](https://github.com/Scottarmy6/Flipper-animation) (<i>Warhammer 40K</i> themed) by [Scottarmy6](https://github.com/Scottarmy6) aka Loki Stampede
+- 🎨 [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
 
-- [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
-
-- [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
+- 🎨 [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
