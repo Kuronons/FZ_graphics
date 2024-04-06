@@ -132,7 +132,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨 [Animations for Flipper Zero](https://github.com/kainsamara/Flipper-Zero-Animations) by Sergey Nord aka [kainsamara](https://github.com/kainsamara)
 
-- 🎨 [Flipper Zero Animations](https://github.com/LinusKay/flipperzero-animations) by [Linus Kay](https://github.com/LinusKay)
+- 🎨 [Flipper Zero Animations](https://github.com/LinusKay/flipperzero-animations) (*Pluto* OAV, *World of Horror* game + misc) by [Linus Kay](https://github.com/LinusKay)
 
 - 🎨🎬 [MoreReasonable's Flipper assets](https://github.com/MoReReAsOnAbLe/MoreReasonable-s-Flipper-assets-) by [MoReReAsOnAbLe](https://github.com/MoReReAsOnAbLe)
 
