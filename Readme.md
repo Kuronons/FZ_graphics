@@ -126,7 +126,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨🎬 [flipper-sl-animations](https://github.com/SkyLoungeZero/flipper-sl-animations/tree/main/WIP) by [SkyLoungeZero](https://github.com/SkyLoungeZero) aka platz
 
-- 🎬 [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
+- 🎬 [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) (kissing-girls themed) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
 - 🎬 [Flipper-Zero-Anime-Wallpapers](https://github.com/IoriKesso/Flipper-Zero-Anime-Wallpapers) by [Iori Kesso](https://github.com/IoriKesso)
 
@@ -177,6 +177,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [AssetPacks](https://github.com/Dankof04/AssetPacks) (Pikachu anim) by [Dankof](https://github.com/Dankof04)
 
 - 🎨 [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
+
+- 🎨 [flipper-zero-stuff](https://github.com/wunderwuzzi23/flipper-zero-stuff) (C64 Animation) by [wunderwuzzi23](https://github.com/wunderwuzzi23)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
