@@ -185,6 +185,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎬 [Flipper-Zero-Animation-Berserk](https://github.com/Ant-42th/Flipper-Zero-Animation-Berserk) (Berserk themed anim) by [Anth-42th](https://github.com/Ant-42th)
 
 - 🎬 [Flipper_Zero_Animation_files](https://github.com/DNZ1393/Flipper_Zero_Animation_files) (*Winter in Prostokvashino* themed) by [DNZ1393](https://github.com/DNZ1393)
+
+- 🎬 [Flipper-animations-FR ](https://github.com/Parzivalglock/Flipper-animations-FR) (*Menace Santana* & *Ziak* music clips) by [Parzivalglock](https://github.com/Parzivalglock)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
