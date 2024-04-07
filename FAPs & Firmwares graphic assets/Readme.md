@@ -166,16 +166,15 @@ Preview<BR>
 - ___NFC - Emulation screen___<BR>
 Replacement of the ofw stock picture by Momentum themed ones.<BR>
 Note : I moved away from original idea concept. Also had to edit the asset to fit within the screen.<BR>
-For some weird reason, the asset is 64px high but is set on y=3 instead of y=0 axis as it should. <BR>
-I chose to only edit it graphically instead of editing the code. That may be updated someday tho...<BR>
+For some weird reason, the asset is 64px high but was set on y=3 instead of y=0 axis as it should. FW code edited to fix it.<BR>
 And also : this is NOT a bank card ! :P<BR><BR>
 Original assets<BR>
 ![NFC_dolphin_emulation_47x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/fa278ce7-c5c3-44ef-b9d3-8d5384b23567)<BR>
 Remade asset<BR>
-![NFC_dolphin_emulation_51x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/46fb7ae0-f27b-466c-afa8-aa1a0876edc3)<BR>
+![NFC_dolphin_emulation_51x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/e5ac93f5-e5ab-45a9-9f05-d76a1a7e3167)<BR>
 Preview<BR>
-![NFC_Emulate-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/8cfa12d0-5279-4b91-b79f-070ad242007a)<BR>
--> Release : Apr. 2, 2024.<BR><BR>
+![NFC_Emulate-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/48b12444-751e-4075-8ecd-900d677450b7)<BR>
+-> Release : Apr. 2, 2024. Updated on Apr. 7,2024.<BR><BR>
 - ___Erase Pin screen___<BR>
 Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : MIB themed as in ofw, just replacing the dolphin by a capybara with some adjustments.<BR>
@@ -200,6 +199,64 @@ Remade asset<BR>
 Preview<BR>
 ![DFU-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f2911d0b-38e9-4119-bdd7-a04775ee2757)<BR>
 -> Release : Apr. 4, 2024.<BR><BR>
+- ___Warning assets___<BR>
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : As in ofw, same image mirrored for the "flip" one.<BR><BR>
+Original assets<BR>
+![WarningDolphinFlip_45x42](https://github.com/Kuronons/FZ_graphics/assets/110337784/12471abe-03d0-44dd-897d-c059a7203a52)
+![WarningDolphin_45x42](https://github.com/Kuronons/FZ_graphics/assets/110337784/8df1b3f2-6c0b-4faf-9eb0-dadac9036626)<BR>
+Remade asset<BR>
+![WarningDolphinFlip_45x42](https://github.com/Kuronons/FZ_graphics/assets/110337784/982f4fd1-ecf8-4a39-a525-8c8c983f4243)
+![WarningDolphin_45x42](https://github.com/Kuronons/FZ_graphics/assets/110337784/7922ae7d-bbc9-4cb1-bc07-f8961c2e757e)<BR>
+Preview<BR>
+![WarningDolphinFlip-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/12a111d3-460e-4567-ae1c-3c966bab14c8)<BR>
+-> PRed : Apr. 7, 2024.<BR><BR>
+- ___Waiting asset___<BR>
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : This asset is only used in : ***iButton***, ***Wardriver*** app & ***SimonSays*** game.<BR>
+I went a bit far away from original concept on this one.<BR><BR>
+Original assets<BR>
+![DolphinWait_61x59](https://github.com/Kuronons/FZ_graphics/assets/110337784/ed562f51-1bb8-4e0e-a901-9bd6b070bcb1)<BR>
+Remade asset<BR>
+![DolphinWait_61x59](https://github.com/Kuronons/FZ_graphics/assets/110337784/1da7f6ab-66f3-42f5-b22a-9489627a8bac)<BR>
+Preview<BR>
+![Waiting_Wardriver-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/71212633-4bbe-4929-aaf6-7489abcc7901)<BR>
+-> PRed : Apr. 7, 2024.<BR><BR>
+- ___iButton Success___<BR>
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Original asset was black line on transparency background. Dunno why.<BR>
+Far far away from original asset. The concept : iButton -> Dallas key -> Dallas -> Dallas series -> Cowboy.<BR>
+And so it ended with a cowboy-capy smoking a Dallas key...... Oh well, it's Art, nothing to explain here ! :P<BR>
+Yeah... not an obvious wink I guess, especially for the youngsters who never suffered to watch this series. XD<BR><BR>
+Original assets<BR>
+![iButtonDolphinVerySuccess_92x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/31daa69b-58ae-4a11-9c54-c72261b70fe2)<BR>
+Remade asset<BR>
+![iButtonDolphinVerySuccess_92x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/04be7b79-4cd0-41f2-9f45-ed21a8a7de82)<BR>
+Preview<BR>
+![iButton_success-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/68203368-6e5a-45f6-975e-6889b96b7d42)<BR>
+-> PRed : Apr. 7, 2024.<BR><BR>
+- ___Saved asset___<BR>
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Original asset was black with transparency background. (?)<BR>
+As well as *waiting* asset, I moved "a bit" away from original design.<BR><BR>
+Original assets<BR>
+![DolphinSaved_92x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/45ce7973-8849-44c9-9c9e-f16579c16789)<BR>
+Remade asset<BR>
+![DolphinSaved_92x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/bf56d814-dae3-402c-bcb8-728c7a670d01)<BR>
+Preview<BR>
+![Saved-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/a10681bc-3282-4db8-b05b-35dd0231f05e)<BR>
+-> PRed : Apr. 7, 2024.<BR><BR>
+- ___Success asset___<BR>
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Original asset was black with transparency background. (?)<BR>
+Design hundred of miles away from original one.<BR><BR>
+Original assets<BR>
+![DolphinSuccess_91x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/681a25b5-b288-4153-9455-d38f3c2325ec)<BR>
+Remade asset<BR>
+![DolphinSuccess_91x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/2dda4295-b7cb-450c-b207-ce3271f36bd0)<BR>
+Preview<BR>
+![Success-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/a678671c-f5e1-4df5-8d49-aed634df7ddb)<BR>
+-> PRed : Apr. 7, 2024.<BR><BR>
 
 
 ## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
