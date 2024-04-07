@@ -181,6 +181,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [flipper-zero-stuff](https://github.com/wunderwuzzi23/flipper-zero-stuff) (C64 Animation) by [wunderwuzzi23](https://github.com/wunderwuzzi23)
 
 - 🎨 [Miss Minutes](https://github.com/steveballantyne/flipperzero-dolphin-Miss_Minutes) & [TemPad](https://github.com/steveballantyne/flipperzero-dolphin-Tempad) (Marvel Animations) by [Steve D. Ballantyne](https://github.com/steveballantyne)
+
+- 🎬 [Flipper-Zero-Animation-Berserk](https://github.com/Ant-42th/Flipper-Zero-Animation-Berserk) (Berserk themed anim) by [Anth-42th](https://github.com/Ant-42th)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
