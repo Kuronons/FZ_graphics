@@ -179,6 +179,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [Flipper Vault](https://github.com/ATOMNFT/Flipper-Vault) by [ATOMNFT](https://github.com/ATOMNFT)
 
 - 🎨 [flipper-zero-stuff](https://github.com/wunderwuzzi23/flipper-zero-stuff) (C64 Animation) by [wunderwuzzi23](https://github.com/wunderwuzzi23)
+
+- 🎨 [Miss Minutes](https://github.com/steveballantyne/flipperzero-dolphin-Miss_Minutes) & [TemPad](https://github.com/steveballantyne/flipperzero-dolphin-Tempad) (Marvel Animations) by [Steve D. Ballantyne](https://github.com/steveballantyne)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
