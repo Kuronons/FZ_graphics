@@ -183,6 +183,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [Miss Minutes](https://github.com/steveballantyne/flipperzero-dolphin-Miss_Minutes) & [TemPad](https://github.com/steveballantyne/flipperzero-dolphin-Tempad) (Marvel Animations) by [Steve D. Ballantyne](https://github.com/steveballantyne)
 
 - 🎬 [Flipper-Zero-Animation-Berserk](https://github.com/Ant-42th/Flipper-Zero-Animation-Berserk) (Berserk themed anim) by [Anth-42th](https://github.com/Ant-42th)
+
+- 🎬 [Flipper_Zero_Animation_files](https://github.com/DNZ1393/Flipper_Zero_Animation_files) (*Winter in Prostokvashino* themed) by [DNZ1393](https://github.com/DNZ1393)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
