@@ -42,29 +42,33 @@ Have fun exploring ! **O_oV**</p><BR>
  
 ## 🧰 Links of interest : FLIPPER GRAPHICS - Tools & apps
 
-- 🛠️ [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle) :<br>
+- 🛠️ [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle)<br>
 &ensp;&ensp; ⮚ Preview animations on PC (from .png or .bm files)<br>
 &ensp;&ensp; ⮚ Create manifest.txt with desired values<br>
 &ensp;&ensp; ⮚ Compile .png folder directly to .bm one (instant !!)
 
-- 🛠️ [FlipperZero Animation Tool](https://github.com/nfowlie/flipperzero-animation-tool) - Application (Linux / Win) by [Noel Echo Fowlie](https://github.com/nfowlie) aka Nelbium :<br>
+- 🛠️ [FlipperZero Animation Tool](https://github.com/nfowlie/flipperzero-animation-tool) - Application (Linux / Win) by [Noel Echo Fowlie](https://github.com/nfowlie) aka Nelbium<br>
 &ensp;&ensp; ⮚ Preview animations on PC, including Bubbles !<br>
 &ensp;&ensp; ⮚ Create manifest.txt with desired values<br>
 &ensp;&ensp; ⮚ Turn animated GIFs into FlipperZero animation data<br>
 &ensp;&ensp; ⮚ Requires a cloned repo of FZ firmware + [GraphicsMagick](http://www.graphicsmagick.org/) suite installed<br>
 
-- 🛠️ [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti) :<br>
+- 🛠️ [FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Tool by [Gianni Occhipinti](https://github.com/gianniocchipinti)<br>
 &ensp;&ensp; ⮚ Generate new animations from GIF files<br>
 &ensp;&ensp; ⮚ Import animations on your favorite firmware<br>
 &ensp;&ensp; ⮚ Preview animations<br>
 &ensp;&ensp; ⮚ Customize animation parameters<br>
 &ensp;&ensp; ⮚ And much more...
 
+- ⚒️ [Flipper Animations Reader](https://github.com/Tech0ne/FlipperAnimationsReader) - Python tool by [Tech0ne](https://github.com/Tech0ne)<br>
+&ensp;&ensp; ⮚ Read Flipper Zero animations and play them in the terminal<br>
+&ensp;&ensp; ⮚ Project : export Flipper anims to GIF<br>
+
 - <b>FZ animations SCRIPTS  :  GIF to frames</b><BR>
-⚒️ [Flipper Animation Maker](https://github.com/H4XV/flipper-animation-generator) - Python tool by [H4XV](https://github.com/H4XV) :<br>
+⚒️ [Flipper Animation Maker](https://github.com/H4XV/flipper-animation-generator) - Python tool by [H4XV](https://github.com/H4XV)<br>
 &ensp;&ensp; ⮚ Automatic Animation generator<br>
 &ensp;&ensp; ⮚ Gif to Flipper Animation<br>
-⚒️ [FlipperZeroAnimator](https://github.com/nenomg/FlipperZeroAnimator) - Python tool by [Eugenio Menacho de Góngora](https://github.com/nenomg) aka nenomg :<br>
+⚒️ [FlipperZeroAnimator](https://github.com/nenomg/FlipperZeroAnimator) - Python tool by [Eugenio Menacho de Góngora](https://github.com/nenomg) aka nenomg<br>
 &ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero<br>
 &ensp;&ensp; ⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
 &ensp;&ensp; ⮚ Generates meta file<br>
