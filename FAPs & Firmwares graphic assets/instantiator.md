@@ -1,4 +1,10 @@
-## [instantiator's Resistance Calculator](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/resistors)<BR>
+## <p align="center">Custom Assets : instantiator's apps</p>
+
+<b><p align=center>[FAP : Resistance Calculator]()<BR>
+[Project : Game of Tag]()<BR>
+<BR></p></b>
+
+### [Resistance Calculator](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/resistors)<BR>
 Replacement of the original resistors pictures by more readable drawn ones.<BR>
 Replacement of the arrow used for band-selection by colored band.<BR>
 Addition of 3 and 6 band resistors pictures as well as value denominations.<BR><BR>
@@ -18,7 +24,7 @@ Preview<BR>
 ![Screenshot-20230510-200113](https://github.com/Kuronons/FZ_graphics/assets/110337784/6ab6bd26-f414-47c9-93c6-990770529cfe)<BR>
 -> Release : May 01, 2023.<BR><BR>
 
-## [instantiator's Game of Tag](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/tag)<BR>
+### [Game of Tag](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/tag)<BR>
 Creation of graphic assets for brand new project.<BR>
 Concept : Laser game inspired. Game for 2 players owning each a Flipper. Using IR to "shoot" at opponent's IR receiver.<BR>
 SubGHz is used to send data between the 2 flippers (received/given damages)<BR><BR>
