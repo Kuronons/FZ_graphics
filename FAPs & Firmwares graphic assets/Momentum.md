@@ -1,19 +1,8 @@
 ## <p align="center">Custom Assets : [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware)</p>
 
-<b><p align=center>[M SETTING MENU ICON]()<BR>
-[INSTALL SPLASHSCREEN]()<BR>
-[LOCKSCREEN]()<BR>
-[SUBGHZ]()<BR>
-[BLE PAIRING]()<BR>
-[U2F ASSETS]()<BR>
-[TURN OFF SCREEN]()<BR>
-[NFC - EMULATION]()<BR>
-[ERASE PIN SCREEN]()<BR>
-[DFU SCREEN]()<BR>
-[WARNNG ASSETS]()<BR>
-[IBUTTON - SUCCESS]()<BR>
-[SAVED ASSET]()<BR>
-[SUCCESS ASSET]()<BR>
+<b><p align=center>[M SETTING MENU ICON](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-momentum-settings-menu--16x16px-m-logo) - [INSTALL SPLASHSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-install-splashscreen) - [LOCKSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-lockscreen) - [SUBGHZ](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-subghz-screens) - [BLE PAIRING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ble-pairing-screen)<BR>
+[U2F ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-u2f-graphic-assets) - [TURN OFF SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-settings-turning-off-device-screen) - [INFRARED LEARN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-infrared---learning-graphic-asset) - [NFC EMULATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-nfc---emulation-screen) - [ERASE PIN SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-erase-pin-screen)<BR>
+[DFU SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-dfu-screen) - [WARNING ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-warning-assets) - [WAITING ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-waiting-asset) - [IBUTTON SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ibutton-success) - [SAVED ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-saved-asset) - [SUCCESS ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset)<BR>
 <BR></p></b>
 
 ### :m: Momentum settings menu : 16x16px "M" logo
