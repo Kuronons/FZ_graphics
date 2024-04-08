@@ -1,4 +1,6 @@
-## [Official Flipper Firmware - L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
+## <p align="center">Custom Assets : Official Flipper Firmware</p>
+
+### [L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
 Updating original animation with the addition of VGM module visual.<BR>
 Respect of original art and animation script. Creation of the VGM module design as well as Space Invader-like control screen.<BR>
 Modded animation was PRed to ofw in early March 2024, drafted for slight edits and finally merged once validated.<BR><BR>
