@@ -1,9 +1,14 @@
+# PASSPORT BACKGROUNDS
+
 Here you can find passport backgrounds originally designed for ***RogueMaster*** & ***SquachWare*** firmwares.<BR><BR>
 I edited the passport.c file in RM so a <i><b>single 128x64px picture</b></i> is used instead of <i><b>left + bottom borders picts + coded lines/dots</b></i> as in ofw.<BR>
 As well some pixel placement adjustments have been made... Note that depending on which fw I was on when I took screenshot, you'll see minor differences between passports previews (XP font size and position for instance).<BR><BR>
-Note that those should work totally fine with ***Momentum***. They would also correctly display under ***Xtreme*** but bottom part would be partially covered with their *Tot* button.<BR>
-I am adding a folder with those under .bmx file format so you can directly use them with those 2 firmwares without having to compile via python. You will still have to RENAME each file according to your fw requirements<BR><BR>
-Note that those can't be used under Official or Unleashed firmwares UNLESS you edit the passport.c file's code accordingly and recompile the whole fw.<BR><BR>
+Note that those should work totally fine with ***Momentum***.<BR>
+They would also correctly display under ***Xtreme*** but bottom part would be partially covered with their *Tot* button.<BR>
+In addition to the folder containing the [.png files](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background/Passports%20(.png%20files%20-%20128x64px)) those are also available as [.bmx files](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background/Passports%20(.bmx%20files%20-%20128x64px)) format so you can directly use them with those 2 firmwares without having to compile via python. You will still have to RENAME each file according to your fw requirements.
+> [!CAUTION]
+> Those **WON'T WORK** with ***Official Flipper*** or ***Unleashed*** firmwares **UNLESS** you edit *passport.c*'s code accordingly and recompile.
+<BR>
 
 ### FLIPPER CLASSIC
 As originally designed by FZ team
