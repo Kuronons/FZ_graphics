@@ -1,4 +1,6 @@
-## [xMasterX's Flashlight](https://github.com/xMasterX/flipper-flashlight) - Memo pict<BR>
+## <p align="center">Custom Assets : xMasterX's Flashlight</p>
+
+### [Flashlight](https://github.com/xMasterX/flipper-flashlight) - Memo pict<BR>
 Proposal for adding a picture as visual memo for easy GPIO connection.<BR><BR>
 Original FAP display<BR>
 ![Flashlight original](https://github.com/Kuronons/FZ_graphics/assets/110337784/9913e269-1f8d-4a5b-a372-0400aa6cfb9e)<BR>
