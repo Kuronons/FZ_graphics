@@ -229,16 +229,16 @@ Have fun exploring ! **O_oV**</p><BR>
 
 ## 💬 Links of interest : FLIPPER FIRMWARES & THEIR DISCORD
 
-- Flipper Device [discord](https://discord.gg/flipper) -> Official Flipper firmware [github](https://github.com/flipperdevices/flipperzero-firmware)
-  
-- Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/) -> Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware)
-  
-- Flipper Uncensored [discord](https://discord.gg/A5Szct5TAu) -> RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases)
-  
-- Squachtopia Hangout [discord](https://discord.gg/squachtopia) -> SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW)
+- Flipper firmware (official) [github](https://github.com/flipperdevices/flipperzero-firmware) -> Flipper Device [discord](https://discord.gg/flipper)
 
-- Momentum Firmware [discord](https://discord.gg/momentum) -> Momentum firmware [github](https://github.com/Next-Flip/Momentum-Firmware)
+- Momentum firmware [github](https://github.com/Next-Flip/Momentum-Firmware) -> Momentum Firmware [discord](https://discord.gg/momentum)
   
-- (XX)Xtreme-Firmware [discord](https://discord.gg/flipper-xtreme) -> Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme)
+- RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) -> Flipper Uncensored [discord](https://discord.gg/A5Szct5TAu)
   
-- D-WARE [discord](https://discord.gg/bmfvcN79Gg) -> DEXV 0 custom firmware [github](https://github.com/DXVVAY/Dexv0) & DEXV Master 0 custom firmware [github](https://github.com/DXVVAY/Dexvmaster0)
+- SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW) -> Squachtopia Hangout [discord](https://discord.gg/squachtopia)
+
+- Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware) -> Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/)
+  
+- Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme) -> (XX)Xtreme-Firmware [discord](https://discord.gg/flipper-xtreme)
+  
+- Xvirus firmware [github](https://github.com/DXVVAY/xvirus-firmware) -> D-WARE [discord](https://discord.gg/bmfvcN79Gg)
