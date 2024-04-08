@@ -168,7 +168,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [flipperzerothings's NSFW Animations](https://github.com/paradoX88988/FlipperZeroThingsFiles/tree/main/Graphic/Animations/NSFW%20ANIMATIONS) by [paradoX88988](https://github.com/paradoX88988) aka Okitask_0
 
-- **[404 error]** ~~🎬 [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) (mostly Star Wars) by [BOSSK28](https://github.com/BOSSK28)~~ 
+- 4️⃣0️⃣4️⃣ ~~🎬 [BOSSK_FlipperZer0Animations](https://github.com/BOSSK28/BOSSK_FlipperZer0Animations) (mostly Star Wars) by [BOSSK28](https://github.com/BOSSK28)~~ 
 
 - 🎨 [TEX-FZ-Anims](https://github.com/TEXploder/TEX-FZ-Anims) (Animation swapping based on daytime project) by [TEXploder](https://github.com/TEXploder)
 
