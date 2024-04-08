@@ -1,7 +1,7 @@
 ## <p align="center">Custom Assets : instantiator's apps</p>
 
-<b><p align=center>[FAP : Resistance Calculator]()<BR>
-[Project : Game of Tag]()<BR>
+<b><p align=center>[FAP : RESISTANCE CALCULATOR](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20&%20Firmwares%20graphic%20assets/instantiator.md#resistance-calculator)<BR>
+[PROJECT : GAME OF TAG](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20&%20Firmwares%20graphic%20assets/instantiator.md#game-of-tag)<BR>
 <BR></p></b>
 
 ### [Resistance Calculator](https://github.com/instantiator/flipper-zero-experimental-apps/tree/main/resistors)<BR>
