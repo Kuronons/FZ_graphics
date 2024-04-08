@@ -107,7 +107,7 @@ Note : I moved away from original idea concept. Also had to edit the asset to fi
 For some weird reason, the asset is 64px high but was set on y=3 instead of y=0 axis as it should. FW code edited to fix it.<BR>
 And also : this is NOT a bank card ! :P<BR><BR>
 Original assets<BR>
-![NFC_dolphin_emulation_47x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/fa278ce7-c5c3-44ef-b9d3-8d5384b23567)<BR>
+![NFC_dolphin_emulation_51x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/fe6aca7f-0a0b-460b-b99b-acf5fb6260c9)<BR>
 Remade asset<BR>
 ![NFC_dolphin_emulation_51x64](https://github.com/Kuronons/FZ_graphics/assets/110337784/e5ac93f5-e5ab-45a9-9f05-d76a1a7e3167)<BR>
 Preview<BR>
