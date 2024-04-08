@@ -1,4 +1,4 @@
-## <p align="center">Custom Assets : Official Flipper Firmware</p>
+## <p align="center">Custom Assets : [Official Flipper Firmware](https://github.com/flipperdevices/flipperzero-firmware)</p>
 
 ### [L1_Mods_128x64 animation update](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Mods_128x64)<BR>
 Updating original animation with the addition of VGM module visual.<BR>
