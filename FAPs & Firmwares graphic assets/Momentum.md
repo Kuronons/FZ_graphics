@@ -2,7 +2,8 @@
 
 <b><p align=center>[M SETTING MENU ICON](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-momentum-settings-menu--16x16px-m-logo) - [INSTALL SPLASHSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-install-splashscreen) - [LOCKSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-lockscreen) - [SUBGHZ](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-subghz-screens) - [BLE PAIRING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ble-pairing-screen)<BR>
 [U2F ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-u2f-graphic-assets) - [TURN OFF SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-settings-turning-off-device-screen) - [INFRARED LEARN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-infrared---learning-graphic-asset) - [NFC EMULATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-nfc---emulation-screen) - [ERASE PIN SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-erase-pin-screen)<BR>
-[DFU SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-dfu-screen) - [WARNING ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-warning-assets) - [WAITING ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-waiting-asset) - [IBUTTON SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ibutton-success) - [SAVED ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-saved-asset) - [SUCCESS ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset)<BR>
+[DFU SCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-dfu-screen) - [WARNING ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-warning-assets) - [WAITING ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-waiting-asset) - [IBUTTON SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ibutton-success) - [SAVED ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-saved-asset)<BR>
+[SUCCESS ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset) - [MAFIA ASSET](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-mafia-asset) - [DONE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset)<BR>
 <BR></p></b>
 
 ### :m: Momentum settings menu : 16x16px "M" logo
@@ -202,3 +203,26 @@ Remade asset<BR>
 Preview<BR>
 ![Success-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/a678671c-f5e1-4df5-8d49-aed634df7ddb)<BR>
 -> Release : Apr. 7, 2024.<BR><BR><BR>
+
+### :m: Mafia asset
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Original asset was black with transparency background. (?)<BR>
+Design one thousand of miles away from original one.<BR><BR>
+Original assets<BR>
+![DolphinMafia_119x62](https://github.com/Kuronons/FZ_graphics/assets/110337784/52b910c5-a212-4458-93bc-8c3b95a9f590)<BR>
+Remade asset<BR>
+![DolphinMafia_119x62](https://github.com/Kuronons/FZ_graphics/assets/110337784/a4d69643-bcfe-472c-86fd-0e3c17d784e3)<BR>
+Preview<BR>
+![Mafia-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f89d2094-a077-49fe-8235-004b4ecbf5b0)<BR>
+-> Release : Apr. 9, 2024.<BR><BR><BR>
+
+### :m: Done asset
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Inspired by Magnum PI series. 😁<BR><BR>
+Original assets<BR>
+![DolphinDone_80x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/f0db655b-a640-4e68-9511-811f1f9cd000)<BR>
+Remade asset<BR>
+![DolphinDone_80x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/496df246-d13e-428e-87b6-e59c9ca5ef0b)<BR>
+Preview<BR>
+![Done-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f13abdb9-fea3-4642-bd82-bfeac910be17)<BR>
+-> Release : Apr. 9, 2024.<BR><BR><BR>
