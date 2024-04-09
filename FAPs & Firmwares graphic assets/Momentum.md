@@ -4,6 +4,7 @@
 [U2F ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-u2f-graphic-assets) - [TURN OFF](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-settings-turning-off-device-screen) - [INFRARED LEARN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-infrared---learning-graphic-asset) - [NFC EMULATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-nfc---emulation-screen) - [ERASE PIN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-erase-pin-screen)<BR>
 [DFU](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-dfu-screen) - [WARNING ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-warning-assets) - [WAITING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-waiting-asset) - [IBUTTON SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ibutton-success) - [SAVED](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-saved-asset)<BR>
 [SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset) - [MAFIA](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-mafia-asset) - [DONE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset)<BR>
+[PASSPORT](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-passport) - [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-animations)<BR>
 <BR></p></b>
 
 ### :m: Momentum settings menu : 16x16px "M" logo
@@ -226,3 +227,19 @@ Remade asset<BR>
 Preview<BR>
 ![Done-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f13abdb9-fea3-4642-bd82-bfeac910be17)<BR>
 -> Release : Apr. 9, 2024.<BR><BR><BR>
+
+
+### :m: Passport<BR>
+In addition to this I also made a passport background with a set of mood-profile picts<BR>
+Passport background is downloadable [there](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background) and the profile picts [there](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures)<BR>
+![image](https://github.com/Kuronons/FZ_graphics/assets/110337784/1d9ae704-afbc-4b76-a033-3c1c70e869df)<BR><BR><BR>
+
+### :m: Animations<BR>
+And a few Momentum-themed anims<BR>
+[There](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares) for more details and download.<BR>
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/f4c2b536-d891-4430-ba91-c4a51510ea4f
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/ec65ab2a-a10d-4d2a-8fa3-4d17917061d7
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4-c4e044780577
