@@ -12,7 +12,7 @@ Preview<BR>
 
 In addition to this I also made a passport background (with an exclusive unshared TalkingSasquach profile pict).<BR>
 ![image](https://user-images.githubusercontent.com/110337784/211124799-1849ef22-c5b0-4573-b62c-44f000b82eeb.jpg)<BR>
-Passport background is downloadable [there]()<BR><BR><BR>
+Passport background is downloadable [there](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background)<BR><BR><BR>
 
 As well as a few animations SquachWare-themed.
 
