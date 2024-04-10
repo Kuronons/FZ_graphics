@@ -11,6 +11,9 @@ Have fun exploring ! **O_oV**</p><BR>
 
 ## 🔰 Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
 
+> [!TIP]
+> &ensp;&ensp;&ensp; **📑 = Text &ensp; / &ensp; 📺 = Video &ensp; / &ensp; ⭐ = Strongly recommended to begin with**<BR>
+
 - Official [Flipper Zero](https://flipperzero.one/)'s docs<BR>
 📑 [Flipper Zero Documentation](https://docs.flipper.net/) (website)<BR>
 
@@ -18,14 +21,14 @@ Have fun exploring ! **O_oV**</p><BR>
 📑 [How2Flipper - *How to download files from Github and copy them to Flipper*](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) (pdf)<BR>
 📑 [How2CustomFlipper - *Renaming your Flipper (and compiling firmware from source)*](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2CustomFlipper.pdf) (pdf)<BR>
 
-- [Kuronons]()'s anim-mistakes cheklist 🤘<BR>
-📑 [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) (Github's .md file)<BR>
+- [Kuronons]()'s anim-mistakes cheklist O_oV<BR>
+📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) (Github's .md file)<BR>
 
 - [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
-📑 [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
+📑⭐ [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
 📺 [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) (YouTube)<BR>
 📺 [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
-📺 [How to make Flipper Zero Animations](https://youtu.be/trpcZLlJtNw) (YouTube)<BR>
+📺⭐ [How to make Flipper Zero Animations - The Ultimate Guide](https://youtu.be/trpcZLlJtNw) (YouTube)<BR>
 📺 [Custom Flipper Zero Fonts Packs on the Latest XFW Release!](https://www.youtube.com/watch?v=xRYI2lHk6vE) (YouTube)
 
 - [Pen Ace](https://www.youtube.com/@PenAce)'s video tutorial :<BR>
