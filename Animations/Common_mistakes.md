@@ -1,7 +1,6 @@
 THE MOST COMMON MISTAKES DONE WHEN MAKING AN ANIMATION
 
 1. PNG FILES :
-- using UPPERCASE in frame naming as *Frame_4.png* or even *FRAME_4.png* -> It must be all **LOWERCASE** to work : ***frame_4.png***
 - forgetting the first frame's number should be 0 -> ***frame_0.png***
 - having custom file name for frames such as *image_1.png* or *pict_1.png* -> Frames should always be under ***frame_X.png format***.
 - missing a number while saving frames as : frame_0.png, frame_1.png, frame_2.png frame_3.png, [**missing frame**], frame_5.png...
@@ -27,6 +26,10 @@ THE MOST COMMON MISTAKES DONE WHEN MAKING AN ANIMATION
 - setting out-of-range levels or butthurt
 - setting weight = 0
 
-4. COPYING ON FLIPPER :
+4. COMPILING ANIMATIONS (Make the .png files become .bm ones)
+- On **UNIX**, all the files, frame_x.png, meta.tx and manifest.txt **MUST BE LOWERCASE**. Compiling will fail otherwise.
+  (Windows doesn't care, even using Debian or else for instance, probably same with mac)
+
+6. COPYING ON FLIPPER :
 - copying on SD/dolphin/ the folder containing PNG files instead of BM files's one...
 - forgetting to update your SD/dolphin/manifest.txt
