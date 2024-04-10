@@ -11,7 +11,10 @@ Have fun exploring ! **O_oV**</p><BR>
 
 ## 🔰 Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
 
-- [Wr3nch](https://github.com/wrenchathome)'s beginner guide<BR>
+- Official [Flipper Zero](https://flipperzero.one/)'s docs<BR>
+📑 [Flipper Zero Documentation](https://docs.flipper.net/) (website)<BR>
+
+- [Wr3nch](https://github.com/wrenchathome)'s beginner guides<BR>
 📑 [How2Flipper - *How to download files from Github and copy them to Flipper*](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf) (pdf)<BR>
 📑 [How2CustomFlipper - *Renaming your Flipper (and compiling firmware from source)*](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2CustomFlipper.pdf) (pdf)<BR>
 
