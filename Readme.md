@@ -204,6 +204,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎬 [Flipper_Zero_Animation_files](https://github.com/DNZ1393/Flipper_Zero_Animation_files) (*Winter in Prostokvashino* themed) by [DNZ1393](https://github.com/DNZ1393)
 
 - 🎬 [Flipper-animations-FR ](https://github.com/Parzivalglock/Flipper-animations-FR) (*Menace Santana* & *Ziak* music clips) by [Parzivalglock](https://github.com/Parzivalglock)
+
+- 🎨 [Psyduck Asset Pack](https://github.com/naisatoh/Psyduck-Asset-Pack) (ofw dolphin anims and assets remade as Psyduck-themed) by [naisatoh](https://github.com/naisatoh)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
