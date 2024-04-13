@@ -3,7 +3,7 @@
 <b><p align=center>[M SETTING MENU ICON](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-momentum-settings-menu--16x16px-m-logo) - [INSTALL SPLASHSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-install-splashscreen) - [LOCKSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-lockscreen) - [SUBGHZ](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-subghz-screens) - [BLE PAIRING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ble-pairing-screen)<BR>
 [U2F ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-u2f-graphic-assets) - [TURN OFF](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-settings-turning-off-device-screen) - [INFRARED LEARN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-infrared---learning-graphic-asset) - [NFC EMULATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-nfc---emulation-screen) - [ERASE PIN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-erase-pin-screen)<BR>
 [DFU](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-dfu-screen) - [WARNING ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-warning-assets) - [WAITING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-waiting-asset) - [IBUTTON SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ibutton-success) - [SAVED](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-saved-asset)<BR>
-[SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset) - [MAFIA](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-mafia-asset) - [DONE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset)<BR>
+[SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset) - [MAFIA](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-mafia-asset) - [DONE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset) - [RFID SEND / RECEIVE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset)<BR>
 [PASSPORT](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-passport) - [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-animations)<BR>
 <BR></p></b>
 
@@ -156,10 +156,10 @@ Preview<BR>
 -> Release : Apr. 7, 2024.<BR><BR><BR>
 
 ### :m: Waiting asset
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : This asset is only used in : ***iButton***, ***Wardriver*** app & ***SimonSays*** game.<BR>
 I went a bit far away from original concept on this one.<BR><BR>
-Original assets<BR>
+Original asset<BR>
 ![DolphinWait_61x59](https://github.com/Kuronons/FZ_graphics/assets/110337784/ed562f51-1bb8-4e0e-a901-9bd6b070bcb1)<BR>
 Remade asset<BR>
 ![DolphinWait_61x59](https://github.com/Kuronons/FZ_graphics/assets/110337784/1da7f6ab-66f3-42f5-b22a-9489627a8bac)<BR>
@@ -168,12 +168,12 @@ Preview<BR>
 -> Release : Apr. 7, 2024.<BR><BR><BR>
 
 ### :m: iButton Success
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : Original asset was black line on transparency background. Dunno why.<BR>
 Far far away from original asset. The concept : iButton -> Dallas key -> Dallas -> Dallas series -> Cowboy.<BR>
 And so it ended with a cowboy-capy smoking a Dallas key...... Oh well, it's Art, nothing to explain here ! :P<BR>
 Yeah... not an obvious wink I guess, especially for the youngsters who never suffered to watch this series. XD<BR><BR>
-Original assets<BR>
+Original asset<BR>
 ![iButtonDolphinVerySuccess_92x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/31daa69b-58ae-4a11-9c54-c72261b70fe2)<BR>
 Remade asset<BR>
 ![iButtonDolphinVerySuccess_92x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/04be7b79-4cd0-41f2-9f45-ed21a8a7de82)<BR>
@@ -182,10 +182,10 @@ Preview<BR>
 -> Release : Apr. 7, 2024.<BR><BR><BR>
 
 ### :m: Saved asset
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : Original asset was black with transparency background. (?)<BR>
 As well as *waiting* asset, I moved "a bit" away from original design.<BR><BR>
-Original assets<BR>
+Original asset<BR>
 ![DolphinSaved_92x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/45ce7973-8849-44c9-9c9e-f16579c16789)<BR>
 Remade asset<BR>
 ![DolphinSaved_92x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/bf56d814-dae3-402c-bcb8-728c7a670d01)<BR>
@@ -194,10 +194,10 @@ Preview<BR>
 -> Release : Apr. 7, 2024.<BR><BR><BR>
 
 ### :m: Success asset
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : Original asset was black with transparency background. (?)<BR>
 Design hundred of miles away from original one.<BR><BR>
-Original assets<BR>
+Original asset<BR>
 ![DolphinSuccess_91x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/681a25b5-b288-4153-9455-d38f3c2325ec)<BR>
 Remade asset<BR>
 ![DolphinSuccess_91x55](https://github.com/Kuronons/FZ_graphics/assets/110337784/2dda4295-b7cb-450c-b207-ce3271f36bd0)<BR>
@@ -206,10 +206,10 @@ Preview<BR>
 -> Release : Apr. 7, 2024.<BR><BR><BR>
 
 ### :m: Mafia asset
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : Original asset was black with transparency background. (?)<BR>
 Design one thousand of miles away from original one.<BR><BR>
-Original assets<BR>
+Original asset<BR>
 ![DolphinMafia_119x62](https://github.com/Kuronons/FZ_graphics/assets/110337784/52b910c5-a212-4458-93bc-8c3b95a9f590)<BR>
 Remade asset<BR>
 ![DolphinMafia_119x62](https://github.com/Kuronons/FZ_graphics/assets/110337784/a4d69643-bcfe-472c-86fd-0e3c17d784e3)<BR>
@@ -218,9 +218,9 @@ Preview<BR>
 -> Release : Apr. 9, 2024.<BR><BR><BR>
 
 ### :m: Done asset
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Replacement of the ofw stock picture by Momentum themed one.<BR>
 Note : Inspired by Magnum PI series. 😁<BR><BR>
-Original assets<BR>
+Original asset<BR>
 ![DolphinDone_80x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/f0db655b-a640-4e68-9511-811f1f9cd000)<BR>
 Remade asset<BR>
 ![DolphinDone_80x58](https://github.com/Kuronons/FZ_graphics/assets/110337784/496df246-d13e-428e-87b6-e59c9ca5ef0b)<BR>
@@ -228,6 +228,20 @@ Preview<BR>
 ![Done-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f13abdb9-fea3-4642-bd82-bfeac910be17)<BR>
 -> Release : Apr. 9, 2024.<BR><BR><BR>
 
+### :m: RFID Send / Receive assets
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Moved away from original idea concept. I placed the graphical part of the assets to fit the different positioning.<BR>
+Those are 61px high and mostly used at y=3 but in some uses also at y=8 and y=12 !<BR>
+The 9 bottom pixel lines would be out of screen in last case so I made it blank.<BR><BR>
+Original assets<BR>
+![RFIDDolphinSend_97x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/01a76e1f-9417-4722-81c6-482e577e5390)
+![RFIDDolphinReceive_97x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/cd1decfb-b44b-4079-b7d8-89ba1dcd8006)<BR>
+Remade assets<BR>
+![RFIDDolphinSend_97x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/bbb3cdfe-a32c-402a-a2ab-0dffb33afc20)
+![RFIDDolphinReceive_97x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/f6fae4b3-d41f-4bfd-b4a7-8e1540004a93)<BR>
+Preview<BR>
+![RFID_Send-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4e99c75d-a37b-422b-8ec7-d4845d4671e6)<BR>
+-> Release : Apr. 9, 2024.<BR><BR><BR>
 
 ### :m: Passport<BR>
 In addition to this I also made a passport background with a set of mood-profile picts<BR>
