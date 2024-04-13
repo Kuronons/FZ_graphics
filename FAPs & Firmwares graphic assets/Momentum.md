@@ -241,7 +241,7 @@ Remade assets<BR>
 ![RFIDDolphinReceive_97x61](https://github.com/Kuronons/FZ_graphics/assets/110337784/f6fae4b3-d41f-4bfd-b4a7-8e1540004a93)<BR>
 Preview<BR>
 ![RFID_Send-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4e99c75d-a37b-422b-8ec7-d4845d4671e6)<BR>
--> Release : Apr. 9, 2024.<BR><BR><BR>
+-> Release : Apr. 14, 2024.<BR><BR><BR>
 
 ### :m: Passport<BR>
 In addition to this I also made a passport background with a set of mood-profile picts<BR>
