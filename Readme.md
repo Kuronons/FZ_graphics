@@ -206,6 +206,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎬 [Flipper-animations-FR ](https://github.com/Parzivalglock/Flipper-animations-FR) (*Menace Santana* & *Ziak* music clips) by [Parzivalglock](https://github.com/Parzivalglock)
 
 - 🎨 [Psyduck Asset Pack](https://github.com/naisatoh/Psyduck-Asset-Pack) (ofw dolphin anims and assets remade as Psyduck-themed) by [naisatoh](https://github.com/naisatoh)
+
+- 🎬 [Flipper Zero Animation Pack Football Stars](https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars/) (stars of football themed) by [Rohsec](https://github.com/rohsec) aka Rohit
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
