@@ -51,6 +51,9 @@ Have fun exploring ! **O_oV**</p><BR>
 - [SHUR1K-N](https://github.com/SHUR1K-N)'s video tutorial :<BR>
 📺 [Installing Custom Animations on Flipper Zero ― Xtremely Easy!](https://www.youtube.com/watch?v=J8gfCZi2vyc) - Xtreme firmware (YouTube)<BR>
 
+- [instantiator](https://github.com/instantiator)'s tutorials :<BR>
+📑 Building an app for Flipper Zero : Part I - [Getting started](https://instantiator.dev/post/flipper-zero-app-tutorial-01/) & Part II - [A simple user interface](https://instantiator.dev/post/flipper-zero-app-tutorial-02/) (website)<BR>
+
 <BR>
  
 ## 🧰 Links of interest : FLIPPER GRAPHICS - Tools & apps
