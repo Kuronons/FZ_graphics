@@ -103,7 +103,7 @@ Have fun exploring ! **O_oV**</p><BR>
 🔨 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
-- 🪛 [FUI Editor](https://ilin.pt/stuff/fui-editor/) - Webtool : GUI editor/generator for Flipper Zero by [Mikhail Ilin](https://github.com/sbrin)
+- 🪛 [Lopaka](https://lopaka.app/) - Webtool : Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero by [Mikhail Ilin](https://github.com/sbrin)
 
 - ⛏️ [BadPS](https://github.com/InfoSecREDD/BadPS) - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
 &ensp;&ensp; ⮚ Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
