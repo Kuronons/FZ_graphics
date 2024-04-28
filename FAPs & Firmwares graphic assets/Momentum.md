@@ -230,6 +230,17 @@ Preview<BR>
 ![Done-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/f13abdb9-fea3-4642-bd82-bfeac910be17)<BR>
 -> Release : Apr. 9, 2024.<BR><BR><BR>
 
+### :m: IR Read Success asset
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Moved away from original idea concept and went to a thermal imager camera gun featuring Yappy.<BR><BR>
+Original assets<BR>
+![DolphinReadingSuccess_59x63](https://github.com/Kuronons/FZ_graphics/assets/110337784/5abd7a40-3cbf-437c-ad5d-d88cf19623b6)<BR>
+Remade assets<BR>
+![DolphinReadingSuccess_59x63](https://github.com/Kuronons/FZ_graphics/assets/110337784/ac1332aa-b160-4b54-9ce6-329e27d13453)<BR>
+Preview<BR>
+![Read_success-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/79ad8409-a7f8-4169-811e-bcff30483c5e)<BR>
+-> Release : Apr. 10, 2024.<BR><BR><BR>
+
 ### :m: RFID Send / Receive assets
 Replacement of the ofw stock pictures by Momentum themed one.<BR>
 Note : Moved away from original idea concept. I placed the graphical part of the assets to fit the different positioning.<BR>
@@ -244,17 +255,6 @@ Remade assets<BR>
 Preview<BR>
 ![RFID_Send-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4e99c75d-a37b-422b-8ec7-d4845d4671e6)<BR>
 -> Release : Apr. 14, 2024.<BR><BR><BR>
-
-### :m: IR Read Success asset
-Replacement of the ofw stock pictures by Momentum themed one.<BR>
-Note : Moved away from original idea concept and went to a thermal imager camera gun featuring Yappy.<BR><BR>
-Original assets<BR>
-![DolphinReadingSuccess_59x63](https://github.com/Kuronons/FZ_graphics/assets/110337784/5abd7a40-3cbf-437c-ad5d-d88cf19623b6)<BR>
-Remade assets<BR>
-![DolphinReadingSuccess_59x63](https://github.com/Kuronons/FZ_graphics/assets/110337784/ac1332aa-b160-4b54-9ce6-329e27d13453)<BR>
-Preview<BR>
-![Read_success-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/79ad8409-a7f8-4169-811e-bcff30483c5e)<BR>
--> Release : Apr. 17, 2024.<BR><BR><BR>
 
 ### :m: NO SD Animation
 Replacement of the ofw stock animation by Momentum themed one.<BR>
