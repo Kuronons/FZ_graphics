@@ -1,10 +1,12 @@
 ## <p align="center">Custom Assets : [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware)</p>
 
+![MNTM Pack presentation](https://github.com/Kuronons/FZ_graphics/assets/110337784/245cbee6-aced-4bfa-862e-527518e78e6a)
+
 <b><p align=center>[M SETTING MENU ICON](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-momentum-settings-menu--16x16px-m-logo) - [INSTALL SPLASHSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-install-splashscreen) - [LOCKSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-lockscreen) - [SUBGHZ](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-subghz-screens) - [BLE PAIRING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ble-pairing-screen)<BR>
 [U2F ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-u2f-graphic-assets) - [TURN OFF](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-settings-turning-off-device-screen) - [INFRARED LEARN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-infrared---learning-graphic-asset) - [NFC EMULATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-nfc---emulation-screen) - [ERASE PIN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-erase-pin-screen)<BR>
 [DFU](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-dfu-screen) - [WARNING ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-warning-assets) - [WAITING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-waiting-asset) - [IBUTTON SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ibutton-success) - [SAVED](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-saved-asset)<BR>
-[SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset) - [MAFIA](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-mafia-asset) - [DONE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset) - [RFID SEND / RECEIVE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20&%20Firmwares%20graphic%20assets/Momentum.md#m-rfid-send--receive-assets)<BR>
-[PASSPORT](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-passport) - [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-animations)<BR>
+[SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-success-asset) - [MAFIA](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-mafia-asset) - [DONE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-done-asset) - [RFID SEND / RECEIVE](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20&%20Firmwares%20graphic%20assets/Momentum.md#m-rfid-send--receive-assets) - [INFRARED READ SUCCESS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20&%20Firmwares%20graphic%20assets/Momentum.md#m-ir-read-success-asset)<BR>
+[NO SD ANIMATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-no-sd-animation) - [LEVEL UP ANIMATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-level-up-animation) - [PASSPORT](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-passport) - [ANIMATIONS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-animations)<BR>
 <BR></p></b>
 
 ### :m: Momentum settings menu : 16x16px "M" logo
@@ -242,6 +244,54 @@ Remade assets<BR>
 Preview<BR>
 ![RFID_Send-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/4e99c75d-a37b-422b-8ec7-d4845d4671e6)<BR>
 -> Release : Apr. 14, 2024.<BR><BR><BR>
+
+### :m: IR Read Success asset
+Replacement of the ofw stock pictures by Momentum themed one.<BR>
+Note : Moved away from original idea concept and went to a thermal imager camera gun featuring Yappy.<BR><BR>
+Original assets<BR>
+![DolphinReadingSuccess_59x63](https://github.com/Kuronons/FZ_graphics/assets/110337784/5abd7a40-3cbf-437c-ad5d-d88cf19623b6)<BR>
+Remade assets<BR>
+![DolphinReadingSuccess_59x63](https://github.com/Kuronons/FZ_graphics/assets/110337784/ac1332aa-b160-4b54-9ce6-329e27d13453)<BR>
+Preview<BR>
+![Read_success-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/79ad8409-a7f8-4169-811e-bcff30483c5e)<BR>
+-> Release : Apr. 17, 2024.<BR><BR><BR>
+
+### :m: NO SD Animation
+Replacement of the ofw stock animation by Momentum themed one.<BR>
+Note : Made it static (only 1 frame) to save some internal memory kb, believing it was a waste of resources for poor result.<BR><BR>
+Original assets<BR>
+![frame_0](https://github.com/Kuronons/FZ_graphics/assets/110337784/f8385bc5-3997-49d1-8bfb-6efa81638a8f)
+![frame_1](https://github.com/Kuronons/FZ_graphics/assets/110337784/95c8a8ac-811d-4725-9b19-1ad9d2fc33c9)
+![frame_2](https://github.com/Kuronons/FZ_graphics/assets/110337784/4f2c4c94-417b-4849-a888-9b43605d1f8b)
+![frame_3](https://github.com/Kuronons/FZ_graphics/assets/110337784/946744f6-947a-42db-8f38-dc5090087360)
+![frame_4](https://github.com/Kuronons/FZ_graphics/assets/110337784/3cbe8abb-7d87-4392-8336-c102263b8491)
+![frame_5](https://github.com/Kuronons/FZ_graphics/assets/110337784/105595d5-b23c-437c-aaf6-8a441812e0f9)<BR>
+Remade assets<BR>
+![frame_0](https://github.com/Kuronons/FZ_graphics/assets/110337784/2ef4aaf3-54d4-4055-867e-2191086077ff)<BR>
+Preview<BR>
+![NO SD animation - Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/8598a1cc-7110-47a6-993c-c755d2a46686)<BR>
+-> Release : Apr. 17, 2024.<BR><BR><BR>
+
+### :m: LEVEL UP Animation
+Replacement of the ofw stock animation by Momentum themed one.<BR>
+Note : Unreleased yet. WIP.<BR><BR>
+Original assets<BR>
+![frame_00](https://github.com/Kuronons/FZ_graphics/assets/110337784/97d4bf13-c83c-4225-a615-d1fcb46fc478)
+![frame_01](https://github.com/Kuronons/FZ_graphics/assets/110337784/966888f0-c480-466c-afc0-7d8a20887a32)
+![frame_02](https://github.com/Kuronons/FZ_graphics/assets/110337784/dbe2ea82-e542-4ed4-860e-6d12bc9acc58)
+![frame_03](https://github.com/Kuronons/FZ_graphics/assets/110337784/27ccbc31-d519-4a0b-bcd8-4ea240ca5f42)<BR>
+![frame_04](https://github.com/Kuronons/FZ_graphics/assets/110337784/191ce2bd-0362-48f1-bda9-23383bfe7660)
+![frame_05](https://github.com/Kuronons/FZ_graphics/assets/110337784/40e0028d-3223-49db-977c-2cbd868eda73)
+![frame_06](https://github.com/Kuronons/FZ_graphics/assets/110337784/ab850e93-7447-4a45-89ec-bd039181994f)
+![frame_07](https://github.com/Kuronons/FZ_graphics/assets/110337784/18a197ff-5769-43ad-a20c-49cc6daaed9b)<BR>
+![frame_08](https://github.com/Kuronons/FZ_graphics/assets/110337784/f336eae6-3857-4d80-9104-5f7a17528e8a)
+![frame_09](https://github.com/Kuronons/FZ_graphics/assets/110337784/9bd74bda-0429-45f6-82aa-aca76a9df007)
+![frame_10](https://github.com/Kuronons/FZ_graphics/assets/110337784/88c241e2-db41-4585-8235-6e07ea04822f)<BR>
+Remade assets<BR>
+*NA*<BR>
+Preview<BR>
+*NA*<BR>
+-> Release : ?<BR><BR><BR>
 
 ### :m: Passport<BR>
 In addition to this I also made a passport background with a set of mood-profile picts<BR>
