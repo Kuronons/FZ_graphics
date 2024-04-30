@@ -88,6 +88,12 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero<br>
 &ensp;&ensp; ⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
 &ensp;&ensp; ⮚ Generates meta file<br>
+
+- ⚒️ [Xtreme Firmware Asset (Un)Packer](https://github.com/meowteusz/xfw-unpacker) - Python tool by [Mateusz Ryczek](https://github.com/meowteusz) aka meowteusz or skyfused<br>
+&ensp;&ensp; ⮚ Revert/convert .bm compiled animations to .png ones.<br>
+&ensp;&ensp; ⮚ Create an animated GIF file based on converted .png frames.<br>
+&ensp;&ensp; ⮚ ❗ Requires ***xtreme***/***Momentum*** asset-packs **folder structure** but is not *firmware-exclusive*...<br>
+&ensp;&ensp; ⮚ Potential development : use of meta.txt file for GIF creation (frames order / FPS, etc) / allowance of any folder-structure.<br>
  
 - <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 🔧 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
