@@ -1,6 +1,6 @@
 ## <p align="center">Custom Assets : [Momentum Firmware](https://github.com/Next-Flip/Momentum-Firmware)</p>
 
-![MNTM Pack presentation](https://github.com/Kuronons/FZ_graphics/assets/110337784/245cbee6-aced-4bfa-862e-527518e78e6a)
+![MNTM Pack presentation](https://github.com/Kuronons/FZ_graphics/assets/110337784/4297013a-15eb-46f9-9240-fb63afe8712d)
 
 <b><p align=center>[M SETTING MENU ICON](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-momentum-settings-menu--16x16px-m-logo) - [INSTALL SPLASHSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-install-splashscreen) - [LOCKSCREEN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-lockscreen) - [SUBGHZ](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-subghz-screens) - [BLE PAIRING](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-ble-pairing-screen)<BR>
 [U2F ASSETS](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-u2f-graphic-assets) - [TURN OFF](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-settings-turning-off-device-screen) - [INFRARED LEARN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-infrared---learning-graphic-asset) - [NFC EMULATION](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-nfc---emulation-screen) - [ERASE PIN](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/Momentum.md#m-erase-pin-screen)<BR>
@@ -274,7 +274,12 @@ Preview<BR>
 
 ### :m: LEVEL UP Animation
 Replacement of the ofw stock animation by Momentum themed one.<BR>
-Note : Unreleased yet. WIP.<BR><BR>
+Note : First of all, this is an interesting format :<BR>
+It's composed into frames but with slight differences from a common Flipper animation :<BR>
+Frames are named frame_00, frame_01, etc... allowing an extra zero that would break any other anim.<BR>
+Then, there is no meta.txt, but instead a simple ***frame_rate*** file (with no extension) in which a single number is recorded for FPS.<BR>
+On the concept, was willing to go far from original one and also wanted to use some already made assets.<BR>
+Inspired by *dress up fridge magnets*, Yappy is being costumed and accessorized as the XP bar is filling up.<BR><BR>
 Original assets<BR>
 ![frame_00](https://github.com/Kuronons/FZ_graphics/assets/110337784/97d4bf13-c83c-4225-a615-d1fcb46fc478)
 ![frame_01](https://github.com/Kuronons/FZ_graphics/assets/110337784/966888f0-c480-466c-afc0-7d8a20887a32)
@@ -288,10 +293,22 @@ Original assets<BR>
 ![frame_09](https://github.com/Kuronons/FZ_graphics/assets/110337784/9bd74bda-0429-45f6-82aa-aca76a9df007)
 ![frame_10](https://github.com/Kuronons/FZ_graphics/assets/110337784/88c241e2-db41-4585-8235-6e07ea04822f)<BR>
 Remade assets<BR>
-*NA*<BR>
+![frame_00](https://github.com/Kuronons/FZ_graphics/assets/110337784/011e00b0-07ef-4dae-a181-bd224d434568)
+![frame_01](https://github.com/Kuronons/FZ_graphics/assets/110337784/be752393-7ca3-4c94-b274-77571379ffda)
+![frame_02](https://github.com/Kuronons/FZ_graphics/assets/110337784/c68ae6fb-2162-46f9-a5dd-2cff72e85929)
+![frame_03](https://github.com/Kuronons/FZ_graphics/assets/110337784/4a5c22ef-02ad-4294-a803-53b6527a9456)<BR>
+![frame_04](https://github.com/Kuronons/FZ_graphics/assets/110337784/da70e7ed-dd46-46e1-a0ce-2f9913889b2a)
+![frame_05](https://github.com/Kuronons/FZ_graphics/assets/110337784/62863ea9-6168-4473-a205-0ca3746c0dc5)
+![frame_06](https://github.com/Kuronons/FZ_graphics/assets/110337784/e44071dc-f1a6-4600-b7e2-f966bf63fa03)
+![frame_07](https://github.com/Kuronons/FZ_graphics/assets/110337784/fb5f06be-d138-4ffa-92d8-4e1790188c72)<BR>
+![frame_08](https://github.com/Kuronons/FZ_graphics/assets/110337784/653245a2-02f0-4059-b979-77e594534349)
+![frame_09](https://github.com/Kuronons/FZ_graphics/assets/110337784/45cf6523-d397-4c0d-943e-40a5dd2629ee)
+![frame_10](https://github.com/Kuronons/FZ_graphics/assets/110337784/b8563d47-ddb8-4e93-b62d-4dd1e08c6276)<BR>
 Preview<BR>
-*NA*<BR>
--> Release : ?<BR><BR><BR>
+
+https://github.com/Kuronons/FZ_graphics/assets/110337784/51393e9e-ef9d-42ee-ada3-58301e4950ce
+
+-> PRed : May 3rd, 2024.<BR><BR><BR>
 
 ### :m: Passport<BR>
 In addition to this I also made a passport background with a set of mood-profile picts<BR>
