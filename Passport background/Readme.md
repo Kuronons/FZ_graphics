@@ -83,5 +83,4 @@ Medieval themed passport
 ### MNTM
 Momentum firmware themed passport
 
-![PASSPORT_MNTM-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/1d9ae704-afbc-4b76-a033-3c1c70e869df)
-
+![PASSPORT_MNTM-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/664faab0-4451-4b18-bac8-af3eca08288d)
