@@ -308,7 +308,7 @@ Preview<BR>
 
 https://github.com/Kuronons/FZ_graphics/assets/110337784/51393e9e-ef9d-42ee-ada3-58301e4950ce
 
--> PRed : May 3rd, 2024.<BR><BR><BR>
+-> Release : May 3rd, 2024.<BR><BR><BR>
 
 ### :m: Passport<BR>
 In addition to this I also made a passport background with a set of mood-profile picts<BR>
