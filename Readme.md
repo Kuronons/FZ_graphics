@@ -93,7 +93,8 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Revert/convert .bm compiled animations to .png ones.<br>
 &ensp;&ensp; ⮚ Create an animated GIF file based on converted .png frames.<br>
 &ensp;&ensp; ⮚ ❗ Requires ***xtreme***/***Momentum*** asset-packs **folder structure** but is not *firmware-exclusive*...<br>
-&ensp;&ensp; ⮚ Potential development : use of meta.txt file for GIF creation (frames order / FPS, etc) / allowance of any folder-structure.<br>
+&ensp;&ensp; ⮚ Potential development :<BR>
+&emsp;&emsp; Use of meta.txt file for GIF creation (frames order / FPS, etc) / Allowance of any folder-structure.<br>
  
 - <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 🔧 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
@@ -109,7 +110,8 @@ Have fun exploring ! **O_oV**</p><BR>
 🔨 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
-- 🪛 [Lopaka](https://lopaka.app/) - Webtool : Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero by [Mikhail Ilin](https://github.com/sbrin)
+- 🪛 [Lopaka](https://lopaka.app/) - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
+&ensp;&ensp; ⮚ Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero<BR>
 
 - ⛏️ [BadPS](https://github.com/InfoSecREDD/BadPS) - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
 &ensp;&ensp; ⮚ Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
