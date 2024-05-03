@@ -41,7 +41,7 @@ Old parchment scroll passport
 ### FURIPASS
 Futuristic passport
 
-![PASSPORT_FURIPASS-Preview](https://user-images.githubusercontent.com/110337784/208291595-c9f2e441-d6b0-40f6-ab79-c71b368203d8.jpg)
+![PASSPORT_FURIPASS-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/b85c5356-b980-425f-8a1b-3854c60969bd)
 <BR>
 <BR>
 
@@ -69,7 +69,7 @@ Inspired by AD Police Files OAV (1990 prequel of Bubblegum crisis anime)
 ### DEDSEC
 Inspired by WATCH DOGS game series
   
-![PASSPORT_DEDSEC_WRENCH-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/41f7acc1-6f5c-46c5-a865-d2ed807d5701)
+![PASSPORT_DEDSEC_WRENCH-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/288d602e-de32-4fb3-b2cd-61f12d35f0dc)
 <BR>
 <BR>
 
