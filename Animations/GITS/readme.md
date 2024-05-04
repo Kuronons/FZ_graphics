@@ -2,7 +2,8 @@
 <img width="1000" height="200" src="https://github.com/Kuronons/FZ_graphics/assets/110337784/3b723bbe-ef2a-41da-9643-4e2b629c46bb">
 </p>
 
-Here you can find animations inspired by the ***GHOST IN THE SHELL*** franchise :
+Here you can find animations inspired by the ***GHOST IN THE SHELL*** franchise.<BR>
+Note also that I made some GITS characters profile picts available for download [there](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#togusa--batou--aramaki).
 <BR><BR>
 
    - ___LAUGHING MAN___   [v.2]
