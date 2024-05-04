@@ -114,3 +114,8 @@ From World of Warcraft MMORPG famous player's character
 Momentum fw mascott (capybara) - *Happy* / *Okay* / *Bad* variants
 
 ![Yappy_set](https://github.com/Kuronons/FZ_graphics/assets/110337784/feeb0ce8-45f0-4177-bd19-0658201ce7c2)<BR><BR>
+
+### TOGUSA / BATOU / ARAMAKI
+From Ghost in the Shell manga by Shirow Masamune - Pack n°1 *TBA* for mood variants (or not...)
+
+![GITS-Set_TBA](https://github.com/Kuronons/FZ_graphics/assets/110337784/48559451-2700-4841-a2ef-9d1235bbd149)<BR><BR>
