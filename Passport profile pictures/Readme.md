@@ -119,3 +119,8 @@ Momentum fw mascott (capybara) - *Happy* / *Okay* / *Bad* variants
 From Ghost in the Shell manga by Shirow Masamune - Pack n°1 *TBA* for mood variants (or not...)
 
 ![GITS-Set_TBA](https://github.com/Kuronons/FZ_graphics/assets/110337784/48559451-2700-4841-a2ef-9d1235bbd149)<BR><BR>
+
+### ISHIKAWA / KUSANAGI / SAITO
+From Ghost in the Shell manga by Shirow Masamune - Pack n°2 *IKS* for mood variants (or not...)
+
+![GITS-Set_IKS](https://github.com/Kuronons/FZ_graphics/assets/110337784/3e2313e1-6e3a-48b9-8d85-55d3a4ac3735)<BR><BR>
