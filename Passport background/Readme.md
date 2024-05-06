@@ -84,3 +84,10 @@ Medieval themed passport
 Momentum firmware themed passport
 
 ![PASSPORT_MNTM-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/664faab0-4451-4b18-bac8-af3eca08288d)
+<BR>
+<BR>
+
+### GITS
+Ghost in the Shell - Section 9 themed passport
+
+![PASSPORT_GITS-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/0c775133-b0ab-443f-842c-49adab17ee2d)
