@@ -115,12 +115,12 @@ Momentum fw mascott (capybara) - *Happy* / *Okay* / *Bad* variants
 
 ![Yappy_set](https://github.com/Kuronons/FZ_graphics/assets/110337784/feeb0ce8-45f0-4177-bd19-0658201ce7c2)<BR><BR>
 
-### TOGUSA / BATOU / ARAMAKI
-From Ghost in the Shell manga by Shirow Masamune - Pack n°1 *TBA* for mood variants (or not...)
+### GITS
+From Ghost in the Shell manga by Shirow Masamune - 9 different profile picts set :<BR>
+LINE 1 : **Togusa** / **Ishikawa** / **Aoi** (*Laughing Man*)<BR>
+LINE 2 : **Aramaki** / **Saito** / **Hideo Kuze** (*Individual Eleven*)<BR>
+LINE 3 : **Kusanagi** / **Batou** / **Project 2501** (*Puppet Master*)
 
-![GITS-Set_TBA](https://github.com/Kuronons/FZ_graphics/assets/110337784/48559451-2700-4841-a2ef-9d1235bbd149)<BR><BR>
+![GITS-Profile_picts-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/20af86bf-4928-46c9-a79a-e1847da6e678)
 
-### ISHIKAWA / KUSANAGI / SAITO
-From Ghost in the Shell manga by Shirow Masamune - Pack n°2 *IKS* for mood variants (or not...)
-
-![GITS-Set_IKS](https://github.com/Kuronons/FZ_graphics/assets/110337784/3e2313e1-6e3a-48b9-8d85-55d3a4ac3735)<BR><BR>
+You can download single files (png or bmx), full set (png, zip) or asset pack (bmx, zip - Line 3 as default)<BR><BR>
