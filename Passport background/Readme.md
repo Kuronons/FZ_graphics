@@ -90,4 +90,6 @@ Momentum firmware themed passport
 ### GITS
 Ghost in the Shell - Section 9 themed passport
 
-![PASSPORT_GITS-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/0c775133-b0ab-443f-842c-49adab17ee2d)
+![PASSPORT_GITS-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/c7eb631f-e6e2-4a8e-956d-92e2292165ee)
+<BR>
+<BR>
