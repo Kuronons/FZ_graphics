@@ -220,7 +220,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [Flipper Zero Animation Pack Football Stars](https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars/) (stars of football themed) by [Rohsec](https://github.com/rohsec) aka Rohit
 
-- 🎨 [Haunter Asset Pack](https://github.com/int0xmonkey/Haunter-Asset-Pack) (Pokemon Haunter themed - anims, passport & assets) by [int0xmonkey](https://github.com/int0xmonkey/Haunter-Asset-Pack)
+- 🎨 [Haunter Asset Pack](https://github.com/int0xmonkey/Haunter-Asset-Pack) (Pokemon Haunter themed - anims, passport & assets) by [int0xmonkey](https://github.com/int0xmonkey)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
