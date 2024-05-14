@@ -219,6 +219,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [Psyduck Asset Pack](https://github.com/naisatoh/Psyduck-Asset-Pack) (ofw dolphin anims and assets remade as Psyduck-themed) by [naisatoh](https://github.com/naisatoh)
 
 - 🎬 [Flipper Zero Animation Pack Football Stars](https://github.com/rohsec/Flipper-Zero-Animation-Pack-Football-Stars/) (stars of football themed) by [Rohsec](https://github.com/rohsec) aka Rohit
+
+- 🎨 [Haunter Asset Pack](https://github.com/int0xmonkey/Haunter-Asset-Pack) (Pokemon Haunter themed - anims, passport & assets) by [int0xmonkey](https://github.com/int0xmonkey/Haunter-Asset-Pack)
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
