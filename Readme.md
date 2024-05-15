@@ -22,7 +22,10 @@ Have fun exploring ! **O_oV**</p><BR>
 📑 [How2CustomFlipper - *Renaming your Flipper (and compiling firmware from source)*](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2CustomFlipper.pdf) (pdf)<BR>
 
 - [Kuronons]()'s anim-mistakes cheklist &ensp; **O_oV**<BR>
-📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) (Github's .md file)<BR>
+📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - (Github's .md file)<BR>
+
+- [Momentum](https://github.com/Next-Flip/Momentum-Firmware)'s asset-packs<BR>
+📑⭐ [How to install/make asset packs](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md) - Works for Xtreme too (Github's .md file)<BR>
 
 - [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
 📑⭐ [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
@@ -88,6 +91,12 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero<br>
 &ensp;&ensp; ⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
 &ensp;&ensp; ⮚ Generates meta file<br>
+
+- ⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
+&ensp;&ensp; ⮚ Convert .png assets to .bmx ones.<br>
+&ensp;&ensp; ⮚ .bmx is the required graphic asset format to be used with ***Momentum or Xtreme*** firmwares.<br>
+&ensp;&ensp; ⮚ Used for passport, profile and every other apps graphic assets that can be handled within an asset pack.<br>
+&ensp;&ensp; ⮚ Tutorial can be found [there](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md)<br>
 
 - ⚒️ [Xtreme Firmware Asset (Un)Packer](https://github.com/meowteusz/xfw-unpacker) - Python tool by [Mateusz Ryczek](https://github.com/meowteusz) aka meowteusz or skyfused<br>
 &ensp;&ensp; ⮚ Revert/convert .bm compiled animations to .png ones.<br>
