@@ -30,7 +30,7 @@ Line 3 : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20prof
 From SPACE ADVENTURE COBRA manga by Terasawa Buichi - 3 different profile picts set
 
 ![Cobra-Set](https://github.com/Kuronons/FZ_graphics/assets/110337784/079d83c4-1b39-4117-a1f6-490dcea8baa0)<BR>
-**D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Space%20Cobra%20-%20Profile%20picts%20set%20(3x%20png).zip) - Asset pack [bmx (zip)]()<BR>
+**D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Space%20Cobra%20-%20Profile%20picts%20set%20(3x%20png).zip) - Asset pack [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Space%20Cobra%20-%20Asset%20pack%20(bmx%20-%20profile%20picts).zip)<BR>
 D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/SC-Cobra.png) - [bmx]() (*Cobra*)<BR>
 D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/SC-Armaroid_Lady.png) - [bmx]() (*Armaroid Lady*)<BR>
 D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/SC-Crystal_Bowie.png) - [bmx]() (*Crystal Bowie*)**<BR><BR>
@@ -124,9 +124,9 @@ From Watch Dogs 2 game - Moods variants
 
 ![Wrench_set1](https://github.com/Kuronons/FZ_graphics/assets/110337784/e32f707e-0d6b-415f-b38f-e871bb7dd64a)<BR>
 **D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench%20-%20Profile%20picts%20set%20(3x%20png).zip) - Asset pack [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Wrench%20-%20Profile%20picts%20set%20(bmx).zip)<BR>
-D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench_happy1_46x49.png) - [bmx]() (*happy*)<BR>
-D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench_okay1_46x49.png) - [bmx]() (*okay*)<BR>
-D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench_bad1_46x49.png) - [bmx]() (*bad*)**<BR><BR>
+D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench_happy1_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Wrench_happy_46x49.bmx) (*happy*)<BR>
+D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench_okay1_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Wrench_okay_46x49.bmx) (*okay*)<BR>
+D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Wrench_bad1_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Wrench_bad_46x49.bmx) (*bad*)**<BR><BR>
 
 ### PIXEL MARIO
 From SUPER MARIO BROS game
@@ -151,6 +151,6 @@ Momentum fw mascott (capybara) - Moods variants
 
 ![Yappy_set](https://github.com/Kuronons/FZ_graphics/assets/110337784/feeb0ce8-45f0-4177-bd19-0658201ce7c2)<BR>
 **D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy%20-%20Profile%20picts%20set%20(3x%20png).zip) - Asset pack [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy%20-%20Profile%20picts%20set%20(bmx).zip)<BR>
-D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_happy_46x49.png) - [bmx]() (*happy*)<BR>
-D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_okay_46x49.png) - [bmx]() (*okay*)<BR>
-D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_bad_46x49.png) - [bmx]() (*bad*)**<BR><BR>
+D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_happy_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy_happy_46x49.bmx) (*happy*)<BR>
+D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_okay_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy_okay_46x49.bmx) (*okay*)<BR>
+D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_bad_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy_bad_46x49.bmx) (*bad*)**<BR><BR>
