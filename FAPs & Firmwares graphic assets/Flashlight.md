@@ -8,4 +8,4 @@ Proposed asset<BR>
 ![Flashlight_pins_128x18](https://github.com/Kuronons/FZ_graphics/assets/110337784/07f32cc7-eadd-426d-8785-0af5db302dbe)<BR>
 Preview<BR>
 ![Flashlight preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/49289ded-b00d-46c7-b6cc-72e2da61dcc0)<BR>
--> Unreleased.<BR><BR>
+-> Released : May 4, 2024 (on Momentum firmware).<BR><BR>
