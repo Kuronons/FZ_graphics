@@ -2,12 +2,13 @@ Here you can find Bad USB scripts of Visual Payload(s) I made so far
 <BR>
 <BR>
 
-- ___KURONONS FZ___ - Notepad visual payload (Windows)
+- ___KURONONS FZ___ - Notepad visual payload (Windows X)
   
   Proof of concept for fun (1200+ lines, super super fun... XD)<BR>
   Almost only using ALTCHAR / REPEAT inputs to display non ASCII characters.<BR>
   -> Takes ages to display ! o_o<BR>
   -> Would not recommand using that many ALTCHAR for such a result... Be wise and choose ASCII !! :D<BR>
+  -> Would probably not work on Windows 11...<BR>
   Made Aug. 9, 2022.<BR><BR>
   Updated Sep. 9, 2023 :
   > The use of *"STRING  "* for a space output was not working anymore<BR>
