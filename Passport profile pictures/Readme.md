@@ -12,7 +12,7 @@ ADP Shield badge inspired by 1990's AD Police Files OAV (Prequel of Bubblegum Cr
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/AD_Police.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/AD_Police.bmx)**<BR><BR>
 
 ### AKIRA
-From AKIRA manga by Katsuhito Otomo - 3 different profile picts set
+From AKIRA manga by Katsuhiro Otomo - 3 different profile picts set
 
 ![Akira-Set-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/0135ed6d-86d3-46c0-8ffd-999a26047e24)<BR>
 **D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Akira%20-%20Full%20Set%20(3x%20png).zip) - Asset pack (mood set) [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Akira%20-%20Asset%20pack%20(3x%20bmx%20profile%20picts).zip)<BR>
