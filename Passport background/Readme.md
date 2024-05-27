@@ -93,3 +93,10 @@ Ghost in the Shell - Section 9 themed passport
 ![PASSPORT_GITS-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/c7eb631f-e6e2-4a8e-956d-92e2292165ee)
 <BR>
 <BR>
+
+### FALLOUT
+Inspired by Fallout's Pip-Boy interface
+
+![PASSPORT_FALLOUT-Preview](https://github.com/Kuronons/FZ_graphics/assets/110337784/a48a222d-2cda-40b7-b6fe-9fd7bfaa8f64)
+<BR>
+<BR>
