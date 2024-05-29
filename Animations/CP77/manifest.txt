@@ -1,0 +1,30 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Kuronons_CP77_Arasaka_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_CP77_Delamain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_CP77_KangTao_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kuronons_CP77_Militech_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
