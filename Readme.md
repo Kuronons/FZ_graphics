@@ -232,6 +232,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [Haunter Asset Pack](https://github.com/int0xmonkey/Haunter-Asset-Pack) (Pokemon Haunter themed - anims, passport & assets) by [int0xmonkey](https://github.com/int0xmonkey)
 
 - 🎨 [ANBU-Flipper](https://github.com/NanashiTheNameless/ANBU-Flipper) (Naruto's Anbu anim) by [Nanashi](https://github.com/NanashiTheNameless)
+
+- 🎨🎬 [Dokkaebi R6 asset pack](https://github.com/Dokka01/Flipper-zero-Dokkaebi-R6-Asset-pack) (Rainbow Six Siege themed - anim + profile picts) by [Dokka01](https://github.com/Dokka01) aka Clem
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
