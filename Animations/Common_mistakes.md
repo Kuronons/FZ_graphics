@@ -12,7 +12,8 @@
 ### META.TXT :
 - Set incorrect pixel frame size (Width & Height values different from your png ones)
 - bad counting frames by forgetting the "0" one (0 1 2 3 4 = 5, not 4!)
-- forgetting to put a positive number in active cycles when you have active frames (or putting a positive number there when you have NO active frames)
+- forgetting to put a positive number in **active cycles** when you have active frames (or putting a positive number there when you have NO active frames)
+- forgetting to put a positive number in **active cooldown** when you have active frames (or putting a positive number there when you have NO active frames)
 - Bad frames counting : Remember that the total inputs of frame order should equal active + passive frames numbers
 - Forgetting to set the correct number of Bubble slots
 - Forgetting to set first bubble slot as 0 (1 would be the second one... cf frames counting)
