@@ -234,6 +234,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [ANBU-Flipper](https://github.com/NanashiTheNameless/ANBU-Flipper) (Naruto's Anbu anim) by [Nanashi](https://github.com/NanashiTheNameless)
 
 - 🎨🎬 [Dokkaebi R6 asset pack](https://github.com/Dokka01/Flipper-zero-Dokkaebi-R6-Asset-pack) (Rainbow Six Siege themed - anim + profile picts) by [Dokka01](https://github.com/Dokka01) aka Clem
+
+- 🎨🎬 [asset_packs](https://github.com/skyhawkillusions/asset_packs) (various anims packs with some including graphic assets) by [Skyhawk Illusions](https://github.com/skyhawkillusions) aka Sean Skyhawk
 <BR>
 
 🔖 **CUSTOM FIRMWARES ANIMATIONS :** <BR>
