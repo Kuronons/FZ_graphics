@@ -25,7 +25,7 @@ Have fun exploring ! **O_oV**</p><BR>
 📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - (Github's .md file)<BR>
 
 - [Momentum](https://github.com/Next-Flip/Momentum-Firmware)'s asset-packs<BR>
-📑⭐ [How to install/make asset packs](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md) - Works for Xtreme too (Github's .md file)<BR>
+📑⭐ [How to install/make asset packs](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md) (Github's .md file)<BR>
 
 - [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
 📑⭐ [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
@@ -242,11 +242,15 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
 
+- Momentum's [Asset packs](https://momentum-fw.dev/asset-packs/)
+
+- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all)
+
+- SquachWare Custom Animations ([SquachWare](https://github.com/skizzophrenic/SquachWare-CFW/tree/dev/assets/dolphin/external/WRENCH_SquachWare) & [Spinner](https://github.com/skizzophrenic/SquachWare-CFW/tree/dev/assets/dolphin/external/WRENCH_Spinner) by Wr3nch as well as [3 animations](https://github.com/Kuronons/FZ_graphics/blob/main/FAPs%20%26%20Firmwares%20graphic%20assets/SquachWare.md) by myself
+
 - Unleashed Custom Animations ([New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64)) by [Svarich](https://github.com/Svaarich)
  
-- RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all) (includes most of animations found in "Custom Animation Makers" links + bunch of unlisted ones)
-
-- Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/) including NSFW by [ClaraCrazy](https://github.com/ClaraCrazy) & [WillyJL](https://github.com/Willy-JL)
+- Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/)
 <BR>
 
 🔖 **CUSTOM ANIMATIONS DUMPS :** <BR>
@@ -274,10 +278,10 @@ Have fun exploring ! **O_oV**</p><BR>
   
 - RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) -> Flipper Uncensored [discord](https://discord.gg/A5Szct5TAu)
   
-- SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW) -> Squachtopia Hangout [discord](https://discord.gg/squachtopia)
+- SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW) [***outdated / abandoned***] -> Squachtopia Hangout [discord](https://discord.gg/squachtopia)
 
 - Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware) -> Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/)
   
-- Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme) -> (XX)Xtreme-Firmware [discord](https://discord.gg/flipper-xtreme)
+- Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme) [***archived / abandoned***]
   
 - Xvirus firmware [github](https://github.com/DXVVAY/xvirus-firmware) -> D-WARE [discord](https://discord.gg/bmfvcN79Gg)
