@@ -240,7 +240,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
 
-- [Original Flipper Zero animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
+- Flipper Zero's [original animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
 
 - Momentum's [Asset packs](https://momentum-fw.dev/asset-packs/)
 
