@@ -30,7 +30,7 @@ Preview<BR>![Momentum splashscreen preview](https://github.com/Kuronons/FZ_graph
 
 ### :m: Lockscreen
 Replacement of the ofw stock picture by a Momentum themed one.<BR><BR>
-Original arts : *yapper* icon by ***Vale***, Momentum logo by ***nescap***<BR>
+Original arts : *yapper* icon by <b>[Vale](https://imgur.com/a/vales-portfolio-nvdUbrk)</b>, Momentum logo by <b>[nescap](https://github.com/nescapp)</b><BR>
 ![yapper](https://github.com/Kuronons/FZ_graphics/assets/110337784/9f6b3609-3077-4b4a-8da2-b6cc2596032e)<BR>
 Original asset<BR>
 ![Lockscreen](https://github.com/Kuronons/FZ_graphics/assets/110337784/09f03699-d82a-4504-97e8-2b8b5e76ebd0)<BR>
@@ -43,7 +43,7 @@ Preview<BR>
 ### :m: SubGhz screens
 Replacement of the ofw stock picture + Unleashed one by Momentum themed ones.<BR>
 SubgGhz scan screen assets : Scanning pict (internal module) and fishing pict (external module)<BR><BR>
-Original arts : *yapsip* icon by ***Vale***<BR>
+Original arts : *yapsip* icon by <b>[Vale](https://imgur.com/a/vales-portfolio-nvdUbrk)</b><BR>
 ![yapsip](https://github.com/Kuronons/FZ_graphics/assets/110337784/325d2b75-3b13-4bb2-874e-c9635e49d32c)<BR>
 Original asset<BR>
 ![Scanning_123x52](https://github.com/Kuronons/FZ_graphics/assets/110337784/ee86747f-1231-42dc-a6ff-935ee97b639a)
