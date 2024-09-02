@@ -79,6 +79,9 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Customize animation parameters<br>
 &ensp;&ensp; ⮚ And much more...
 
+- ⚒️ [Xtreme-Assetpack Previewer](https://github.com/timstrasser/Flipper-Xtreme-Assetpack-Previewer) - Python tool by [ Tim Strasser ](https://github.com/timstrasser)<br>
+&ensp;&ensp; ⮚ Preview animations and **icons** in asset packs in a Flipper-designed app. (would work with Momentum's packs)<br>
+
 - ⚒️ [Flipper Animations Reader](https://github.com/Tech0ne/FlipperAnimationsReader) - Python tool by [Tech0ne](https://github.com/Tech0ne)<br>
 &ensp;&ensp; ⮚ Read Flipper Zero animations and play them in the terminal<br>
 &ensp;&ensp; ⮚ Project : export Flipper anims to GIF<br>
