@@ -79,12 +79,17 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Customize animation parameters<br>
 &ensp;&ensp; ⮚ And much more...
 
-- ⚒️ [Xtreme-Assetpack Previewer](https://github.com/timstrasser/Flipper-Xtreme-Assetpack-Previewer) - Python tool by [ Tim Strasser ](https://github.com/timstrasser)<br>
+- ⚒️ [Xtreme-Assetpack Previewer](https://github.com/timstrasser/Flipper-Xtreme-Assetpack-Previewer) - Python tool by [Tim Strasser](https://github.com/timstrasser)<br>
 &ensp;&ensp; ⮚ Preview animations and **icons** in asset packs in a Flipper-designed app. (would work with Momentum's packs)<br>
 
 - ⚒️ [Flipper Animations Reader](https://github.com/Tech0ne/FlipperAnimationsReader) - Python tool by [Tech0ne](https://github.com/Tech0ne)<br>
 &ensp;&ensp; ⮚ Read Flipper Zero animations and play them in the terminal<br>
 &ensp;&ensp; ⮚ Project : export Flipper anims to GIF<br>
+
+- ⚒️ [FlipAnimGen](https://github.com/D4n13l3k00/flipanimgen) - Python tool by [D4n13l3k00](https://github.com/D4n13l3k00)<br>
+&ensp;&ensp; ⮚ Dithering animation generator from video files<br>
+&ensp;&ensp; ⮚ Generates a folder with the animation frames in the specified directory<br>
+&ensp;&ensp; ⮚ Requires video's extension to be .mp4 **BUT** should theorically convert any video recognized by opencv !<br>
 
 - <b>FZ animations SCRIPTS  :  GIF to frames</b><BR>
 ⚒️ [Flipper Animation Maker](https://github.com/H4XV/flipper-animation-generator) - Python tool by [H4XV](https://github.com/H4XV)<br>
@@ -226,7 +231,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [Flipper_Zero_Animation_files](https://github.com/DNZ1393/Flipper_Zero_Animation_files) (*Winter in Prostokvashino* themed) by [DNZ1393](https://github.com/DNZ1393)
 
-- 🎬 [Flipper-animations-FR ](https://github.com/Parzivalglock/Flipper-animations-FR) (*Menace Santana* & *Ziak* music clips) by [Parzivalglock](https://github.com/Parzivalglock)
+- 🎬 [Flipper-animations-FR](https://github.com/Parzivalglock/Flipper-animations-FR) (*Menace Santana* & *Ziak* music clips) by [Parzivalglock](https://github.com/Parzivalglock)
 
 - 🎨 [Psyduck Asset Pack](https://github.com/naisatoh/Psyduck-Asset-Pack) (ofw dolphin anims and assets remade as Psyduck-themed) by [naisatoh](https://github.com/naisatoh)
 
@@ -238,7 +243,15 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎨🎬 [Dokkaebi R6 asset pack](https://github.com/Dokka01/Flipper-zero-Dokkaebi-R6-Asset-pack) (Rainbow Six Siege themed - anim + profile picts) by [Dokka01](https://github.com/Dokka01) aka Clem
 
-- 🎨🎬 [asset_packs](https://github.com/skyhawkillusions/asset_packs) (various anims packs with some including graphic assets) by [Skyhawk Illusions](https://github.com/skyhawkillusions) aka Sean Skyhawk
+- 🎨🎬 [asset_packs](https://github.com/skyhawkillusions/asset_packs) (anims packs, some including graphic assets) by [Skyhawk Illusions](https://github.com/skyhawkillusions) aka Sean Skyhawk
+
+- 🎬 [Random Flipper Animations](https://github.com/Flippits/flipper_zero_animations) by [Flippits](https://github.com/Flippits)
+
+- 🎬 [Flipper Animations](https://github.com/Pasinduoi/FlipperAnimations) (Junjilto & Mr Robot themed) by [Pasinduoi](https://github.com/Pasinduoi)
+
+- 🎬 [H2HC](https://github.com/fernandofei/H2HC_flipper_animation) conference & [Area31](https://github.com/fernandofei/Area31_flipper_animation) assiociation logos animations by [Fernandofei](https://github.com/fernandofei)
+
+- 🎨 [Flipper Animations](https://github.com/evillero/flipper_animations) by [evillero](https://github.com/evillero)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
