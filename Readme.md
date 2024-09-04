@@ -297,7 +297,13 @@ Have fun exploring ! **O_oV**</p><BR>
   
 - ✔️ Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware) -> Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/)
 
+- ❌ MuddleBox firmware [github](https://github.com/MuddledBox/flipperzero-firmware) [***outdated / abandoned***] -> no discord
+  
 - ❌ SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW) [***outdated / abandoned***] -> Squachtopia Hangout [discord](https://discord.gg/squachtopia)
+
+- ❌ v1nc firmware [github](https://github.com/v1nc/flipperzero-firmware) [***outdated / abandoned***] -> no discord
+  
+- ❌ Wetox firmware [github](https://github.com/wetox-team/flipperzero-firmware) [***outdated / abandoned***] -> no discord
   
 - ❌ Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme) [***archived / abandoned***] -> discord server has been closed as of summer 2024
   
