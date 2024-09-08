@@ -3,7 +3,7 @@
 </p>
 
 Here you can find animations inspired by the ***CYBERPUNK 2077*** video game.<BR>
-The Arasaka, Militech, Kang Tao & Delamain animations are all made on the same concept and *storyboard*.<BR>
+The Arasaka, Militech, Kang Tao, Delamain & Malorian animations are all made on the same concept and *storyboard*.<BR>
 They use identical meta.txt with exact same duration, and set to switch to next one every 10 mn.<BR>
 They all have passive + active frames. (Active : simply display logo + name a few seconds without the initial animation)
 <BR><BR>
