@@ -40,8 +40,16 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/1c6aa3fa-1cbb-4ee3-8a75
 
 <BR>
 
+   - ___MALORIAN___
+      
+      Inspired by the Malorian weapon manufacturer logo from the *Cyberpunk 2077* video game.
+
+https://github.com/user-attachments/assets/bec945c8-b7c8-4318-bfbe-09cc67840dcf
+
+<BR>
+
 I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/manifest.txt) file with all entries for a quick copy&paste. (butthurt & level set for RogueMaster / Momentum FW, edit these if under another firmware or according to your own custom needs)
 
-You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(4%20animations).zip).
+You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(5%20animations).zip).
 
 Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons%20-%20CP77%20(Asset%20pack).zip) to use with Momentum / Xtreme firmwares.
