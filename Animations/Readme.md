@@ -1,13 +1,13 @@
 Here are the animations I made for Flipper Zero. Those are folder-sorted by theme with preview videos* :
 
-- [Custom firmwares](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares) - Dedicated to cfw and affiliated
+- [Custom firmwares](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares) - Dedicated to cfw and affiliated (9 anims)
 - [Black Flags](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Black_Flags_Collection) - 30 animations collection
-- [Sci-Fi corpo logos](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/SF_Corporations_Logos) - 12 animations collection
+- [Sci-Fi corpo logos](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/SF_Corporations_Logos) - 12 animations collection (+ alt vers)
 - [DOS viruses](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Virus) - 12 animations collection
 - [Ghost in the Shell](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/GITS) - 5 animations collection
 - [Cyberpunk 2077](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77) - 6 animations collection
-- [Monopoly cards](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Monopoly_Cards) - WIP, 2 animations
-- [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted
+- [Monopoly cards](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Monopoly_Cards) - WIP (2 anims)
+- [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted (8 anims)
 
 *edit 2024/03/04 : Replaced .webm files by .mp4 to make them viewable under iOS.<BR>
 
