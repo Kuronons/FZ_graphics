@@ -289,22 +289,26 @@ Have fun exploring ! **O_oV**</p><BR>
 
 ## 💬 Links of interest : FLIPPER FIRMWARES & THEIR DISCORD
 
-- ✔️ Flipper firmware (official) [github](https://github.com/flipperdevices/flipperzero-firmware) -> Flipper Devices [discord](https://discord.gg/flipper)
+- ***updated / active***
 
-- ✔️ Momentum firmware [github](https://github.com/Next-Flip/Momentum-Firmware) -> Momentum Firmware [discord](https://discord.gg/momentum)
-  
-- ✔️ RogueMaster firmware [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) -> Flipper Uncensored [discord](https://discord.gg/A5Szct5TAu)
-  
-- ✔️ Unleashed firmware [github](https://github.com/Eng1n33r/flipperzero-firmware) -> Flipper Zero Unofficial [discord](https://discord.unleashedflip.com/)
+&ensp;&ensp;&ensp;✔️ Flipper Device [official]  : [github](https://github.com/flipperdevices/flipperzero-firmware) | [discord](https://discord.gg/flipper) | [website](https://flipperzero.one/)
 
-- ❌ MuddleBox firmware [github](https://github.com/MuddledBox/flipperzero-firmware) [***outdated / abandoned***] -> no discord
+&ensp;&ensp;&ensp;✔️ Momentum : [github](https://github.com/Next-Flip/Momentum-Firmware) | [discord](https://discord.gg/momentum) | [website](https://momentum-fw.dev/)
   
-- ❌ SquachWare firmware [github](https://github.com/skizzophrenic/SquachWare-CFW) [***outdated / abandoned***] -> Squachtopia Hangout [discord](https://discord.gg/squachtopia)
+&ensp;&ensp;&ensp;✔️ RogueMaster : [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) | [discord](https://discord.gg/A5Szct5TAu) | [website](https://rogue-master.net/)
+  
+&ensp;&ensp;&ensp;✔️ Unleashed [DarkFlippers] : [github](https://github.com/DarkFlippers/unleashed-firmware) | [discord](https://discord.unleashedflip.com/) | [telegram](https://t.me/unleashed_fw)
 
-- ❌ v1nc firmware [github](https://github.com/v1nc/flipperzero-firmware) [***outdated / abandoned***] -> no discord
+- ***outdated / abandoned***
+
+&ensp;&ensp;&ensp;❌ MuddleBox : [github](https://github.com/MuddledBox/flipperzero-firmware)
   
-- ❌ Wetox firmware [github](https://github.com/wetox-team/flipperzero-firmware) [***outdated / abandoned***] -> no discord
+&ensp;&ensp;&ensp;❌ SquachWare : [github](https://github.com/skizzophrenic/SquachWare-CFW) | [discord](https://discord.gg/squachtopia)
+
+&ensp;&ensp;&ensp;❌ v1nc : [github](https://github.com/v1nc/flipperzero-firmware)
   
-- ❌ Xtreme firmware [github](https://github.com/ClaraCrazy/Flipper-Xtreme) [***archived / abandoned***] -> discord server has been closed as of summer 2024
+&ensp;&ensp;&ensp;❌ Wetox : [github](https://github.com/wetox-team/flipperzero-firmware)
   
-- ❌ Xvirus firmware [github](https://github.com/DXVVAY/xvirus-firmware) [***outdated / unactive***] -> D-WARE [discord](https://discord.gg/bmfvcN79Gg)
+&ensp;&ensp;&ensp;❌ Xtreme : [github](https://github.com/ClaraCrazy/Flipper-Xtreme) | [website](https://flipper-xtre.me/) | discord closed in summer 2024
+  
+&ensp;&ensp;&ensp;❌ Xvirus : [github](https://github.com/DXVVAY/xvirus-firmware) | [discord](https://discord.gg/bmfvcN79Gg)
