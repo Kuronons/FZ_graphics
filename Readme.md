@@ -87,6 +87,9 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Read Flipper Zero animations and play them in the terminal<br>
 &ensp;&ensp; ⮚ Project : export Flipper anims to GIF<br>
 
+- ⚒️ [Flipper Animation Reconstructor](https://github.com/SethPalmer3/FlipperAnimationReconstructor) - Python tool by [SethPalmer3](https://github.com/SethPalmer3)<br>
+&ensp;&ensp; ⮚ Generates a preview gif from an animation folder (containing .bm files + meta.txt)
+
 - ⚒️ [FlipAnimGen](https://github.com/D4n13l3k00/flipanimgen) - Python tool by [D4n13l3k00](https://github.com/D4n13l3k00)<br>
 &ensp;&ensp; ⮚ Dithering animation generator from video files<br>
 &ensp;&ensp; ⮚ Generates a folder with the animation frames in the specified directory<br>
@@ -113,7 +116,7 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ ❗ Requires ***xtreme***/***Momentum*** asset-packs **folder structure** but is not *firmware-exclusive*...<br>
 &ensp;&ensp; ⮚ Potential development :<BR>
 &emsp;&emsp; Use of meta.txt file for GIF creation (frames order / FPS, etc) / Allowance of any folder-structure.<br>
- 
+
 - <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 🔧 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
 🔧 [Flipper Zero Frame Converter](https://github.com/culturally/flipper0-converter) - Powershell tool by [culturally](https://github.com/culturally) aka detective<br>
@@ -253,6 +256,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎬 [H2HC](https://github.com/fernandofei/H2HC_flipper_animation) conference & [Area31](https://github.com/fernandofei/Area31_flipper_animation) assiociation logos animations by [Fernandofei](https://github.com/fernandofei)
 
 - 🎨 [Flipper Animations](https://github.com/evillero/flipper_animations) (Mostly Casio's G-Shock characters themed) by [evillero](https://github.com/evillero)
+
+- 🎨 Flipper Zero [3D Printing](https://github.com/Davim09/flipper_3dprinting_animation) & [Wardriving](https://github.com/Davim09/flipper_wardriving_animation) animations by [Davim09](https://github.com/Davim09) aka Chonk_m
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
