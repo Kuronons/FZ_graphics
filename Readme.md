@@ -279,6 +279,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - [RedFox's Flipper Zero Animation Collections](https://github.com/WPCMSNinja/redfox-fz-animations) - animations dump + custom made one by [Greg the WP CMS Ninja](https://github.com/WPCMSNinja)
  
 - [Animations for Flipper Zero](https://github.com/Kf637/Animations-for-Flipper-Zero) - animations dump by [Kf637](https://github.com/Kf637)
+
+- [Flipper NSFW Animation Collection](https://github.com/dfwrxss/Flipper-NSFW-Animation-Collection) - NSFW animations dump by [dfwrxss](https://github.com/dfwrxss) aka doom_vr
 <BR>
 
 ## 🗃️ Links of interest : FLIPPER DATABASES
