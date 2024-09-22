@@ -3,7 +3,7 @@
 </p>
 
 Here you can find animations inspired by the ***CYBERPUNK 2077*** video game.<BR>
-The Arasaka, Militech, Kang Tao, Delamain, Malorian, Tsunami & Segotari anims are all made on the same concept and *storyboard*.<BR>
+The Arasaka, Militech, Kang Tao, Delamain, Malorian, Tsunami, Segotari & Relic anims are all made on the same concept and *storyboard*.<BR>
 They use identical meta.txt with exact same duration, and set to switch to next one every 10 mn.<BR>
 They all have passive + active frames. (Active : simply display logo + name a few seconds without the initial animation)
 <BR><BR>
@@ -64,8 +64,16 @@ https://github.com/user-attachments/assets/b2705634-c6cb-411b-80e5-f0de084d3f89
 
 <BR>
 
+   - ___RELIC___
+      
+      Inspired by the Arasaka's Relic biochip series logo from the *Cyberpunk 2077* video game.
+
+https://github.com/user-attachments/assets/d8c7c900-ea1e-441a-9511-f325d614e1ec
+
+<BR>
+
 I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/manifest.txt) file with all entries for a quick copy&paste. (butthurt & level set for RogueMaster / Momentum FW, edit these if under another firmware or according to your own custom needs)
 
-You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(7%20animations).zip).
+You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(8%20animations).zip).
 
 Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons%20-%20CP77%20(Asset%20pack).zip) to use with Momentum firmware.
