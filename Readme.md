@@ -256,7 +256,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [H2HC](https://github.com/fernandofei/H2HC_flipper_animation) conference & [Area31](https://github.com/fernandofei/Area31_flipper_animation) assiociation logos animations by [Fernandofei](https://github.com/fernandofei)
 
-- 🎨 [Flipper Animations](https://github.com/evillero/flipper_animations) (Casio's G-Shock characters) & [Dexter's Laboratory](https://github.com/evillero/Dexters_Laboratory-Asset-Pack) asset-pack by [evillero](https://github.com/evillero)
+- 🎨🎬 [Flipper Animations](https://github.com/evillero/flipper_animations) (Casio's G-Shock characters) & [Dexter's Laboratory](https://github.com/evillero/Dexters_Laboratory-Asset-Pack) asset-pack by [evillero](https://github.com/evillero)
 
 - 🎨 Flipper Zero [3D Printing](https://github.com/Davim09/flipper_3dprinting_animation) & [Wardriving](https://github.com/Davim09/flipper_wardriving_animation) animations by [Davim09](https://github.com/Davim09) aka Chonk_m
 <BR>
