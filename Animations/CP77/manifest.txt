@@ -42,3 +42,10 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 9
+
+Name: Kuronons_CP77_Segotari_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
