@@ -80,8 +80,16 @@ https://github.com/user-attachments/assets/23861039-b9d4-4eda-933b-19d62410d3db
 
 <BR>
 
+   - ___ROSTOVIC___
+      
+      Inspired by the Rostović serbian weapon manufacturer logo from the *Cyberpunk 2077* video game.
+
+https://github.com/user-attachments/assets/2f73b31f-826f-4722-997d-e10806714f91
+
+<BR>
+
 I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/manifest.txt) file with all entries for a quick copy&paste. (butthurt & level set for RogueMaster / Momentum FW, edit these if under another firmware or according to your own custom needs)
 
-You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(9%20animations).zip).
+You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(10%20animations).zip).
 
 Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons%20-%20CP77%20(Asset%20pack).zip) to use with Momentum firmware.
