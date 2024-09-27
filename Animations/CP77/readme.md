@@ -88,8 +88,24 @@ https://github.com/user-attachments/assets/2f73b31f-826f-4722-997d-e10806714f91
 
 <BR>
 
+   - ___MAXIWEAR___
+      
+      Inspired by the MaxiWear leisureware brand logo from the *Cyberpunk 2077* video game.
+
+https://github.com/user-attachments/assets/adf69325-4d61-41ca-8baa-6f94dace28ae
+
+<BR>
+
+   - ___KENDACHI___
+      
+      Inspired by the Kendachi arms manufacturer logo from the *Cyberpunk 2077* video game.
+
+https://github.com/user-attachments/assets/ea6f4a52-73b9-4620-8fda-e7c0880d175e
+
+<BR>
+
 I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/manifest.txt) file with all entries for a quick copy&paste. (butthurt & level set for RogueMaster / Momentum FW, edit these if under another firmware or according to your own custom needs)
 
-You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(10%20animations).zip).
+You can download each anim as [separate zip files](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77/Animation_ZIP_files%20(CP77)) or [all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons_CP77_Collection%20(12%20animations).zip).
 
 Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/Kuronons%20-%20CP77%20(Asset%20pack).zip) to use with Momentum firmware.
