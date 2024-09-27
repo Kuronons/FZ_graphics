@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/adf69325-4d61-41ca-8baa-6f94dace28ae
       
       Inspired by the Kendachi arms manufacturer logo from the *Cyberpunk 2077* video game.
 
-https://github.com/user-attachments/assets/ea6f4a52-73b9-4620-8fda-e7c0880d175e
+https://github.com/user-attachments/assets/4ada854b-3c5f-41f3-bb09-1393689deb50
 
 <BR>
 
