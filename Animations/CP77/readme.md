@@ -3,7 +3,7 @@
 </p>
 
 Here you can find animations inspired by the ***CYBERPUNK 2077*** video game.<BR><BR>
-There is 2 different sets of anims : CP77's [Corporations logos](https://github.com/Kuronons/FZ_graphics/edit/main/Animations/CP77/readme.md#cyberpunk-2077-corporations) & [Motor Companies logos](https://github.com/Kuronons/FZ_graphics/edit/main/Animations/CP77/readme.md#cyberpunk-2077-motor-companies), both having their anims all made on the same concept and *storyboard*. Anims of each set use identical meta.txt with exact same duration, and set to switch to next one every 10 mn. They all have passive + active frames. (Active : simply display logo + name a few seconds without the initial animation)
+There is 2 different sets of anims : CP77's [Corporations logos](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77#cyberpunk-2077-corporations) & [Motors Companies logos](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77#cyberpunk-2077-motors-companies), both having their anims all made on the same concept and *storyboard*. Anims of each set use identical meta.txt with exact same duration, and set to switch to next one every 10 mn. They all have passive + active frames. (Active : simply display logo + name a few seconds without the initial animation)
 <BR><BR>
 I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/CP77/manifest.txt) file with all entries (both sets) for a quick copy&paste. (butthurt & level set for RogueMaster / Momentum FW, edit these if under another firmware or according to your own custom needs)
 
@@ -110,7 +110,7 @@ https://github.com/user-attachments/assets/4ada854b-3c5f-41f3-bb09-1393689deb50
 
 <BR><BR>
 
-## Cyberpunk 2077 Motor Companies
+## Cyberpunk 2077 Motors Companies
 
    - ___ARCH___
 
