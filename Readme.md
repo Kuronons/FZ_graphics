@@ -259,6 +259,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨🎬 [Flipper Animations](https://github.com/evillero/flipper_animations) (Casio's G-Shock characters) & [Dexter's Laboratory](https://github.com/evillero/Dexters_Laboratory-Asset-Pack) asset-pack by [evillero](https://github.com/evillero)
 
 - 🎨 Flipper Zero [3D Printing](https://github.com/Davim09/flipper_3dprinting_animation) & [Wardriving](https://github.com/Davim09/flipper_wardriving_animation) animations by [Davim09](https://github.com/Davim09) aka Chonk_m
+
+- 🎨 [Pr3's Animation Haven](https://github.com/the1anonlypr3/pr3s_anim_haven) by [the1anonlypr3](https://github.com/the1anonlypr3) aka pr3
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
