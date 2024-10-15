@@ -25,4 +25,10 @@ I also added a [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/
 
 You can download each anim as separate zip files or the [30 all together](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/Kuronons_BlackFlags_Collection%20(30%20animations).zip).
 
-Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/Kuronons%20-%20BlackFlags.zip) to use with Momentum / Xtreme firmwares. 
+Also you can download those directly as an [animation pack](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/Kuronons%20-%20BlackFlags.zip) to use with Momentum firmware. 
+<BR><BR><BR>
+***UPDATE - Oct. 16th, 2024*** : Adding an extra easter-egg animation featuring [RocketGod](https://github.com/RocketGod-git)'s flag.
+This extra anim is **NOT** included in the packs. You have to [download it](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Black_Flags_Collection/Animation_ZIP_files_%5BBlackFlags%5D/Kuronons_BlackFlags_RocketGod_128x64.zip) separately and edit your manifest accordingly.
+
+https://github.com/user-attachments/assets/48fcc79d-c0c8-48d6-8ff1-ce510061c530
+
