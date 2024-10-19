@@ -3,7 +3,7 @@
 Here are profile pictures I made for the Flipper Zero.<BR>
 Note that the orange/black versions in this readme are only for an insight - not scaled for the FZ passport...<BR>
 -> Download the corresponding white/black [.png files](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)) you want to use.<BR>
-(or directly the [.bmx ones](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)) if under ***Momentum*** or ***Xtreme*** fw so you don't have to compile them via python)<BR><BR>
+(or directly the [.bmx ones](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)) if under ***Momentum*** fw so you don't have to compile them via python)<BR><BR>
 
 ### AD POLICE
 ADP Shield badge inspired by 1990's AD Police Files OAV (Prequel of Bubblegum Crisis)
