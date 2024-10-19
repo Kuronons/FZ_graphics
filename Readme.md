@@ -5,6 +5,7 @@
 **PASSPORT [BACKGROUNDS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background) AND [PROFILE PICTS](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures)<BR>**
 **CFW & FAP [GRAPHIC ASSETS](https://github.com/Kuronons/FZ_graphics/tree/main/FAPs%20%26%20Firmwares%20graphic%20assets)<BR>**
 **BAD USB [VISUAL PAYLOADS](https://github.com/Kuronons/FZ_graphics/tree/main/BadUSB%20Visual%20Payloads)<BR><BR>**
+I am present on most Flipper-related discord servers.<BR>On ***Momentum***'s one, I opened a thread dedicated to Flipper pixel art : [**Kuro's Kitchen**](https://discord.com/channels/1211622338198765599/1241250734390120509).<BR>Feel free to join the convo !<BR><BR>
 Also, you can find below a bunch of useful [tutorials](https://github.com/Kuronons/FZ_graphics/tree/main?tab=readme-ov-file#-links-of-interest--flipper-graphics---tutorials--other-hints) and [tools](https://github.com/Kuronons/FZ_graphics?tab=readme-ov-file#-links-of-interest--flipper-graphics---tools--apps) links related to Flipper's graphic assets.<BR>As well, follows a non-stop growing list of [links to other people's makings](https://github.com/Kuronons/FZ_graphics?tab=readme-ov-file#-links-of-interest--flipper-graphics---custom-animations--assets).<BR>
 I would gladly add your link on request, just ask or PR !<BR><BR>
 Have fun exploring ! **O_oV**</p><BR>
