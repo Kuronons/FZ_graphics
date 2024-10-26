@@ -217,7 +217,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [Flipper-Zero-Animations](https://github.com/bip3r/Flipper-Zero-Animations/tree/main) (dolphin themed) by [bip3r](https://github.com/bip3r)
 
-- 🎬 [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)
+- 4️⃣0️⃣4️⃣ ~~🎬 [ARI_flipper-animations](https://github.com/ari-enby/ARI_flipper-animations) by [Ari](https://github.com/ari-enby)~~ 
 
 - 🎬 [Flipper Pirates asset pack](https://github.com/cyberartemio/flipper-pirates-asset-pack) (<i>Pirates of the Caribbean</i> themed anims and graphic assets) by [Artemio](https://github.com/cyberartemio)
 
