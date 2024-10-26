@@ -169,7 +169,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - 🎬 [FZ Customization](https://github.com/Gabry154/FZ_Customization) (*Jojo*, *Berserk* themed) by [Gabry154](https://github.com/Gabry154)
 
-- 🎨 [animations](https://github.com/topbillin/animations) (*Punch-Out* game anims & [icons](https://github.com/topbillin/icons) + misc) by [topbilin](https://github.com/topbillin) aka Ned_Flanders
+- 🎨 [animations](https://github.com/topbillin/animations) (*Punch-Out* game anims & [icons](https://github.com/topbillin/icons) + misc) by [topbilin](https://github.com/topbillin) aka classically_trained / Ned_Flanders
 
 - 🎨🎬 [Flipper_animations](https://github.com/guilatoffi/Flipper_animations) by [guilatoffi](https://github.com/guilatoffi)
 
