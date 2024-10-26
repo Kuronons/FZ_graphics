@@ -264,6 +264,8 @@ Have fun exploring ! **O_oV**</p><BR>
 - 🎨 [Pr3's Animation Haven](https://github.com/the1anonlypr3/pr3s_anim_haven) by [the1anonlypr3](https://github.com/the1anonlypr3) aka pr3
 
 - 🎨 [flipper asset packs](https://github.com/Lane863/flipper-asset-packs) (graffiti styled) by [Lane863](https://github.com/Lane863) aka TheLoneLaner
+
+- 🎬 [Flipper Zero](https://github.com/Marcopit92/Flipper-zero/tree/main/asset_packs) (Misc brands logos + NSFW Eva Elfie porn) by [Marcopit92](https://github.com/Marcopit92) aka //mp
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
