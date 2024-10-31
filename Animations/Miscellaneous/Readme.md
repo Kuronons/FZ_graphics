@@ -3,7 +3,7 @@ Here you can find various animations I made for the Flipper Zero :
    
    - ___EYE OF THE FLIPPER___
    
-      My first FZ anim ! Inspired by the beginning of *EYE OF THE BEHOLDER* (1991 video game)
+      **My first FZ anim ever !** Inspired by the beginning of *EYE OF THE BEHOLDER* (1991 video game)
       
       Note : Only for EOB nerds... XD
 
@@ -79,4 +79,17 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/899d806f-8272-4a9b-a080
 
 <BR>
 
-Use the manifest.txt file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+   - ___COWSAY___
+      
+      Fom [*Cowsay*](https://en.wikipedia.org/wiki/Cowsay) ASCII generating image/text program.
+      
+      Note : This animation uses ***bubbles*** and displays a random line out of 10 recorded.<BR>
+I made this animation on a suggestion from [؟؟͌̊̄Maj͈̾i͍̓K͛́ͅ?̈́͢͡?](https://github.com/qqmajikpp).
+
+https://github.com/user-attachments/assets/8f596d62-e903-4da4-ac80-06fc08549f4d
+
+<BR>
+
+
+
+Use the [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/manifest.txt) file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
