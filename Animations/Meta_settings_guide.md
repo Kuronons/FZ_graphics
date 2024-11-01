@@ -30,7 +30,7 @@ Coordinates will be set as :
 > ⮚ Postion of the [bubble's tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-placement)<BR>
 
 > [!WARNING]
-> A **negative value in X or Y** will result of a ***furi_hal error*** and would most likely put your Flipper in an **endless reset-loop !!**<BR>
+> A **negative value in X or Y** will result of a ***furi_hal error*** and would most likely put your Flipper in an **endless restart-loop !!**<BR>
 > If it happens, just get the SD out and fix the meta by entering a positive value.<BR>
 > If you don't have an SD card reader, take the SD card out and re-insert it again without passing the SD welcome splash-screen.<BR>
 > It will allow you to overwrite the non-functioning meta via qFlipper files management.
