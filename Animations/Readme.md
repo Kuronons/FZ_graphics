@@ -7,7 +7,7 @@ Here are the animations I made for Flipper Zero. Those are folder-sorted by them
 - [Cyberpunk 2077](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77) - 12 + 15 animations collections
 - [Ghost in the Shell](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/GITS) - 5 animations collection
 - [Monopoly cards](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Monopoly_Cards) - WIP (2 anims)
-- [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted (8 anims)
+- [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted (9 anims)
 
 *edit 2024/03/04 : Replaced .webm files by .mp4 to make them viewable under iOS.<BR>
 
