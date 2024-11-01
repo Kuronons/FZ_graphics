@@ -5,9 +5,16 @@
 
 ## 🗨️ BUBBLES
 Bubble is a text input that will display on top of an animation enclosed in coded-drawn lines in the spirit of comic's speech bubble.
+
+Summary  :
+- [Bubble placement]()
+- [Bubble's text line]()
+- [Bubble's tail positioning]()
+- [Bubble coordinates & Tail positioning issues]()
+  
 <BR>
 
-### 🔸  Bubble's placement
+### 🔸  Bubble placement
 Bubble's placement on screen is defined by its upper-left corner's coordinates.<BR>
 Screen is  128x64px. First column (X - from left) as well as first line (Y - from top) are designed by **0**.
 Coordinates will be set as :
@@ -29,7 +36,7 @@ Coordinates will be set as :
 > It will allow you to overwrite the non-functioning meta via qFlipper files management.
 <BR>
 
-### 🔸  Bubble's text
+### 🔸  Bubble's text line
 The displayed text of the bubble is defined by the eponymous function :
 - `Text: ` followed by the text to display. Note that the part of the text lenght that would be out of the screen will not be visible anyhow.
 
@@ -60,8 +67,8 @@ we end up with this result :
 > A maximum of 20-30 characters (spaces included) on a line.
 <BR>
 
-### 🔸  Bubble's tail placement
-The placement of the tail (the bubble's pointer) is set by those 2 functions and their applicable options :
+### 🔸  Bubble's tail positioning
+The positioning of the tail (the bubble's pointer) is set by those 2 functions and their applicable options :
 - `AlignH: ` = **H**orizontal **Align**ment (Options = `Left`, `Center`, `Right`)
 - `AlignV: ` = **V**ertical **Align**ment (Options = `Top`, `Center`, `Bottom`)
 
@@ -81,7 +88,7 @@ It then renders slightly more squared as the rounded-angles of the outline are n
 > Use `AlignH: Center` **+** `AlignV: Center` to have no bubble tail.
 <BR>
 
-### 🔸  Bubble coordinates & Tail placement issues
+### 🔸  Bubble coordinates & Tail positioning issues
 Here comes the tricky part :<BR>
 If you set a tail to be visible, in order to be correctly displayed on screen, its design ***in its whole*** must be set to fit on the screen. Otherwise, you will face some strange behaviours.
 
