@@ -74,7 +74,7 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR><BR>
 
 ### 🔸  Bubble placement
-Bubble's placement on screen is defined by its upper-left corner's coordinates.<BR>
+Bubble placement on screen is defined by its upper-left corner's coordinates.<BR>
 Screen is  128x64px. First column (X - from left) as well as first line (Y - from top) are designed by **0**.
 Coordinates will be set as :
 - `X: ` = horizontal coordinate (values range = `0` to `127`)
@@ -95,7 +95,7 @@ Coordinates will be set as :
 > It will allow you to overwrite the non-functioning meta via qFlipper files management.
 <BR>
 
-### 🔸  Bubble's text line
+### 🔸  Bubble text line
 The displayed text of the bubble is defined by the eponymous function :
 - `Text: ` followed by the text to display. Note that the part of the text lenght that would be out of the screen will not be visible anyhow.
 
@@ -126,8 +126,8 @@ we end up with this result :
 > A maximum of 20-30 characters (spaces included) on a line.
 <BR>
 
-### 🔸  Bubble's tail positioning
-The positioning of the tail (the bubble's pointer) is set by those 2 functions and their applicable options :
+### 🔸  Bubble tail positioning
+The positioning of the tail (the bubble pointer) is set by those 2 functions and their applicable options :
 - `AlignH: ` = **H**orizontal **Align**ment (Options = `Left`, `Center`, `Right`)
 - `AlignV: ` = **V**ertical **Align**ment (Options = `Top`, `Center`, `Bottom`)
 
@@ -155,12 +155,12 @@ Tails are adding a 4 pixels design on the edge of the bubble they're placed on.
 
 ![TAIL_SIZE](https://github.com/user-attachments/assets/11cd9ce3-a3be-48aa-8b05-54390accc0e0)
 
-To allow a tailed-bubble to be displayed on screen without issue, bubble's coordinates values must be set taking into account those additionnal 4 pixels.<BR>
+To allow a tailed-bubble to be displayed on screen without issue, bubble coordinates values must be set taking into account those additionnal 4 pixels.<BR>
 > [!WARNING]
 > Issue will occur if there are less than 4 pixels between the screen's **left** or **top** border and the tail.
 
-As a pict is worth a thousand words, let's have an insight on how it behaves if we set a bublle in the upper-left corner with not enough space from the edges to have its tail properly displayed.<BR>
-In the following tests, we will set different bubble's coordinates so it lacks 1 single from the screen border to allow tail to be fully displayed.<BR>
+As a pict is worth a thousand words, let's have an insight on how it behaves if we set a bubble in the upper-left corner with not enough space from the edges to have its tail properly displayed.<BR>
+In the following tests, we will set different bubble coordinates so it lacks 1 single from the screen border to allow tail to be fully displayed.<BR>
 Again we will test with both white (orange) and black backgrounds as it helps to understand what is drawn on screen.
 
 ![Bubble Tails_POS](https://github.com/user-attachments/assets/a0aae534-a37c-4f70-a027-0ea9ab890fd9)
@@ -185,5 +185,5 @@ Testing on a single-line bubble makes even more weird result 👀 :
 > When ***bubble*** is a layer above the ***animation*** one, main screen ***status bar*** and ***icons/battery*** are on a layer above bubble's.<BR>
 > ⮚ It must must be taken into consideration to avoid having text partially covered by those.<BR><BR>
 > Ensure safe bubble coordinated with tail's position accordingly.<BR>
-> ⮚ It's safer to set you bubble's `X: ` & `Y: ` to at least `4` to ensure avoiding issue with tail.<BR>
+> ⮚ It's safer to set your bubble `X: ` & `Y: ` to at least `4` to ensure avoiding issue with tail.<BR>
 > ⮚ Try to set your tail position to the sides (or center) of the bubble that are furthest from the edge of the screen.
