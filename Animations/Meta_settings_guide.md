@@ -4,15 +4,15 @@
 > For a better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons.<BR>
 
 ## 🗨️ BUBBLES
-Bubble is a text input that will display on top of an animation enclosed in coded-drawn lines in the spirit of comic's speech bubble.
+‎ <p align="center">**<ins>SUMMARY</ins><BR>
+[Bubbles : definition]()<BR>
+[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)<BR>
+[Bubble's text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-text-line)<BR>
+[Bubble's tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)<BR>
+[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)<BR>**</p>
 
-Summary  :
-- [Bubble placement]()
-- [Bubble's text line]()
-- [Bubble's tail positioning]()
-- [Bubble coordinates & Tail positioning issues]()
-  
-<BR>
+### 🔸  Bubbles : Definition
+Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR><BR>
 
 ### 🔸  Bubble placement
 Bubble's placement on screen is defined by its upper-left corner's coordinates.<BR>
