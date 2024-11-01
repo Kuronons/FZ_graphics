@@ -94,11 +94,11 @@ If you set a tail to be visible, in order to be correctly displayed on screen, i
 
 Tails are adding a 4 pixels design on the edge of the bubble they're placed on.
 
-![TAIL_SIZE](https://github.com/user-attachments/assets/210df639-40f8-4a60-9d06-416a4bf31789)
+![TAIL_SIZE](https://github.com/user-attachments/assets/11cd9ce3-a3be-48aa-8b05-54390accc0e0)
 
 To allow a tailed-bubble to be displayed on screen without issue, bubble's coordinates values must be set taking into account those additionnal 4 pixels.<BR>
 > [!WARNING]
-> Issue will occur if there are less than 4 pixels between the screen's border and the tail.
+> Issue will occur if there are less than 4 pixels between the screen's **left** or **top** border and the tail.
 
 As a pict is worth a thousand words, let's have an insight on how it behaves if we set a bublle in the upper-left corner with not enough space from the edges to have its tail properly displayed.<BR>
 In the following tests, we will set different bubble's coordinates so it lacks 1 single from the screen border to allow tail to be fully displayed.<BR>
@@ -112,4 +112,19 @@ We will also note that, despite there is no tail to be meant to be shown on midd
 
 ![Bubble Tails_NEG](https://github.com/user-attachments/assets/02469597-30d5-4695-9698-f94061657ffb)
 
-Black background allows to enlight that the tails themselves are correctly drawn and that the issue is on their oulines.
+Black background allows to enlight that the tails themselves are correctly drawn and that the issue is only on their outlines.
+
+Testing on a single-line bubble makes even more weird result 👀 :
+
+![Bubble Tails_singleline](https://github.com/user-attachments/assets/e2b8226e-304e-45e4-bf3f-cf58a4810448)
+
+> [!NOTE]
+> It's important to mention that those strange artifacts are just visual bugs and won't make Flipper to crash.<BR>
+> One could decide to use those strange tail behaviours in some artistic way... 
+
+> [!TIP]
+> When ***bubble*** is a layer above the ***animation*** one, main screen ***status bar*** and ***icons/battery*** are on a layer above bubble's.<BR>
+> ⮚ It must must be taken into consideration to avoid having text partially covered by those.<BR><BR>
+> Ensure safe bubble coordinated with tail's position accordingly.<BR>
+> ⮚ It's safer to set you bubble's `X: ` & `Y: ` to at least `4` to ensure avoiding issue with tail.<BR>
+> ⮚ Try to set your tail position to the sides (or center) of the bubble that are furthest from the edge of the screen.
