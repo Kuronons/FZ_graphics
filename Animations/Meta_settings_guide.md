@@ -38,7 +38,8 @@ Version: 1
 - `AlignV` - vertical place of bubble corner (Top, Center, Bottom)
 - `StartFrame`, `EndFrame` - frame index range inside whole period to show bubble.
 </details><details><summary>🔹 Frame indexes vizualisation</summary>
-### Understanding of frame indexes
+  
+- Understanding of frame indexes
 
 For example we have
 
