@@ -80,7 +80,7 @@ We note that having both `AlignH` & `AlignV` set to `Center` results in hiding t
 
 The coded outline of the bubble is not dependent of the animation background and will remain black even on top of a black background, and as consequence will not be visible :
 
-![Bubble_Tails_BEG](https://github.com/user-attachments/assets/c047120c-c801-4eef-8da1-9a681ad7b364)
+![Bubble_Tails_NEG](https://github.com/user-attachments/assets/aa5799df-bc04-4f27-9bff-afa4d19f5e52)
 
 It then renders slightly more squared as the rounded-angles of the outline are not visible.
 
@@ -101,4 +101,15 @@ To allow a tailed-bubble to be displayed on screen without issue, bubble's coord
 > Issue will occur if there are less than 4 pixels between the screen's border and the tail.
 
 As a pict is worth a thousand words, let's have an insight on how it behaves if we set a bublle in the upper-left corner with not enough space from the edges to have its tail properly displayed.<BR>
-In the following tests, we will set bubble's coordinates as `X: 3` & `Y: 3` so it lacks only 1 single pixel on top and left bubble's sides.
+In the following tests, we will set different bubble's coordinates so it lacks 1 single from the screen border to allow tail to be fully displayed.<BR>
+Again we will test with both white (orange) and black backgrounds as it helps to understand what is drawn on screen.
+
+![Bubble Tails_POS](https://github.com/user-attachments/assets/a0aae534-a37c-4f70-a027-0ea9ab890fd9)
+
+It enlights that issues occur when there is not enough space on TOP and/or LEFT screen sides to display the tail, creating some *backdraft* tail that displays over the text.<BR>
+We note that, apart for just displaying what fits the screen, there is no particular issue with BOTTOM or RIGHT sides of the screen.<BR>
+We will also note that, despite there is no tail to be meant to be shown on middle screenshot (`AlignH` & `AlignV` both set to `Center`), it still create for some reason a single and unwanted pixel in the upper-left corner.
+
+![Bubble Tails_NEG](https://github.com/user-attachments/assets/02469597-30d5-4695-9698-f94061657ffb)
+
+Black background allows to enlight that the tails themselves are correctly drawn and that the issue is on their oulines.
