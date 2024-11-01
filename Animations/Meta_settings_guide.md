@@ -8,11 +8,18 @@ Bubble is a text input that will display on top of an animation enclosed in code
 Bubble's placement on screen is defined by its upper-left corner's coordinates.<BR>
 Screen is  128x64px. First column (X - from left) as well as first line (Y - from top) are designed by **0**.
 Coordinates will be set as :
-- `X: ` = horizontal coordinate (values range = 0-127)
-- `Y: ` = vertical coordinate (values range = 0-63)
+- `X: ` = horizontal coordinate (values range = `0` to `127`)
+- `Y: ` = vertical coordinate (values range = `0` to `63`)
+
+![BP0](https://github.com/user-attachments/assets/4d25a2ae-4f55-434f-a954-87842172030b)
+
+The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :
+- Lenght of the longest text line for the X value
+- Number of text lines for the Y one
+- Postion of the bubble's tail
 
 > [!CAUTION]
-> A **negative value in X or Y** will result of a furi_hal error and could put your Flipper in an **endless reset-loop**.<BR>
+> A **negative value in X or Y** will result of a furi_hal error and would most likely put your Flipper in an **endless reset-loop**.<BR>
 > If it happens, just get the SD out and fix the meta by entering a positive value.<BR>
 > If you don't have an SD card reader, take the SD card out and re-insert it again without passing the SD welcome splash-screen.<BR>
 > It will allow you to overwrite the non-functioning meta via qFlipper files management.
