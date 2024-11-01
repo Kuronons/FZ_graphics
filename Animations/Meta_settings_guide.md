@@ -74,7 +74,7 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR><BR>
 
 ### 🔸  Bubble placement
-Bubble placement on screen is defined by its upper-left corner's coordinates.<BR>
+Bubble placement on screen is defined by its upper-left corner coordinates.<BR>
 Screen is  128x64px. First column (X - from left) as well as first line (Y - from top) are designed by **0**.
 Coordinates will be set as :
 - `X: ` = horizontal coordinate (values range = `0` to `127`)
@@ -101,7 +101,7 @@ The displayed text of the bubble is defined by the eponymous function :
 
 ![ABCD](https://github.com/user-attachments/assets/1f21a19d-4bf8-4941-ab67-c74ccfb4964e)
 
-&emsp;&emsp;We can see that a bubble can barely handle the 26 lowercase letters of the alphabet.<BR>
+&emsp;&emsp;We see that a bubble can barely fit the 26 lowercase letters of the alphabet.<BR>
 &emsp;&emsp;Depending on text input, it's a matter of testing to check if it fits or not.
 
 - To have multiple lines within the same bubble, `\n` can be used to define **newline**. Next line first word should be written directly after the function. (no space in between).
@@ -112,7 +112,7 @@ An input such as `Text: First line\nSecond line\nThird line\nForth line\nFifth l
 
 We note that we would be allowed to have a **maximum of 5 lines** to show properly on screen.<BR>
 Of course, this will be dependent of the bubble placement and some lines can be displayed out of screen depending on `Y` value.
-(`Y` must be set between 0 and 5 to be able to have 5 lines of text as well as the bubble's outline in its whole displayed)
+(`Y` must be set between 0 and 5 to be able to have 5 lines of text as well as the bubble outline in its whole displayed)
 
 ![N2](https://github.com/user-attachments/assets/9062bbbb-5d65-41c9-910d-e25c00ac0d15)
 
