@@ -1,15 +1,74 @@
 # Flipper Animation Guide : meta.txt settings
 
-> [!NOTE]
-> For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons.<BR>
+## 🐬 Flipper Zero official documentation : meta.txt
+The following (here collapsible) content can be found in [flipperzero-firmware/assets/dolphin/readme.md](https://github.com/Kuronons/flipperzero-firmware/edit/dev/assets/dolphin/ReadMe.md)<BR>
+<details><summary>🔹 Definition & Header settings</summary>
+  
+- meta.txt : Flipper Format File with ordered keys.<BR>
+- Header:
 
-## 🗨️ BUBBLES<BR>
+```
+Filetype: Flipper Animation
+Version: 1
+```
+</details><details><summary>🔹 Animation dimensions settings</summary>
+  
+- `Width` - animation width in px (<= 128)
+- `Height` - animation height in px (<= 64)
+</details><details><summary>🔹 Frames ordering</summary>
+
+- `Passive frames` - number of bitmap frames for passive animation state
+- `Active frames` - number of bitmap frames for active animation state (can be 0)
+- `Frames order` - order of bitmap frames where first N frames are passive and following M are active. Each X number in order refers to bitmap frame, with name frame\_X.bm. This file must exist. Any X number can be repeated to refer same frame in animation.
+</details><details><summary>🔹 Animation settings</summary>
+  
+- `Active cycles` - cycles to repeat of N active frames for full active period. E.g. if frames for active cycles are 6 and 7, and active cycles is 3, so full active period plays 6 7 6 7 6 7. Full period of passive + active period are called *total period*.
+- `Frame rate` - number of frames to play for 1 second.
+- `Duration` - total amount of seconds to play 1 animation.
+- `Active cooldown` - amount of seconds (after passive mode) to pass before entering next active mode.
+</details><details><summary>🔹 Bubbles settings</summary>
+  
+- `Bubble slots` - amount of bubble sequences.
+- Any bubble sequence plays whole sequence during active mode. There can be many bubble sequences and bubbles inside it. Bubbles in 1 bubble sequence have to reside in 1 slot. Bubbles order in 1 bubble sequence is determined by occurrence in file. As soon as frame index goes out of EndFrame index of bubble - next animation bubble is chosen. There can also be free of bubbles frames between 2 bubbles.
+
+- `Slot` - number to unite bubbles for same sequence.
+- `X`, `Y` - are coordinates of left top corner of bubble.
+- `Text` - text in bubble. New line is `\n`
+- `AlignH` - horizontal place of bubble corner (Left, Center, Right)
+- `AlignV` - vertical place of bubble corner (Top, Center, Bottom)
+- `StartFrame`, `EndFrame` - frame index range inside whole period to show bubble.
+</details><details><summary>🔹 Frame indexes vizualisation</summary>
+### Understanding of frame indexes
+
+For example we have
+
+```
+Passive frames: 6
+Active frames: 2
+Frames order: 0 1 2 3 4 5 6 7
+Active cycles: 4
+```
+
+Then we have indexes
+
+```
+                        passive(6)            active (2 * 4)
+Real frames order:   0  1  2  3  4  5     6  7  6  7  6  7  6  7
+Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
+```
+</details><BR>
+
+## 🗨️ BUBBLES : Kuro's in-depth guide<BR>
 ‎ **📑 <ins>SUMMARY</ins>**
 - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
 - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
 - **[Bubble's text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-text-line)**<BR>
 - **[Bubble's tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)**<BR>
 - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
+> [!NOTE]
+> For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
+
+<BR>
 
 ### 🔸  Bubbles : Definition
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR><BR>
