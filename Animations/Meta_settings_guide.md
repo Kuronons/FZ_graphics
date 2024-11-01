@@ -1,10 +1,10 @@
 # meta.txt file's settings - The guide
 
-## Bubbles
+## 🗨️ BUBBLES
 Bubble is a text input that will display on top of an animation enclosed in coded-drawn lines in the spirit of comic's speech bubble.
 <BR>
 
-### Bubble's placement
+### 🔸  Bubble's placement
 Bubble's placement on screen is defined by its upper-left corner's coordinates.<BR>
 Screen is  128x64px. First column (X - from left) as well as first line (Y - from top) are designed by **0**.
 Coordinates will be set as :
@@ -16,8 +16,9 @@ Coordinates will be set as :
 > If it happens, just get the SD out and fix the meta by entering a positive value.<BR>
 > If you don't have an SD card reader, take the SD card out and re-insert it again without passing the SD welcome splash-screen.<BR>
 > It will allow you to overwrite the non-functioning meta via qFlipper files management.
+<BR>
 
-### Bubble's text
+### 🔸  Bubble's text
 The displayed text of the bubble is defined by the eponymous function :
 - `Text: ` followed by the text to display. Note that the part of the text lenght that would be out of the screen will not be visible anyhow.
 - To have multiple lines within the same bubble, `\n` can be used to define **newline**. Next line first word should be written directly after the function. (no space in between).
@@ -37,8 +38,9 @@ we end up with this result :
 
 ![N3](https://github.com/user-attachments/assets/9b664935-ab83-4036-a823-fa519cc881ca)
 
+<BR>
 
-### Bubble's tail placement
+### 🔸  Bubble's tail placement
 The placement of the tail (the bubble's pointer) is set by those 2 functions and their applicable options :
 - `AlignH: ` = **H**orizontal **Align**ment (Options = `Left`, `Center`, `Right`)
 - `AlignV: ` = **V**ertical **Align**ment (Options = `Top`, `Center`, `Bottom`)
