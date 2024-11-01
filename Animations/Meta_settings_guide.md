@@ -62,8 +62,8 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 ‎ **📑 <ins>SUMMARY</ins>**
 - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
 - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
-- **[Bubble's text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-text-line)**<BR>
-- **[Bubble's tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)**<BR>
+- **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-text-line)**<BR>
+- **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)**<BR>
 - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
 > [!NOTE]
 > For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
@@ -101,22 +101,24 @@ The displayed text of the bubble is defined by the eponymous function :
 
 ![ABCD](https://github.com/user-attachments/assets/1f21a19d-4bf8-4941-ab67-c74ccfb4964e)
 
-&emsp;&emsp;We see that a bubble can barely fit the 26 lowercase letters of the alphabet.<BR>
-&emsp;&emsp;Depending on text input, it's a matter of testing to check if it fits or not.
+We see that a bubble can barely fit the 26 lowercase letters of the alphabet.<BR>
+Depending on text input, it's a matter of testing to check if it fits or not.<BR>
 
-- To have multiple lines within the same bubble, `\n` can be used to define **newline**. Next line first word should be written directly after the function. (no space in between).
+To have multiple lines within the same bubble, `\n` can be used to define **newline**.<BR>
+Next line first word should be written directly after the function. (no space in between).
 
 An input such as `Text: First line\nSecond line\nThird line\nForth line\nFifth line` would render as :
 
 ![N1](https://github.com/user-attachments/assets/d1c56649-e34f-449c-9812-c899d65a0ecf)
 
-We note that we would be allowed to have a **maximum of 5 lines** to show properly on screen.<BR>
-Of course, this will be dependent of the bubble placement and some lines can be displayed out of screen depending on `Y` value.
+We note that we can only have **up to 5 lines** that would properly show on screen.<BR>
+Of course, this will be dependent of the bubble placement and some lines can be displayed out of screen depending on `Y` value.<BR>
 (`Y` must be set between 0 and 5 to be able to have 5 lines of text as well as the bubble outline in its whole displayed)
 
 ![N2](https://github.com/user-attachments/assets/9062bbbb-5d65-41c9-910d-e25c00ac0d15)
 
-Same goes with too many lines. Only fully displayable lines shows. If we set the `Y` at its minimum value (0) and set the text on 6 lines with `Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`, 
+Same goes with too many lines. Only fully displayable lines shows.<BR>
+If we set the `Y` at its minimum value (0) and set the text on 6 lines with `Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`, 
 we end up with this result :
 
 ![N3](https://github.com/user-attachments/assets/e15854b3-aff0-4954-ad0f-2a3f74fa56c3)
@@ -167,7 +169,7 @@ Again we will test with both white (orange) and black backgrounds as it helps to
 
 It enlights that issues occur when there is not enough space on TOP and/or LEFT screen sides to display the tail, creating some *backdraft* tail that displays over the text.<BR>
 We note that, apart for just displaying what fits the screen, there is no particular issue with BOTTOM or RIGHT sides of the screen.<BR>
-We will also note that, despite there is no tail to be meant to be shown on middle screenshot (`AlignH` & `AlignV` both set to `Center`), it still create for some reason a single and unwanted pixel in the upper-left corner.
+We will also note that, despite there is no tail to be meant to be shown on middle screenshot (`AlignH` & `AlignV` both set to `Center`), it still creates, for some reason, a single and unwanted pixel dot in the upper-left corner.
 
 ![Bubble Tails_NEG](https://github.com/user-attachments/assets/02469597-30d5-4695-9698-f94061657ffb)
 
