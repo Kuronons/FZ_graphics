@@ -63,8 +63,8 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 ‎ **📑 <ins>SUMMARY</ins>**
 - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
 - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
-- **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-text-line)**<BR>
-- **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)**<BR>
+- **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-text-line)**<BR>
+- **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
 - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
 > [!NOTE]
 > For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
@@ -87,7 +87,7 @@ Coordinates will be set as :
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
 > ⮚ Lenght of the longest text line for the X value<BR>
 > ⮚ Number of text lines for the Y one<BR>
-> ⮚ Postion of the [bubble tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)<BR>
+> ⮚ Postion of the [bubble tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)<BR>
 
 > [!WARNING]
 > A **negative value in X or Y** will result of a ***furi_hal error*** and would most likely put your Flipper in an **endless restart-loop !!**<BR>
