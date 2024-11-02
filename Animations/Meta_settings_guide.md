@@ -87,7 +87,7 @@ Coordinates will be set as :
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
 > ⮚ Lenght of the longest text line for the X value<BR>
 > ⮚ Number of text lines for the Y one<BR>
-> ⮚ Postion of the [bubble's tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)<BR>
+> ⮚ Postion of the [bubble tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles-tail-positioning)<BR>
 
 > [!WARNING]
 > A **negative value in X or Y** will result of a ***furi_hal error*** and would most likely put your Flipper in an **endless restart-loop !!**<BR>
