@@ -81,7 +81,7 @@ Coordinates will be set as :
 - `X: ` = horizontal coordinate (values range = `0` to `127`)
 - `Y: ` = vertical coordinate (values range = `0` to `63`)
 
-![BP0](https://github.com/user-attachments/assets/4d25a2ae-4f55-434f-a954-87842172030b)
+![BP0](https://github.com/user-attachments/assets/431a041f-98df-4eb2-910c-9492709d24be)
 
 > [!TIP]
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
@@ -100,7 +100,7 @@ Coordinates will be set as :
 The displayed text of the bubble is defined by the eponymous function :
 - `Text: ` followed by the text to display. Note that the part of the text lenght that would be out of the screen will not be visible anyhow.
 
-![ABCD](https://github.com/user-attachments/assets/1f21a19d-4bf8-4941-ab67-c74ccfb4964e)
+![ABCD](https://github.com/user-attachments/assets/58059654-ad11-4f02-b3f1-2f7fcc678f5b)
 
 We see that a bubble can barely fit the 26 lowercase letters of the alphabet.<BR>
 Depending on text input, it's a matter of testing to check if it fits or not.<BR>
