@@ -110,19 +110,19 @@ Next line first word should be written directly after the function. (no space in
 
 An input such as `Text: First line\nSecond line\nThird line\nForth line\nFifth line` would render as :
 
-![N1](https://github.com/user-attachments/assets/d1c56649-e34f-449c-9812-c899d65a0ecf)
+![5LINES_1](https://github.com/user-attachments/assets/2e3bb69d-17ab-4e1e-8aab-b4cbf76d8936)
 
 We note that we can only have **up to 5 lines** that would properly show on screen.<BR>
 Of course, this will be dependent of the bubble placement and some lines can be displayed out of screen depending on `Y` value.<BR>
 (`Y` must be set between 0 and 5 to be able to have 5 lines of text as well as the bubble outline in its whole displayed)
 
-![N2](https://github.com/user-attachments/assets/9062bbbb-5d65-41c9-910d-e25c00ac0d15)
+![5LINES_2](https://github.com/user-attachments/assets/1a4afe5b-6f58-4a5d-a372-8388fbe7c799)
 
 Same goes with too many lines. Only fully displayable lines shows.<BR>
 If we set the `Y` at its minimum value (0) and set the text on 6 lines with `Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`, 
 we end up with this result :
 
-![N3](https://github.com/user-attachments/assets/e15854b3-aff0-4954-ad0f-2a3f74fa56c3)
+![6LINES](https://github.com/user-attachments/assets/fe852559-0b54-46b8-85be-5ad8555a12dd)
 
 > [!TIP]
 > A maximum of 5 lines of text in a bubble using the `\n` function.<BR>
