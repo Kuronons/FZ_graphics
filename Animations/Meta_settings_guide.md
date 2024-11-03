@@ -1,6 +1,16 @@
 # Flipper Animation Guide : meta.txt settings
 
+## 📄 meta.txt : content overview
+Below an example of a meta.txt file content. (from Flipper Zero [L1_Cry_128x64](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Cry_128x64) animation)<BR>
+Meta is pure text file (.txt) and can be opened/edited via any text editor (such as *Notepad*).<BR>
+I colored in purple the part that is mandatory, in green what is optional (only applies if **bubbles** are used) and in white the data filled by the user.<BR>
+
+![meta-overview](https://github.com/user-attachments/assets/177fe028-83d8-487c-831c-7e0a0c610166)
+
+<BR>
+
 ## 🐬 Flipper Zero official documentation : meta.txt
+*Flipper Devices* provides to users basic information about meta file.<BR> 
 The following (here collapsible) content can be found in [flipperzero-firmware/assets/dolphin/readme.md](https://github.com/Kuronons/flipperzero-firmware/edit/dev/assets/dolphin/ReadMe.md)<BR>
 <details><summary>🔹 Definition & Header settings</summary>
   
@@ -59,7 +69,7 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 ```
 </details><BR>
 
-## 🗨️ BUBBLES : Kuro's in-depth guide<BR>
+## 💬 BUBBLES : Kuro's in-depth guide<BR>
 ‎ **📑 <ins>SUMMARY</ins>**
 - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
 - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
@@ -82,6 +92,11 @@ Coordinates will be set as :
 - `Y: ` = vertical coordinate (values range = `0` to `63`)
 
 ![BP0](https://github.com/user-attachments/assets/431a041f-98df-4eb2-910c-9492709d24be)
+
+We will note that the bubble layer is not dependent of the animation frames size.<BR>
+Bubble sticks to its screen coordinates and won't be affected in any way when displayed out the animation frames area as the following test shows (64x32px frames anim) :<BR>
+
+![bubble_out_of_frame](https://github.com/user-attachments/assets/63b95d1b-2396-4f55-9645-c650d1cb2940)
 
 > [!TIP]
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
