@@ -185,8 +185,8 @@ Testing on a single-line bubble makes even more weird result 👀 :
 > One could decide to use those strange tail behaviours in some artistic way... 
 
 > [!TIP]
-> When ***bubble*** is a layer above the ***animation*** one, main screen ***status bar*** and ***icons/battery*** are on a layer above bubble one.<BR>
+> When ***bubble*** is a layer above the ***animation*** one, main screen ***status bar*** and ***icons/battery*** are on layers above bubble one.<BR>
 > ⮚ That must be taken into consideration to avoid having text partially covered by those.<BR><BR>
-> Ensure safe bubble coordinated with tail's position accordingly.<BR>
+> Ensure safe bubble coordinates and tail position accordingly.<BR>
 > ⮚ It's safer/easier to set your bubble `X: ` & `Y: ` to at least `4` to ensure avoiding issue with tail.<BR>
-> ⮚ Try to set your tail position to the sides (or center) of the bubble that are furthest from the edge of the screen.
+> ⮚ If possible, set your tail position to the sides (or center) of the bubble that are furthest from the edge of the screen.
