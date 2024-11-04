@@ -1,10 +1,10 @@
 # Flipper Animation Guide : meta.txt settings
  **📑 <ins>SUMMARY</ins>**
-- **[📄 meta.txt : content overview]()**<BR>
-- **[🐬 Flipper Zero official documentation : meta.txt]()**<BR>
-- **[🎬 ANIMATION : Meta Main settings]()**<BR>
-    - **[Frame dimensions]()**<BR>
-- **[💬 BUBBLES : in-depth guide]()**<BR>
+- **[📄 meta.txt : content overview](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-metatxt--content-overview)**<BR>
+- **[🐬 Flipper Zero official documentation : meta.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-flipper-zero-official-documentation--metatxt)**<BR>
+- **[🎬 ANIMATION : Meta Main settings](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-animation--meta-main-settings)**<BR>
+    - **[Frame dimensions](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-dimensions)**<BR>
+- **[💬 BUBBLES : in-depth guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
     - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
     - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
     - **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-text-line)**<BR>
