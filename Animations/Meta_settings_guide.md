@@ -12,12 +12,11 @@
     - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
 > [!NOTE]
 > For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
-
 <BR>
 
 ## 📄 meta.txt : content overview
 Below an example of a meta.txt file content. (from Flipper Zero [L1_Cry_128x64](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Cry_128x64) animation)<BR>
-Meta is pure text file (.txt) and can be opened/edited via any text editor (such as *Notepad*).<BR>
+Meta is pure text file (.txt) and can be opened/edited via any text editor (such as *Notepad*).<BR><BR>
 I colored in purple the part that is mandatory, in green what is optional (only applies if **bubbles** are used) and in white the data filled by the user.<BR>
 
 ![meta-overview](https://github.com/user-attachments/assets/177fe028-83d8-487c-831c-7e0a0c610166)
@@ -88,23 +87,21 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 ### 🔸  Frame dimensions
 The first two settings listed in meta.txt are `Width:` & `Height:`<BR>
 ***Width*** being the measurement of the ***X*** axis, horizontal.<BR>
-***Height*** being the measurement of the ***Y*** axis, vertical.<BR>
+***Height*** being the measurement of the ***Y*** axis, vertical.<BR><BR>
 Values ​​are in pixels and must strictly match the dimensions of the animation frames.<BR>
 Since the Flipper screen can display 128x64 pixels, these would therefore be the max values.<BR>
 
 ![W H](https://github.com/user-attachments/assets/8cd700df-05fe-420b-813b-c89e7d1ff050)
 
-While most animations (from official Flipper Devices or custom makers) are made, for convenience mainly, on this frame size, one can choose to make an animation with smaller frames.<BR>
-For instance, official release contains a bunch of animations that aren't 128x64px with values such as 128x51px or 128x49px.<BR>
-Most of official non-128x64px anims are stored in flash memory (***internal*** & ***blocked*** anims) which makes sense in saving as much octets as possible due to the very low internal storage capacity. But even within the official ***external*** animations (those saved on SD), we can notice 3 (as of Nov. 24) that also use a reduced frame format.<BR>
-
+While most animations (from official Flipper Devices or custom makers) are made, for convenience mainly, on this frame size, one can choose to make an animation with smaller frames.<BR><BR>
+Official ****Flipper Devices*** firmware contains a bunch of animations that aren't 128x64px with values such as 128x51px or 128x49px.
+Most of those are stored in flash memory (***internal*** & ***blocked*** anims) which makes sense in saving as much octets as possible due to the very low internal storage capacity. But even within the official ***external*** animations (those saved on SD), we can notice 3 (as of Nov. 24) that also use a reduced frame format.<BR><BR>
 For instance, the first frame of ***L1_Laptop_128x51***, is (as its name specifies) only 51px high and will leave a 13px high unanimated area on top of the screen (blue-colored here) :
 
 ![128x51_Laptop](https://github.com/user-attachments/assets/80fda538-0cd5-4d5f-af9d-612d24195a93)
 
 Frames are aligned on the BOTTOM LEFT corner without option to change that.<BR>
-While it is not an issue at all when it comes to height (as the upper part of screen is mostly displaying the status bar and icons), it should be kept in mind when setting a width inferior to 128 as animation will be left-aligned.
-
+While it is not an issue at all when it comes to height (as the upper part of screen is mostly displaying the status bar and icons), it should be kept in mind when setting a width inferior to 128 as animation will be left-aligned.<BR><BR>
 For example, 64x32px frame position on screen :
 
 ![64x32px_frame](https://github.com/user-attachments/assets/d4340de3-3e18-42d1-b74a-ed4141b44ac6)
@@ -114,13 +111,45 @@ For example, 64x32px frame position on screen :
 > Width & Height values must match the pixel dimensions of the frames.<BR>
 > Those being defined in the meta, all frames of one animation must have the same dimensions.<BR>
 > Frames are bottom-left aligned.<BR>
-> Using frames of dimensions inferior to 128x64px makes only sense when editing an animation meant to be put in Flipper's internal memory. There would not be any significant impact for the ones stored on SD.<BR>
+> Using frames of dimensions inferior to 128x64px makes only sense when editing an animation meant to be put in Flipper's internal memory. There would not be any significant impact for the ones stored on SD.
 <BR>
 
-## 💬 BUBBLES : in-depth guide<BR>
+### 🔸  Passive & Active Frames : definition
+Animation frames can be of 2 kinds : passive or active.<BR>
+
+***Passive frames*** are the ones that are played in loop on Flipper idle screen.<BR>
+An animation requires at least 1 passive frame to work.<BR>
+Therefore, minimum value could never go under ***1***.<BR>
+`Passive frames:` value defines the passive sequence by the number of frames that will be picked up from the ones listed in ***Frames order***.
+
+***Active frames*** are the ones that are played once triggered/activated.<BR>
+They have 2 possible triggers : Hitting the ***back*** button or coming back to animation screen from any other menu.<BR>
+Once triggered the active sequence will start to play. (ie. It won't wait for the passive sequence to end)<BR>
+An animation does **NOT** require active frame(s) to work.<BR>
+If no active frame, value must be set to ***0***.<BR>
+`Active frames:` value defines the activable sequence by the number of frames that will be picked up from the ones listed in ***Frames order***.
+
+The sum of values of `Passive frames:` and `Active frames:` must equal to the number of frames listed in ***Frames Order***.
+
+The use of active frames is of maker's choice. It provides to the user a basic level of interraction and can be designed in many artistic or playful ways.<BR><BR>
+
+### 🔸  Frames Order
+`Frames order:` is used to define the sequences of passive and active frames.<BR>
+It lists the frames by calling the bitmap files via their designed number. (ie the number between ***frame_*** and ***.bm*** in the file name : *frame_12.bm* = *12*)<BR><BR>
+Passive frames are always listed first. Active frames (if any) comes after.<BR>
+As said, the total of inputs must be equal to the sum of `Passive frames:` & `Active frames:` values.<BR><BR>
+On top of that, each bitmap file must be listed at least once by its number.<BR>
+As well, every listed input must refer to an existing bitmap file.<BR><BR>
+A bitmap file can be listed multiple times, and be count multiple times in passive or active frames or even in both.<BR>
+The frames order being the sequence(s) of bitmap displayed following maker's choice, it does **NOT** require to be a logical numerary suite (such as 1 2 3 4...) as long as it follows the requirements mentioned above.<BR><BR>
+Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR>
+<BR>
+
+## 💬 BUBBLES : in-depth guide
 ‎
 ### 🔸  Bubbles : Definition
-Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR><BR>
+Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR>
+<BR>
 
 ### 🔸  Bubble placement
 Bubble placement on screen is defined by its upper-left corner coordinates.<BR>
@@ -140,7 +169,7 @@ Bubble sticks to its screen coordinates and won't be affected in any way when di
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
 > ⮚ Lenght of the longest text line for the X value<BR>
 > ⮚ Number of text lines for the Y one<BR>
-> ⮚ Postion of the [bubble tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)<BR>
+> ⮚ Postion of the [bubble tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)
 
 > [!WARNING]
 > A **negative value in X or Y** will result of a ***furi_hal error*** and would most likely put your Flipper in an **endless restart-loop !!**<BR>
@@ -156,11 +185,9 @@ The displayed text of the bubble is defined by the eponymous function :
 ![ABCD](https://github.com/user-attachments/assets/58059654-ad11-4f02-b3f1-2f7fcc678f5b)
 
 We see that a bubble can barely fit the 26 lowercase letters of the alphabet.<BR>
-Depending on text input, it's a matter of testing to check if it fits or not.<BR>
-
+Depending on text input, it's a matter of testing to check if it fits or not.<BR><BR>
 To have multiple lines within the same bubble, `\n` can be used to define **newline**.<BR>
-Next line first word should be written directly after the function. (no space in between).
-
+Next line first word should be written directly after the function. (no space in between).<BR><BR>
 An input such as `Text: First line\nSecond line\nThird line\nForth line\nFifth line` would render as :
 
 ![5LINES_1](https://github.com/user-attachments/assets/2e3bb69d-17ab-4e1e-8aab-b4cbf76d8936)
@@ -172,7 +199,8 @@ Of course, this will be dependent of the bubble placement and some lines can be 
 ![5LINES_2](https://github.com/user-attachments/assets/1a4afe5b-6f58-4a5d-a372-8388fbe7c799)
 
 Same goes with too many lines. Only fully displayable lines shows.<BR>
-If we set the `Y` at its minimum value (0) and set the text on 6 lines with `Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`, 
+If we set the `Y` at its minimum value (0) and set the text on 6 lines :<BR>
+`Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`<BR>
 we end up with this result :
 
 ![6LINES](https://github.com/user-attachments/assets/fe852559-0b54-46b8-85be-5ad8555a12dd)
@@ -191,8 +219,7 @@ As a result we have 9 (3x3) possible placement of the tail :
 
 ![Bubble_Tails_POS](https://github.com/user-attachments/assets/ceb72d3d-a527-4f8d-b5bb-bc33d217209f)
 
-We note that having both `AlignH` & `AlignV` set to `Center` results in hiding the tail.
-
+We note that having both `AlignH` & `AlignV` set to `Center` results in hiding the tail.<BR><BR>
 The coded outline of the bubble is not dependent of the animation background and will remain black even on top of a black background, and as consequence will not be visible :
 
 ![Bubble_Tails_NEG](https://github.com/user-attachments/assets/aa5799df-bc04-4f27-9bff-afa4d19f5e52)
@@ -205,8 +232,7 @@ It then renders slightly more squared as the rounded-angles of the outline are n
 
 ### 🔸  Bubble coordinates & Tail positioning issues
 Here comes the tricky part :<BR>
-If you set a tail to be visible, in order to be correctly displayed on screen, its design ***in its whole*** must be set to fit on the screen. Otherwise, you will face some strange behaviours.
-
+If you set a tail to be visible, in order to be correctly displayed on screen, its design ***in its whole*** must be set to fit on the screen. Otherwise, you will face some strange behaviours.<BR><BR>
 Tails are adding a 4 pixels design on the edge of the bubble they're placed on.
 
 ![TAIL_SIZE](https://github.com/user-attachments/assets/11cd9ce3-a3be-48aa-8b05-54390accc0e0)
@@ -227,8 +253,7 @@ We will also note that, despite there is no tail to be meant to be shown on midd
 
 ![Bubble Tails_NEG](https://github.com/user-attachments/assets/02469597-30d5-4695-9698-f94061657ffb)
 
-Black background allows to enlight that the tails themselves are correctly drawn and that the issue is only on their outlines.
-
+Black background allows to enlight that the tails themselves are correctly drawn and that the issue is only on their outlines.<BR><BR>
 Testing on a single-line bubble makes even more weird result 👀 :
 
 ![Bubble Tails_singleline](https://github.com/user-attachments/assets/e2b8226e-304e-45e4-bf3f-cf58a4810448)
