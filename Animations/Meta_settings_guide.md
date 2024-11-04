@@ -148,7 +148,7 @@ The frames order being the sequence(s) of bitmap displayed following maker's cho
 Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR>
 <BR>
 
-## 💬 BUBBLES : in-depth guide
+## 💬 BUBBLES : in-depth guide<BR>
 ‎
 ### 🔸  Bubbles : Definition
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR>
