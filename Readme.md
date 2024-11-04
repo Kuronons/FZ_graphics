@@ -25,7 +25,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - [Kuronons]()'s guides &ensp; **O_oV**<BR>
 📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) - (Github's .md file)<BR>
-📑⭐ [Meta Settings - In-depth Guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md) - (Github's .md file)<BR>
+📑⭐ [Meta Settings - In-depth Guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md) - **WIP** (Github's .md file)<BR>
 
 - [Momentum](https://github.com/Next-Flip/Momentum-Firmware)'s asset-packs<BR>
 📑⭐ [How to install/make asset packs](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md) (Github's .md file)<BR>
