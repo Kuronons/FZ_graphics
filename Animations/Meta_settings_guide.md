@@ -1,4 +1,19 @@
 # Flipper Animation Guide : meta.txt settings
+ **📑 <ins>SUMMARY</ins>**
+- **[📄 meta.txt : content overview]()**<BR>
+- **[🐬 Flipper Zero official documentation : meta.txt]()**<BR>
+- **[🎬 ANIMATION : Meta Main settings]()**<BR>
+    - **[Frame dimensions]()**<BR>
+- **[💬 BUBBLES : in-depth guide]()**<BR>
+    - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
+    - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
+    - **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-text-line)**<BR>
+    - **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
+    - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
+> [!NOTE]
+> For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
+
+<BR>
 
 ## 📄 meta.txt : content overview
 Below an example of a meta.txt file content. (from Flipper Zero [L1_Cry_128x64](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Cry_128x64) animation)<BR>
@@ -69,18 +84,39 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 ```
 </details><BR>
 
-## 💬 BUBBLES : Kuro's in-depth guide<BR>
-‎ **📑 <ins>SUMMARY</ins>**
-- **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
-- **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
-- **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-text-line)**<BR>
-- **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
-- **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
-> [!NOTE]
-> For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
+## 🎬 ANIMATION : Meta Main settings<BR>
+### 🔸  Frame dimensions
+The first two settings listed in meta.txt are `Width: ` & `Height`.<BR>
+Values ​​are in pixels and must strictly match the dimensions of the animation frames.<BR>
+Since the Flipper screen can display 128x64 pixels, these would therefore be the max values.<BR>
 
+![W H](https://github.com/user-attachments/assets/8cd700df-05fe-420b-813b-c89e7d1ff050)
+
+While most animations (from official Flipper Devices or custom makers) are made, for convenience mainly, on this frame size, one can choose to make an animation with smaller frames.<BR>
+For instance, official release contains a bunch of animations that aren't 128x64px with values such as 128x51px or 128x49px.<BR>
+Most of official non-128x64px anims are stored in flash memory (***internal*** & ***blocked*** anims) which makes sense in saving as much octets as possible due to the very low internal storage capacity. But even within the official ***external*** animations (those saved on SD), we can notice 3 (as of Nov. 24) that also use a reduced frame format.<BR>
+
+For instance, the first frame of ***L1_Laptop_128x51***, is (as its name specifies) only 51px high :
+
+![128x51_Laptop](https://github.com/user-attachments/assets/c240459a-32de-4a6b-b13b-84eb4927c714)
+
+Frames are aligned on the BOTTOM LEFT corner without option to change that.<BR>
+While it is not an issue at all when it comes to height (as the upper part of screen is mostly displaying the status bar and icons), it should be kept in mind when setting a width inferior to 128 as animation will be left-aligned.
+
+For example, 64x32px frame position on screen :
+
+![64x32px_frame](https://github.com/user-attachments/assets/d4340de3-3e18-42d1-b74a-ed4141b44ac6)
+
+> [!TIP]
+> Animation frame must be set up to 128x64px<BR>
+> Width & Height values must match the pixel dimensions of the frames.<BR>
+> Those being defined in the meta, all frames of one animation must have the same dimensions.<BR>
+> Frames are bottom-left aligned.<BR>
+> Using frames of dimensions inferior to 128x64px makes only sense when editing an animation meant to be put in Flipper's internal memory. There would not be any significant impact for the ones stored on SD.<BR>
 <BR>
 
+## 💬 BUBBLES : in-depth guide<BR>
+‎
 ### 🔸  Bubbles : Definition
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR><BR>
 
