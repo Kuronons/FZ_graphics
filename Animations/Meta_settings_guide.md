@@ -87,9 +87,10 @@ Frames indexes:      0  1  2  3  4  5     6  7  8  9  10 11 12 13
 
 ## 🎬 ANIMATION : Meta Main settings<BR>
 ### 🔸  Frame dimensions
-The first two settings listed in meta.txt are `Width:` & `Height:`<BR>
-***Width*** being the measurement of the ***X*** axis, horizontal.<BR>
-***Height*** being the measurement of the ***Y*** axis, vertical.<BR><BR>
+The first two settings listed in meta.txt are :<BR>
+- `Width:` being the frame measurement on the ***X*** axis, horizontal.<BR>
+- `Height:` being the frame measurement on the ***Y*** axis, vertical.<BR>
+
 Values ​​are in pixels and must strictly match the dimensions of the animation frames.<BR>
 Since the Flipper screen can display 128x64 pixels, these would therefore be the max values.<BR>
 
