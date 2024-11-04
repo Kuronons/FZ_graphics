@@ -96,9 +96,9 @@ While most animations (from official Flipper Devices or custom makers) are made,
 For instance, official release contains a bunch of animations that aren't 128x64px with values such as 128x51px or 128x49px.<BR>
 Most of official non-128x64px anims are stored in flash memory (***internal*** & ***blocked*** anims) which makes sense in saving as much octets as possible due to the very low internal storage capacity. But even within the official ***external*** animations (those saved on SD), we can notice 3 (as of Nov. 24) that also use a reduced frame format.<BR>
 
-For instance, the first frame of ***L1_Laptop_128x51***, is (as its name specifies) only 51px high :
+For instance, the first frame of ***L1_Laptop_128x51***, is (as its name specifies) only 51px high and will leave a 13px high unanimated area on top of the screen (blue-colored here) :
 
-![128x51_Laptop](https://github.com/user-attachments/assets/c240459a-32de-4a6b-b13b-84eb4927c714)
+![128x51_Laptop](https://github.com/user-attachments/assets/80fda538-0cd5-4d5f-af9d-612d24195a93)
 
 Frames are aligned on the BOTTOM LEFT corner without option to change that.<BR>
 While it is not an issue at all when it comes to height (as the upper part of screen is mostly displaying the status bar and icons), it should be kept in mind when setting a width inferior to 128 as animation will be left-aligned.
