@@ -6,8 +6,8 @@
     - **[Frame dimensions](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-dimensions)**<BR>
     - **[Passive & Active Frames : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--passive--active-frames--definition)**<BR>
     - **[Frames order](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frames-order)**<BR>
-    - **[Active cycles]()**<BR>
-    - **[Frame rate]()**<BR>
+    - **[Active cycles](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--active-cycle)**<BR>
+    - **[Frame rate](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-rate)**<BR>
 - **[💬 BUBBLES : in-depth guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
     - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
     - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
