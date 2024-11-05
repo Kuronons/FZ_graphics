@@ -166,8 +166,10 @@ Flipper screen refresh rate being what it is, a flickering effect will occur if 
 As well, Flipper firmware may crash on high ***frame rate***<BR><BR>
 The usual working range of fps is 1-12, but it's not really recommended to have a frame rate above 8.<BR>
 Most (if not all) of original Flipper animations have their ***frame rate*** set to 2.<BR><BR>
-`Frame rate:` value must be a round number and therefore cannot be less than 1.<BR>
+`Frame rate:` value must be an integer (no decimal) and therefore cannot be less than 1.<BR>
 As consequence, the slowest animation would be of 1 frame per second. Only way to have one frame to play longer on screen is to double its input in ***Frames order***.<BR>
+The time each frame will play on screen is then calculated as follow : ***1 second divided by frame rate***.<BR>
+For instance, a frame rate of 4 will make each frame play 0.25 second on screen.<BR>
 Adjusting frame rate and playing with the inputs in Frames order makes visual acceleration or slow-down effects possible.<BR><BR>
 
 ## 💬 BUBBLES : in-depth guide<BR>
