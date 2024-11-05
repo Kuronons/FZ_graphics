@@ -6,6 +6,8 @@
     - **[Frame dimensions](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-dimensions)**<BR>
     - **[Passive & Active Frames : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--passive--active-frames--definition)**<BR>
     - **[Frames order](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frames-order)**<BR>
+    - **[Active cycles]()**<BR>
+    - **[Frame rate]()**<BR>
 - **[💬 BUBBLES : in-depth guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
     - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
     - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
@@ -145,8 +147,28 @@ On top of that, each bitmap file must be listed at least once by its number.<BR>
 As well, every listed input must refer to an existing bitmap file.<BR><BR>
 A bitmap file can be listed multiple times, and be count multiple times in passive or active frames or even in both.<BR>
 The frames order being the sequence(s) of bitmap displayed following maker's choice, it does **NOT** require to be a logical numerary suite (such as 1 2 3 4...) as long as it follows the requirements mentioned above.<BR><BR>
-Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR>
-<BR>
+Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR><BR>
+
+### 🔸  Active Cycle
+`Active Cycle:` value determines the number of time the active frames sequence will play in a row once triggered.<BR><BR>
+Once the the active period (ie the number of cycles of the active sequence) is over, animation will revert to passive one.<BR><BR>
+Active cycle is a choice of design to limit the number of inputs listed in **F*rame order***.<BR>
+
+The number of frames that make up the ***active cycles*** above the first one are not counted as it in ***Active frames*** but will however be counted when it comes to ***bubbles***.<BR><BR>
+
+### 🔸  Frame rate
+`Frame rate:` is the well known ***fps*** : Frames Per Second.<BR>
+It defines how many frames will be played during 1 second.<BR><BR>
+As a reminder : Historically, theatre movie standard fps was set on 24.<BR>
+Drawn-animation however had usually a fps set to 12 and even lower (mainly due to production costs) such as 6 or 8 when it came to *Saturday Morning Cartoons* type animations.<BR><BR>
+Flipper will not be able to handle very high fps on both firmware **and** hardware aspects.<BR>
+Flipper screen refresh rate being what it is, a flickering effect will occur if fps is set too high.<BR>
+As well, Flipper firmware may crash on high ***frame rate***<BR><BR>
+The usual working range of fps is 1-12, but it's not really recommended to have a frame rate above 8.<BR>
+Most (if not all) of original Flipper animations have their ***frame rate*** set to 2.<BR><BR>
+`Frame rate:` value must be a round number and therefore cannot be less than 1.<BR>
+As consequence, the slowest animation would be of 1 frame per second. Only way to have one frame to play longer on screen is to double its input in ***Frames order***.<BR>
+Adjusting frame rate and playing with the inputs in Frames order makes visual acceleration or slow-down effects possible.<BR><BR>
 
 ## 💬 BUBBLES : in-depth guide<BR>
 ‎
