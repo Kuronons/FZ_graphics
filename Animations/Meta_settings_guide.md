@@ -145,8 +145,19 @@ Passive frames are always listed first. Active frames (if any) comes after.<BR>
 As said, the total of inputs must be equal to the sum of `Passive frames:` & `Active frames:` values.<BR><BR>
 On top of that, each bitmap file must be listed at least once by its number.<BR>
 As well, every listed input must refer to an existing bitmap file.<BR><BR>
+In the following example (simple passive/active animation with no frame repetition), we have 10 .bm frames numbered frame_0.bm to frame_9.bm.<BR>
+6 first frames (0 to 5) are set are the passive ones while the 4 remaining ones (6 to 9) are set to passive.<BR>
+
+![Frames_order](https://github.com/user-attachments/assets/fcc304c5-dc7a-49d7-bd08-027e6dda2bfe)
+
 A bitmap file can be listed multiple times, and be count multiple times in passive or active frames or even in both.<BR>
 The frames order being the sequence(s) of bitmap displayed following maker's choice, it does **NOT** require to be a logical numerary suite (such as 1 2 3 4...) as long as it follows the requirements mentioned above.<BR><BR>
+Next example shows those. It uses frame repetitions in an animation built on only 5 .bm frames numbered frame_0.bm to frame_4.bm, without listing the frames in a "logical" numeral order.<BR>
+We emphasize here that the number of active/passive frames is not related to the number of bitmap images, but rather to the number of calls of these in their respective sequences.
+
+![Frames_order_2](https://github.com/user-attachments/assets/7346c449-e23b-4435-96d9-7dc7d81d7743)
+
+Still, trying to stick as much as possible numeral order when it comes to name the bitmap files will help greatly building the ***frames order*** or editing it later.<BR><BR>
 Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR><BR>
 
 ### 🔸  Active Cycle
