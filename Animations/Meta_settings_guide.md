@@ -174,7 +174,7 @@ It defines how many frames will be played during 1 second.<BR>
 > Historically, theatre movie standard fps was set on 24.<BR>
 > Drawn-animation however had usually a fps set to 12 and even lower (mainly due to production costs) such as 6 or 8 when it came to *Saturday Morning Cartoons* type animations.
 
-Flipper will not be able to handle very high fps mainly due to hardware limitation (RAM size and display capability.<BR>
+Flipper will not be able to handle very high fps mainly due to hardware limitation (RAM size and display capability).<BR>
 Flipper screen refresh rate being what it is, flickering or ghosting effect will occur if fps is set too high.<BR>
 As well, Flipper firmware may crash on high ***frame rate*** if RAM is oversatured.<BR><BR>
 The usual working range of fps is 1-12, but it's not really recommended to have a frame rate above 8.<BR>
