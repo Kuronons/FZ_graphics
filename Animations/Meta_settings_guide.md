@@ -185,6 +185,22 @@ The time each frame will play on screen is then calculated as follow : ***1 seco
 For instance, a frame rate of 4 will make each frame play 0.25 second on screen.<BR>
 Adjusting frame rate and playing with the inputs in Frames order makes visual acceleration or slow-down effects possible.<BR><BR>
 
+### 🔸  Duration
+`Duration:` is used to determine the period of time one animation will run until it switches to the next random one.<BR>
+Duration values are seconds.<BR><BR>
+By default, most animations have a duration value of 3600 with equals to 1 hour.<BR><BR>
+Duration is an underestimated setting that can be used to polish transitions in a suite of animations.<BR>
+For example, having a total of 60 inputs in ***frames order*** and 2 as ***frame rate*** would result in a 30 seconds animation.<BR>
+In order to play this animation 5 times entirely before it switches to the next, `Duration:` would be set to `150`.<BR>
+This way, the switching will occur at the very end of the passive sequence instead of cutting it somewhere in the middle.<BR><BR>
+Duration could also add some game aspect to a suite of animations.<BR>
+It can be used with passive/active animations where only the passive sequences differ.<BR>
+Setting a duration of 10mn (600) for example will make the user curious about what will be revealed if he presses back as, whatever the animation of the set is playing, it would always be the same passive sequence looping on the screen.<BR><BR>
+
+### 🔸  Active cooldown
+`Active cooldown:` is a delay, set in seconds, that will apply once an active period ends and during which the active sequence is not triggerable.<BR>
+It forces passive frames to play during the defined time, temporarely disabling the back-button *active* trigger.<BR><BR>
+
 ## 💬 BUBBLES : in-depth guide<BR>
 ‎
 ### 🔸  Bubbles : Definition
