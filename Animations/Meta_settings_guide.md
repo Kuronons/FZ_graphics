@@ -169,9 +169,11 @@ The number of frames that make up the ***active cycles*** above the first one ar
 
 ### 🔸  Frame rate
 `Frame rate:` is the well known ***fps*** : Frames Per Second.<BR>
-It defines how many frames will be played during 1 second.<BR><BR>
-As a reminder : Historically, theatre movie standard fps was set on 24.<BR>
-Drawn-animation however had usually a fps set to 12 and even lower (mainly due to production costs) such as 6 or 8 when it came to *Saturday Morning Cartoons* type animations.<BR><BR>
+It defines how many frames will be played during 1 second.<BR>
+> [!NOTE]
+> Historically, theatre movie standard fps was set on 24.<BR>
+> Drawn-animation however had usually a fps set to 12 and even lower (mainly due to production costs) such as 6 or 8 when it came to *Saturday Morning Cartoons* type animations.
+
 Flipper will not be able to handle very high fps on both firmware **and** hardware aspects.<BR>
 Flipper screen refresh rate being what it is, a flickering effect will occur if fps is set too high.<BR>
 As well, Flipper firmware may crash on high ***frame rate***<BR><BR>
