@@ -157,7 +157,7 @@ We emphasize here that the number of active/passive frames is not related to the
 
 ![Frames_order_2](https://github.com/user-attachments/assets/7346c449-e23b-4435-96d9-7dc7d81d7743)
 
-Still, trying to stick as much as possible numeral order when it comes to name the bitmap files will help greatly building the ***frames order*** or editing it later.<BR><BR>
+Still, trying to stick as much as possible to numeral order when it comes to name the bitmap files, accordingly to the position they should play within the animation, will greatly help building the ***frames order*** or editing it later (especially on long *frames order* containing 100+ inputs).<BR><BR>
 Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR><BR>
 
 ### 🔸  Active Cycle
