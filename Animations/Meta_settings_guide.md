@@ -162,11 +162,20 @@ We emphasize here that the number of active/passive frames is not related to the
 Still, trying to stick as much as possible to numeral order when it comes to name the bitmap files, accordingly to the position they should play within the animation, will greatly help building the ***frames order*** or editing it later (especially on long *frames order* listing 100+ inputs).<BR><BR>
 Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR><BR>
 
-### 🔸  Active Cycle
-`Active Cycle:` value determines the number of time the active frames sequence will play in a row once triggered.<BR><BR>
+### 🔸  Active Cycles
+`Active cycles:` value determines the number of time the active frames sequence will play in a row once triggered.<BR><BR>
 Once the the active period (ie the number of cycles of the active sequence) is over, animation will revert to passive one.<BR><BR>
-Active cycle is a choice of design to limit the number of inputs listed in **F*rame order***.<BR>
+***Active cycles*** is a choice of design to limit the number of inputs listed in ***Frame order***.<BR><BR>
+If animation has no active frames (ie `Active frames: 0`), `Active cycles:` should must be set to `0` too.<BR>
+As well if animation contains active frames, `Active cycles:` should be set to at least `1`.<BR>
+> [!WARNING]
+> If those values are not set accordingly, compiling the animation via `./fbt` (to make .png frames into .bm ones) **will definitely fail**.
 
+![FBT_error-Active_Cycles](https://github.com/user-attachments/assets/560583ae-333d-4cd1-886e-68958f1d67b5)
+
+However, and against all odds (and logics), an already compiled animation ***should*** still be able to play on Flipper without failure.<BR>
+For instance, `Active frames: 1` while there is **no** active frames : no noticeable consequences.<BR>
+**But**, having `Active frames: 0` when there are active frames will make the animation unable to trigger the active sequence : only passive frames will play in loop even if the ***back*** button is pushed.<BR><BR>
 The number of frames that make up the ***active cycles*** above the first one are not counted as it in ***Active frames*** but will however be counted when it comes to ***bubbles***.<BR><BR>
 
 ### 🔸  Frame rate
@@ -202,6 +211,16 @@ Setting a duration of 10mn (600) for example will make the user curious about wh
 ### 🔸  Active cooldown
 `Active cooldown:` is a delay, set in seconds, that will apply once an active period ends and during which the active sequence is not triggerable.<BR>
 It forces passive frames to play during the defined time, temporarely disabling the back-button *active* trigger.<BR><BR>
+As well as for ***Active cycles***, if animation has no active frames (ie `Active frames: 0`), `Active cooldown:` should must be set to `0` too.<BR>
+As well if animation contains active frames, `Active cooldown:` should be set to at least `1`.<BR>
+> [!WARNING]
+> If those values are not set accordingly, compiling the animation via `./fbt` (to make .png frames into .bm ones) **will definitely fail**.
+
+![FBT_error-Active_Cooldown](https://github.com/user-attachments/assets/ae49d362-b639-4310-8ebb-8cb90ba42c69)
+
+However, same as for ***Active cycles***, an already compiled animation ***should*** still be able to play on Flipper without failure.<BR>
+For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
+And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
 ## 💬 BUBBLES : in-depth guide<BR>
 ‎
