@@ -113,6 +113,12 @@ For example, 64x32px frame position on screen :
 
 ![64x32px_frame](https://github.com/user-attachments/assets/d4340de3-3e18-42d1-b74a-ed4141b44ac6)
 
+> [!WARNING]
+> Setting dimensions different from the actual bitmap image, while not causing the animation to fail, will result in a distorted display.<BR>
+> For instance, the very same 64x32px bitmap frame wrongly set to `Width:54` & `Height 22` and then to `Width:74` & `Height 42` :
+
+![64x32px_frame-wrong_meta_size](https://github.com/user-attachments/assets/5e64fd72-71d7-4597-b0a6-f5bcd443a3a8)
+
 > [!TIP]
 > Animation frame must be set up to 128x64px<BR>
 > Width & Height values must match the pixel dimensions of the frames.<BR>
