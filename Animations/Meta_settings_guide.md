@@ -154,7 +154,7 @@ As said, the total of inputs must be equal to the sum of `Passive frames:` & `Ac
 On top of that, each bitmap file must be listed at least once by its number.<BR>
 As well, every listed input must refer to an existing bitmap file.<BR><BR>
 In the following example (simple passive/active animation with no frame repetition), we have 10 .bm frames numbered frame_0.bm to frame_9.bm.<BR>
-6 first frames (0 to 5) are set are the passive ones while the 4 remaining ones (6 to 9) are set to passive.<BR>
+6 first frames (0 to 5) are set are the *passive* ones while the 4 remaining ones (6 to 9) are set to *active*.<BR>
 
 ![Frames_order](https://github.com/user-attachments/assets/fcc304c5-dc7a-49d7-bd08-027e6dda2bfe)
 
