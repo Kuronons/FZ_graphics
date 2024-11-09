@@ -196,7 +196,7 @@ Flipper will not be able to handle very high fps mainly due to hardware limitati
 Flipper screen refresh rate being what it is, flickering or ghosting effect will occur if fps is set too high.<BR>
 As well, Flipper firmware may crash on high ***frame rate*** if RAM is oversatured.<BR><BR>
 The usual working range of fps is 1-12, but it's not really recommended to have a frame rate above 8.<BR>
-Most (if not all) original Flipper animations have their ***frame rate*** set to 2.<BR><BR>
+All original Flipper animations (external, internal, blocked and event the level-up ones) have their ***frame rate*** set to 2.<BR><BR>
 `Frame rate:` value must be an integer (number without decimal) and therefore cannot be less than 1.<BR>
 As consequence, the slowest animation would be of 1 frame per second. Only way to have one frame to play longer on screen is to double its input in ***Frames order***.<BR>
 The time each frame will play on screen is then calculated as follow : ***1 second divided by frame rate***.<BR>
