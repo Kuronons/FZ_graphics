@@ -241,7 +241,7 @@ For those who want to have a static background image that will remain on screen 
 This format is probably the most used by those who make custom animations by converting existing gif, movie or anime excerpt.<BR>
 It will result in an only passive-framed animation that will play in loop until its ***duration*** ends.<BR>
 
-* **Passive/active animation : simple design**<BB>
+* **Passive/active animation : simple design**<BR>
 Here we have a total of 11 bitmap frames (numbered 0 to 10).<BR>
 They're listed in numerical order and only once in ***Frames order***.<BR>
 The 5 first ones (0-4) are set as passive and the 6 others (5-10) as active with only 1 active cycle.<BR>
