@@ -229,7 +229,7 @@ However, same as for ***Active cycles***, an already compiled animation ***shoul
 For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
 And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
-### 🔸  Animation design: insight samples
+### 🔸  Animation design : insight samples
 * **The one-only frame "animation"**<BR>
 1 bitmap frame set as 1 passive with only its input once in ***Frames order***.<BR>
 All active settings as well as bubble ones set to **0**.<BR>
