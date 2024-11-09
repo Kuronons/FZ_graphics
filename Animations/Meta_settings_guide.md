@@ -172,7 +172,7 @@ Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***
 `Active cycles:` value determines the number of time the active frames sequence will play in a row once triggered.<BR><BR>
 Once the the active period (ie the number of cycles of the active sequence) is over, animation will revert to passive one.<BR><BR>
 ***Active cycles*** is a choice of design to limit the number of inputs listed in ***Frame order***.<BR><BR>
-If animation has no active frames (ie `Active frames: 0`), `Active cycles:` should must be set to `0` too.<BR>
+If animation has no active frames (ie `Active frames: 0`), `Active cycles:` should be set to `0` too.<BR>
 As well if animation contains active frames, `Active cycles:` should be set to at least `1`.<BR>
 > [!WARNING]
 > If those values are not set accordingly, compiling the animation via `./fbt` (to make .png frames into .bm ones) **will definitely fail**.
@@ -217,7 +217,7 @@ Setting a duration of 10mn (600) for example will make the user curious about wh
 ### 🔸  Active cooldown
 `Active cooldown:` is a delay, set in seconds, that will apply once an active period ends and during which the active sequence is not triggerable.<BR>
 It forces passive frames to play during the defined time, temporarely disabling the back-button *active* trigger.<BR><BR>
-As well as for ***Active cycles***, if animation has no active frames (ie `Active frames: 0`), `Active cooldown:` should must be set to `0` too.<BR>
+As well as for ***Active cycles***, if animation has no active frames (ie `Active frames: 0`), `Active cooldown:` should be set to `0` too.<BR>
 As well if animation contains active frames, `Active cooldown:` should be set to at least `1`.<BR>
 > [!WARNING]
 > If those values are not set accordingly, compiling the animation via `./fbt` (to make .png frames into .bm ones) **will definitely fail**.
