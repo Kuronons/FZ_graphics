@@ -229,6 +229,30 @@ However, same as for ***Active cycles***, an already compiled animation ***shoul
 For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
 And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
+### 🔸  Animation design: insight samples
+* **The one-only frame "animation"**<BR>
+1 bitmap frame set as 1 passive with only its input once in ***Frames order***.<BR>
+All active settings as well as bubble ones set to **0**.<BR>
+As a result we get an unanimated animation.<BR>
+For those who want to have a static background image that will remain on screen as long as defined in ***Duration***.<BR>
+
+* **Passive-only animation**<BR>
+This format is probably the most used by those who make custom animations by converting existing gif, movie or anime excerpt.<BR>
+It will result in an only passive-framed animation that will play in loop until its ***duration*** ends.<BR>
+
+* **Passive/active animation : simple design**<BB>
+Here we have a total of 11 bitmap frames (numbered 0 to 10).<BR>
+They're listed in numerical order and only once in ***Frames order***.<BR>
+The 5 first ones (0-4) are set as passive and the 6 others (5-10) as active with only 1 active cycle.<BR>
+No bubble.<BR><BR>
+![Frames_vizualisation_01](https://github.com/user-attachments/assets/5c4a998d-7a5a-451b-977a-6d196c9e39c9)
+
+* **Passive/active animation : complex design**<BR>
+Here, some bitmap frames are used more than once and multiple active cycles are set.<BR>
+This design limits the number of bitmap frames to the strict minimum and allows different display speed effects.<BR> 
+
+<BR>
+
 ## 💬 BUBBLES : in-depth guide<BR>
 ‎
 ### 🔸  Bubbles : Definition
