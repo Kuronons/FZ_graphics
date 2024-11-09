@@ -210,8 +210,8 @@ Duration is an underestimated setting that can be used to polish transitions in 
 For example, having a total of 60 inputs in ***frames order*** and 2 as ***frame rate*** would result in a 30 seconds animation.<BR>
 In order to play this animation 5 times entirely before it switches to the next, `Duration:` would be set to `150`.<BR>
 This way, the switching will occur at the very end of the passive sequence instead of cutting it somewhere in the middle.<BR><BR>
-Duration could also add some game aspect to a suite of animations.<BR>
-It can be used with passive/active animations where only the passive sequences differ.<BR>
+***Duration*** can also add some game aspect to a suite of animations.<BR>
+It can be used with passive/active animations having identical passive frames but different active sequences.<BR>
 Setting a duration of 10mn (600) for example will make the user curious about what will be revealed if he presses back as, whatever the animation of the set is playing, it would always be the same passive sequence looping on the screen.<BR><BR>
 
 ### 🔸  Active cooldown
