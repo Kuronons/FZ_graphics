@@ -232,10 +232,11 @@ And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
 ### 🔸  Animation design : insight samples
 * **The one-only frame "animation"**<BR>
-1 bitmap frame set as 1 passive with only its input once in ***Frames order***.<BR>
-All active settings as well as bubble ones set to **0**.<BR>
-As a result we get an unanimated animation.<BR>
-For those who want to have a static background image that will remain on screen as long as defined in ***Duration***.<BR>
+1 bitmap frame (frame_0.bm) set as 1 passive with only its input once in ***Frames order***.<BR>
+All active settings as well as bubble ones set to **0**. ***Frame rate*** set to minimum **1** as there is no meaning to have faster fps.<BR>
+As a result we get an *unanimated animation*.<BR>
+For those who want to have a static background image that will remain on screen as long as defined in ***Duration***.<BR><BR>
+![Sample_1_only_frame](https://github.com/user-attachments/assets/854d4eb4-67bf-4ee6-a4f6-beb7399717c9)
 
 * **Passive-only animation**<BR>
 This format is probably the most used by those who make custom animations by converting existing gif, movie or anime excerpt.<BR>
