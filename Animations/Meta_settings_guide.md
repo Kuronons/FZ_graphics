@@ -242,11 +242,12 @@ This format is probably the most used by those who make custom animations by con
 It will result in an only passive-framed animation that will play in loop until its ***duration*** ends.<BR>
 
 * **Passive/active animation : simple design**<BR>
-Here we have a total of 11 bitmap frames (numbered 0 to 10).<BR>
+Official [L1_Recording_128x51](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Recording_128x51) is a good example of a basic passive/active animation.<BR>
+Here we have a total of 12 bitmap frames (numbered 0 to 11).<BR>
 They're listed in numerical order and only once in ***Frames order***.<BR>
-The 5 first ones (0-4) are set as passive and the 6 others (5-10) as active with only 1 active cycle.<BR>
+The 6 first ones (0-5) are set as passive and the 6 others (6-11) as active with only 1 active cycle.<BR>
 No bubble.<BR><BR>
-![Frames_vizualisation_01](https://github.com/user-attachments/assets/5c4a998d-7a5a-451b-977a-6d196c9e39c9)
+![Sample_AP_simple_design](https://github.com/user-attachments/assets/aaa0d619-91a7-41dd-a5e5-40504c3af18f)
 
 * **Passive/active animation : complex design**<BR>
 Here, some bitmap frames are used more than once and multiple active cycles are set.<BR>
