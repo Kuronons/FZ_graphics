@@ -246,13 +246,16 @@ It will result in an only passive-framed animation that will play in loop until 
 Official [L1_Recording_128x51](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Recording_128x51) is a good example of a basic passive/active animation.<BR>
 Here we have a total of 12 bitmap frames (numbered 0 to 11).<BR>
 They're listed in numerical order and only once in ***Frames order***.<BR>
-The 6 first ones (0-5) are set as passive and the 6 others (6-11) as active with only 1 active cycle.<BR>
-No bubble.<BR><BR>
+The 6 first ones (0-5) are set as passive and the 6 others (6-11) as active with only 1 active cycle.<BR><BR>
 ![Sample_AP_simple_design](https://github.com/user-attachments/assets/aaa0d619-91a7-41dd-a5e5-40504c3af18f)
 
 * **Passive/active animation : complex design**<BR>
-Here, some bitmap frames are used more than once and multiple active cycles are set.<BR>
-This design limits the number of bitmap frames to the strict minimum and allows different display speed effects.<BR> 
+Official [L1_Painting_128x64](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Painting_128x64) is a more sophisticated passive/active animation.<BR>
+While still having only 1 ***active cycle***, this animation is however using ***bubbles*** (2 on one slot).<BR>
+This design allows an animation to extend its duration by using single bitmaps more than once.<BR>
+With only 12 bitmap files, we end up with 22 inputs total in ***Frames order***.<BR>
+It may be noted that creators of OFW animations usually have dedicated bitmaps for active and passive frames (here, respectively 0-5 and 6-11). This is not at all mandatory and is more of a design choice.<BR><BR>
+![Sample_AP_complex_design](https://github.com/user-attachments/assets/44f9bdf7-706c-4d02-926b-0ff49f6aa7a7)
 
 <BR>
 
