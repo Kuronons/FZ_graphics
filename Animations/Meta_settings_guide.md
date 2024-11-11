@@ -355,8 +355,8 @@ To allow a tailed-bubble to be displayed on screen without issue, bubble coordin
 > [!WARNING]
 > Issue will occur if there are less than 4 pixels between the screen's **left** or **top** border and the tail.
 
-As a pict is worth a thousand words, let's have an insight on how it behaves if we set a bubble in the upper-left corner with not enough space from the edges to have its tail properly displayed.<BR>
-In the following tests, we will set different bubble coordinates so it lacks 1 single pixel from the screen border to allow tail to be fully displayed.<BR>
+Since a picture is worth a thousand words, let's see how it behaves if we define a bubble with insufficient space on the edges for its tail to be displayed correctly.<BR>
+In the following tests, we will set different bubble coordinates so that it lacks 1 single pixel to allow the tail to be fully displayed.<BR>
 Again we will test with both white (orange) and black backgrounds as it helps to understand what is drawn on screen.
 
 ![Bubble Tails_POS](https://github.com/user-attachments/assets/a0aae534-a37c-4f70-a027-0ea9ab890fd9)
