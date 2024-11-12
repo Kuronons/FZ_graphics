@@ -10,6 +10,7 @@
     - **[Frame rate](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-rate)**<BR>
     - **[Duration](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--duration)**<BR>
     - **[Active cooldown](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--active-cooldown)**<BR>
+    - **[Bubble slots](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-slots)**<BR>
     - **[Animation design : insight samples](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--animation-design--insight-samples)**<BR>
 - **[💬 BUBBLES : in-depth guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
     - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
@@ -235,6 +236,7 @@ And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 It is not to be confused with the number of bubbles. A slot can have many bubbles within.<BR>
 If there are multiple slots, each time active sequence is triggered, a slot will be randomly chosen and its bubbles sequence will be played.<BR>
 Otherwise, if only if `Bubble slots:` is set to `1`, the suite will always play on active sequence.<BR>
+If animation is not using any bubble, value must be set to `0`.<BR>
 Since ***Bubbles*** is a complex subject in itself, its aspects will be reviewed in detail in the [dedicated section](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide) below.<BR><BR>
 
 ### 🔸  Animation design : insight samples
