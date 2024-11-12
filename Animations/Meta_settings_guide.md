@@ -14,6 +14,7 @@
     - **[Animation design : insight samples](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--animation-design--insight-samples)**<BR>
 - **[💬 BUBBLES : in-depth guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
     - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
+    - **[Bubble Slot](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-slot)**<BR>
     - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
     - **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-text-line)**<BR>
     - **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
@@ -231,7 +232,7 @@ However, same as for ***Active cycles***, an already compiled animation ***shoul
 For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
 And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
-### 🔸  Bubble slots
+### 🔸  Bubble slot
 `Bubble slots:` value indicates the number of bubbles "suites" that are listed to be randomly used during the active sequence of the animation.<BR>
 It is not to be confused with the number of bubbles. A slot can have many bubbles within.<BR>
 If there are multiple slots, each time active sequence is triggered, a slot will be randomly chosen and its bubbles sequence will be played.<BR>
