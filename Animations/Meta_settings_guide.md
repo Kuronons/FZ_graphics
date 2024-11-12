@@ -277,6 +277,15 @@ It may be noted that creators of OFW animations usually have dedicated bitmaps f
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR>
 It's important to mention that ***bubbles*** were originally designed to be used only in an active sequence.<BR><BR>
 
+### 🔸  Slots
+As previously mentioned, slots are suites of bubbles meant to randomly play during the active sequence of the animation.<BR>
+`Slot:` value indicates which slot the bubble will be part of.<BR>
+For instance, if slot #2 is randomly selected, only the bubbles being set to `Slot: 2` will play in the actual active sequence.<BR>
+Next time the active sequence will be triggered, another slot will be randomly chosen.<BR>
+As for frames, first slot is numbered `0`.<BR>
+A slot can have multiple bubbles within so every bubble of the same sequence must share the same `Slot:` value.<BR>
+Having only 1 bubbles slot (that will be labelled as **0**) will logically cut the random process and the bubbles sequence will always play when active one is triggered.<BR><BR>
+
 ### 🔸  Bubble placement
 Bubble placement on screen is defined by its upper-left corner coordinates.<BR>
 Screen is  128x64px. First column (X - from left) as well as first line (Y - from top) are designed by **0**.
