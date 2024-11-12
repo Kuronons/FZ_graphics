@@ -275,7 +275,7 @@ It may be noted that creators of OFW animations usually have dedicated bitmaps f
 ‎
 ### 🔸  Bubbles : Definition
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR>
-<BR>
+It's important to mention that ***bubbles*** were originally designed to be used only in an active sequence.<BR><BR>
 
 ### 🔸  Bubble placement
 Bubble placement on screen is defined by its upper-left corner coordinates.<BR>
