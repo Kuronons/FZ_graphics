@@ -104,7 +104,7 @@ Since the Flipper screen can display 128x64 pixels, these would therefore be the
 While most animations (from official Flipper Devices or custom makers) are made, for convenience mainly, on this frame size, one can choose to make an animation with smaller frames.<BR><BR>
 Official ***Flipper Devices*** firmware contains a bunch of animations that aren't 128x64px with values such as 128x51px or 128x49px.
 Most of those are stored in flash memory (***internal*** & ***blocked*** anims) which makes sense in saving as much octets as possible due to the very low internal storage capacity. But even within the official ***external*** animations (those saved on SD), we can notice 3 (as of Nov. 24) that also use a reduced frame format.<BR><BR>
-For instance, the first frame of ***L1_Laptop_128x51***, is (as its name specifies) only 51px high and will leave a 13px high unanimated area on top of the screen (blue-colored here) :
+For instance, the first frame of [L1_Laptop_128x51](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Laptop_128x51), is (as its name specifies) only 51px high and will leave a 13px high unanimated area on top of the screen (blue-colored here) :
 
 ![128x51_Laptop](https://github.com/user-attachments/assets/80fda538-0cd5-4d5f-af9d-612d24195a93)
 
