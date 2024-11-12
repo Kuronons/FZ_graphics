@@ -404,3 +404,11 @@ Testing on a single-line bubble makes even more weird result 👀 :
 > Ensure safe bubble coordinates and tail position accordingly.<BR>
 > ⮚ It's safer/easier to set your bubble `X: ` & `Y: ` to at least `4` to ensure avoiding issue with tail.<BR>
 > ⮚ If possible, set your tail position to the sides (or center) of the bubble that are furthest from the edge of the screen.
+
+### 🔸  Start & End Frame
+To define when a particular bubble is meant to play within a slot sequence, the following functions are used : <BR>
+`StartFrame:` sets on which frame bubble starts playing<BR>
+`EndFrame:` sets the last frame bubble is playing<BR>
+Each value corresponds to the position of the frame on the total *Passive + Active cycles* sequence.<BR>
+It means that it takes into consideration not only the frames listed in ***Frames order*** but also counts the possible remaining ***Active cycle(s)*** that come after.<BR>
+As consequence a bubble can be set starting on an active cycle and ending on another.<BR>
