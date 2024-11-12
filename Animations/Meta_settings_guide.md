@@ -258,7 +258,7 @@ While still having only 1 ***active cycle***, this animation is however using **
 This design allows an animation to extend its duration by using single bitmaps more than once.<BR>
 With only 12 bitmap files, we end up with 22 inputs total in ***Frames order***.<BR>
 It may be noted that creators of OFW animations usually have dedicated bitmaps for active and passive frames (here, respectively 0-5 and 6-11). This is not at all mandatory and is more of a design choice.<BR><BR>
-![Sample_AP_complex_design](https://github.com/user-attachments/assets/44f9bdf7-706c-4d02-926b-0ff49f6aa7a7)
+![Sample_AP_complex](https://github.com/user-attachments/assets/55431a52-e53e-43b7-bfb1-0f6bc56e1b23)
 
 <BR>
 
