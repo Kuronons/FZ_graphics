@@ -232,7 +232,7 @@ However, same as for ***Active cycles***, an already compiled animation ***shoul
 For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
 And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
-### 🔸  Bubble slot
+### 🔸  Bubble slots
 `Bubble slots:` value indicates the number of bubbles "suites" that are listed to be randomly used during the active sequence of the animation.<BR>
 It is not to be confused with the number of bubbles. A slot can have many bubbles within.<BR>
 If there are multiple slots, each time active sequence is triggered, a slot will be randomly chosen and its bubbles sequence will be played.<BR>
@@ -278,7 +278,7 @@ It may be noted that creators of OFW animations usually have dedicated bitmaps f
 Bubbles are text inputs that will display as an additional layer above an animation, enclosed in coded-drawn lines in the spirit of comic book speech bubble.<BR>
 It's important to mention that ***bubbles*** were originally designed to be used only in an active sequence.<BR><BR>
 
-### 🔸  Slots
+### 🔸  Bubble slot
 As previously mentioned, slots are suites of bubbles meant to randomly play during the active sequence of the animation.<BR>
 `Slot:` value indicates which slot the bubble will be part of.<BR>
 For instance, if slot #2 is randomly selected, only the bubbles being set to `Slot: 2` will play in the actual active sequence.<BR>
