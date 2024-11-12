@@ -230,6 +230,13 @@ However, same as for ***Active cycles***, an already compiled animation ***shoul
 For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
 And same goes with `Active cooldown: 0` while there are active frames.<BR><BR>
 
+### 🔸  Bubble slots
+`Bubble slots:` value indicates the number of bubbles "suites" that are listed to be randomly used during the active sequence of the animation.<BR>
+It is not to be confused with the number of bubbles. A slot can have many bubbles within.<BR>
+If there are multiple slots, each time active sequence is triggered, a slot will be randomly chosen and its bubbles sequence will be played.<BR>
+Otherwise, if only if `Bubble slots:` is set to `1`, the suite will always play on active sequence.<BR>
+Since ***Bubbles*** is a complex subject in itself, its aspects will be reviewed in detail in the [dedicated section](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide) below.<BR><BR>
+
 ### 🔸  Animation design : insight samples
 * **The one-only frame "animation"**<BR>
 1 bitmap frame (frame_0.bm) set as 1 passive with only its input once in ***Frames order***.<BR>
