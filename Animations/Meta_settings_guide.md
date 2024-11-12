@@ -250,7 +250,7 @@ Official [L1_Recording_128x51](https://github.com/flipperdevices/flipperzero-fir
 Here we have a total of 12 bitmap frames (numbered 0 to 11).<BR>
 They're listed in numerical order and only once in ***Frames order***.<BR>
 The 6 first ones (0-5) are set as passive and the 6 others (6-11) as active with only 1 active cycle.<BR><BR>
-![Sample_AP_simple_design](https://github.com/user-attachments/assets/aaa0d619-91a7-41dd-a5e5-40504c3af18f)
+![Sample_AP_simple](https://github.com/user-attachments/assets/eed1587b-639e-4047-92fa-d5bc7ee645f6)
 
 * **Passive/active animation : complex design**<BR>
 Official [L1_Painting_128x64](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Painting_128x64) is a more sophisticated passive/active animation.<BR>
