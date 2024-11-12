@@ -241,6 +241,9 @@ For those who want to have a static background image that will remain on screen 
 * **Passive-only animation**<BR>
 This format is probably the most used by those who make custom animations by converting existing gif, movie or anime excerpt.<BR>
 It will result in an only passive-framed animation that will play in loop until its ***duration*** ends.<BR>
+One of the clever uses of this design is to create a seamless looping animation.<BR>
+**Wr3nch**'s [X_X_F0Pattern](https://github.com/wrenchathome/flip0anims/tree/main/Animations/Flipper/X_X_F0Pattern) (inspired by the interior design of the Flipper Zero carton box) is a perfect example: it seamlessly plays 11 passive frames (numbered 0-10) in a loop.<BR><BR>
+![Sample_Passive_Only](https://github.com/user-attachments/assets/97f888ee-c31a-4a16-88c2-b33da96d2c8b)
 
 * **Passive/active animation : simple design**<BR>
 Official [L1_Recording_128x51](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Recording_128x51) is a good example of a basic passive/active animation.<BR>
