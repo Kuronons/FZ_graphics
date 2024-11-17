@@ -14,6 +14,8 @@ In here you can find animations I made inspired by Flipper Zero community custom
       
    Note : Talking-Sasquach made a [second version with animated fighting sprites](https://user-images.githubusercontent.com/16942638/195171690-2352126b-791d-4c2b-931c-3592a17b085b.gif). <3
 
+   Also available : matching [Passport](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background#db)
+
    Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_RMCFW_128x64.zip)
       
 https://github.com/Kuronons/FZ_graphics/assets/110337784/6c8173dc-1c26-4269-85b9-aee5bc9c7958
@@ -21,9 +23,13 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/6c8173dc-1c26-4269-85b9
 <BR>
 
 ### SQUACHWARE
+   [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) custom firmware (by Talking Sasquach) dedicated animations.
+   
+   Also available : matching [Passport](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background#mountains)
+   
 ___SAS TV___
  
-   [<b>SquachWare</b>](https://github.com/skizzophrenic/SquachWare-CFW) default animation.<BR>
+   **SquachWare** default animation.<BR>
    Inspired by Official Flipper firmware one, with reversed viewpoint. Includes 3 random dolphin's bubbles.
 
    Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_SasTV_128x64.zip)
@@ -86,7 +92,8 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/0c41cada-abce-46ee-b5df
    Design is based on rotating / spinning / rolling movements to recall the momentum concept.<BR>
    In the first 2 anims, the "M" of Momentum ends up in negative & reversed at the end of active frames showing a "W", wink to Momentum's creator, [WillyJL](https://github.com/Willy-JL)<BR>
    Third one is a wink to ***Yappybara*** !! Still wondering who/what is behinh the Yapper.... Did you managed to guess ? ;)<BR>
-   (Original Yappy icon art by ***Vale***)
+   (Original Yappy icon art by ***Vale***)<BR>
+   Also available : matching [Passport](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background#mntm), [PFP set](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#yappy) & [Halloween '24 bonus PFP](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#yapooky). 
 
    Download zip files : [Momentum 1](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_Momentum1_128x64.zip)  -  [Momentum 2](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_Momentum2_128x64.zip)  -  [Momentum 3](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_Momentum3_128x64.zip)
 
@@ -103,7 +110,7 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4
    [<b>Flipper Hub</b>](https://www.flipper-hub.de/) - Inspired by [Billi Green](https://discord.gg/dBv6eWXa)'s shop logo design.<BR>
    This is a static background image, an *unanimated animation* in other words.<BR>
    Pushing back will make the background to display in negative with the addition of a randomized bubble.<BR>
-   A matching PFP set is downloadable [there](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#flipper-hub)
+   Also available : matching [PFP set](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#flipper-hub)
 
    Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_FlipperHub_128x64.zip)
 
