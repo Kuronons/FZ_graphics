@@ -173,6 +173,13 @@ Just a skull...
 ![Skull](https://user-images.githubusercontent.com/110337784/230978303-9e193e3a-4fe0-4ff5-aed2-0341c78fe179.png)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Skull.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Skull.bmx)**<BR><BR>
 
+### FLIPPER HUB
+Flipper Hub mascott - Moods variants
+
+![Flipper-Hub-Set-Preview](https://github.com/user-attachments/assets/ed593cff-6a1c-418f-b180-07875094efa9)<BR>
+**D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Flipper%20Hub%20-%20Profile%20picts%20set%20(x3%20png).zip) - Asset pack [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Flipper%20Hub%20-%20Asset%20pack%20(3x%20bmx%20PFP).zip)<BR>
+D/L single : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/FlipperHub_happy.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/FlipperHub_happy.bmx) (*happy*) / [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/FlipperHub_okay.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/FlipperHub_okay.bmx) (*okay*) / [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/FlipperHub_bad.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/FlipperHub_bad.bmx) (*bad*)**<BR><BR>
+
 ### YAPPY
 Momentum fw mascott (capybara) - Moods variants
 
