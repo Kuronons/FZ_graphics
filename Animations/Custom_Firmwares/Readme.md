@@ -75,3 +75,15 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/ec65ab2a-a10d-4d2a-8fa3
 
 https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4-c4e044780577
 
+<BR>
+   
+### FLIPPER HUB
+      
+   [<b>Flipper Hub</b>](https://www.flipper-hub.de/) - Inspired by [Billi Green](https://discord.gg/dBv6eWXa)'s shop logo design.<BR>
+   This is a static background image, an *unanimated animation* in other words.<BR>
+   Pushing back will make the background to display in negative with the addition of a randomized bubble.<BR>
+   A matching PFP set is downloadable [there](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#flipper-hub)
+
+https://github.com/user-attachments/assets/eaf0f5a1-5d7b-4239-8397-79d994696b60
+
+<BR>
