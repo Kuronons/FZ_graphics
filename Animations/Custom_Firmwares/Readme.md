@@ -1,5 +1,12 @@
-Here you can find animations I made for custom firmwares :
-<BR><BR>
+In here you can find animations I made inspired by Flipper Zero community custom projects :<BR>
+   - **Custom Firmwares**
+      - [**RogueMaster**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#rmcfw)
+      - [**SquachWare**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#squachware)
+      - [**Momentum**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#momentum)
+   - **Custom Addons Shops**
+      - [**Marauder**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#marauder)
+      - [**Flipper Hub**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#flipper-hub)   
+<BR>
    
 ### RMCFW
 
