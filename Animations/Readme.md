@@ -1,6 +1,6 @@
 Here are the animations I made for Flipper Zero. Those are folder-sorted by theme with preview videos* :
 
-- [Custom firmwares](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares) - Dedicated to cfw and affiliated (9 anims)
+- [Custom firmwares](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares) - Dedicated to cfw and affiliated (10 anims)
 - [Black Flags](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Black_Flags_Collection) - 30 animations collection (+1 extra bonus)
 - [Sci-Fi corpo logos](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/SF_Corporations_Logos) - 12 animations collection (+ alt vers)
 - [DOS viruses](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Virus) - 12 animations collection
