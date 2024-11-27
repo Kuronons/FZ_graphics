@@ -106,8 +106,10 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4
 <BR>
    
 ### FLIPPER HUB
-      
-   [<b>Flipper Hub</b>](https://www.flipper-hub.de/) - Inspired by [Billi Green](https://discord.gg/dBv6eWXa)'s shop logo design.<BR>
+
+___FLIPPER HUB___   
+
+   [<b>Flipper Hub</b>](https://www.flipper-hub.de/) Background - Inspired by [Billi Green](https://discord.gg/dBv6eWXa)'s shop logo design.<BR>
    This is a static background image, an *unanimated animation* in other words.<BR>
    Pushing back will make the background to display in negative with the addition of a randomized bubble.<BR>
    Also available : matching [PFP set](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#flipper-hub)
@@ -115,5 +117,16 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4
    Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_FlipperHub_128x64.zip)
 
 https://github.com/user-attachments/assets/eaf0f5a1-5d7b-4239-8397-79d994696b60
+
+<BR>
+
+___FH ROCKET___
+
+   Varation of the ***Earth Arcadia*** anim I made long ago.<BR>
+   Pushing back will make the FH Rocket pass by.
+
+   Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_FH_Rocket_128x64.zip)   
+
+https://github.com/user-attachments/assets/e24d3e10-c7a0-4013-8666-4c830e599634
 
 <BR>
