@@ -391,7 +391,7 @@ We will also note that, despite there is no tail to be meant to be shown on midd
 ![Bubble Tails_NEG](https://github.com/user-attachments/assets/02469597-30d5-4695-9698-f94061657ffb)
 
 Black background allows to enlight that the tails themselves are correctly drawn and that the issue is only on their outlines.<BR><BR>
-Testing on a single-line bubble makes even more weird result 👀 :
+Testing on a single-line bubble makes even weirder result 👀 :
 
 ![Bubble Tails_singleline](https://github.com/user-attachments/assets/e2b8226e-304e-45e4-bf3f-cf58a4810448)
 
