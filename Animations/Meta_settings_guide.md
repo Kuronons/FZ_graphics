@@ -210,7 +210,7 @@ Adjusting frame rate and playing with the inputs in Frames order makes visual ac
 ### 🔸  Duration
 `Duration:` is used to determine the period of time one animation will run until it switches to the next random one.<BR>
 Duration values are seconds.<BR><BR>
-By default, most animations have a duration value of 3600 with equals to 1 hour.<BR><BR>
+By default, most animations have a duration value of 3600 which equals to 1 hour.<BR><BR>
 Duration is an underestimated setting that can be used to polish transitions in a suite of animations.<BR>
 For example, having a total of 60 inputs in ***frames order*** and 2 as ***frame rate*** would result in a 30 seconds animation.<BR>
 In order to play this animation 5 times entirely before it switches to the next, `Duration:` would be set to `150`.<BR>
