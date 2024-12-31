@@ -285,7 +285,7 @@ Have fun exploring ! **O_oV**</p><BR>
 
 - Unleashed : [New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64) by [Svarich](https://github.com/Svaarich)
  
-- Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/)
+- 4️⃣0️⃣4️⃣ ~~Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/)~~
 <BR>
 
 🔖 **CUSTOM ANIMATIONS DUMPS :** <BR>
