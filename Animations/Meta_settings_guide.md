@@ -221,7 +221,7 @@ Setting a duration of 10mn (600) for example will make the user curious about wh
 
 ### 🔸  Active cooldown
 `Active cooldown:` is a delay, set in seconds, that will apply once an active period ends and during which the active sequence is not triggerable.<BR>
-It forces passive frames to play during the defined time, temporarely disabling the back-button *active* trigger.<BR><BR>
+It forces passive frames to play during the defined time, temporarily disabling the back-button *active* trigger.<BR><BR>
 As well as for ***Active cycles***, if animation has no active frames (ie `Active frames: 0`), `Active cooldown:` should be set to `0` too.<BR>
 As well if animation contains active frames, `Active cooldown:` should be set to at least `1`.<BR>
 > [!WARNING]
