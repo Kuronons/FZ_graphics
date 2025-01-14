@@ -20,6 +20,7 @@
     - **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
     - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
     - **[Start & End Frame](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--start--end-frame)**<BR>
+    - **[Bubble design : insight samples](Meta_settings_guide.md#--bubble-design--insight-samples)**<BR>
 > [!NOTE]
 > For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
 <BR>
@@ -413,3 +414,6 @@ To define when a particular bubble is meant to play within a slot sequence, the 
 Each value corresponds to the position of the frame on the total *Passive + Active cycles* sequence.<BR>
 It means that it takes into consideration not only the frames listed in ***Frames order*** but also counts the possible remaining ***Active cycle(s)*** that come after.<BR>
 As consequence a bubble can be set starting on an active cycle and ending on another.<BR>
+
+### 🔸  Bubble design : insight samples
+WIP
