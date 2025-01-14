@@ -35,7 +35,7 @@ I colored in purple the part that is mandatory, in green what is optional (only 
 
 ## 🐬 Flipper Zero official documentation : meta.txt
 *Flipper Devices* provides basic information about meta file in their Github repo.<BR> 
-The following (here collapsible) content can be found in [flipperzero-firmware/assets/dolphin/readme.md](https://github.com/Kuronons/flipperzero-firmware/edit/dev/assets/dolphin/ReadMe.md)<BR>
+The following (here collapsible) content can be found in [flipperzero-firmware/assets/dolphin/readme.md](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/assets/dolphin/ReadMe.md)<BR>
 <details><summary>🔹 Definition & Header settings</summary>
   
 - meta.txt : Flipper Format File with ordered keys.<BR>
