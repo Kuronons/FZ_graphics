@@ -1,25 +1,25 @@
 # Flipper Animation Guide : meta.txt settings
  **📑 <ins>SUMMARY</ins>**
-- **[📄 meta.txt : content overview](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-metatxt--content-overview)**<BR>
-- **[🐬 Flipper Zero official documentation : meta.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-flipper-zero-official-documentation--metatxt)**<BR>
-- **[🎬 ANIMATION : Meta Main settings](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-animation--meta-main-settings)**<BR>
-    - **[Frame dimensions](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-dimensions)**<BR>
-    - **[Passive & Active Frames : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--passive--active-frames--definition)**<BR>
-    - **[Frames order](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frames-order)**<BR>
-    - **[Active cycles](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--active-cycle)**<BR>
-    - **[Frame rate](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--frame-rate)**<BR>
-    - **[Duration](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--duration)**<BR>
-    - **[Active cooldown](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--active-cooldown)**<BR>
-    - **[Bubble slots](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-slots)**<BR>
-    - **[Animation design : insight samples](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--animation-design--insight-samples)**<BR>
-- **[💬 BUBBLES : in-depth guide](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
-    - **[Bubbles : definition](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubbles--definition)**<BR>
-    - **[Bubble Slot](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-slot)**<BR>
-    - **[Bubble placement](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-placement)**<BR>
-    - **[Bubble text line](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-text-line)**<BR>
-    - **[Bubble tail positioning](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
-    - **[Bubble coordinates & Tail positioning issues](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
-    - **[Start & End Frame](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--start--end-frame)**<BR>
+- **[📄 meta.txt : content overview](Meta_settings_guide.md#-metatxt--content-overview)**<BR>
+- **[🐬 Flipper Zero official documentation : meta.txt](Meta_settings_guide.md#-flipper-zero-official-documentation--metatxt)**<BR>
+- **[🎬 ANIMATION : Meta Main settings]Meta_settings_guide.md#-animation--meta-main-settings)**<BR>
+    - **[Frame dimensions](Meta_settings_guide.md#--frame-dimensions)**<BR>
+    - **[Passive & Active Frames : definition](Meta_settings_guide.md#--passive--active-frames--definition)**<BR>
+    - **[Frames order](Meta_settings_guide.md#--frames-order)**<BR>
+    - **[Active cycles](Meta_settings_guide.md#--active-cycle)**<BR>
+    - **[Frame rate](Meta_settings_guide.md#--frame-rate)**<BR>
+    - **[Duration](Meta_settings_guide.md#--duration)**<BR>
+    - **[Active cooldown](Meta_settings_guide.md#--active-cooldown)**<BR>
+    - **[Bubble slots](Meta_settings_guide.md#--bubble-slots)**<BR>
+    - **[Animation design : insight samples](Meta_settings_guide.md#--animation-design--insight-samples)**<BR>
+- **[💬 BUBBLES : in-depth guide](Meta_settings_guide.md#-bubbles--in-depth-guide)**<BR>
+    - **[Bubbles : definition](Meta_settings_guide.md#--bubbles--definition)**<BR>
+    - **[Bubble Slot](Meta_settings_guide.md#--bubble-slot)**<BR>
+    - **[Bubble placement](Meta_settings_guide.md#--bubble-placement)**<BR>
+    - **[Bubble text line](Meta_settings_guide.md#--bubble-text-line)**<BR>
+    - **[Bubble tail positioning](Meta_settings_guide.md#--bubble-tail-positioning)**<BR>
+    - **[Bubble coordinates & Tail positioning issues](Meta_settings_guide.md#--bubble-coordinates--tail-positioning-issues)**<BR>
+    - **[Start & End Frame](Meta_settings_guide.md#--start--end-frame)**<BR>
     - **[Bubble design : insight samples](Meta_settings_guide.md#--bubble-design--insight-samples)**<BR>
 > [!NOTE]
 > For better visualization and understanding, I am using a custom firmware that allows to hide the top status bar border as well as top status icons to provide suitable screenshots.
@@ -307,7 +307,7 @@ Bubble sticks to its screen coordinates and won't be affected in any way when di
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
 > ⮚ Lenght of the longest text line for the X value<BR>
 > ⮚ Number of text lines for the Y one<BR>
-> ⮚ Postion of the [bubble tail](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#--bubble-tail-positioning)
+> ⮚ Postion of the [bubble tail](Meta_settings_guide.md#--bubble-tail-positioning)
 
 > [!WARNING]
 > A **negative value in X or Y** will result of a ***furi_hal error*** and would most likely put your Flipper in an **endless restart-loop !!**<BR>
