@@ -336,7 +336,7 @@ Of course, this will be dependent of the bubble placement and some lines can be 
 
 ![18-Bubble_5LINES_2](https://github.com/user-attachments/assets/fa5c3f05-bebb-4025-a046-544cd7fe0367)
 
-Same goes with too many lines. Only fully displayable lines shows.<BR>
+Same goes with too many lines. Only fully displayable lines are shown.<BR>
 If we set the `Y` at its minimum value (0) and set the text on 6 lines :<BR>
 `Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`<BR>
 we end up with this result :
