@@ -29,7 +29,7 @@ Below an example of a meta.txt file content. (from Flipper Zero [L1_Cry_128x64](
 Meta is pure text file (.txt) and can be opened/edited via any text editor (such as *Notepad*).<BR><BR>
 I colored in purple the part that is mandatory, in green what is optional (only applies if **bubbles** are used) and in white the data filled by the user.<BR>
 
-![meta-overview](https://github.com/user-attachments/assets/177fe028-83d8-487c-831c-7e0a0c610166)
+![01-meta-overview](https://github.com/user-attachments/assets/a7f8dadc-fa4c-40a3-b0ce-cc56fe750d3c)
 
 <BR>
 
@@ -102,27 +102,27 @@ The first two settings listed in meta.txt are :<BR>
 Values ​​are in pixels and must strictly match the dimensions of the animation frames.<BR>
 Since the Flipper screen can display 128x64 pixels, these would therefore be the max values.<BR>
 
-![W H](https://github.com/user-attachments/assets/8cd700df-05fe-420b-813b-c89e7d1ff050)
+![02-W H](https://github.com/user-attachments/assets/f9892422-3e27-40ff-b09f-e7b0d2f234d0)
 
 While most animations (from official Flipper Devices or custom makers) are made, for convenience mainly, on this frame size, one can choose to make an animation with smaller frames.<BR><BR>
 Official ***Flipper Devices*** firmware contains a bunch of animations that aren't 128x64px with values such as 128x51px or 128x49px.
 Most of those are stored in flash memory (***internal*** & ***blocked*** anims) which makes sense in saving as much octets as possible due to the very low internal storage capacity. But even within the official ***external*** animations (those saved on SD), we can notice 3 (as of Nov. 24) that also use a reduced frame format.<BR><BR>
 For instance, the first frame of [L1_Laptop_128x51](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Laptop_128x51), is (as its name specifies) only 51px high and will leave a 13px high unanimated area on top of the screen (blue-colored here) :
 
-![128x51_Laptop](https://github.com/user-attachments/assets/80fda538-0cd5-4d5f-af9d-612d24195a93)
+![03-Blue-Zone](https://github.com/user-attachments/assets/ded2b2fa-edc7-45f2-8540-a37ccc26ee9e)
 
 Frames are aligned on the BOTTOM LEFT corner without option to change that.<BR>
 While it is not an issue at all when it comes to height (as the upper part of screen is mostly displaying the status bar and icons), it should be kept in mind when setting a width inferior to 128 as animation will be left-aligned.<BR><BR>
 For example, 64x32px frame position on screen :
 
-![64x32px_frame](https://github.com/user-attachments/assets/d4340de3-3e18-42d1-b74a-ed4141b44ac6)
+![04-64x32px_frame](https://github.com/user-attachments/assets/50dfa14c-9b05-4bf9-b879-925297cd26c2)
 
 > [!WARNING]
 > Setting dimensions different from the actual bitmap image, while not causing the animation to fail, will result in a distorted display.<BR>
 > Note that this will occur when compiling an animation with faulty meta values, but also when later editing the meta of an animation previously compiled with correct values.<BR>
 > For instance, the very same 64x32px bitmap frame wrongly set to `Width:54` & `Height 22` and then to `Width:74` & `Height 42` :
 
-![64x32px_frame-wrong_meta_size](https://github.com/user-attachments/assets/5e64fd72-71d7-4597-b0a6-f5bcd443a3a8)
+![05-64x32px_frame-wrong_meta_size](https://github.com/user-attachments/assets/6f6b0e91-e17b-4c1d-9457-ccff46bd910e)
 
 > [!TIP]
 > Animation frame must be set up to 128x64px<BR>
@@ -161,14 +161,14 @@ As well, every listed input must refer to an existing bitmap file.<BR><BR>
 In the following example (simple passive/active animation with no frame repetition), we have 10 .bm frames numbered frame_0.bm to frame_9.bm.<BR>
 6 first frames (0 to 5) are set are the *passive* ones while the 4 remaining ones (6 to 9) are set to *active*.<BR>
 
-![Frames_order](https://github.com/user-attachments/assets/fcc304c5-dc7a-49d7-bd08-027e6dda2bfe)
+![06-Frames_order_1](https://github.com/user-attachments/assets/dbf06614-64a9-4e7c-8e3e-db579c21e53c)
 
 A bitmap file can be listed multiple times, and be counted multiple times in passive and/or active frames.<BR>
 The frames order being the sequence(s) of bitmap displayed following maker's choice, it does **NOT** require to be a logical numerary suite (such as 1 2 3 4...) as long as it follows the requirements mentioned above.<BR><BR>
 Next example shows those. It uses frame repetitions in an animation built on only 5 .bm frames numbered frame_0.bm to frame_4.bm, without listing the frames in a "logical" numerical order.<BR>
 We emphasize here that the number of active/passive frames is not related to the number of bitmap images, but rather to the number of calls of these in their respective sequences.
 
-![Frames_order_2](https://github.com/user-attachments/assets/7346c449-e23b-4435-96d9-7dc7d81d7743)
+![07-Frames_order_2](https://github.com/user-attachments/assets/40a6b690-1ba1-4c4c-943f-52f074dfab6e)
 
 Still, trying to stick as much as possible to numeral order when it comes to name the bitmap files, accordingly to the position they should play within the animation, will greatly help building the ***frames order*** or editing it later (especially on long *frames order* listing 100+ inputs).<BR><BR>
 Labelling of bitmap files requiring the first frame to be named ***frame_0.bm***, the minimum input value in `Frames order:` is ***0*** in the case of a 1 only passive frame animation.<BR><BR>
@@ -182,7 +182,7 @@ As well if animation contains active frames, `Active cycles:` should be set to a
 > [!WARNING]
 > If those values are not set accordingly, compiling the animation via `./fbt` (to make .png frames into .bm ones) **will definitely fail**.
 
-![FBT_error-Active_Cycles](https://github.com/user-attachments/assets/560583ae-333d-4cd1-886e-68958f1d67b5)
+![08-FBT_error-Active_Cycles](https://github.com/user-attachments/assets/170fe3dd-2c72-42b6-ae49-a03acd18c822)
 
 However, and against all odds (and logics), an already compiled animation ***should*** still be able to play on Flipper without failure.<BR>
 For instance, `Active frames: 1` while there is **no** active frames : no noticeable consequences.<BR>
@@ -227,7 +227,7 @@ As well if animation contains active frames, `Active cooldown:` should be set to
 > [!WARNING]
 > If those values are not set accordingly, compiling the animation via `./fbt` (to make .png frames into .bm ones) **will definitely fail**.
 
-![FBT_error-Active_Cooldown](https://github.com/user-attachments/assets/ae49d362-b639-4310-8ebb-8cb90ba42c69)
+![09-FBT_error-Active_Cooldown](https://github.com/user-attachments/assets/922ce0ad-ce15-4702-8686-7380331d3b58)
 
 However, same as for ***Active cycles***, an already compiled animation ***should*** still be able to play on Flipper without failure.<BR>
 For instance, `Active cooldown: 1` while there is no active frames : no consequences.<BR>
@@ -247,21 +247,21 @@ Since ***Bubbles*** is a complex subject in itself, its aspects will be reviewed
 All active settings as well as bubble ones set to **0**. ***Frame rate*** set to minimum **1** as there is no meaning to have faster fps.<BR>
 As a result we get an *unanimated animation*.<BR>
 For those who want to have a static background image that will remain on screen as long as defined in ***Duration***.<BR><BR>
-![Sample_1_only_frame](https://github.com/user-attachments/assets/854d4eb4-67bf-4ee6-a4f6-beb7399717c9)
+![10-Sample_1_only_frame](https://github.com/user-attachments/assets/2c80ddcf-5b6c-4c19-bc1e-5026c81e254c)
 
 * **Passive-only animation**<BR>
 This format is probably the most used by those who make custom animations by converting existing gif, movie or anime excerpt.<BR>
 It will result in an only passive-framed animation that will play in loop until its ***duration*** ends.<BR>
 One of the clever uses of this design is to create a seamless looping animation.<BR>
 **Wr3nch**'s [X_X_F0Pattern](https://github.com/wrenchathome/flip0anims/tree/main/Animations/Flipper/X_X_F0Pattern) (inspired by the interior design of the Flipper Zero carton box) is a perfect example: it seamlessly plays 11 passive frames (numbered 0-10) in a loop.<BR><BR>
-![Sample_Passive_Only](https://github.com/user-attachments/assets/97f888ee-c31a-4a16-88c2-b33da96d2c8b)
+![11-Sample_Passive_Only](https://github.com/user-attachments/assets/1d42e359-7228-47bc-baee-f7590cc6426a)
 
 * **Passive/active animation : simple design**<BR>
 Official [L1_Recording_128x51](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Recording_128x51) is a good example of a basic passive/active animation.<BR>
 Here we have a total of 12 bitmap frames (numbered 0 to 11).<BR>
 They're listed in numerical order and only once in ***Frames order***.<BR>
 The 6 first ones (0-5) are set as passive and the 6 others (6-11) as active with only 1 active cycle.<BR><BR>
-![Sample_AP_simple](https://github.com/user-attachments/assets/eed1587b-639e-4047-92fa-d5bc7ee645f6)
+![12-Sample_AP_simple](https://github.com/user-attachments/assets/4bf49e6a-e55f-4e3c-9457-905451a5b5c2)
 
 * **Passive/active animation : complex design**<BR>
 Official [L1_Painting_128x64](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external/L1_Painting_128x64) is a more sophisticated passive/active animation.<BR>
@@ -269,7 +269,7 @@ While still having only 1 ***active cycle***, this animation is however using **
 This design allows an animation to extend its duration by using single bitmaps more than once.<BR>
 With only 12 bitmap files, we end up with 22 inputs total in ***Frames order***.<BR>
 It may be noted that creators of OFW animations usually have dedicated bitmaps for active and passive frames (here, respectively 0-5 and 6-11). This is not at all mandatory and is more of a design choice.<BR><BR>
-![Sample_AP_complex](https://github.com/user-attachments/assets/55431a52-e53e-43b7-bfb1-0f6bc56e1b23)
+![13-Sample_AP_complex](https://github.com/user-attachments/assets/e5cd1d8e-d441-448c-b0a0-6e41d273c717)
 
 <BR>
 
@@ -295,12 +295,12 @@ Coordinates will be set as :
 - `X: ` = horizontal coordinate (values range = `0` to `127`)
 - `Y: ` = vertical coordinate (values range = `0` to `63`)
 
-![BP0](https://github.com/user-attachments/assets/431a041f-98df-4eb2-910c-9492709d24be)
+![14-Bubble_placement](https://github.com/user-attachments/assets/f31c01b3-08a3-4a09-bbbe-886e8162004a)
 
 We will note that the bubble layer is not dependent of the animation frames size.<BR>
 Bubble sticks to its screen coordinates and won't be affected in any way when displayed out the animation frames area as the following test shows (64x32px frames anim) :<BR>
 
-![bubble_out_of_frame](https://github.com/user-attachments/assets/63b95d1b-2396-4f55-9645-c650d1cb2940)
+![15-Bubble_out_of_frame](https://github.com/user-attachments/assets/cd90e360-88d5-4de1-9589-e5005e792b05)
 
 > [!TIP]
 > The placement being only defined by the upper-left corner of the bubble, it must be thought in regards of those 3 factors :<BR>
@@ -319,7 +319,7 @@ Bubble sticks to its screen coordinates and won't be affected in any way when di
 The displayed text of the bubble is defined by the eponymous function :
 - `Text: ` followed by the text to display. Note that the part of the text lenght that would be out of the screen will not be visible anyhow.
 
-![ABCD](https://github.com/user-attachments/assets/58059654-ad11-4f02-b3f1-2f7fcc678f5b)
+![16-Bubble_ABCD](https://github.com/user-attachments/assets/abc037ca-266e-4ea8-99fd-293fbaa73ac3)
 
 We see that a bubble can barely fit the 26 lowercase letters of the alphabet.<BR>
 Depending on text input, it's a matter of testing to check if it fits or not.<BR><BR>
@@ -327,20 +327,20 @@ To have multiple lines within the same bubble, `\n` can be used to define **newl
 Next line first word should be written directly after the function. (no space in between).<BR><BR>
 An input such as `Text: First line\nSecond line\nThird line\nForth line\nFifth line` would render as :
 
-![5LINES_1](https://github.com/user-attachments/assets/2e3bb69d-17ab-4e1e-8aab-b4cbf76d8936)
+![17-Bubble_5LINES_1](https://github.com/user-attachments/assets/cd08eff6-fe49-45d1-b1dd-a7318b141b54)
 
 We note that we can only have **up to 5 lines** that would properly show on screen.<BR>
 Of course, this will be dependent of the bubble placement and some lines can be displayed out of screen depending on `Y` value.<BR>
 (`Y` must be set between 0 and 5 to be able to have 5 lines of text as well as the bubble outline in its whole displayed)
 
-![5LINES_2](https://github.com/user-attachments/assets/1a4afe5b-6f58-4a5d-a372-8388fbe7c799)
+![18-Bubble_5LINES_2](https://github.com/user-attachments/assets/fa5c3f05-bebb-4025-a046-544cd7fe0367)
 
 Same goes with too many lines. Only fully displayable lines shows.<BR>
 If we set the `Y` at its minimum value (0) and set the text on 6 lines :<BR>
 `Text: First line\nSecond line\nThird line\nForth line\nFifth line\nSixth Line`<BR>
 we end up with this result :
 
-![6LINES](https://github.com/user-attachments/assets/fe852559-0b54-46b8-85be-5ad8555a12dd)
+![19-Bubble_6LINES](https://github.com/user-attachments/assets/ec7ef2f0-6934-4591-99e7-ff9923850727)
 
 > [!TIP]
 > A maximum of 5 lines of text in a bubble using the `\n` function.<BR>
@@ -354,12 +354,12 @@ The positioning of the tail (the bubble pointer) is set by those 2 functions and
 
 As a result we have 9 (3x3) possible placement of the tail : 
 
-![Bubble_Tails_POS](https://github.com/user-attachments/assets/ceb72d3d-a527-4f8d-b5bb-bc33d217209f)
+![20-Bubble_Tails_POS](https://github.com/user-attachments/assets/fc5028f4-5f12-4799-ba20-7c7f42742750)
 
 We note that having both `AlignH` & `AlignV` set to `Center` results in hiding the tail.<BR><BR>
 The coded outline of the bubble is not dependent of the animation background and will remain black even on top of a black background, and as consequence will not be visible :
 
-![Bubble_Tails_NEG](https://github.com/user-attachments/assets/aa5799df-bc04-4f27-9bff-afa4d19f5e52)
+![21-Bubble_Tails_NEG](https://github.com/user-attachments/assets/6c0f0f8a-b3f5-4397-8764-86ace73f8491)
 
 It then renders slightly more squared as the rounded-angles of the outline are not visible.
 
@@ -372,7 +372,7 @@ Here comes the tricky part :<BR>
 If you set a tail to be visible, in order to be correctly displayed on screen, its design ***in its whole*** must be set to fit on the screen. Otherwise, you will face some strange behaviours.<BR><BR>
 Tails are adding a 4 pixels design on the edge of the bubble they're placed on.
 
-![TAIL_SIZE](https://github.com/user-attachments/assets/11cd9ce3-a3be-48aa-8b05-54390accc0e0)
+![22-Tail_px_size](https://github.com/user-attachments/assets/a5af6311-464e-4b96-be3a-2d41726fdc6b)
 
 To allow a tailed-bubble to be displayed on screen without issue, bubble coordinates values must be set taking into account those additionnal 4 pixels.<BR>
 > [!WARNING]
@@ -382,18 +382,18 @@ Since a picture is worth a thousand words, let's see how it behaves if we define
 In the following tests, we will set different bubble coordinates so that it lacks 1 single pixel to allow the tail to be fully displayed.<BR>
 Again we will test with both white (orange) and black backgrounds as it helps to understand what is drawn on screen.
 
-![Bubble Tails_POS](https://github.com/user-attachments/assets/a0aae534-a37c-4f70-a027-0ea9ab890fd9)
+![23-Bubble Tails_POS](https://github.com/user-attachments/assets/127a7b7b-dbf2-402d-a640-99252903727a)
 
 It enlights that issues occur when there is not enough space on TOP and/or LEFT screen sides to display the tail, creating some *backdraft* tail that displays over the text.<BR>
 We note that, apart for just displaying what fits the screen, there is no particular issue with BOTTOM or RIGHT sides of the screen.<BR>
 We will also note that, despite there is no tail to be meant to be shown on middle screenshot (`AlignH` & `AlignV` both set to `Center`), it still creates, for some reason, a single and unwanted pixel dot in the upper-left corner.
 
-![Bubble Tails_NEG](https://github.com/user-attachments/assets/02469597-30d5-4695-9698-f94061657ffb)
+![24-Bubble Tails_NEG](https://github.com/user-attachments/assets/572e48e1-fc6a-4317-b6e7-87e975e29649)
 
 Black background allows to enlight that the tails themselves are correctly drawn and that the issue is only on their outlines.<BR><BR>
 Testing on a single-line bubble makes even weirder result 👀 :
 
-![Bubble Tails_singleline](https://github.com/user-attachments/assets/e2b8226e-304e-45e4-bf3f-cf58a4810448)
+![25-Bubble Tails_singleline](https://github.com/user-attachments/assets/e8b56ed6-9af7-4317-ba3a-36b1bae0d564)
 
 > [!NOTE]
 > It's important to mention that those strange artifacts are just visual bugs and won't make Flipper to crash.<BR>
