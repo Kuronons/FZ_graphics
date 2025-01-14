@@ -2,7 +2,7 @@
  **📑 <ins>SUMMARY</ins>**
 - **[📄 meta.txt : content overview](Meta_settings_guide.md#-metatxt--content-overview)**<BR>
 - **[🐬 Flipper Zero official documentation : meta.txt](Meta_settings_guide.md#-flipper-zero-official-documentation--metatxt)**<BR>
-- **[🎬 ANIMATION : Meta Main settings]Meta_settings_guide.md#-animation--meta-main-settings)**<BR>
+- **[🎬 ANIMATION : Meta Main settings](Meta_settings_guide.md#-animation--meta-main-settings)**<BR>
     - **[Frame dimensions](Meta_settings_guide.md#--frame-dimensions)**<BR>
     - **[Passive & Active Frames : definition](Meta_settings_guide.md#--passive--active-frames--definition)**<BR>
     - **[Frames order](Meta_settings_guide.md#--frames-order)**<BR>
