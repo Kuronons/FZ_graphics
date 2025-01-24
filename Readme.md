@@ -108,13 +108,11 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Generates meta file<br>
 
 - ⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
-&ensp;&ensp; ⮚ Convert .png assets to .bmx ones.<br>
+&ensp;&ensp; ⮚ Convert .png assets to .bm or .bmx ones.<br>
 &ensp;&ensp; ⮚ .bmx is the required graphic asset format to be used with ***Momentum or Xtreme*** firmwares.<br>
 &ensp;&ensp; ⮚ Used for passport, profile and every other apps graphic assets that can be handled within an asset pack.<br>
+&ensp;&ensp; ⮚ Will convert .png animation frames to .bm ones as same as it would be done with ./fbt command<br>
 &ensp;&ensp; ⮚ Tutorial can be found [there](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md)<br>
-
-- ⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
-&ensp;&ensp; ⮚ Enhanced version of the Asset Packer by WillyJL
 
 - ⚒️ [Xtreme Firmware Asset (Un)Packer](https://github.com/meowteusz/xfw-unpacker) - Python tool by [Mateusz Ryczek](https://github.com/meowteusz) aka meowteusz or skyfused<br>
 &ensp;&ensp; ⮚ Revert/convert .bm compiled animations to .png ones.<br>
@@ -122,6 +120,11 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ ❗ Requires ***xtreme***/***Momentum*** asset-packs **folder structure** but is not *firmware-exclusive*...<br>
 &ensp;&ensp; ⮚ Potential development :<BR>
 &emsp;&emsp; Use of meta.txt file for GIF creation (frames order / FPS, etc) / Allowance of any folder-structure.<br>
+
+- ⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
+&ensp;&ensp; ⮚ Enhanced version of the Asset Packer by WillyJL with recover function as in (Un)Packer from meowteusz<br>
+&ensp;&ensp; ⮚ convert .png to .bm/.bmx files<br>
+&ensp;&ensp; ⮚ convert back .bm files (animation frames) to .png<br>
 
 - <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 🔧 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
