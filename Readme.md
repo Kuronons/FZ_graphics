@@ -113,7 +113,7 @@ Have fun exploring ! **O_oV**</p><BR>
 &ensp;&ensp; ⮚ Used for passport, profile and every other apps graphic assets that can be handled within an asset pack.<br>
 &ensp;&ensp; ⮚ Tutorial can be found [there](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md)<br>
 
-- ⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, edits by [nescap](https://github.com/notnotnescap)<BR>
+- ⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
 &ensp;&ensp; ⮚ Enhanced version of the Asset Packer by WillyJL
 
 - ⚒️ [Xtreme Firmware Asset (Un)Packer](https://github.com/meowteusz/xfw-unpacker) - Python tool by [Mateusz Ryczek](https://github.com/meowteusz) aka meowteusz or skyfused<br>
