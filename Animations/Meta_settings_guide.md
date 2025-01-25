@@ -287,7 +287,12 @@ For instance, if slot #2 is randomly selected, only the bubbles being set to `Sl
 Next time the active sequence will be triggered, another slot will be randomly chosen.<BR>
 As for frames, first slot is numbered `0`.<BR>
 A slot can have multiple bubbles within so every bubble of the same sequence must share the same `Slot:` value.<BR>
-Having only 1 bubbles slot (that will be labelled as **0**) will logically cut the random process and the bubbles sequence will always play when active one is triggered.<BR><BR>
+Having only 1 bubbles slot (that will be labelled as **0**) will logically cut the random process and the bubbles sequence will always play when active one is triggered.<BR>
+> [!WARNING]
+> All bubbles inside a same slot must be listed together in a row, one after another before listing the next slot bubbles.<BR>
+> Only bubbles listed in a row under the same slot will display.<BR>
+> ie. if you define Slot 0, first bubble, then Slot 1 first bubble and only then Slot 0, second bubble, this last one will not show up when Slot 0 will be randomly selected.
+<BR>
 
 ### 🔸  Bubble placement
 Bubble placement on screen is defined by its upper-left corner coordinates.<BR>
