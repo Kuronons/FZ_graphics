@@ -6,7 +6,7 @@
     - **[Frame dimensions](Meta_settings_guide.md#--frame-dimensions)**<BR>
     - **[Passive & Active Frames : definition](Meta_settings_guide.md#--passive--active-frames--definition)**<BR>
     - **[Frames order](Meta_settings_guide.md#--frames-order)**<BR>
-    - **[Active cycles](Meta_settings_guide.md#--active-cycle)**<BR>
+    - **[Active cycles](Meta_settings_guide.md#--active-cycles)**<BR>
     - **[Frame rate](Meta_settings_guide.md#--frame-rate)**<BR>
     - **[Duration](Meta_settings_guide.md#--duration)**<BR>
     - **[Active cooldown](Meta_settings_guide.md#--active-cooldown)**<BR>
