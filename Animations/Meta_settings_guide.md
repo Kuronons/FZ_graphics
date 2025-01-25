@@ -292,6 +292,9 @@ Having only 1 bubbles slot (that will be labelled as **0**) will logically cut t
 > All bubbles inside a same slot must be listed together in a row, one after another before listing the next slot bubbles.<BR>
 > Only bubbles listed in a row under the same slot will display.<BR>
 > ie. if you define Slot 0, first bubble, then Slot 1 first bubble and only then Slot 0, second bubble, this last one will not show up when Slot 0 will be randomly selected.
+
+![14-Slot_order](https://github.com/user-attachments/assets/ab971203-314c-4fbc-aad0-0397831f327e)
+
 <BR>
 
 ### 🔸  Bubble placement
