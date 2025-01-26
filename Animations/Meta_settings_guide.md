@@ -240,6 +240,9 @@ It is not to be confused with the number of bubbles. A slot can have many bubble
 If there are multiple slots, each time active sequence is triggered, a slot will be randomly chosen and its bubbles sequence will be played.<BR>
 Otherwise, if only if `Bubble slots:` is set to `1`, the suite will always play on active sequence.<BR>
 If animation is not using any bubble, value must be set to `0`.<BR>
+> [!WARNING]
+> ⮚ `Bubble slots:` value **MUST** be set accordingly to the defined number of slots set below. Animation will fail otherwise and Flipper would most likely crash !
+
 Since ***Bubbles*** is a complex subject in itself, its aspects will be reviewed in detail in the [dedicated section](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Meta_settings_guide.md#-bubbles--in-depth-guide) below.<BR><BR>
 
 ### 🔸  Animation design : insight samples
@@ -414,6 +417,7 @@ Testing on a single-line bubble makes even weirder result 👀 :
 > Ensure safe bubble coordinates and tail position accordingly.<BR>
 > ⮚ It's safer/easier to set your bubble `X: ` & `Y: ` to at least `4` to ensure avoiding issue with tail.<BR>
 > ⮚ If possible, set your tail position to the sides (or center) of the bubble that are furthest from the edge of the screen.
+<BR>
 
 ### 🔸  Start & End Frame
 To define when a particular bubble is meant to play within a slot sequence, the following functions are used : <BR>
@@ -422,6 +426,21 @@ To define when a particular bubble is meant to play within a slot sequence, the 
 Each value corresponds to the position of the frame on the total *Passive + Active cycles* sequence.<BR>
 It means that it takes into consideration not only the frames listed in ***Frames order*** but also counts the possible remaining ***Active cycle(s)*** that come after.<BR>
 As consequence a bubble can be set starting on an active cycle and ending on another.<BR>
+> [!NOTE]
+> While it wasn't designed for, a bubble can be set to play during the passive cycle.<BR>
+> ⮚ However passive cycle will only play the first bubble of the slot and this one only even if additional ones have been set.<BR>
+> ⮚ If multiple slots, passive cycle bubble will randomly change slot only when active cycle is triggered. It would remain on the same slot in loop otherwise.<BR>
+> ⮚ If the `EndFrame` value is set incorrectly beyond the passive cycle last frame, it has no real consequence : bubble will stop playing on last passive frame. For instance if passive cycle contains 8 frames (0 to 7) and bubble is set to play from 5 to 12, it will only be played on frames 5 to 7.<BR>
+> ⮚ It behaves exactly the same way on active cycle, bubble would play until last active frame.
+
+> [!WARNING]
+> ⮚ A slot with a bubble set in passive cycle **will not** play the following bubbles even if set in active cycle.
+
+> [!TIP]
+> To have passive + active bubbles playing along, you must set those on different slots.<BR>
+> For instance you can use slots 0 & 1 for passive and slots 2 & 3 for active.<BR>
+> The limitation in this pattern is that you can't force a logical suite between passive and active cycle bubbles if you have more than one slot defined for each cycle.
+<BR>
 
 ### 🔸  Bubble design : insight samples
 WIP
