@@ -1,4 +1,8 @@
 # Flipper Animation Guide : meta.txt settings
+
+> [!NOTE]
+> This guide has been published on Jan. 26th, 2025 on the [***Flipper Community Wiki***](https://flipper.wiki/tutorials/Animation_guide_meta/Meta_settings_guide/) and will be maintained/kept up-to-date there.
+
  **📑 <ins>SUMMARY</ins>**
 - **[📄 meta.txt : content overview](Meta_settings_guide.md#-metatxt--content-overview)**<BR>
 - **[🐬 Flipper Zero official documentation : meta.txt](Meta_settings_guide.md#-flipper-zero-official-documentation--metatxt)**<BR>
