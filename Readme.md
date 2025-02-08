@@ -9,7 +9,7 @@ I am present on most Flipper-related discord servers.<BR>On ***Momentum***'s one
 Also, you can find below a bunch of useful [tutorials](https://github.com/Kuronons/FZ_graphics/tree/main?tab=readme-ov-file#-links-of-interest--flipper-graphics---tutorials--other-hints) and [tools](https://github.com/Kuronons/FZ_graphics?tab=readme-ov-file#-links-of-interest--flipper-graphics---tools--apps) links related to Flipper's graphic assets.<BR>As well, follows a non-stop growing list of [links to other people's makings](https://github.com/Kuronons/FZ_graphics?tab=readme-ov-file#-links-of-interest--flipper-graphics---custom-animations--assets).<BR>
 I would gladly add your link on request, just ask or PR !<BR><BR>
 Have fun exploring ! **O_oV**<BR><BR>
-<a href='https://ko-fi.com/kuronons' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p><BR>
+[Buy me a ☕](https://ko-fi.com/kuronons)</a></p><BR>
 
 ## 🔰 Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
 
