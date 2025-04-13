@@ -1,15 +1,26 @@
 # PASSPORT PROFILE PICTURES
 
 Here are profile pictures I made for the Flipper Zero.<BR>
-Note that the orange/black versions in this readme are only for an insight - not scaled for the FZ passport...<BR>
--> Download the corresponding white/black [.png files](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)) you want to use.<BR>
-(or directly the [.bmx ones](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)) if under ***Momentum*** fw so you don't have to compile them via python)<BR><BR>
+> [!TIP]
+> Download the corresponding white/black [.png files](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)) you want to use.<BR>
+> (or directly the [.bmx ones](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)) if under ***Momentum*** fw so you don't have to compile them via python)<BR>
+> Files must be **RENAMED** and put in **DEDICATED FOLDER** accordingly to the firmware you're using.
+
+> [!CAUTION]
+> The orange/black versions in this readme are only for an insight - not scaled for the FZ passport...<BR>
+<BR>
 
 ### AD POLICE
 ADP Shield badge inspired by 1990's AD Police Files OAV (Prequel of Bubblegum Crisis)
 
 ![AD_Police](https://github.com/Kuronons/FZ_graphics/assets/110337784/d4fd1764-d5c8-4c40-81f5-408274aed110)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/AD_Police.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/AD_Police.bmx)**<BR><BR>
+
+### GALLY
+From GUNNM (Battle Angel Alita) manga by Yukito Kishiro
+
+![GUNNM-Gally](https://github.com/user-attachments/assets/11576be4-f281-4fcd-a9b5-d53f4ae313e4)<BR>
+**D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/GUNNM-Gally.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/GUNNM-Gally.bmx)**<BR><BR>
 
 ### AKIRA
 From AKIRA manga by Katsuhiro Otomo - 3 different profile picts set
