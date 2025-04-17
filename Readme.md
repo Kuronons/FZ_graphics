@@ -280,6 +280,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Claire Flipper Anims](https://github.com/Clara81221/claire_flipper_anims) by [Clara81221](https://github.com/Clara81221) aka Claire
 
 - 🎨 [Monica DDLC on Flipper Zero](https://github.com/goosedev72-projects/MonikaDDLC-on-FlipperZero) (Doki Doki Literature Club! themed) by [GooseDev72](https://github.com/goosedev72-projects)
+
+- 🎬 [Flipper Asset Packs](https://github.com/Cian28-C28/Flipper-Asset-Packs) by [Cian "C28" Mattern](https://github.com/Cian28-C28)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
