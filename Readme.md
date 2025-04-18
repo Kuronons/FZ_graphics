@@ -83,6 +83,11 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Customize animation parameters<br>
 &ensp;&ensp; ⮚ And much more...
 
+- ⚒️ [img2fbm](https://github.com/atomofiron/img2fbm) - Application (Linux, Win, Mac) by [Jaroslav Nestreov](https://github.com/atomofiron) aka atomofiron<br>
+&ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero, allowing multiple edit settings<br>
+&ensp;&ensp; ⮚ Allows final rendering GIF previews before compiling<br>
+&ensp;&ensp; ⮚ Generates .bm frames and meta file with option to overwrite manifest<br>
+
 - ⚒️ [Xtreme-Assetpack Previewer](https://github.com/timstrasser/Flipper-Xtreme-Assetpack-Previewer) - Python tool by [Tim Strasser](https://github.com/timstrasser)<br>
 &ensp;&ensp; ⮚ Preview animations and **icons** in asset packs in a Flipper-designed app<br>
 &ensp;&ensp; ⮚ Requires Xtreme / Momentum asset_packs folder structure<br>
@@ -107,26 +112,21 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero<br>
 &ensp;&ensp; ⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
 &ensp;&ensp; ⮚ Generates meta file<br>
-⚒️ [img2fbm](https://github.com/atomofiron/img2fbm) - Application (Linux, Win, Mac) by [Jaroslav Nestreov](https://github.com/atomofiron) aka atomofiron<br>
-&ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero, allowing multiple edit settings<br>
-&ensp;&ensp; ⮚ Allows final rendering GIF previews before compiling<br>
-&ensp;&ensp; ⮚ Generates .bm frames and meta file with option to overwrite manifest<br>
 
-- ⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
+- <b>FZ animations SCRIPTS  :  Packers</b><BR>
+⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
 &ensp;&ensp; ⮚ Convert .png assets to .bm or .bmx ones.<br>
 &ensp;&ensp; ⮚ .bmx is the required graphic asset format to be used with ***Momentum or Xtreme*** firmwares.<br>
 &ensp;&ensp; ⮚ Used for passport, profile and every other apps graphic assets that can be handled within an asset pack.<br>
 &ensp;&ensp; ⮚ Will convert .png animation frames to .bm ones as same as it would be done with ./fbt command<br>
 &ensp;&ensp; ⮚ Tutorial can be found [there](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md)<br>
-
-- ⚒️ [Xtreme Firmware Asset (Un)Packer](https://github.com/meowteusz/xfw-unpacker) - Python tool by [Mateusz Ryczek](https://github.com/meowteusz) aka meowteusz or skyfused<br>
+⚒️ [Xtreme Firmware Asset (Un)Packer](https://github.com/meowteusz/xfw-unpacker) - Python tool by [Mateusz Ryczek](https://github.com/meowteusz) aka meowteusz or skyfused<br>
 &ensp;&ensp; ⮚ Revert/convert .bm compiled animations to .png ones.<br>
 &ensp;&ensp; ⮚ Create an animated GIF file based on converted .png frames.<br>
 &ensp;&ensp; ⮚ ❗ Requires ***xtreme***/***Momentum*** asset-packs **folder structure** but is not *firmware-exclusive*...<br>
 &ensp;&ensp; ⮚ Potential development :<BR>
 &emsp;&emsp; Use of meta.txt file for GIF creation (frames order / FPS, etc) / Allowance of any folder-structure.<br>
-
-- ⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
+⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
 &ensp;&ensp; ⮚ Enhanced version of the Asset Packer by WillyJL with recover function as in (Un)Packer from meowteusz<br>
 &ensp;&ensp; ⮚ convert .png to .bm/.bmx files<br>
 &ensp;&ensp; ⮚ convert back .bm files (animation frames) to .png<br>
