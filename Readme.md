@@ -107,6 +107,10 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero<br>
 &ensp;&ensp; ⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
 &ensp;&ensp; ⮚ Generates meta file<br>
+⚒️ [img2fbm](https://github.com/atomofiron/img2fbm) - Application (Linux, Win, Mac) by [Jaroslav Nestreov](https://github.com/atomofiron) aka atomofiron<br>
+&ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero, allowing multiple edit settings<br>
+&ensp;&ensp; ⮚ Allows final rendering GIF previews before compiling<br>
+&ensp;&ensp; ⮚ Generates .bm frames and meta file with option to overwrite manifest<br>
 
 - ⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
 &ensp;&ensp; ⮚ Convert .png assets to .bm or .bmx ones.<br>
