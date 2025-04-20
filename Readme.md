@@ -13,6 +13,12 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 ## 🔰 Links of interest : FLIPPER GRAPHICS - Tutorials & other hints
 
+> [!WARNING]
+> Animations and other graphical resources may be handled differently depending on the firmware.<BR>
+> You can encounter discrepancies on folder architecture or even file formats.<BR>
+> As well, some of the video tutorials might be outdated, even for a specific firmware.<BR>
+> Be sure to check the most recent documentation available for the one you're currently using.
+
 > [!TIP]
 > &ensp;&ensp;&ensp; **📑 = Text &ensp; / &ensp; 📺 = Video &ensp; / &ensp; ⭐ = Strongly recommended to begin with**<BR>
 
@@ -25,17 +31,17 @@ Have fun exploring ! **O_oV**<BR><BR>
 📑 [How2CustomFlipper - *Renaming your Flipper (and compiling firmware from source)*](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2CustomFlipper.pdf) (pdf)<BR>
 
 - [Kuronons]()'s guides &ensp; **O_oV**<BR>
-📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) (Github's .md file)<BR>
 📑⭐ [Meta Settings - In-depth Guide](https://flipper.wiki/tutorials/Animation_guide_meta/Meta_settings_guide/) (Flipper Community Wiki page)<BR>
+📑⭐ [The Most Common Mistakes Done When Making an Animation](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Common_mistakes.md) (Github's .md file)<BR>
 
 - [Momentum](https://github.com/Next-Flip/Momentum-Firmware)'s asset-packs<BR>
 📑⭐ [How to install/make asset packs](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md) (Github's .md file)<BR>
 
 - [Talking Sasquach](https://github.com/skizzophrenic)'s guide & videos :<BR>
 📑⭐ [Flipper Zero Animation Process](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub) (Google doc)<BR>
+📺⭐ [How to make Flipper Zero Animations - The Ultimate Guide](https://youtu.be/trpcZLlJtNw) (YouTube)<BR>
 📺 [LAB401 academy : Custom animations on your Flipper zero! Everything you need to know](https://www.youtube.com/watch?v=Nq5DXhOMo5s) (YouTube)<BR>
 📺 [Make your Flipper Zero Cooler Than Everyone Else](https://www.youtube.com/watch?v=JnqLfTqXG8o) (YouTube)<BR>
-📺⭐ [How to make Flipper Zero Animations - The Ultimate Guide](https://youtu.be/trpcZLlJtNw) (YouTube)<BR>
 📺 [Custom Flipper Zero Fonts Packs on the Latest XFW Release!](https://www.youtube.com/watch?v=xRYI2lHk6vE) (YouTube)
 
 - [Pen Ace](https://www.youtube.com/@PenAce)'s video tutorial :<BR>
@@ -65,7 +71,11 @@ Have fun exploring ! **O_oV**<BR><BR>
  
 ## 🧰 Links of interest : FLIPPER GRAPHICS - Tools & apps
 
-- 🛠️ [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle)<br>
+> [!WARNING]
+> Having my own creating process, I don't use most of the following tools. I ✔️ marked the ones I tested.<BR>
+> They all are open-source. It is up to you to check their code / test their behaviour.<BR>
+
+- 🛠️ [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) ✔️ - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle)<br>
 &ensp;&ensp; ⮚ Preview animations on PC (from .png or .bm files)<br>
 &ensp;&ensp; ⮚ Create manifest.txt with desired values<br>
 &ensp;&ensp; ⮚ Compile .png folder directly to .bm one (instant !!)
@@ -114,7 +124,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Generates meta file<br>
 
 - <b>FZ animations SCRIPTS  :  Packers</b><BR>
-⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
+⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) ✔️ - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
 &ensp;&ensp; ⮚ Convert .png assets to .bm or .bmx ones.<br>
 &ensp;&ensp; ⮚ .bmx is the required graphic asset format to be used with ***Momentum or Xtreme*** firmwares.<br>
 &ensp;&ensp; ⮚ Used for passport, profile and every other apps graphic assets that can be handled within an asset pack.<br>
@@ -126,7 +136,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ ❗ Requires ***xtreme***/***Momentum*** asset-packs **folder structure** but is not *firmware-exclusive*...<br>
 &ensp;&ensp; ⮚ Potential development :<BR>
 &emsp;&emsp; Use of meta.txt file for GIF creation (frames order / FPS, etc) / Allowance of any folder-structure.<br>
-⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
+⚒️ [Improved Asset Packer for Momentum](https://github.com/notnotnescap/Improved-Asset-Packer-For-Momentum) ✔️ - Python tool, upgraded by [nescap](https://github.com/notnotnescap)<BR>
 &ensp;&ensp; ⮚ Enhanced version of the Asset Packer by WillyJL with recover function as in (Un)Packer from meowteusz<br>
 &ensp;&ensp; ⮚ convert .png to .bm/.bmx files<br>
 &ensp;&ensp; ⮚ convert back .bm files (animation frames) to .png<br>
@@ -145,10 +155,10 @@ Have fun exploring ! **O_oV**<BR><BR>
 🔨 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
-- 🪛 [Lopaka](https://lopaka.app/) - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
+- 🪛 [Lopaka](https://lopaka.app/) ✔️ - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
 &ensp;&ensp; ⮚ Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero<BR>
 
-- ⛏️ [BadPS](https://github.com/InfoSecREDD/BadPS) - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
+- ⛏️ [BadPS](https://github.com/InfoSecREDD/BadPS) ✔️ - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
 &ensp;&ensp; ⮚ Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
 &ensp;&ensp; ⮚ Lists all scripts present in tool's folder<BR>
 &ensp;&ensp; ⮚ Choice of cores for *Flipper Zero* or *DuckyScript V1*<BR>
