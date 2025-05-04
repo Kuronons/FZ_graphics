@@ -12,7 +12,7 @@ In here you can find animations I made inspired by Flipper Zero community custom
 
    [<b>RogueMaster</b>](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) Custom Firmware. Displaying RogueMaster in DragonBall font with SD-Goku.
       
-   Note : Talking-Sasquach made a [second version with animated fighting sprites](https://user-images.githubusercontent.com/16942638/195171690-2352126b-791d-4c2b-931c-3592a17b085b.gif). <3
+   Note : Talking Sasquach made a [second version with animated fighting sprites](https://user-images.githubusercontent.com/16942638/195171690-2352126b-791d-4c2b-931c-3592a17b085b.gif). <3
 
    Also available : matching [Passport](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background#db)
 
@@ -91,7 +91,7 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/0c41cada-abce-46ee-b5df
    Idea was to have a bunch of animations, all starting with the same passive frames but having different active ones.<BR>
    Design is based on rotating / spinning / rolling movements to recall the momentum concept.<BR>
    In the first 2 anims, the "M" of Momentum ends up in negative & reversed at the end of active frames showing a "W", wink to Momentum's creator, [WillyJL](https://github.com/Willy-JL)<BR>
-   Third one is a wink to ***Yappybara*** !! Still wondering who/what is behinh the Yapper.... Did you managed to guess ? ;)<BR>
+   Third one is a wink to ***Yappybara*** !! Still wondering who/what hides behind the Yapper.... Did you managed to guess ? ;)<BR>
    (Original Yappy icon art by ***Vale***)<BR>
    Also available : matching [Passport](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20background#mntm), [PFP set](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#yappy) & [Halloween '24 bonus PFP](https://github.com/Kuronons/FZ_graphics/tree/main/Passport%20profile%20pictures#yapooky). 
 
