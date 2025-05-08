@@ -155,8 +155,12 @@ Have fun exploring ! **O_oV**<BR><BR>
 🔨 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
-- 🪛 [Lopaka](https://lopaka.app/) ✔️ - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
+- ⛏️ [Lopaka](https://lopaka.app/) ✔️ - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
 &ensp;&ensp; ⮚ Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero<BR>
+
+- ⛏️ [FlipperUSB](https://flipperusb.lol/) ✔️ - Webtool by [Dagnazty](https://github.com/dagnazty)<BR>
+&ensp;&ensp; ⮚ Allows you to edit and save files directly on Flipper SD card when usb plugged via web interface<BR>
+&ensp;&ensp; ⮚ Life changer for badusb text files or manifest.txt / meta.txt editing when it comes to animation<BR>
 
 - ⛏️ [BadPS](https://github.com/InfoSecREDD/BadPS) ✔️ - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
 &ensp;&ensp; ⮚ Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
