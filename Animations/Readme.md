@@ -6,6 +6,7 @@ Here are the animations I made for Flipper Zero. Those are folder-sorted by them
 - [DOS viruses](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Virus) - 12 animations collection
 - [Cyberpunk 2077](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/CP77) - 12 + 15 animations collections
 - [Ghost in the Shell](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/GITS) - 5 animations collection
+- [Citizen Sleeper](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Citizen_Sleeper) - 6 animations collection)
 - [Monopoly cards](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Monopoly_Cards) - WIP (2 anims)
 - [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted (9 anims)
 
