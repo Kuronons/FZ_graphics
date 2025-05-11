@@ -91,6 +91,16 @@ https://github.com/user-attachments/assets/8f596d62-e903-4da4-ac80-06fc08549f4d
 
 <BR>
 
+### ZONE 414
+Inspired by ***Zone 414***, 2021 anticipation movie by Andrew Baird.
 
+Note : Inspiration came from the logo of the ***Veidt Corporation*** that can briefly be seen on a building at the beginning of the movie<BR>
+Main difficulty was to flatten the design as the only visual of the logo is during a brief scene and it is seen from a perspective camera angle.<BR>
+I also added the ***Zone 414*** logo as passive frames sequence.<BR>
+ZIP file downloadable [there](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/Animation_ZIP_files_%5BMiscellaneous%5D/Kuronons_Misc_Zone414_128x64.zip)
+
+https://github.com/user-attachments/assets/fb2a527b-9b6b-4650-b106-717d732213e5
+
+<BR>
 
 Use the [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/manifest.txt) file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
