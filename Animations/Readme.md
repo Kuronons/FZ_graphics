@@ -10,7 +10,9 @@ Here are the animations I made for Flipper Zero. Those are folder-sorted by them
 - [Monopoly cards](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Monopoly_Cards) - WIP (2 anims)
 - [Miscellaneous](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Miscellaneous) - Unsorted (10 anims)
 
-*edit 2024/03/04 : Replaced .webm files by .mp4 to make them viewable under iOS.<BR>
+&ensp;&ensp;*edit 2024/03/04 : Replaced .webm files by .mp4 to make them viewable under iOS.<BR><BR>
+
+All preview videos are also directly viewable on my &ensp;[![YouTube icon2](https://github.com/user-attachments/assets/f49ad1c0-4cce-4d97-8b22-0a0e04355927)  YouTube channel](https://www.youtube.com/@kuronons/videos)&ensp; for a quick insight.<BR><BR>
 
 <BR>**TO INSTALL ON YOUR FLIPPER ZERO :**
 
@@ -23,7 +25,7 @@ Here are the animations I made for Flipper Zero. Those are folder-sorted by them
     
 3. Manifest<BR>
 -> Edit your manifest ***SD/dolphin/manifest.txt*** (OFW, UL or RM)<BR>
--> or create one ***SD/asset_packs/yourcustompacknamehere/Anims/manifest.txt*** (MNTTM)<BR><BR>
+-> or create one ***SD/asset_packs/yourcustompacknamehere/Anims/manifest.txt*** (MNTM)<BR><BR>
 and add (or replace) an entry as example below.
 
           Filetype: Flipper Animation Manifest
