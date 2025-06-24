@@ -189,7 +189,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - 🎨🎬 [flipper-zero-animations](https://github.com/phoenixyyz/flipper-zero-animations) by [Pheonixyyz](https://github.com/phoenixyyz) aka PYX
  
-- 🎨 [DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)
+- 4️⃣0️⃣4️⃣ ~~[DEXV Animations](https://github.com/DXVVAY/dexv-graphics) by [DEXV](https://github.com/DXVVAY)~~
 
 - 🎬 [Flipperzero Animations](https://github.com/synthetikspace/SynthetikSpace-FZ-Animations) by [SynthetikSpace](https://github.com/synthetikspace) aka Space
 
@@ -332,8 +332,6 @@ Have fun exploring ! **O_oV**<BR><BR>
 - [UberGuidoZ's Playground](https://github.com/UberGuidoZ/Flipper) - Flipper Ali Baba's cave
 
 - [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero) - Tons of links to useful resources
-
-- [DEXV Music0](https://github.com/DXVVAY/dexv-music0) - Tons of RTTTF (Ring Tone Text Transfer Language) music files
 <BR>
 
 ## 💬 Links of interest : FLIPPER FIRMWARES & THEIR DISCORD
