@@ -358,4 +358,4 @@ Have fun exploring ! **O_oV**<BR><BR>
   
 &ensp;&ensp;&ensp;❌ Xtreme : [github](https://github.com/ClaraCrazy/Flipper-Xtreme) | [website](https://flipper-xtre.me/) | discord closed in summer 2024
   
-&ensp;&ensp;&ensp;❌ Xvirus : [github](https://github.com/DXVVAY/xvirus-firmware) | [discord](https://discord.gg/bmfvcN79Gg)
+&ensp;&ensp;&ensp;❌ Xvirus : 4️⃣0️⃣4️⃣ ~~[github](https://github.com/DXVVAY/xvirus-firmware)~~ | [discord](https://discord.gg/bmfvcN79Gg)
