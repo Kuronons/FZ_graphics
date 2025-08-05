@@ -300,6 +300,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Monica DDLC on Flipper Zero](https://github.com/goosedev72-projects/MonikaDDLC-on-FlipperZero) (Doki Doki Literature Club! themed) by [GooseDev72](https://github.com/goosedev72-projects)
 
 - 🎬 [Flipper Asset Packs](https://github.com/Cian28-C28/Flipper-Asset-Packs) by [Cian "C28" Mattern](https://github.com/Cian28-C28)
+
+- 🎨 [Stickman AssetPack FlipperZero](https://github.com/k4n3d4-sh0t4r0/Stickman-AssetPack-FlipperZero) (includes icons, pfp and anim) by [k4n3d4-sh0t4r0]([https://github.com/Cian28-C28](https://github.com/k4n3d4-sh0t4r0))
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
