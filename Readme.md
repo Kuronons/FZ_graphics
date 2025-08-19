@@ -302,6 +302,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎬 [Flipper Asset Packs](https://github.com/Cian28-C28/Flipper-Asset-Packs) by [Cian "C28" Mattern](https://github.com/Cian28-C28)
 
 - 🎨 [Stickman AssetPack FlipperZero](https://github.com/k4n3d4-sh0t4r0/Stickman-AssetPack-FlipperZero) (includes icons, pfp and anim) by [k4n3d4-sh0t4r0](https://github.com/k4n3d4-sh0t4r0)
+
+- 🎨 [LWDSQRD's Flippers anims and stuff](https://github.com/lewdalewda/LWDSQRD-s-flippers-anims-and-stuff) by [lewdalewda](https://github.com/lewdalewda)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
