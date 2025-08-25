@@ -205,7 +205,7 @@ Ghost Yapper (Momentum mascott) - Halloween 2024 bonus pfp
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yapooky.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yapooky.bmx)**<BR><BR>
 
 ### GHOSTY
-GhostESP fw mascott
+GhostESP Revival fw mascott
 
 ![Ghosty](https://github.com/user-attachments/assets/b4253efb-f723-48b5-b3c6-652073615475)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Ghosty.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Ghosty.bmx)**<BR><BR>
