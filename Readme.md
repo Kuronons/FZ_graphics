@@ -303,13 +303,14 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - Flipper Zero's [original animations](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/assets/dolphin/external) by [Valerie Aquamine](https://www.behance.net/gallery/88949929/Flipper-graphics) aka the Mother of Dolphin & [Victoria Moloko](https://www.instagram.com/vikamoloko/)
 
-- Momentum's [Asset packs](https://momentum-fw.dev/asset-packs/)
+- Momentum's [Asset packs](https://momentum-fw.dev/asset-packs/)<BR>
+  Also offers packs that gather exclusive anims from following CFWs : RM, SW & UL (including 404 ones)
 
 - RogueMaster's [All Animations Pack](https://github.com/RogueMaster/awesome-flipperzero-withModules/tree/rogue_main/graphics/dolphin-all)
 
 - SquachWare : [SquachWare](https://github.com/skizzophrenic/SquachWare-CFW/tree/dev/assets/dolphin/external/WRENCH_SquachWare) & [Spinner](https://github.com/skizzophrenic/SquachWare-CFW/tree/dev/assets/dolphin/external/WRENCH_Spinner) by Wr3nch as well as [Sas TV, TS3000, EscapeFrom & V](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Readme.md#squachware) by myself
 
-- Unleashed : [New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64), [Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64), [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64) by [Svarich](https://github.com/Svaarich)
+- Unleashed : 4️⃣0️⃣4️⃣ ~~[New_year](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_New_year_128x64)~~, 4️⃣0️⃣4️⃣ ~~[Halloween](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L1_Halloween_128x64)~~, [FlipperCity](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L2_FlipperCity_128x64), [Fireplace](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_Fireplace_128x64) & [FlipperMustache](https://github.com/DarkFlippers/unleashed-firmware/tree/dev/assets/dolphin/external/L3_FlipperMustache_128x64) by [Svarich](https://github.com/Svaarich)<BR>
  
 - 4️⃣0️⃣4️⃣ ~~Xtreme's [Asset packs](https://flipper-xtre.me/asset-packs/)~~
 <BR>
