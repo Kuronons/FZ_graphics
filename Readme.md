@@ -297,6 +297,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Stickman AssetPack FlipperZero](https://github.com/k4n3d4-sh0t4r0/Stickman-AssetPack-FlipperZero) (includes icons, pfp and anim) by [k4n3d4-sh0t4r0](https://github.com/k4n3d4-sh0t4r0)
 
 - 🎨 [LWDSQRD's Flippers anims and stuff](https://github.com/lewdalewda/LWDSQRD-s-flippers-anims-and-stuff) by [lewdalewda](https://github.com/lewdalewda)
+
+- 🎨🎬 [Asset_Packs](https://github.com/abbhorent/Asset_Packs) (Junji Ito's mangas themed) by [abbhorent](https://github.com/abbhorent)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
