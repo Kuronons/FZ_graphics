@@ -58,12 +58,6 @@ Have fun exploring ! **O_oV**<BR><BR>
 - [Rithim](https://www.youtube.com/@rithimstuff)'s video tutorial :<BR>
 📺 [Editing FLIPPER ZERO Background ANIMATIONS?!! || FULL GUIDE](https://www.youtube.com/watch?v=uDU05CI34jU) (YouTube)<BR>
 
-- [igi](https://www.youtube.com/@cofrof)'s video tutorial :<BR>
-📺 [How to download animation to flipper zero](https://www.youtube.com/watch?v=J0NWt8bcjTI) (YouTube)<BR>
-
-- [SHUR1K-N](https://github.com/SHUR1K-N)'s video tutorial :<BR>
-📺 [Installing Custom Animations on Flipper Zero ― Xtremely Easy!](https://www.youtube.com/watch?v=J8gfCZi2vyc) - Xtreme firmware (YouTube)<BR>
-
 - [instantiator](https://github.com/instantiator)'s tutorials :<BR>
 📑 Building an app for Flipper Zero : Part I - [Getting started](https://instantiator.dev/post/flipper-zero-app-tutorial-01/) & Part II - [A simple user interface](https://instantiator.dev/post/flipper-zero-app-tutorial-02/) (website)<BR>
 
@@ -102,7 +96,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Preview animations and **icons** in asset packs in a Flipper-designed app<br>
 &ensp;&ensp; ⮚ Requires Xtreme / Momentum asset_packs folder structure<br>
 
-- ⚒️ [Flipper Animations Reader](https://github.com/Tech0ne/FlipperAnimationsReader) - Python tool by [Tech0ne](https://github.com/Tech0ne)<br>
+- ⚒️ [Flipper Animations Reader](https://github.com/Tech0ne/flipper-animations-reader) - Python tool by [Tech0ne](https://github.com/Tech0ne)<br>
 &ensp;&ensp; ⮚ Read Flipper Zero animations and play them in the terminal<br>
 &ensp;&ensp; ⮚ Project : export Flipper anims to GIF<br>
 
@@ -143,7 +137,6 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - <b>FZ animations SCRIPTS  :  png files renaming + meta.txt creation</b><BR>
 🔧 [Zip2Animation](https://github.com/CharlesTheGreat77/zip2Animation) - Python tool by [DoobTheGoober](https://github.com/CharlesTheGreat77)<br>
-🔧 [Flipper Zero Frame Converter](https://github.com/culturally/flipper0-converter) - Powershell tool by [culturally](https://github.com/culturally) aka detective<br>
 🔧 [FZ_AnimNamer](https://github.com/pinwheelHerman/FZ_AnimNamer) - C tool by [pinwheelHerman](https://github.com/pinwheelHerman)<br>
 🔧 [Flipper_AnimNamer](https://github.com/TimboFimbo/Flipper_AnimNamer) - Ruby tool by [TimboFimbo](https://github.com/TimboFimbo)<br>
 &ensp;&ensp; ⮚ renames the png files in order from a folder / zip file<br>
