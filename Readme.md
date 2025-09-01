@@ -117,10 +117,16 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Resizes frames to 128x64 pixels and saves as PNG<br>
 &ensp;&ensp; ⮚ Generates meta file<br>
 
+- ⚒️ [Flipper Zero Asset Pack Maker](https://jaylikesbunda.github.io/F0-AssetPack-Maker/) - Web tool by [Jay Candel](https://github.com/jaylikesbunda) aka Deki<BR>
+&ensp;&ensp; ⮚ Make asset pack to be used with ***Momentum*** firmware by setting its name and contents<br>
+&ensp;&ensp; ⮚ Drag&Drop contents directly in the webtool<br>
+&ensp;&ensp; ⮚ Allows preview and direct animation frame editing<br>
+&ensp;&ensp; ⮚ Saves created pack as a zip file you can download<br>
+
 - <b>FZ animations SCRIPTS  :  Packers</b><BR>
 ⚒️ [Asset Packer](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/scripts/asset_packer.py) ✔️ - Python tool by [WillyJL](https://github.com/Willy-JL)<br>
 &ensp;&ensp; ⮚ Convert .png assets to .bm or .bmx ones.<br>
-&ensp;&ensp; ⮚ .bmx is the required graphic asset format to be used with ***Momentum or Xtreme*** firmwares.<br>
+&ensp;&ensp; ⮚ .bmx is the required graphic asset format to be used with ***Momentum*** firmware.<br>
 &ensp;&ensp; ⮚ Used for passport, profile and every other apps graphic assets that can be handled within an asset pack.<br>
 &ensp;&ensp; ⮚ Will convert .png animation frames to .bm ones as same as it would be done with ./fbt command<br>
 &ensp;&ensp; ⮚ Tutorial can be found [there](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/file_formats/AssetPacks.md)<br>
