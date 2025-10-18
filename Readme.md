@@ -305,6 +305,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [LWDSQRD's Flippers anims and stuff](https://github.com/lewdalewda/LWDSQRD-s-flippers-anims-and-stuff) by [lewdalewda](https://github.com/lewdalewda)
 
 - 🎨🎬 [Asset_Packs](https://github.com/abbhorent/Asset_Packs) (Junji Ito's mangas themed) by [abbhorent](https://github.com/abbhorent)
+
+- 🎨 [Re:Zero Flipper Asset Packs](https://github.com/Monstroxx/ReZero-flipper-asset-pack) (Re-Zero anime series inspired pack : anims & pfp) by [Monstroxx](https://github.com/Monstroxx)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
