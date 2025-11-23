@@ -356,6 +356,8 @@ Have fun exploring ! **O_oV**<BR><BR>
   
 &ensp;&ensp;&ensp;✔️ Unleashed [DarkFlippers] : [github](https://github.com/DarkFlippers/unleashed-firmware) | [discord](https://discord.unleashedflip.com/) | [telegram](https://t.me/unleashed_fw)
 
+&ensp;&ensp;&ensp;✔️ Xero : [github](https://github.com/noproto/xero-firmware) | [discord](https://discord.gg/qQNgCrQkkj)
+
 - ***outdated / abandoned***
 
 &ensp;&ensp;&ensp;❌ MuddleBox : [github](https://github.com/MuddledBox/flipperzero-firmware)
