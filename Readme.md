@@ -154,6 +154,11 @@ Have fun exploring ! **O_oV**<BR><BR>
 🔨 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
+- ⛏️ [iconedit](https://github.com/rdefeo/iconedit) - FAP by [rdefeo](https://github.com/rdefeo) aka rd3i<BR>
+&ensp;&ensp; ⮚ Make and edit icons directly on Flipper and save them on different formats (png, bmx, xbm)<BR>
+&ensp;&ensp; ⮚ save them on different formats (png, bmx, xbm)<BR>
+&ensp;&ensp; ⮚ Use as c source code to be implemented in app<BR>
+
 - ⛏️ [Lopaka](https://lopaka.app/) ✔️ - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
 &ensp;&ensp; ⮚ Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero<BR>
 
