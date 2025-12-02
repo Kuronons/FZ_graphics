@@ -154,7 +154,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 🔨 [Marine_Fest](https://github.com/TikvahTerminator/Marine_Fest) - Python tool by [TikvahTerminator](https://github.com/TikvahTerminator) aka Data<BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
-- ⛏️ [iconedit](https://github.com/rdefeo/iconedit) - FAP by [rdefeo](https://github.com/rdefeo) aka rd3i<BR>
+- ⛏️ [iconedit](https://github.com/rdefeo/iconedit) - FAP by [Roberto De Feo](https://github.com/rdefeo) aka rd3i<BR>
 &ensp;&ensp; ⮚ Make and edit icons directly on Flipper and save them on different formats (png, bmx, xbm)<BR>
 &ensp;&ensp; ⮚ save them on different formats (png, bmx, xbm)<BR>
 &ensp;&ensp; ⮚ Use as c source code to be implemented in app<BR>
