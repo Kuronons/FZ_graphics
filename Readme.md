@@ -155,9 +155,9 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Generates manifest.txt from subfolders containing animations<br>
 
 - ⛏️ [iconedit](https://github.com/rdefeo/iconedit) - FAP by [Roberto De Feo](https://github.com/rdefeo) aka rd3i<BR>
-&ensp;&ensp; ⮚ Make and edit icons directly on Flipper and save them on different formats (png, bmx, xbm)<BR>
-&ensp;&ensp; ⮚ save them on different formats (png, bmx, xbm)<BR>
-&ensp;&ensp; ⮚ Use as c source code to be implemented in app<BR>
+&ensp;&ensp; ⮚ Make and edit icons (static or animated) directly on Flipper<BR>
+&ensp;&ensp; ⮚ Save them on different formats (png, bmx, xbm)<BR>
+&ensp;&ensp; ⮚ Use as C source code for easy app implementation<BR>
 
 - ⛏️ [Lopaka](https://lopaka.app/) ✔️ - Webtool by [Mikhail Ilin](https://github.com/sbrin)<BR>
 &ensp;&ensp; ⮚ Graphics editor + image converter for Arduino, ESP32, AdafruitGFX, u8g2, FlipperZero<BR>
