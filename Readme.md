@@ -314,6 +314,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Re:Zero Flipper Asset Packs](https://github.com/Monstroxx/ReZero-flipper-asset-pack) (Re-Zero anime series inspired pack : anims & pfp) by [Monstroxx](https://github.com/Monstroxx)
 
 - 🎬 [Flipper Zero Animation Packs](https://github.com/AfterPacket/FlipperZeroAnimationPacks) by [AfterPacket](https://github.com/AfterPacket) aka Galorr
+
+- 🎨 [Flipper Cute Face Assets](https://github.com/Orgamorsh/Flipper-Cute-Face-Assets) by [Orgamorsh](https://github.com/Orgamorsh)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
