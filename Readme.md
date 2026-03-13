@@ -77,7 +77,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🪛 [Theme Manager](https://lab.flipper.net/apps/theme_manager) - FAP (Flipper Application Package) by Artyom Shivtsov aka [Hoasker](https://github.com/Hoasker)<br>
 &ensp;&ensp; ⮚ Manage dolphin animation themes directly on Flipper<br>
 &ensp;&ensp; ⮚ Supports 3 theme formats: Pack, Anim Pack, and Single Animation<br>
-&ensp;&ensp; ⮚ Auto-backs up & animations preview
+&ensp;&ensp; ⮚ Auto-backs up, theme info with animation preview (1st frame)
 
 - 🛠️ [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) ✔️ - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle)<br>
 &ensp;&ensp; ⮚ Preview animations on PC (from .png or .bm files)<br>
