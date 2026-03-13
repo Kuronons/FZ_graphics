@@ -69,6 +69,16 @@ Have fun exploring ! **O_oV**<BR><BR>
 > Having my own creating process, I don't use most of the following tools. I ✔️ marked the ones I tested.<BR>
 > They all are open-source. It is up to you to check their code / test their behaviour.<BR>
 
+- 🪛 [Flipper Animation Switcher](https://lab.flipper.net/apps/animation_switcher) - FAP (Flipper Application Package) by SLK aka [lsalik2](https://github.com/lsalik2)<br>
+&ensp;&ensp; ⮚ Create, manage, and switch animation playlists directly on Flipper<br>
+&ensp;&ensp; ⮚ Template manifest.txt files that control which background animations play on Flipper<br>
+&ensp;&ensp; ⮚ Supports up to 128 animations per playlist
+
+- 🪛 [Theme Manager](https://lab.flipper.net/apps/theme_manager) - FAP (Flipper Application Package) by Artyom Shivtsov aka [Hoasker](https://github.com/Hoasker)<br>
+&ensp;&ensp; ⮚ Manage dolphin animation themes directly on Flipper<br>
+&ensp;&ensp; ⮚ Supports 3 theme formats: Pack, Anim Pack, and Single Animation<br>
+&ensp;&ensp; ⮚ Auto-backs up & animations preview
+
 - 🛠️ [Flipper Zero Animation Manager](https://github.com/Ooggle/FlipperAnimationManager) ✔️ - Application (Linux, Win, Mac) by [Ooggle](https://github.com/Ooggle)<br>
 &ensp;&ensp; ⮚ Preview animations on PC (from .png or .bm files)<br>
 &ensp;&ensp; ⮚ Create manifest.txt with desired values<br>
@@ -166,7 +176,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Allows you to edit and save files directly on Flipper SD card when usb plugged via web interface<BR>
 &ensp;&ensp; ⮚ Life changer for badusb text files or manifest.txt / meta.txt editing when it comes to animation<BR>
 
-- ⛏️ [BadPS](https://github.com/InfoSecREDD/BadPS) ✔️ - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
+- 🪚 [BadPS](https://github.com/InfoSecREDD/BadPS) ✔️ - PowerShell tool : BadUSB payloads dev launcher by [InfoSecREDD](https://github.com/InfoSecREDD) aka -Ɍᴇᴆᴆ-<BR>
 &ensp;&ensp; ⮚ Launch / test BadUSB payloads directly from PC via a PowerShell dedicated menu<BR>
 &ensp;&ensp; ⮚ Lists all scripts present in tool's folder<BR>
 &ensp;&ensp; ⮚ Choice of cores for *Flipper Zero* or *DuckyScript V1*<BR>
