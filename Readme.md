@@ -95,7 +95,14 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp; ⮚ Import animations on your favorite firmware<br>
 &ensp;&ensp; ⮚ Preview animations<br>
 &ensp;&ensp; ⮚ Customize animation parameters<br>
-&ensp;&ensp; ⮚ And much more...
+&ensp;&ensp; ⮚ And much more...<br>
+
+- 🛠️ [Flipper Zero Asset Pack Generator](https://github.com/hooker01/Flipper-Zero-Asset-Pack-Generator) - Python-based GUI tool by [hooker01](https://github.com/hooker01) aka Bornaa<br>
+&ensp;&ensp; ⮚ Transform a collection of GIF-based animation frames into a Flipper Zero-compatible asset pack<br>
+&ensp;&ensp; ⮚ Includes proper formatting, frame compression, metadata & manifest generation<br>
+&ensp;&ensp; ⮚ Friendly GUI interface built with tkinter<br>
+&ensp;&ensp; ⮚ Accepts either folders or EZGIF zip exports. Automatically processes and renames frames<br>
+&ensp;&ensp; ⮚ Allows customization of : pack name / frames size, duration & rate / metadata (butthurt, level, weight, etc.)<br>
 
 - ⚒️ [img2fbm](https://github.com/atomofiron/img2fbm) - Application (Linux, Win, Mac) by [Jaroslav Nestreov](https://github.com/atomofiron) aka atomofiron<br>
 &ensp;&ensp; ⮚ Converts GIFs into 2-color frames for Flipper Zero, allowing multiple edit settings<br>
@@ -329,9 +336,11 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - 🎬 [ASSET-PACKS](https://github.com/StavyBlofeld/ASSET-PACKS) by [StavyBlofeld](https://github.com/StavyBlofeld) aka Paul_Allen99
 
-- 🎨 [WD Asset Pack (Icons)](https://github.com/colferr/wd-assetpack) (complementary icons pack for he Momentum's Watch Dog one) by [colferr](https://github.com/colferr)
+- 🎨 [WD Asset Pack](https://github.com/colferr/wd-assetpack) (complementary icons pack for he Momentum's Watch Dog one) by [colferr](https://github.com/colferr)
 
-- 🎨 [flipper-animations](https://github.com/blepdoge/flipper-animations/tree/main) (Static Assassin's Creed logos) by [blepdoge](https://github.com/blepdoge)
+- 🎨 [Flipper Animations](https://github.com/blepdoge/flipper-animations/tree/main) (Static Assassin's Creed logos) by [blepdoge](https://github.com/blepdoge)
+
+- 🎨 [Asset Packs For FlipperZero](https://github.com/hooker01/Asset-Packs-For-FlipperZero) by [hooker01](https://github.com/hooker01) aka Bornaa
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
