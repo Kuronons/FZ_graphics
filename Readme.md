@@ -328,6 +328,10 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Flipper Cute Face Assets](https://github.com/Orgamorsh/Flipper-Cute-Face-Assets) by [Orgamorsh](https://github.com/Orgamorsh)
 
 - 🎬 [ASSET-PACKS](https://github.com/StavyBlofeld/ASSET-PACKS) by [StavyBlofeld](https://github.com/StavyBlofeld) aka Paul_Allen99
+
+- 🎨 [WD Asset Pack (Icons)](https://github.com/colferr/wd-assetpack) (complementary icons pack for he Momentum's Watch Dog one) by [colferr](https://github.com/colferr)
+
+- 🎨 [flipper-animations](https://github.com/blepdoge/flipper-animations/tree/main) (Static Assassin's Creed logos) by [blepdoge](https://github.com/blepdoge)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
