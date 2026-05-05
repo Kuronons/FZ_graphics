@@ -326,6 +326,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎬 [Flipper Zero Animation Packs](https://github.com/AfterPacket/FlipperZeroAnimationPacks) by [AfterPacket](https://github.com/AfterPacket) aka Galorr
 
 - 🎨 [Flipper Cute Face Assets](https://github.com/Orgamorsh/Flipper-Cute-Face-Assets) by [Orgamorsh](https://github.com/Orgamorsh)
+
+- 🎬 [ASSET-PACKS](https://github.com/StavyBlofeld/ASSET-PACKS) by [StavyBlofeld](https://github.com/StavyBlofeld) aka Paul_Allen99
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
