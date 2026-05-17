@@ -341,6 +341,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Flipper Animations](https://github.com/blepdoge/flipper-animations/tree/main) (Static Assassin's Creed logos) by [blepdoge](https://github.com/blepdoge)
 
 - 🎨 [Asset Packs For FlipperZero](https://github.com/hooker01/Asset-Packs-For-FlipperZero) by [hooker01](https://github.com/hooker01) aka Bornaa
+
+- 🎬 [Back to the Flipper - Flipper Zero Asset Pack](https://github.com/pho5nix/BackToTheFlipper-Asset-Pack) (Back to the Future themed) by [George Makris](https://github.com/pho5nix) aka pho5nix
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
