@@ -300,7 +300,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - 🎬 [Random Flipper Animations](https://github.com/Flippits/flipper_zero_animations) by [Flippits](https://github.com/Flippits)
 
-- 🎬 [Flipper Animations](https://github.com/Pasinduoi/FlipperAnimations) (Junjilto & Mr Robot themed) by [Pasinduoi](https://github.com/Pasinduoi)
+- 🎬 [Flipper Animations](https://github.com/Pasinduoi/FlipperAnimations) (Junji lto & Mr Robot themed) by [Pasinduoi](https://github.com/Pasinduoi)
 
 - 🎬 [H2HC](https://github.com/fernandofei/H2HC_flipper_animation) conference & [Area31](https://github.com/fernandofei/Area31_flipper_animation) assiociation logos animations by [Fernandofei](https://github.com/fernandofei)
 
@@ -343,6 +343,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 - 🎨 [Asset Packs For FlipperZero](https://github.com/hooker01/Asset-Packs-For-FlipperZero) by [hooker01](https://github.com/hooker01) aka Bornaa
 
 - 🎬 [Back to the Flipper - Flipper Zero Asset Pack](https://github.com/pho5nix/BackToTheFlipper-Asset-Pack) (Back to the Future themed) by [George Makris](https://github.com/pho5nix) aka pho5nix
+
+- 🎬 [Macabre Asset Pack](https://github.com/Khipher/Macabre-Asset-Pack) (Junji Ito themed) by [Khipher](https://github.com/Khipher)
 <BR>
 
 🔖 **FIRMWARES ANIMATIONS :** <BR>
