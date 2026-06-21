@@ -211,7 +211,7 @@ GhostESP Revival fw mascot
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Ghosty.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Ghosty.bmx)**<BR><BR>
 
 ### ORCA
-Encore fw mascot
+Encore fw mascot applicant
 
 ![Orca](https://github.com/user-attachments/assets/ac1044d9-39f0-483d-9543-a8f2aafeabf5)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Orca.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Orca.bmx)**<BR><BR>
