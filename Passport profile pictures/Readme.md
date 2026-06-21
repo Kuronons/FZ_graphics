@@ -185,27 +185,33 @@ Just a skull...
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Skull.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Skull.bmx)**<BR><BR>
 
 ### FLIPPER HUB
-Flipper Hub mascott - Moods variants
+Flipper Hub mascot - Moods variants
 
 ![Flipper-Hub-Set-Preview](https://github.com/user-attachments/assets/ed593cff-6a1c-418f-b180-07875094efa9)<BR>
 **D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Flipper%20Hub%20-%20Profile%20picts%20set%20(x3%20png).zip) - Asset pack [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Flipper%20Hub%20-%20Asset%20pack%20(3x%20bmx%20PFP).zip)<BR>
 D/L single : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/FlipperHub_happy.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/FlipperHub_happy.bmx) (*happy*) / [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/FlipperHub_okay.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/FlipperHub_okay.bmx) (*okay*) / [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/FlipperHub_bad.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/FlipperHub_bad.bmx) (*bad*)**<BR><BR>
 
 ### YAPPY
-Momentum fw mascott (capybara) - Moods variants
+Momentum fw mascot (capybara) - Moods variants
 
 ![Yappy_set](https://github.com/Kuronons/FZ_graphics/assets/110337784/feeb0ce8-45f0-4177-bd19-0658201ce7c2)<BR>
 **D/L : full set [png (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy%20-%20Profile%20picts%20set%20(3x%20png).zip) - Asset pack [bmx (zip)](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy%20-%20Profile%20picts%20set%20(bmx).zip)<BR>
 D/L single : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_happy_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy_happy_46x49.bmx) (*happy*) / [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_okay_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy_okay_46x49.bmx) (*okay*) / [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yappy_bad_46x49.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yappy_bad_46x49.bmx) (*bad*)**<BR><BR>
 
 ### YAPOOKY
-Ghost Yapper (Momentum mascott) - Halloween 2024 bonus pfp
+Ghost Yapper (Momentum mascot) - Halloween 2024 bonus pfp
 
 ![Yapooky](https://github.com/user-attachments/assets/fe82808f-23b7-4dfb-a764-3963175a02c9)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Yapooky.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Yapooky.bmx)**<BR><BR>
 
 ### GHOSTY
-GhostESP Revival fw mascott
+GhostESP Revival fw mascot
 
 ![Ghosty](https://github.com/user-attachments/assets/b4253efb-f723-48b5-b3c6-652073615475)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Ghosty.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Ghosty.bmx)**<BR><BR>
+
+### ORCA
+Encore fw mascot
+
+![Orca](https://github.com/user-attachments/assets/ac1044d9-39f0-483d-9543-a8f2aafeabf5)<BR>
+**D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Orca.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Orca.bmx)**<BR><BR>
