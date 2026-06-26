@@ -114,4 +114,4 @@ https://github.com/user-attachments/assets/d691f6a2-288e-48e6-a50c-e46d7bad4842
 <BR>
 
 
-Use the [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/manifest.txt) file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
+Use the [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/manifest.txt) file for quick copy&paste. (butthurt & level set for Momentum/RogueMaster FWs, edit these if under another firmware)
