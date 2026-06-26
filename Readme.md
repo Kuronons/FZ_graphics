@@ -222,7 +222,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - 🎨🎬 [flipper-zero-animations](https://github.com/mnenkov/flipper-zero-animations) (~200 anims, various themes) by [mnenkov](https://github.com/mnenkov) aka DAIM_SANN
 
-- 🎨🎬 [flipper-sl-animations](https://github.com/SkyLoungeZero/flipper-sl-animations/tree/main/WIP) by [SkyLoungeZero](https://github.com/SkyLoungeZero) aka platz
+- 4️⃣0️⃣4️⃣ ~~[flipper-sl-animations](https://github.com/SkyLoungeZero/flipper-sl-animations/tree/main/WIP) by [SkyLoungeZero](https://github.com/SkyLoungeZero) aka platz~~
 
 - 🎬 [animations-haha](https://github.com/LoopyTheSlayerFanGirl/animations-haha) (kissing-girls themed) by [LoopyTheSlayerFanGirl](https://github.com/LoopyTheSlayerFanGirl)
 
