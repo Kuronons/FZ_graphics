@@ -215,3 +215,9 @@ Encore fw mascot applicant
 
 ![Orca](https://github.com/user-attachments/assets/ac1044d9-39f0-483d-9543-a8f2aafeabf5)<BR>
 **D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/Orca.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/Orca.bmx)**<BR><BR>
+
+### NERV
+NERV logo from Neon Genesis Evangelion anime
+
+![NERV](https://github.com/user-attachments/assets/93e8ebfd-9878-4ce0-9a2c-b9579e8c7c33)<BR>
+**D/L : [png](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.png%20files%20-%2046x49px)/NERV.png) - [bmx](https://github.com/Kuronons/FZ_graphics/blob/main/Passport%20profile%20pictures/Profile%20pictures%20(.bmx%20files%20-%2046x49px)/NERV.bmx)**<BR><BR>
