@@ -103,4 +103,15 @@ https://github.com/user-attachments/assets/fb2a527b-9b6b-4650-b106-717d732213e5
 
 <BR>
 
+### NGE - EMERGENCY
+Inspired by ***Neon Genesis Evangelion*** anime series by Hideaki Anno.
+
+Note : Simple all-passive seamless looped anim. Design inspired by an emergency screen from OAV.<BR>
+ZIP file downloadable [there](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/Animation_ZIP_files_%5BMiscellaneous%5D/Kuronons_Misc_NGE_Emergency_128x64.zip)
+
+https://github.com/user-attachments/assets/d691f6a2-288e-48e6-a50c-e46d7bad4842
+
+<BR>
+
+
 Use the [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/manifest.txt) file for quick copy&paste. (butthurt & level set for RogueMaster FW, edit these if under another firmware)
