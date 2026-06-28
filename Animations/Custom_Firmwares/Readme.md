@@ -5,7 +5,7 @@ In here you can find animations I made inspired by Flipper Zero community custom
       - [**Momentum**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#momentum)
    - **Custom Addons Shops**
       - [**Marauder**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#marauder)
-      - [**Flipper Hub**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#flipper-hub)   
+      - [**Flipper Hub / The Wired Hatters**](https://github.com/Kuronons/FZ_graphics/tree/main/Animations/Custom_Firmwares#flipper-hub--the-wired-hatters)   
 <BR>
    
 ### RMCFW
@@ -105,7 +105,7 @@ https://github.com/Kuronons/FZ_graphics/assets/110337784/6b2c7a18-2e06-4bc0-93f4
 
 <BR>
    
-### FLIPPER HUB
+### FLIPPER HUB / THE WIRED HATTERS
 
 ___FLIPPER HUB___   
 
@@ -128,5 +128,17 @@ ___FH ROCKET___
    Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_FH_Rocket_128x64.zip)   
 
 https://github.com/user-attachments/assets/e24d3e10-c7a0-4013-8666-4c830e599634
+
+<BR>
+
+___TWH___
+
+   [<b>The Wired Hatters</b>](https://www.wiredhatters.com/) Animation - Inspired by Billi Green's rebranded shop logo design.<BR>
+   (Rebranded occured in mid 2025, *Flipper Devices* having "asked" him to not use any "Flipper" related wording or graphical asset for his online shop...)<BR>
+   Pushing back will make an USB (?) cable draw "WIRED HATTERS".
+
+   Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_TWH_128x64.zip)   
+
+https://github.com/user-attachments/assets/bb0cf1cd-345a-4629-aa72-47efcedd9fe8
 
 <BR>
