@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/e24d3e10-c7a0-4013-8666-4c830e599634
 ___TWH___
 
    [<b>The Wired Hatters</b>](https://www.wiredhatters.com/) Animation - Inspired by Billi Green's rebranded shop logo design.<BR>
-   (Rebranded occured in mid 2025, *Flipper Devices* having "asked" him to not use any "Flipper" related wording or graphical asset for his online shop...)<BR>
+   (Rebranding occured in mid 2025, *Flipper Devices* having "asked" him to not use any "Flipper" related wording or graphical asset for his online shop...)<BR>
    Pushing back will make an USB (?) cable draw "WIRED HATTERS".
 
    Download [zip file](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Custom_Firmwares/Animation_ZIP_files_%5BCustom_Firmwares%5D/Kuronons_CFW_TWH_128x64.zip)   
