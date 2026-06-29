@@ -113,5 +113,18 @@ https://github.com/user-attachments/assets/d691f6a2-288e-48e6-a50c-e46d7bad4842
 
 <BR>
 
+### ORCAT
+An orca and a cat... (inspired by a japanese gif showing a whale and a cat drawn by うさぎメン)
+
+Note : Simple all-passive seamless looped anim.<BR>
+Video is recorded as 16 FPF for an insight but released anim is set on 12 FPS as Flipper screen can barely render more than that...<BR>
+(And even on 12 FPS, Flip has hard time rendering every frame... XD)<BR>
+ZIP file downloadable [there](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/Animation_ZIP_files_%5BMiscellaneous%5D/Kuronons_Misc_Orcat_128x64.zip)
+
+https://github.com/user-attachments/assets/ad7363ce-506a-4932-8bd4-a8743aacd912
+
+<BR>
+
+
 
 Use the [manifest.txt](https://github.com/Kuronons/FZ_graphics/blob/main/Animations/Miscellaneous/manifest.txt) file for quick copy&paste. (butthurt & level set for Momentum/RogueMaster FWs, edit these if under another firmware)
