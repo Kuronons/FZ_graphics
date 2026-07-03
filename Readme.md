@@ -384,9 +384,9 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - ***updated / active***
 
-&ensp;&ensp;&ensp;✔️ encore : [github](https://github.com/flipperencore/flipperzero-encore) | [discord](https://discord.com/invite/97vH4hFZY6)
+&ensp;&ensp;&ensp;✔️ Encore : [github](https://github.com/flipperencore/flipperzero-encore) | [discord](https://discord.com/invite/97vH4hFZY6)
 
-&ensp;&ensp;&ensp;✔️ fantasi : github (soon) | [discord](https://discord.gg/qQNgCrQkkj)
+&ensp;&ensp;&ensp;✔️ Fantasi : github (soon) | [discord](https://discord.gg/qQNgCrQkkj)
 
 &ensp;&ensp;&ensp;✔️ Flipper Device [official]  : [github](https://github.com/flipperdevices/flipperzero-firmware) | [discord](https://discord.gg/flipper) | [website](https://flipperzero.one/)
 
