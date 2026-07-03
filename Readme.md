@@ -384,6 +384,10 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 - ***updated / active***
 
+&ensp;&ensp;&ensp;✔️ encore : [github](https://github.com/flipperencore/flipperzero-encore) | [discord](https://discord.com/invite/97vH4hFZY6)
+
+&ensp;&ensp;&ensp;✔️ fantasi : [github]() | [discord](https://discord.gg/qQNgCrQkkj)
+
 &ensp;&ensp;&ensp;✔️ Flipper Device [official]  : [github](https://github.com/flipperdevices/flipperzero-firmware) | [discord](https://discord.gg/flipper) | [website](https://flipperzero.one/)
 
 &ensp;&ensp;&ensp;✔️ Momentum : [github](https://github.com/Next-Flip/Momentum-Firmware) | [discord](https://discord.gg/momentum) | [website](https://momentum-fw.dev/)
@@ -391,8 +395,6 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp;&ensp;✔️ RogueMaster : [github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) | [discord](https://discord.gg/A5Szct5TAu) | [website](https://rogue-master.net/)
   
 &ensp;&ensp;&ensp;✔️ Unleashed [DarkFlippers] : [github](https://github.com/DarkFlippers/unleashed-firmware) | [discord](https://discord.unleashedflip.com/) | [telegram](https://t.me/unleashed_fw)
-
-&ensp;&ensp;&ensp;✔️ Xero : [github](https://github.com/noproto/xero-firmware) | [discord](https://discord.gg/qQNgCrQkkj)
 
 - ***outdated / abandoned***
 
@@ -403,6 +405,8 @@ Have fun exploring ! **O_oV**<BR><BR>
 &ensp;&ensp;&ensp;❌ v1nc : [github](https://github.com/v1nc/flipperzero-firmware)
   
 &ensp;&ensp;&ensp;❌ Wetox : [github](https://github.com/wetox-team/flipperzero-firmware)
+
+&ensp;&ensp;&ensp;❌ Xero : [github](https://github.com/noproto/xero-firmware)
   
 &ensp;&ensp;&ensp;❌ Xtreme : [github](https://github.com/ClaraCrazy/Flipper-Xtreme) | [website](https://flipper-xtre.me/) | discord closed in summer 2024
   
