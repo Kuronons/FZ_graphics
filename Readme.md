@@ -386,7 +386,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 &ensp;&ensp;&ensp;✔️ Encore : [github](https://github.com/flipperencore/flipperzero-encore) | [discord](https://discord.com/invite/97vH4hFZY6)
 
-&ensp;&ensp;&ensp;✔️ Fantasi : github (soon) | [discord](https://discord.gg/qQNgCrQkkj)
+&ensp;&ensp;&ensp;✔️ Fantasi : [github](https://github.com/soeinova/Fantasi) | [discord](https://discord.gg/qQNgCrQkkj) | [website](https://fantasi.cloud/)
 
 &ensp;&ensp;&ensp;✔️ Flipper Device [official]  : [github](https://github.com/flipperdevices/flipperzero-firmware) | [discord](https://discord.gg/flipper) | [website](https://flipperzero.one/)
 
@@ -406,7 +406,7 @@ Have fun exploring ! **O_oV**<BR><BR>
   
 &ensp;&ensp;&ensp;❌ Wetox : [github](https://github.com/wetox-team/flipperzero-firmware)
 
-&ensp;&ensp;&ensp;❌ Xero : [github](https://github.com/noproto/xero-firmware)
+&ensp;&ensp;&ensp;❌ Xero : [github](https://github.com/noproto/xero-firmware) | discord re-used/rebranded for Fantasi fw in spring 2026
   
 &ensp;&ensp;&ensp;❌ Xtreme : [github](https://github.com/ClaraCrazy/Flipper-Xtreme) | [website](https://flipper-xtre.me/) | discord closed in summer 2024
   
