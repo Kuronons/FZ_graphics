@@ -388,7 +388,7 @@ Have fun exploring ! **O_oV**<BR><BR>
 
 &ensp;&ensp;&ensp;✔️ Fantasi : [github](https://github.com/soeinova/Fantasi) | [discord](https://discord.gg/qQNgCrQkkj) | [website](https://fantasi.cloud/)
 
-&ensp;&ensp;&ensp;✔️ Flipper Device [official]  : [github](https://github.com/flipperdevices/flipperzero-firmware) | [discord](https://discord.gg/flipper) | [website](https://flipperzero.one/)
+&ensp;&ensp;&ensp;✔️ Flipper Devices [official]  : [github](https://github.com/flipperdevices/flipperzero-firmware) | [discord](https://discord.gg/flipper) | [website](https://flipperzero.one/)
 
 &ensp;&ensp;&ensp;✔️ Momentum : [github](https://github.com/Next-Flip/Momentum-Firmware) | [discord](https://discord.gg/momentum) | [website](https://momentum-fw.dev/)
   
