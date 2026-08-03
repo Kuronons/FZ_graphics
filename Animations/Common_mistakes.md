@@ -20,12 +20,17 @@
 - Bad counting of bubble slots :<BR>
   » Random bubbles set on same bubble slot count for 1 in Bubble slots<BR>
   » Having 2 bubbles on slot 0 and 3 on slot 1 would only count for 2 in "bubble slots"
+- Saving txt file under UTF-16 : it will add unwanted 00 hexa byte to each character and will make file to not workw with Flipper<BR>
+  » Be sure to save as UTF-8
 
 ### MANIFEST.TXT :
 - forgetting to add an entry for your animation...
 - typo in your animation name
 - setting out-of-range levels or butthurt
 - setting weight = 0
+- Saving txt file under UTF-16 : it will add unwanted 00 hexa byte to each character and will make file to not workw with Flipper<BR>
+  » Be sure to save as UTF-8
+
 
 ### COMPILING ANIMATIONS (Make the .png files become .bm ones)
 - On **UNIX**, all the files, frame_x.png, meta.tx and manifest.txt **MUST BE LOWERCASE**. Compiling will fail otherwise.<BR>
